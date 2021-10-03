@@ -1,0 +1,57 @@
+
+  ___  ____  ____  ____  ____ ©
+ /__    /   ____/   /   ____/      17.0
+___/   /   /___/   /   /___/       SE—Standard Edition
+
+ Statistics and Data Science       Copyright 1985-2021 StataCorp LLC
+                                   StataCorp
+                                   4905 Lakeway Drive
+                                   College Station, Texas 77845 USA
+                                   800-STATA-PC        https://www.stata.com
+                                   979-696-4600        stata@stata.com
+
+Stata license: Single-user , expiring 16 May 2022
+Serial number: 401709201735
+  Licensed to: Co-Pierre Georg
+               University of Cape Town
+
+Notes:
+      1. Stata is running in batch mode.
+      2. Unicode is supported; see help unicode_advice.
+      3. Maximum number of variables is set to 5,000; see help set_maxvar.
+
+. do 13_standardize_master.do 
+
+. cd /home/co/git/RegulatoryComplexity_Public/200_analysis
+/home/co/git/RegulatoryComplexity_Public/200_analysis
+
+. 
+. insheet using ./results/Master_standardized.csv, delimiter(";") clear
+(3 vars, 18,100 obs)
+
+.         rename v1 key
+
+.         rename v2 key_cons
+
+.         rename v3 category
+
+.         
+.         drop key
+
+.         duplicates drop key_cons, force
+
+Duplicates in terms of key_cons
+
+(2,421 observations deleted)
+
+.         
+.         sort key_cons
+
+.         
+.         drop if key_cons == ""
+(1 observation deleted)
+
+. outsheet using ./results/Master_consolidated.csv, delimiter(";") replace
+
+. 
+end of do-file

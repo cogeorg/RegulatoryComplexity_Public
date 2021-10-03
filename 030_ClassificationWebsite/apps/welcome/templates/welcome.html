@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+    <title>Regulatory Complexity</title>
+
+    <!-- Bootstrap -->
+    <link href="static/css/bootstrap.min.css" rel="stylesheet">
+    <!-- additional css -->
+    <link href="static/css/blog.css" rel="stylesheet">
+
+    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
+      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+  </head>
+  <body>
+    <!-- Navigation
+    <div class="blog-masthead">
+        <div class="container">
+            <nav class="blog-nav">
+                <a>
+            </nav>
+        </div>
+    </div>
+    -->
+
+    <div class = "container">
+
+        <div class="row" id="logo">
+            <img alt="logo" height="200px" src="/static/images/logo.png">
+        </div>
+
+        <div class="row" id = "intro">
+            <p>
+                In 2012, Andrew Haldane declared during his <a href = "http://www.bis.org/review/r120905a.pdf">The Dog and the Frisbee</a> speach at the Economic Policy Symposion - Jackson Hole that the type of complex regulation introduced over recent decades may not only be costly and cumbersome but also sub-optimal for crisis control. <!--The cost aspect was emphasized by the study <a href = "http://www.fedfin.com/images/stories/client_reports/Cost%20Implications%20of%20Post-Crisis%20Regulatory%20Reform.pdf">The Regulatory Price Tag: Cost Implications of Post-Crisis Regular Reform</a> conducted by Federal Financial Analytics, Inc., who measured an increase of over 100% in current costs of the regulatory framework over the years 2007 until 2013. Other drawbacks are the loss of the bigger picture, and fragile predictions due to overfitting.
+            </p>
+
+            <p>-->
+                So far, there has been one attempt to measure this complexity in legal texts. In their paper <a href = "http://digitalcommons.law.umaryland.edu/cgi/viewcontent.cgi?article=1246&context=jbtl">Law is Code: A Software Engineering Approach to Analyzing the United States Code</a>, Li et al. measured complexity by the number of words and word changes, the number of cross-references, and the number of conditional statements and found an enormous increase in complexity over the last century.
+            </p>
+
+            <p>
+                This project aims to measure the regulatory complexity of the Dodd–Frank Wall Street Reform and Consumer Protection Act (short Dodd–Frank Act). Therefore, we follow two approaches:
+            </p>
+
+        </div>
+        <div class="row" id="approaches">
+            <div class="col-xs-6">
+                <h2>The Halstead Approach</h2>
+                <p>This approach consideres text as being an algorithm containing operators and operands on the basis of which one can compute complexity measures like Volume, Difficulty and Effort. In order to do so, individual words or terms of the Dodd-Frank Act need to be classified according to their grammatical and regulatory purpose.
+                </p>
+            </div>
+            <!-- <div class="col-xs-6">
+                <h2>The Graph Approach</h2>
+                <p>This approach considers sentence parts as being the nodes of a graph and thus, graph complexity measures can be employed to measure the law's complexity. The basis for this exercise are paragraphs of the Dodd-Frank Act, whose sentence parts have been classified according to their logical structure.</p>
+                <a href="/sentenceparts/" class="btn btn-success"> Classify Sentence Parts </a>
+            </div -->
+
+            <div class="col-xs-6">
+                <h2>Regulatory Coherence</h2>
+                <p> This approach aims at measurung the coherence of the Dodd-Frank Act. Based on dependency parses and / or word vectors, we will create a network of the sentences of the Dodd-Frank Act. Therefore, we have to distinguish between regulating entities, regulated entities, definitions and references.
+                </p>
+            </div>
+        </div>
+        <div class="row" id="buttons">
+            <div class="col-xs-6">
+                <a href="/words/" class="btn btn-success"> Classify Words </a>
+            </div>
+            <div class="col-xs-6">
+                <a href="/coherence/" class="btn btn-success"> Classify Terms </a>
+            </div>
+        </div>
+
+        <div class="row" id="about">
+            <h2><span class="glyphicon glyphicon-user"></span> About us</h2>
+            <p>Find out who we are and contact us.</p>
+            <p><a href="/about" class="btn btn-success">About us</a></p>
+        </div>
+
+        <div class="footer">
+            <div class="container">
+                <div class="row">
+                    <div class="col-xs-4">
+                        <ul>
+                            <li><a href="/">Home</a></li>
+                            <li><a href="/words/">Classify Words</a></li>
+                            <li><a href="/coherence/">Classify Terms</a></li>
+                            <li><a href="/about">About</a></li>
+                        </ul>
+                    </div>
+                <div class="col-xs-4">
+    <!--
+                  <ul>
+                    <address class="vcard">
+                      <div class="adr">
+                        <div class="org">University of Cape Town</div>
+                        <div class="street-address">Private Bag X1</div>
+                        <div class="locality">Rondebosch 7701</div>
+                        <div class="country-name">South Africa</div>
+                      </div>
+                    </address>
+                    <li>
+                      <a href="mailto:contact@central-places.net"><span class="glyphicon glyphicon-envelope"></span> contact@central-places.net</a>
+                    </li>
+                  </ul>
+    -->
+                </div>
+                <div class="col-xs-4">
+                  <p>Last update: 2017-01-09</p>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+
+
+
+    <!-- BOOTSTRAP JAVASCRIPT FILES -->
+    <!-- =========================================================================================== -->
+    <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+    <!-- Include all compiled plugins (below), or include individual files as needed -->
+    <script src="static/js/bootstrap.min.js"></script>
+  </body>
+</html>

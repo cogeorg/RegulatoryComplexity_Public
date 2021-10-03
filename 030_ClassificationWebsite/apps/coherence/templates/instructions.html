@@ -1,0 +1,98 @@
+<html>
+
+
+<head>
+    <meta charset="UTF-8">
+    <title>Instructions</title>
+    <script type="text/javascript" src="{{ url_for('static', filename='js/jquery.min.js')}}"></script>
+    <script type="text/javascript" src="{{ url_for('static', filename='js/jquery.js')}}"></script>
+
+    <!-- Bootstrap -->
+    <link href="static/css/bootstrap.min.css" rel="stylesheet">
+    <!--Color coding-->
+    <link rel=stylesheet type=text/css href="{{ url_for('static', filename='styles/stylesheet.css')}}" />
+    <!--Aside Stylesheet-->
+    <link rel=stylesheet type=text/css href="{{ url_for('static', filename='styles/aside.css')}}" />
+    <!--Wrapper -->
+    <link rel=stylesheet type=text/css href="{{ url_for('static', filename='styles/wrapper.css')}}" />
+
+
+</head>
+
+<body>
+
+    <div class = "container">
+        <div class = "row">
+            <div class = "col-md-1 col-xs-2">
+
+                <!-- On/Off div -->
+                <!-- Show the div depending on the form class button -->
+                <div id="mySidenav" class="sidenav sidenavl" style="cursor:pointer">
+                    <!-- curly braces with username is to get Flask variables -->
+
+                    <ul class="nav-tabs">
+                        <form  action="index">
+                            <input type=text  style="display: none;">
+                            <button>Back</button>
+                        </form>
+
+                        <form  action="logout" >
+                            <input type=text style="display: none;">
+                            <button>Log out</button>
+                        </form>
+                    </ul>
+                </div>
+            </div>
+
+            <div class = "col-md-10 col-xs-9">
+
+                <div class="wrapper">
+                    <div class="content-wrapper">
+
+                        <h1>Purpose</h1>
+                        <p> Classify entities and definitions. </p>
+                        <ul>
+                            <li> <span class=R> Regulator:</span> Terms of class Regulator are regulating entities. </li>
+                            <li> <span class=B> Regulated:</span> Terms of class Regulated are regulated entities. </li>
+                            <li> <span class=D> Definition:</span> Terms of class Definition are terms that are defined in the act. This may not only be explicit definitions (The term "Council" means [...]) but also implicit definitions (The voting members, [...] shall be [...]). </li>
+                            <li> <span class=L> Legal Reference:</span> Terms of class Legal Reference are references to other legal texts.</li>
+                        </ul>
+
+
+
+                        <h1>How it works</h1>
+                        <h3> Classification:</h3>
+                        <ul>
+                            <li>Select a term.</li>
+                            <li>Click on the appropriate classification on the right-hand side.</li>
+                            <li>The part is colored accordingly.</li>
+                            <li><strong>Do not hesitate to override an already existing classification!</strong> Some definitions are pre-classified based on heurstics. Please override them it is also a regulating or regulated entity or if parts are missing.</li>
+                        </ul>
+                        <h3> Updating:</h3>
+                        <ul>
+                            <li>If you want to have all instances of a classified term colored, click on the Button "Update".</li>
+                            <li>All instances are colored and the classification is saved.</li>
+                        </ul>
+                        <h3> Corrections:</h3>
+                        <ul>
+                            <li>There are two possible ways:</li>
+                            <ol>
+                                <li>Select the term and click on "Remove" on the bottom-right. </li>
+                                <li>Right click on any instance of the term.</li>
+                            </ol>
+                            <li>All instances are deleted if you click "Update" afterwards.</li>
+                            <li>Now, you may classify it again.</li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+<!-- BOOTSTRAP JAVASCRIPT FILES -->
+<!-- =========================================================================================== -->
+<!-- Include all compiled plugins (below), or include individual files as needed -->
+<script src="static/js/bootstrap.min.js"></script>
+
+</body>
+</html>

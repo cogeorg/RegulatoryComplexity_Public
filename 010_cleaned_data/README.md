@@ -1,0 +1,2 @@
+2021-10-02:
+This folder contains the cleaned raw data for the Dodd-Frank Act as well as a html version of the Basel I regulation. In ./DoddFrank/Sections/ we have broken down the Dodd-Frank Act not into titles, but into sections. This makes it easier for the manual classification website (https://regulatorycomplexity.pythonanywhere.com/) to visualize the Dodd-Frank Act in case many words have already been classified manually.
