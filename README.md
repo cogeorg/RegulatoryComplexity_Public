@@ -56,12 +56,12 @@ Next, analyze the raw text and unclassified html files using either of the two d
 
 ./12_count_txt.py ./txt/ ./results/all_words_dictionary_clean.csv
 ./results/txt/
-# OR
+OR:
 ./12_count_txt.py ./txt/ ./results/Master_clean.csv
 ./results/txt/
 
 
-# OPTIONAL (not included, just added here for completeness)
+OPTIONAL (not included, just added here for completeness):
 ./12_count_html_noclass.py ./html_noclass/
 ./results/all_words_dictionary_clean.csv
 ./results/html_noclass/
