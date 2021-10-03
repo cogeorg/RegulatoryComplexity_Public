@@ -37,6 +37,9 @@ forval i=2/16 {
 	append using results/html_noclass/category_cons_count_title_`i'.dta
 }
 outsheet using results/html_noclass/category_cons_count_all_titles.csv, replace
+
+
+
 	bysort category: egen tot_cat_count = total(category_count)
 	bysort category: egen tot_cat_unique_count = total(category_unique_count)
 keep category tot_*
@@ -68,3 +71,23 @@ append using ./results/html_noclass/cons-count_title_`i'.dta
 duplicates drop
 	gsort + category - total_count
 outsheet using ./results/html_noclass/category_cons_all_titles_most_frequent_keys.csv, replace
+
+	gen one = 1
+	bysort category: egen unique_count = total(one)
+
+	keep category unique_count 
+	duplicates drop
+	
+outsheet using ./results/html_noclass/category_unique_count.csv, replace
+
+insheet using ./results/Master_consolidated+cleaned.csv, clear
+	rename v1 key
+	rename v2 category
+	drop if category == ""
+	gen one = 1
+	bysort category: egen unique_count = total(one)
+
+	keep category unique_count 
+	duplicates drop
+	
+outsheet using ./results/html_noclass/Master_consolidated+cleaned_category_unique_count.csv, replace
