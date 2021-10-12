@@ -52,9 +52,20 @@
 # ./13_standardize_master.py ./results/Master_extended.csv ./results/Master_standardized.csv
 # /usr/local/stata17/stata-se -b do 13_standardize_master.do
 
+
 #
 # STEP 4
 #
 
 # ./14_count_html_noclass.py ./html_noclass/ ./results/Master_consolidated.csv ./results/html_noclass/
-/usr/local/stata17/stata-se -b do 14_count_html_noclass.do
+# /usr/local/stata17/stata-se -b do 14_count_html_noclass.do
+
+
+#
+# STEP 5
+#
+for i in {0..16} ; do ./15_ex-ante_dictionary_quality.py \
+  ./results/html_noclass/category_cons_all_titles_most_frequent_keys.csv \
+  ./results/html_noclass/cons-count_title_$i.csv \
+  ./results/html_noclass/ex-ante_dictionary_$i.csv ; \
+done
