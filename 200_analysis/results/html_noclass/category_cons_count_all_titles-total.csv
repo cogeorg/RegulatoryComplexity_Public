@@ -1,8 +1,9 @@
 category	tot_cat_count	tot_cat_unique_count
-"Attributes"	9056	1230
-"EconomicOperands"	107299	16836
-"FunctionWords"	111403	1761
-"LegalReferences"	20701	4316
-"LogicalConnectors"	32040	1115
-"Other"	7891	695
-"RegulatoryOperators"	9439	772
+"Attributes"	8760	1186
+"EconomicOperands"	104800	16628
+"FunctionWords"	103692	1559
+"LegalReferences"	20650	4308
+"LogicalConnectors"	39744	1292
+"MathematicalOperators"	1048	163
+"Other"	7555	672
+"RegulatoryOperators"	9962	853

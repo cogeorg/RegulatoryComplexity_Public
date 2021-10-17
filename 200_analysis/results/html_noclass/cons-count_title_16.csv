@@ -14,65 +14,64 @@ INTEREST RATE;EconomicOperands;1
 LAST SENTENCE;EconomicOperands;1
 REDESIGNATING;Other;1
 SUBPARAGRAPHS;Other;1
-REDESIGNATED;Other;1
-RESPECTIVELY;LogicalConnectors;1
 THIS SECTION;LegalReferences;1
+RESPECTIVELY;LogicalConnectors;1
+REDESIGNATED;Other;1
 ACCORDINGLY;LogicalConnectors;1
-AMENDMENTS;Other;1
 BASIS SWAP;EconomicOperands;1
-EXCEPTIONS;LogicalConnectors;1
-IN GENERAL;FunctionWords;2
 SECURITIES;EconomicOperands;2
+IN GENERAL;FunctionWords;2
+EXCEPTIONS;LogicalConnectors;1
+AMENDMENTS;Other;1
 AGREEMENT;EconomicOperands;1
-ENACTMENT;Other;1
 FOLLOWING;FunctionWords;2
-INDENTING;Other;1
-INSERTING;Other;2
 PARAGRAPH;LegalReferences;1
 TITLE XVI;LegalReferences;1
+ENACTMENT;Other;1
+INDENTING;Other;1
+INSERTING;Other;2
 CONTRACT;EconomicOperands;4
 PURPOSES;EconomicOperands;2
-STRIKING;Other;2
 THIS ACT;LegalReferences;1
-AMENDED;RegulatoryOperators;1
-CERTAIN;FunctionWords;1
+STRIKING;Other;2
 FUTURES;EconomicOperands;2
 INCLUDE;EconomicOperands;1
-SIMILAR;LogicalConnectors;1
 TREATED;EconomicOperands;1
+CERTAIN;FunctionWords;1
+SIMILAR;LogicalConnectors;1
+AMENDED;RegulatoryOperators;1
 DEALER;EconomicOperands;1
 EQUITY;EconomicOperands;1
 OPTION;EconomicOperands;2
 UNLESS;LogicalConnectors;1
+SWAPS;EconomicOperands;1
 AFTER;LogicalConnectors;1
 APPLY;Other;1
 SHALL;RegulatoryOperators;2
-SWAPS;EconomicOperands;1
 DATE;EconomicOperands;1
+SWAP;EconomicOperands;2
 MADE;FunctionWords;1
 SUCH;FunctionWords;3
-SWAP;EconomicOperands;2
 TERM;Other;1
-601;LegalReferences;1
-AND;LogicalConnectors;4
-ANY;FunctionWords;2
+NEW;EconomicOperands;1
+SEC;EconomicOperands;1
 ETC;FunctionWords;1
 FOR;FunctionWords;2
-NEW;EconomicOperands;1
-NOT;LogicalConnectors;2
-SEC;EconomicOperands;1
 THE;FunctionWords;7
-AS;LogicalConnectors;3
+601;LegalReferences;1
+ANY;LogicalConnectors;2
+AND;LogicalConnectors;4
+NOT;LogicalConnectors;2
 BY;FunctionWords;5
 IS;FunctionWords;2
 OF;FunctionWords;4
 ON;FunctionWords;1
+TO;FunctionWords;1
+AS;LogicalConnectors;3
 OR;LogicalConnectors;4
 SO;LogicalConnectors;1
-TO;FunctionWords;1
 1;Attributes;3
 2;Attributes;2
 3;Attributes;1
 A;FunctionWords;4
 B;LegalReferences;2
-S;EconomicOperands;2

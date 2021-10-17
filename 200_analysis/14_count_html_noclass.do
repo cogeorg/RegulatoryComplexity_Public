@@ -91,3 +91,15 @@ insheet using ./results/Master_consolidated+cleaned.csv, clear
 	duplicates drop
 	
 outsheet using ./results/html_noclass/Master_consolidated+cleaned_category_unique_count.csv, replace
+
+insheet using ./results/Master_v1.0.csv, clear
+	rename v1 key
+	rename v2 category
+	drop if category == ""
+	gen one = 1
+	bysort category: egen unique_count = total(one)
+
+	keep category unique_count 
+	duplicates drop
+	
+outsheet using ./results/html_noclass/Master_v1.0_category_unique_count.csv, replace

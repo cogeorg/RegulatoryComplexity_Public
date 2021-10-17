@@ -112,10 +112,10 @@ SECTION 129D OF THE TRUTH IN LENDING ACT;LegalReferences;1
 THE NATIONAL FLOOD INSURANCE ACT OF 1968;LegalReferences;1
 BUREAU OF CONSUMER FINANCIAL PROTECTION;EconomicOperands;12
 FEDERAL HOME LOAN MORTGAGE CORPORATION;EconomicOperands;1
-CHAPTER 2 OF THE TRUTH IN LENDING ACT;LegalReferences;5
 FEDERAL DEPOSIT INSURANCE CORPORATION;EconomicOperands;7
 FEDERAL NATIONAL MORTGAGE ASSOCIATION;EconomicOperands;1
 NEIGHBORHOOD REINVESTMENT CORPORATION;EconomicOperands;2
+CHAPTER 2 OF THE TRUTH IN LENDING ACT;LegalReferences;5
 PROTECTING TENANTS AT FORECLOSURE ACT;LegalReferences;1
 HOME AFFORDABLE MODIFICATION PROGRAM;EconomicOperands;5
 SECURITIES AND EXCHANGE COMMISSION;EconomicOperands;1
@@ -123,18 +123,18 @@ THE ADMINISTRATIVE PROCEDURES ACT;LegalReferences;1
 THE EMERGENCY HOUSING ACT OF 1975;LegalReferences;1
 UNITED STATES HOUSING ACT OF 1937;LegalReferences;2
 GOVERNMENT-SPONSORED ENTERPRISES;EconomicOperands;2
-INTERNAL REVENUE SERVICE FORM W2;LegalReferences;1
 TRUST TERRITORIES OF THE PACIFIC;EconomicOperands;1
 UNIT OF GENERAL LOCAL GOVERNMENT;EconomicOperands;2
+INTERNAL REVENUE SERVICE FORM W2;LegalReferences;1
 APPRAISAL SUBCOMMITTEE OF FFIEC;EconomicOperands;1
 CERTIFIED OR LICENSED APPRAISER;EconomicOperands;7
 HYBRID ADJUSTABLE RATE MORTGAGE;EconomicOperands;6
 HUD-APPROVED COUNSELING AGENCY;EconomicOperands;2
 MORTGAGE LICENSING ACT OF 2008;LegalReferences;3
+INTERNAL REVENUE CODE OF 1986;EconomicOperands;1
 ECONOMIC RECOVERY ACT OF 2008;LegalReferences;1
 EQUITY PROTECTION ACT OF 1994;LegalReferences;1
 FLOOD DISASTER PROTECTION ACT;LegalReferences;1
-INTERNAL REVENUE CODE OF 1986;EconomicOperands;1
 URBAN DEVELOPMENT ACT OF 1968;LegalReferences;2
 APPRAISAL MANAGEMENT COMPANY;EconomicOperands;28
 OFFICE OF THRIFT SUPERVISION;EconomicOperands;1
@@ -155,13 +155,14 @@ AVERAGE PRIME OFFER RATE;EconomicOperands;18
 DESIGNATED TRANSFER DATE;EconomicOperands;3
 ENUMERATED CONSUMER LAWS;EconomicOperands;1
 HOMEOWNERSHIP COUNSELING;EconomicOperands;15
-HUD/FHA FORM HUD 92564CN;LegalReferences;1
 SECRETARY OF AGRICULTURE;EconomicOperands;1
+SENIOR EXECUTIVE SERVICE;EconomicOperands;1
+HUD/FHA FORM HUD 92564CN;LegalReferences;1
 SECTION 129 15 USC 1639A;LegalReferences;1
 SECTION 9E 42 USC 1437GE;LegalReferences;2
-SENIOR EXECUTIVE SERVICE;EconomicOperands;1
 THE NATIONAL HOUSING ACT;LegalReferences;3
 DEPOSITORY INSTITUTIONS;EconomicOperands;2
+TAKE INTO CONSIDERATION;EconomicOperands;3
 SECTION 103 12 USC 2702;LegalReferences;1
 SECTION 104 12 USC 2703;LegalReferences;1
 SECTION 105 12 USC 2704;LegalReferences;1
@@ -172,16 +173,16 @@ SECTION 203 12 USC 1709;LegalReferences;1
 SUBPARAGRAPHS A B AND C;LegalReferences;1
 SUBPARAGRAPHS A B AND D;LegalReferences;1
 SUBSECTIONS N O P AND Q;LegalReferences;1
-TAKE INTO CONSIDERATION;EconomicOperands;3
 APPRAISAL SUBCOMMITTEE;EconomicOperands;40
-CREDIT OPPORTUNITY ACT;LegalReferences;1
 DEPOSITORY INSTITUTION;EconomicOperands;3
 FINANCIAL INSTITUTIONS;EconomicOperands;6
 FORCE-PLACED INSURANCE;EconomicOperands;12
 MULTIFAMILY PROPERTIES;EconomicOperands;2
 NONPROFIT ORGANIZATION;EconomicOperands;5
-PARAGRAPHS 2 THROUGH 5;LegalReferences;1
 VARIABLE RATE MORTGAGE;EconomicOperands;1
+CREDIT OPPORTUNITY ACT;LegalReferences;1
+PARAGRAPHS 2 THROUGH 5;LegalReferences;1
+TO THE MAXIMUM EXTENT;Attributes;1
 APPLICABLE INDIVIDUAL;EconomicOperands;8
 BUSINESS OF INSURANCE;EconomicOperands;1
 CONFLICTS OF INTEREST;EconomicOperands;2
@@ -189,9 +190,8 @@ FINANCIAL INSTITUTION;EconomicOperands;13
 NATIONALLY RECOGNIZED;EconomicOperands;1
 POLITICAL SUBDIVISION;EconomicOperands;2
 RESIDENTIAL MORTGAGES;EconomicOperands;1
-RULES OF CONSTRUCTION;Other;1
 SUBPARAGRAPHS C AND D;LegalReferences;1
-TO THE MAXIMUM EXTENT;Attributes;1
+RULES OF CONSTRUCTION;Other;1
 65 PERCENTAGE POINTS;Attributes;1
 85 PERCENTAGE POINTS;Attributes;2
 ALLOCATION OF CREDIT;EconomicOperands;1
@@ -205,78 +205,74 @@ IN DANGER OF DEFAULT;EconomicOperands;1
 MULTIMEDIA CAMPAIGNS;EconomicOperands;3
 PRUDENTIAL REGULATOR;EconomicOperands;1
 RESIDENTIAL MORTGAGE;EconomicOperands;4
-RULE OF CONSTRUCTION;Other;3
 TRUTH IN LENDING ACT;LegalReferences;8
+RULE OF CONSTRUCTION;Other;3
 ANTI-DEFICIENCY LAW;EconomicOperands;6
 CIVIL MONEY PENALTY;EconomicOperands;2
 COMPTROLLER GENERAL;EconomicOperands;6
 CONSUMER PROTECTION;EconomicOperands;1
 FORECLOSURE-RELATED;EconomicOperands;1
-IN CONJUNCTION WITH;FunctionWords;1
 MISCHARACTERIZATION;EconomicOperands;2
 MORTGAGE ORIGINATOR;EconomicOperands;44
 REACHING FIRST-TIME;EconomicOperands;1
+IN CONJUNCTION WITH;FunctionWords;1
 SUBCLAUSES I AND II;LegalReferences;1
 SUBPARAGRAPH A OR B;LegalReferences;1
 SUBSECTIONS A AND B;LegalReferences;1
 SUBSECTIONS L AND M;LegalReferences;1
-AS THE CASE MAY BE;LogicalConnectors;2
 BOARD OF GOVERNORS;EconomicOperands;3
 COUNSELING-RELATED;EconomicOperands;1
 COVERED ASSISTANCE;EconomicOperands;11
-FOR THE PURPOSE OF;LogicalConnectors;5
 FULLY INDEXED RATE;EconomicOperands;2
 GOVERNMENT-INSURED;EconomicOperands;1
 HIGH-COST MORTGAGE;EconomicOperands;22
-HIGHER-THAN-NORMAL;RegulatoryOperators;1
-IN ACCORDANCE WITH;LogicalConnectors;30
-IN CONFORMITY WITH;RegulatoryOperators;1
-IN CONNECTION WITH;FunctionWords;47
 MUTUALLY AGREEABLE;EconomicOperands;1
-PARAGRAPHS 1 AND 2;LegalReferences;1
-PARAGRAPHS 5 AND 6;LegalReferences;1
 POLICY DEVELOPMENT;EconomicOperands;1
 QUALIFIED MORTGAGE;EconomicOperands;20
+IN CONNECTION WITH;FunctionWords;47
+PARAGRAPHS 1 AND 2;LegalReferences;1
+PARAGRAPHS 5 AND 6;LegalReferences;1
 SUBSECTIONS B OR D;LegalReferences;1
 UNITED STATES CODE;LegalReferences;1
+AS THE CASE MAY BE;LogicalConnectors;2
+FOR THE PURPOSE OF;LogicalConnectors;5
+IN ACCORDANCE WITH;LogicalConnectors;30
+HIGHER-THAN-NORMAL;RegulatoryOperators;1
+IN CONFORMITY WITH;RegulatoryOperators;1
 CREDIT PROTECTION;EconomicOperands;1
 CREDIT WORTHINESS;EconomicOperands;1
 HOMEOWNERS FACING;EconomicOperands;1
-IN THE CONTEXT OF;FunctionWords;1
-INCONSISTENT WITH;LogicalConnectors;1
 INSTRUMENTALITIES;EconomicOperands;1
 INSURANCE COMPANY;EconomicOperands;1
 MANUFACTURED HOME;EconomicOperands;1
 MISCHARACTERIZING;EconomicOperands;3
 NON-ESTABLISHMENT;EconomicOperands;1
-PRE-QUALIFICATION;EconomicOperands;1
 PREDATORY LENDING;EconomicOperands;1
+PRE-QUALIFICATION;EconomicOperands;1
 REAL ESTATE-OWNED;EconomicOperands;1
 SUBPRIME MORTGAGE;EconomicOperands;2
-SUBSECTION A OR C;LegalReferences;1
+IN THE CONTEXT OF;FunctionWords;1
 TABLE OF CONTENTS;FunctionWords;3
+SUBSECTION A OR C;LegalReferences;1
+INCONSISTENT WITH;LogicalConnectors;1
 UNDER THE PURVIEW;Other;2
 10 BUSINESS DAYS;Attributes;1
-AND FORECLOSURES;EconomicOperands;2
+DECEMBER 23 2008;Attributes;1
+SEPTEMBER 7 2008;Attributes;1
 ATTORNEY GENERAL;EconomicOperands;3
 BALLOON PAYMENTS;EconomicOperands;4
 BORROWER-RELATED;EconomicOperands;1
-DECEMBER 23 2008;Attributes;1
-FOR THE PURPOSES;LogicalConnectors;4
 HAZARD INSURANCE;EconomicOperands;13
 MONEY LAUNDERING;EconomicOperands;1
 MORTGAGE-RELATED;EconomicOperands;4
-PARAGRAPH 1 OR 2;LegalReferences;3
 PERIOD BEGINNING;EconomicOperands;13
 POST-CONTROVERSY;EconomicOperands;1
 RESPONSIBILITIES;EconomicOperands;4
 REVERSE MORTGAGE;EconomicOperands;11
-SEPTEMBER 7 2008;Attributes;1
+PARAGRAPH 1 OR 2;LegalReferences;3
+FOR THE PURPOSES;LogicalConnectors;4
 ADJUSTABLE RATE;EconomicOperands;5
-AND PERFORMANCE;EconomicOperands;3
 ANTI-DEFICIENCY;EconomicOperands;2
-ASSOCIATED WITH;FunctionWords;4
-ATTRIBUTABLE TO;FunctionWords;1
 BALLOON PAYMENT;EconomicOperands;6
 CAREER-RESERVED;EconomicOperands;1
 CHARACTERISTICS;EconomicOperands;2
@@ -296,30 +292,31 @@ INSTRUMENTALITY;EconomicOperands;1
 MODERATE-INCOME;EconomicOperands;1
 MORTGAGE MARKET;EconomicOperands;4
 NON-PROPRIETARY;EconomicOperands;1
-NOTWITHSTANDING;LogicalConnectors;14
 ORDINARY COURSE;EconomicOperands;1
 POINTS AND FEES;EconomicOperands;17
 PRE-FORECLOSURE;EconomicOperands;1
-REAUTHORIZATION;RegulatoryOperators;1
-RECOMMENDATIONS;RegulatoryOperators;8
 REGULATIONS FOR;EconomicOperands;1
 REPRESENTATIVES;EconomicOperands;4
 RESPONSIBLE FOR;EconomicOperands;3
-THIS SUBSECTION;LegalReferences;44
 VULNERABILITIES;EconomicOperands;1
-WITH RESPECT TO;LogicalConnectors;32
 WRITTEN FINDING;EconomicOperands;1
 WRITTEN REQUEST;EconomicOperands;2
+ASSOCIATED WITH;FunctionWords;4
+ATTRIBUTABLE TO;FunctionWords;1
+THIS SUBSECTION;LegalReferences;44
+NOTWITHSTANDING;LogicalConnectors;14
+WITH RESPECT TO;LogicalConnectors;32
+REAUTHORIZATION;RegulatoryOperators;1
+RECOMMENDATIONS;RegulatoryOperators;8
+OCTOBER 1 2010;Attributes;2
+WHERE FEASIBLE;Attributes;1
 ACCOUNTABILITY;EconomicOperands;6
 ACTUAL DAMAGES;EconomicOperands;1
 ADMINISTRATION;EconomicOperands;7
 ADMINISTRATIVE;EconomicOperands;4
 AMERICAN SAMOA;EconomicOperands;1
-AND REGULATION;EconomicOperands;5
 APPROPRIATIONS;EconomicOperands;4
-AS A RESULT OF;LogicalConnectors;3
 CERTIFICATIONS;EconomicOperands;4
-COMPLYING WITH;RegulatoryOperators;1
 CORRESPONDENCE;EconomicOperands;1
 CREDIT RATINGS;EconomicOperands;1
 DEBT-TO-INCOME;EconomicOperands;1
@@ -327,33 +324,35 @@ DISCRIMINATORY;EconomicOperands;1
 EFFECTIVE DATE;EconomicOperands;6
 ELECTRONICALLY;EconomicOperands;1
 FEDERAL AGENCY;EconomicOperands;1
-FOR ANY REASON;LogicalConnectors;1
 HOUSING MARKET;EconomicOperands;1
 IDENTIFICATION;EconomicOperands;1
 IMPLEMENTATION;EconomicOperands;2
-IN ADDITION TO;LogicalConnectors;9
-IN THE CASE OF;LogicalConnectors;37
 INTEREST RATES;EconomicOperands;1
 INTERPRETATION;EconomicOperands;1
 INVESTIGATIONS;EconomicOperands;3
 LOSS-OF-INCOME;EconomicOperands;2
 NON-COMPLIANCE;EconomicOperands;1
-NOT LATER THAN;LogicalConnectors;10
-OCTOBER 1 2010;Attributes;2
 OWNER-OCCUPIED;EconomicOperands;1
 PUBLIC-PRIVATE;EconomicOperands;1
 PURCHASE-MONEY;EconomicOperands;1
 RECOMMENDATION;EconomicOperands;2
 REHABILITATION;EconomicOperands;2
 RESPONSIBILITY;EconomicOperands;2
-SECTION 103AA4;LegalReferences;2
-SECTION 104B1A;LegalReferences;1
-SECTIONS 302B6;LegalReferences;1
 SECURITIZATION;EconomicOperands;1
 SENIOR-CITIZEN;EconomicOperands;1
 SIMPLIFICATION;EconomicOperands;1
 SMALL BUSINESS;EconomicOperands;4
 SPECIFICATIONS;EconomicOperands;1
+SUBSTANTIATION;EconomicOperands;1
+UNAVAILABILITY;EconomicOperands;1
+UNDERDEVELOPED;EconomicOperands;1
+UNDERSTANDABLE;EconomicOperands;4
+UNPROFESSIONAL;EconomicOperands;1
+VIRGIN ISLANDS;EconomicOperands;1
+WORLD WIDE WEB;EconomicOperands;5
+SECTION 103AA4;LegalReferences;2
+SECTION 104B1A;LegalReferences;1
+SECTIONS 302B6;LegalReferences;1
 STUDY REQUIRED;LegalReferences;3
 SUBPARAGRAPH A;LegalReferences;18
 SUBPARAGRAPH B;LegalReferences;8
@@ -362,25 +361,21 @@ SUBPARAGRAPH D;LegalReferences;4
 SUBPARAGRAPH E;LegalReferences;2
 SUBPARAGRAPH G;LegalReferences;1
 SUBSECTION B3B;LegalReferences;1
-SUBSTANTIATION;EconomicOperands;1
 THIS PARAGRAPH;LegalReferences;13
-UNAVAILABILITY;EconomicOperands;1
-UNDERDEVELOPED;EconomicOperands;1
-UNDERSTANDABLE;EconomicOperands;4
-UNPROFESSIONAL;EconomicOperands;1
-VIRGIN ISLANDS;EconomicOperands;1
-WHERE FEASIBLE;Attributes;1
+AS A RESULT OF;LogicalConnectors;3
+FOR ANY REASON;LogicalConnectors;1
+IN ADDITION TO;LogicalConnectors;9
+IN THE CASE OF;LogicalConnectors;37
+NOT LATER THAN;LogicalConnectors;10
 WITH REGARD TO;LogicalConnectors;4
-WORLD WIDE WEB;EconomicOperands;5
+COMPLYING WITH;RegulatoryOperators;1
 1000000000000;Attributes;1
 5300000000000;Attributes;1
+APPROPRIATELY;Attributes;1
+IN THE FUTURE;Attributes;1
+SIGNIFICANTLY;Attributes;1
 AFFORDABILITY;EconomicOperands;2
 ANNOUNCEMENTS;EconomicOperands;1
-APPLICABILITY;FunctionWords;1
-APPLICABLE TO;FunctionWords;5
-APPROPRIATELY;Attributes;1
-APPROXIMATELY;LogicalConnectors;1
-AUTHORIZATION;RegulatoryOperators;6
 AUTOMATICALLY;EconomicOperands;1
 BALLOON LOANS;EconomicOperands;2
 BROKER-PRICED;EconomicOperands;1
@@ -391,7 +386,6 @@ CIRCUMVENTION;EconomicOperands;3
 CLARIFICATION;EconomicOperands;3
 COLLABORATING;EconomicOperands;1
 COMMUNICATING;EconomicOperands;1
-COMPLIES WITH;RegulatoryOperators;1
 COMPREHENSIVE;EconomicOperands;1
 CONSIDERATION;EconomicOperands;7
 CORRESPONDING;EconomicOperands;1
@@ -402,37 +396,44 @@ DISCRETIONARY;EconomicOperands;2
 DISTRIBUTIONS;EconomicOperands;1
 DOCUMENTATION;EconomicOperands;2
 EFFECTIVENESS;EconomicOperands;3
-ESTABLISHMENT;RegulatoryOperators;10
 FEE APPRAISER;EconomicOperands;3
 FULLY-INDEXED;EconomicOperands;1
 HELPING PRIME;EconomicOperands;1
 HOMEOWNERSHIP;EconomicOperands;11
-IN THE FUTURE;Attributes;1
-IN WHICH CASE;LogicalConnectors;1
 INAPPROPRIATE;EconomicOperands;1
 INDEPENDENTLY;EconomicOperands;1
 INSUFFICIENCY;EconomicOperands;1
 INTEREST RATE;EconomicOperands;43
 INTEREST-ONLY;EconomicOperands;1
 INVESTIGATION;EconomicOperands;2
-MISCELLANEOUS;FunctionWords;1
 MODIFICATIONS;EconomicOperands;7
 OPPORTUNITIES;EconomicOperands;2
 ORGANIZATIONS;EconomicOperands;13
-PARAGRAPH 2AI;LegalReferences;1
-PARAGRAPH 2BI;LegalReferences;1
 PARTICIPATING;EconomicOperands;5
 PARTICIPATION;EconomicOperands;1
 PREDOMINANTLY;EconomicOperands;2
-PROVIDED THAT;LogicalConnectors;2
 QUALIFICATION;EconomicOperands;7
-REDESIGNATING;Other;8
 REDEVELOPMENT;EconomicOperands;2
-REGULATION OF;EconomicOperands;3
+REGULATION OF;EconomicOperands;6
 REIMBURSEMENT;EconomicOperands;1
 RENEGOTIATING;EconomicOperands;1
 RENEGOTIATION;EconomicOperands;1
 RESTRUCTURING;EconomicOperands;1
+SINGLE-FAMILY;EconomicOperands;2
+STABILIZATION;EconomicOperands;2
+SUBCOMMITTEES;EconomicOperands;2
+SUBORDINATING;EconomicOperands;1
+TRADITIONALLY;EconomicOperands;1
+UNDERSTANDING;EconomicOperands;1
+UNINTENTIONAL;EconomicOperands;3
+UNITED STATES;EconomicOperands;7
+VARIABLE RATE;EconomicOperands;3
+APPLICABILITY;FunctionWords;1
+APPLICABLE TO;FunctionWords;5
+MISCELLANEOUS;FunctionWords;1
+SUBSTANTIALLY;FunctionWords;3
+PARAGRAPH 2AI;LegalReferences;1
+PARAGRAPH 2BI;LegalReferences;1
 SECTION 1022C;LegalReferences;1
 SECTION 106A4;LegalReferences;1
 SECTION 1125C;LegalReferences;1
@@ -450,13 +451,7 @@ SECTION 305A2;LegalReferences;6
 SECTION 33D2B;LegalReferences;2
 SECTIONS 128F;LegalReferences;1
 SECTIONS 1471;LegalReferences;1
-SIGNIFICANTLY;Attributes;1
-SINGLE-FAMILY;EconomicOperands;2
-STABILIZATION;EconomicOperands;2
 SUBCLAUSE III;LegalReferences;1
-SUBCOMMITTEES;EconomicOperands;2
-SUBORDINATING;EconomicOperands;1
-SUBPARAGRAPHS;Other;1
 SUBSECTION A1;LegalReferences;5
 SUBSECTION A2;LegalReferences;1
 SUBSECTION A4;LegalReferences;3
@@ -469,21 +464,24 @@ SUBSECTION G1;LegalReferences;1
 SUBSECTION G3;LegalReferences;1
 SUBSECTION G4;LegalReferences;1
 SUBSECTION R4;LegalReferences;1
-SUBSTANTIALLY;FunctionWords;3
 THIS SUBTITLE;LegalReferences;7
+APPROXIMATELY;LogicalConnectors;1
+IN WHICH CASE;LogicalConnectors;1
+PROVIDED THAT;LogicalConnectors;2
 TO THE EXTENT;LogicalConnectors;4
 TOGETHER WITH;LogicalConnectors;2
-TRADITIONALLY;EconomicOperands;1
-UNDERSTANDING;EconomicOperands;1
-UNINTENTIONAL;EconomicOperands;3
-UNITED STATES;EconomicOperands;7
-VARIABLE RATE;EconomicOperands;3
+REDESIGNATING;Other;8
+SUBPARAGRAPHS;Other;1
+AUTHORIZATION;RegulatoryOperators;6
+COMPLIES WITH;RegulatoryOperators;1
+ESTABLISHMENT;RegulatoryOperators;10
 175000000000;Attributes;1
 200000000000;Attributes;1
-42 USC 1472H;LegalReferences;1
+INSUFFICIENT;Attributes;1
+PERIODICALLY;Attributes;1
+SUFFICIENTLY;Attributes;1
 ACCELERATION;EconomicOperands;1
 ACQUISITIONS;EconomicOperands;1
-ADDITIONALLY;LogicalConnectors;3
 ADMINISTERED;EconomicOperands;4
 ADVISABILITY;EconomicOperands;2
 ALTERNATIVES;EconomicOperands;3
@@ -513,34 +511,28 @@ CREDIT UNION;EconomicOperands;1
 DEMONSTRATED;EconomicOperands;1
 DESCRIPTIONS;EconomicOperands;1
 DESIGNATIONS;EconomicOperands;1
-DIFFERENTIAL;EconomicOperands;2
 DISCIPLINARY;EconomicOperands;5
 DISTRIBUTING;EconomicOperands;1
 DISTRIBUTION;EconomicOperands;9
 DUTY OF CARE;EconomicOperands;1
-ESTABLISHING;EconomicOperands;8
 FACILITATING;EconomicOperands;2
 FAIR LENDING;EconomicOperands;1
 FHA-APPROVED;EconomicOperands;1
 FORBEARANCES;EconomicOperands;1
 FORCE-PLACED;EconomicOperands;1
-FORECLOSURES;EconomicOperands;7
+FORECLOSURES;EconomicOperands;9
 FUNCTIONS OF;EconomicOperands;2
 GOVERNMENTAL;EconomicOperands;3
-GREATER THAN;LogicalConnectors;3
 GUARANTEEING;EconomicOperands;3
 HUD-APPROVED;EconomicOperands;2
 IDENTIFIABLE;EconomicOperands;1
-IMPLEMENTING;RegulatoryOperators;2
 IMPLICATIONS;EconomicOperands;1
 IMPROVEMENTS;EconomicOperands;3
-IN EXCESS OF;LogicalConnectors;3
 INCORPORATED;EconomicOperands;1
 INDEBTEDNESS;EconomicOperands;1
 INDEPENDENCE;EconomicOperands;15
 INSTALLMENTS;EconomicOperands;1
 INSTITUTIONS;EconomicOperands;3
-INSUFFICIENT;Attributes;1
 INTER-AGENCY;EconomicOperands;2
 INTERPRETIVE;EconomicOperands;2
 INTRODUCTORY;EconomicOperands;5
@@ -554,8 +546,33 @@ MODIFICATION;EconomicOperands;14
 NEIGHBORHOOD;EconomicOperands;2
 NON-ESCROWED;EconomicOperands;2
 NOTIFICATION;EconomicOperands;5
-ON BEHALF OF;FunctionWords;7
 ORGANIZATION;EconomicOperands;30
+PARTICIPANTS;EconomicOperands;2
+PRE-APPROVAL;EconomicOperands;1
+PRESERVATION;EconomicOperands;2
+PROFESSIONAL;EconomicOperands;11
+REFINANCINGS;EconomicOperands;1
+REGISTRATION;EconomicOperands;9
+REQUIREMENTS;EconomicOperands;67
+RESCUE SCAMS;EconomicOperands;7
+SATISFACTION;EconomicOperands;1
+SIGNIFICANCE;EconomicOperands;2
+SIMULTANEOUS;EconomicOperands;1
+STREAMLINING;EconomicOperands;1
+SUBSIDIARIES;EconomicOperands;3
+TABLE-FUNDED;EconomicOperands;2
+TRANSACTIONS;EconomicOperands;15
+TRANSMISSION;EconomicOperands;2
+TRANSMITTING;EconomicOperands;1
+TRANSPARENCY;EconomicOperands;1
+UNDERWRITERS;EconomicOperands;2
+UNDERWRITING;EconomicOperands;9
+UNEMPLOYMENT;EconomicOperands;6
+UNREASONABLE;EconomicOperands;1
+UNSCRUPULOUS;EconomicOperands;1
+VERIFICATION;EconomicOperands;3
+ON BEHALF OF;FunctionWords;7
+42 USC 1472H;LegalReferences;1
 PARAGRAPH 12;LegalReferences;1
 PARAGRAPH 1A;LegalReferences;3
 PARAGRAPH 1B;LegalReferences;1
@@ -564,20 +581,6 @@ PARAGRAPH 2A;LegalReferences;3
 PARAGRAPH 2B;LegalReferences;2
 PARAGRAPH 3B;LegalReferences;1
 PARAGRAPH 4A;LegalReferences;1
-PARTICIPANTS;EconomicOperands;2
-PARTICULARLY;LogicalConnectors;1
-PERIODICALLY;Attributes;1
-PRE-APPROVAL;EconomicOperands;1
-PRESERVATION;EconomicOperands;2
-PROFESSIONAL;EconomicOperands;11
-PROHIBITIONS;RegulatoryOperators;5
-REDESIGNATED;Other;3
-REFINANCINGS;EconomicOperands;1
-REGISTRATION;EconomicOperands;9
-REQUIREMENTS;EconomicOperands;67
-RESCUE SCAMS;EconomicOperands;7
-RESPECTIVELY;LogicalConnectors;2
-SATISFACTION;EconomicOperands;1
 SECTION 1002;LegalReferences;1
 SECTION 1011;LegalReferences;1
 SECTION 101E;LegalReferences;1
@@ -611,12 +614,7 @@ SECTION 32E4;LegalReferences;2
 SECTION 501C;LegalReferences;1
 SECTIONS 110;LegalReferences;1
 SECTIONS 129;LegalReferences;3
-SIGNIFICANCE;EconomicOperands;2
-SIMULTANEOUS;EconomicOperands;1
-SPECIFICALLY;LogicalConnectors;2
-STREAMLINING;EconomicOperands;1
 SUBCLAUSE IV;LegalReferences;2
-SUBPARAGRAPH;Other;7
 SUBSECTION A;LegalReferences;24
 SUBSECTION B;LegalReferences;21
 SUBSECTION C;LegalReferences;8
@@ -633,31 +631,33 @@ SUBSECTION R;LegalReferences;1
 SUBSECTION S;LegalReferences;1
 SUBSECTION T;LegalReferences;1
 SUBSECTION U;LegalReferences;1
-SUBSEQUENTLY;LogicalConnectors;3
-SUBSIDIARIES;EconomicOperands;3
-SUBSTITUTING;Other;3
-SUFFICIENTLY;Attributes;1
-TABLE-FUNDED;EconomicOperands;2
 THIS SECTION;LegalReferences;108
-TRANSACTIONS;EconomicOperands;15
-TRANSMISSION;EconomicOperands;2
-TRANSMITTING;EconomicOperands;1
-TRANSPARENCY;EconomicOperands;1
-UNDERWRITERS;EconomicOperands;2
-UNDERWRITING;EconomicOperands;9
+ADDITIONALLY;LogicalConnectors;3
+GREATER THAN;LogicalConnectors;3
+IN EXCESS OF;LogicalConnectors;3
+PARTICULARLY;LogicalConnectors;1
+RESPECTIVELY;LogicalConnectors;2
+SPECIFICALLY;LogicalConnectors;2
+SUBSEQUENTLY;LogicalConnectors;3
+DIFFERENTIAL;MathematicalOperators;2
+REDESIGNATED;Other;3
+SUBPARAGRAPH;Other;7
+SUBSTITUTING;Other;3
 UNDESIGNATED;Other;6
-UNEMPLOYMENT;EconomicOperands;6
-UNREASONABLE;EconomicOperands;1
-UNSCRUPULOUS;EconomicOperands;1
-VERIFICATION;EconomicOperands;3
+ESTABLISHING;RegulatoryOperators;8
+IMPLEMENTING;RegulatoryOperators;2
+PROHIBITIONS;RegulatoryOperators;5
 101 PERCENT;Attributes;1
-12 USC 2709;LegalReferences;1
 327 PERCENT;Attributes;1
 501 PERCENT;Attributes;1
 788 PERCENT;Attributes;1
 799 PERCENT;Attributes;1
+APPROPRIATE;Attributes;31
+IMMEDIATELY;Attributes;1
+SIGNIFICANT;Attributes;1
+SUBSTANTIAL;Attributes;2
+UNNECESSARY;Attributes;1
 ACCELERATED;EconomicOperands;1
-ACCORDINGLY;LogicalConnectors;3
 ACQUISITION;EconomicOperands;3
 ADJUSTMENTS;EconomicOperands;6
 ADVERTISING;EconomicOperands;1
@@ -665,10 +665,8 @@ AGRICULTURE;EconomicOperands;1
 ALLOCATIONS;EconomicOperands;1
 ALT-A LOANS;EconomicOperands;2
 ALTERNATIVE;EconomicOperands;2
-AND CONDUCT;EconomicOperands;2
 APPLICATION;EconomicOperands;15
 APPOINTMENT;EconomicOperands;1
-APPROPRIATE;Attributes;31
 ARBITRATION;EconomicOperands;3
 ASSESSMENTS;EconomicOperands;8
 ASSIGNED TO;EconomicOperands;2
@@ -689,7 +687,6 @@ COMPETITIVE;EconomicOperands;2
 COMPUTATION;EconomicOperands;1
 CONCLUSIONS;EconomicOperands;1
 CONCURRENCE;EconomicOperands;1
-CONSIDERING;LogicalConnectors;3
 CONSISTS OF;EconomicOperands;1
 CONSPICUOUS;EconomicOperands;2
 CONSTITUTES;EconomicOperands;2
@@ -716,8 +713,6 @@ DESIGNATION;EconomicOperands;3
 DETERMINING;EconomicOperands;8
 DEVELOPMENT;EconomicOperands;13
 DIFFERENCES;EconomicOperands;1
-DISAPPROVAL;RegulatoryOperators;1
-DISAPPROVED;RegulatoryOperators;1
 DISCIPLINES;EconomicOperands;1
 DISCLOSURES;EconomicOperands;6
 DISPARITIES;EconomicOperands;1
@@ -725,27 +720,20 @@ DISPOSITION;EconomicOperands;1
 DISTRIBUTED;EconomicOperands;4
 DUE-ON-SALE;EconomicOperands;1
 EDUCATIONAL;EconomicOperands;1
-EFFECTIVELY;Other;1
 ELECTRICITY;EconomicOperands;1
 ELIGIBILITY;EconomicOperands;1
 ENFORCEMENT;EconomicOperands;11
 ENTERPRISES;EconomicOperands;1
-ESTABLISHED;RegulatoryOperators;32
-ESTABLISHES;RegulatoryOperators;1
 EXAMINATION;EconomicOperands;6
 EXPECTATION;EconomicOperands;1
 EXPLANATION;EconomicOperands;16
 FHA-INSURED;EconomicOperands;1
 FIRST-CLASS;EconomicOperands;2
 FLEXIBILITY;EconomicOperands;1
-FOR EXAMPLE;LogicalConnectors;1
 FORECLOSURE;EconomicOperands;47
 FREDDIE MAC;EconomicOperands;12
 GRANTMAKING;EconomicOperands;1
 HOME OWNERS;EconomicOperands;2
-IMMEDIATELY;Attributes;1
-IN ANY CASE;LogicalConnectors;1
-IN ORDER TO;LogicalConnectors;7
 INCREMENTAL;EconomicOperands;3
 INDEPENDENT;EconomicOperands;5
 INDIVIDUALS;EconomicOperands;8
@@ -759,7 +747,6 @@ INTIMIDATES;EconomicOperands;1
 LEGISLATION;EconomicOperands;1
 LEGISLATIVE;EconomicOperands;4
 LIABILITIES;EconomicOperands;1
-LIMITATIONS;RegulatoryOperators;7
 MAINTAINING;EconomicOperands;6
 MAINTENANCE;EconomicOperands;1
 METHODOLOGY;EconomicOperands;5
@@ -771,51 +758,70 @@ OBLIGATIONS;EconomicOperands;4
 OPPORTUNITY;EconomicOperands;1
 ORIGINATION;EconomicOperands;15
 OUTSTANDING;EconomicOperands;10
-PARAGRAPH 1;LegalReferences;27
-PARAGRAPH 2;LegalReferences;13
-PARAGRAPH 3;LegalReferences;8
-PARAGRAPH 4;LegalReferences;11
-PARAGRAPH 5;LegalReferences;2
-PARAGRAPH 6;LegalReferences;2
-PENULTIMATE;LogicalConnectors;1
+PERFORMANCE;EconomicOperands;3
 POPULATIONS;EconomicOperands;1
 PORTABILITY;EconomicOperands;3
-POTENTIALLY;Other;4
 PREFERENCES;EconomicOperands;1
 PRELIMINARY;EconomicOperands;3
 PREPARATION;EconomicOperands;1
 PRESCRIBING;EconomicOperands;3
 PRESUMPTION;EconomicOperands;3
 PROCEEDINGS;EconomicOperands;2
-PROHIBITING;RegulatoryOperators;4
-PROHIBITION;RegulatoryOperators;6
 PROMINENTLY;EconomicOperands;1
 PROMOTIONAL;EconomicOperands;1
-PROMULGATED;RegulatoryOperators;5
-PROSPECTIVE;Other;5
 PUBLICATION;EconomicOperands;6
-PURSUANT TO;FunctionWords;49
 REALLOCATED;EconomicOperands;1
 REAPPOINTED;EconomicOperands;1
 REASONS FOR;EconomicOperands;2
 RECIPROCITY;EconomicOperands;2
 RECOMMENDED;EconomicOperands;2
-REFERRED TO;FunctionWords;17
 REFINANCING;EconomicOperands;20
-REGULATIONS;EconomicOperands;58
+REGULATIONS;EconomicOperands;60
 REIMBURSING;EconomicOperands;1
-RELATING TO;FunctionWords;38
-RELIED UPON;Other;1
 REPACKAGING;EconomicOperands;1
 REPLACEMENT;EconomicOperands;2
 REQUIREMENT;EconomicOperands;14
 RESIDENTIAL;EconomicOperands;14
 RESPONSIBLE;EconomicOperands;4
 RESTITUTION;EconomicOperands;2
-RESTRICTING;RegulatoryOperators;1
-RESTRICTION;RegulatoryOperators;1
 REVOCATIONS;EconomicOperands;1
 SEASONALITY;EconomicOperands;1
+SECURITIZED;EconomicOperands;2
+SPECIFICITY;EconomicOperands;1
+SPECULATION;EconomicOperands;1
+STATISTICAL;EconomicOperands;4
+STREAMLINED;EconomicOperands;1
+STRUCTURING;EconomicOperands;1
+SUBORDINATE;EconomicOperands;5
+SUBSISTENCE;EconomicOperands;1
+SUFFICIENCY;EconomicOperands;1
+SUPERVISION;EconomicOperands;7
+SUPERVISORY;EconomicOperands;2
+SURRENDERED;EconomicOperands;2
+SUSPENSIONS;EconomicOperands;2
+SUSTAINABLE;EconomicOperands;1
+TERMINATION;EconomicOperands;1
+TERRITORIES;EconomicOperands;1
+THIRD-PARTY;EconomicOperands;3
+THREATENING;EconomicOperands;1
+TRANSACTION;EconomicOperands;93
+TRANSFERRED;EconomicOperands;2
+TRANSMITTED;EconomicOperands;2
+UNCOMMITTED;EconomicOperands;1
+UNDERSERVED;EconomicOperands;2
+UNDERWRITER;EconomicOperands;1
+UNOBLIGATED;EconomicOperands;1
+WITHHOLDING;EconomicOperands;1
+PURSUANT TO;FunctionWords;49
+REFERRED TO;FunctionWords;17
+RELATING TO;FunctionWords;38
+12 USC 2709;LegalReferences;1
+PARAGRAPH 1;LegalReferences;27
+PARAGRAPH 2;LegalReferences;13
+PARAGRAPH 3;LegalReferences;8
+PARAGRAPH 4;LegalReferences;11
+PARAGRAPH 5;LegalReferences;2
+PARAGRAPH 6;LegalReferences;2
 SECTION 102;LegalReferences;1
 SECTION 103;LegalReferences;1
 SECTION 106;LegalReferences;2
@@ -830,42 +836,33 @@ SECTION 6I2;LegalReferences;1
 SECTION 702;LegalReferences;1
 SECTION 704;LegalReferences;1
 SECTION 8Y1;LegalReferences;1
-SECURITIZED;EconomicOperands;2
-SHORT TITLE;Other;3
-SIGNIFICANT;Attributes;1
-SPECIFICITY;EconomicOperands;1
-SPECULATION;EconomicOperands;1
-STATISTICAL;EconomicOperands;4
-STREAMLINED;EconomicOperands;1
-STRUCTURING;EconomicOperands;1
 SUBCLAUSE I;LegalReferences;2
-SUBORDINATE;EconomicOperands;5
 SUBSECTIONS;LegalReferences;9
-SUBSISTENCE;EconomicOperands;1
-SUBSTANTIAL;Attributes;2
+ACCORDINGLY;LogicalConnectors;3
+CONSIDERING;LogicalConnectors;3
+FOR EXAMPLE;LogicalConnectors;1
+IN ANY CASE;LogicalConnectors;1
+IN ORDER TO;LogicalConnectors;7
+PENULTIMATE;LogicalConnectors;1
+EFFECTIVELY;Other;1
+POTENTIALLY;Other;4
+PROSPECTIVE;Other;5
+RELIED UPON;Other;1
+SHORT TITLE;Other;3
 SUBSTITUTED;Other;1
-SUFFICIENCY;EconomicOperands;1
+DISAPPROVAL;RegulatoryOperators;1
+DISAPPROVED;RegulatoryOperators;1
+ESTABLISHED;RegulatoryOperators;32
+ESTABLISHES;RegulatoryOperators;1
+LIMITATIONS;RegulatoryOperators;7
+PROHIBITING;RegulatoryOperators;4
+PROHIBITION;RegulatoryOperators;6
+PROMULGATED;RegulatoryOperators;5
+RESTRICTING;RegulatoryOperators;1
+RESTRICTION;RegulatoryOperators;1
 SUITABILITY;RegulatoryOperators;1
 SUPERSEDING;RegulatoryOperators;1
-SUPERVISION;EconomicOperands;7
-SUPERVISORY;EconomicOperands;2
-SURRENDERED;EconomicOperands;2
-SUSPENSIONS;EconomicOperands;2
-SUSTAINABLE;EconomicOperands;1
 TAKE EFFECT;RegulatoryOperators;5
-TERMINATION;EconomicOperands;1
-TERRITORIES;EconomicOperands;1
-THIRD-PARTY;EconomicOperands;3
-THREATENING;EconomicOperands;1
-TRANSACTION;EconomicOperands;93
-TRANSFERRED;EconomicOperands;2
-TRANSMITTED;EconomicOperands;2
-UNCOMMITTED;EconomicOperands;1
-UNDERSERVED;EconomicOperands;2
-UNDERWRITER;EconomicOperands;1
-UNNECESSARY;Attributes;1
-UNOBLIGATED;EconomicOperands;1
-WITHHOLDING;EconomicOperands;1
 05 PERCENT;Attributes;1
 10 PERCENT;Attributes;5
 1000000000;Attributes;2
@@ -878,13 +875,19 @@ WITHHOLDING;EconomicOperands;1
 56 PERCENT;Attributes;1
 60 PERCENT;Attributes;1
 75 PERCENT;Attributes;2
-ACCELERATE;EconomicOperands;1
 ACCEPTABLE;Attributes;1
+CONSISTENT;Attributes;13
+INADEQUATE;Attributes;1
+INDIRECTLY;Attributes;7
+MULTI-YEAR;Attributes;1
+REASONABLE;Attributes;28
+REASONABLY;Attributes;11
+SUFFICIENT;Attributes;5
+ACCELERATE;EconomicOperands;1
 ACCEPTANCE;EconomicOperands;3
 ACCESSIBLE;EconomicOperands;1
 ACCOUNTING;EconomicOperands;1
 ACTIVITIES;EconomicOperands;15
-ADDITIONAL;EconomicOperands;15
 ADJUSTABLE;EconomicOperands;2
 ADJUSTMENT;EconomicOperands;4
 ADMINISTER;EconomicOperands;3
@@ -897,31 +900,21 @@ AGREEMENTS;EconomicOperands;2
 ALLOCATING;EconomicOperands;2
 ALLOCATION;EconomicOperands;2
 ALTERATION;EconomicOperands;1
-ALTOGETHER;LogicalConnectors;1
-AMENDMENTS;Other;13
 AMORTIZING;EconomicOperands;3
-APART FROM;LogicalConnectors;1
-APPLICABLE;FunctionWords;35
 APPLICANTS;EconomicOperands;6
 APPOINTEES;EconomicOperands;1
 APPRAISALS;EconomicOperands;15
 APPRAISERS;EconomicOperands;23
 APPROACHED;EconomicOperands;1
 APPROACHES;EconomicOperands;7
-AS FOLLOWS;FunctionWords;9
-AS LONG AS;LogicalConnectors;1
-AS WELL AS;LogicalConnectors;3
 ASSESSMENT;EconomicOperands;2
 ASSIGNMENT;EconomicOperands;2
 ASSISTANCE;EconomicOperands;45
-AUTHORISED;RegulatoryOperators;1
-AUTHORIZED;RegulatoryOperators;13
 BACKGROUND;EconomicOperands;1
 BENEFICIAL;EconomicOperands;2
 CALCULATED;EconomicOperands;3
 CALCULATOR;EconomicOperands;5
 CERTIFYING;EconomicOperands;17
-CO-OBLIGOR;EconomicOperands;1
 COLLATERAL;EconomicOperands;4
 COLLECTING;EconomicOperands;2
 COLLECTION;EconomicOperands;1
@@ -932,22 +925,21 @@ COMPETENCE;EconomicOperands;1
 COMPLAINTS;EconomicOperands;8
 COMPLETION;EconomicOperands;1
 COMPLIANCE;EconomicOperands;15
-CONCERNING;LogicalConnectors;3
 CONCLUSION;EconomicOperands;1
 CONCURRENT;EconomicOperands;1
 CONDITIONS;EconomicOperands;11
+CONDUCT OF;EconomicOperands;1
 CONDUCTING;EconomicOperands;4
 CONFIDENCE;EconomicOperands;1
-CONFORMING;Other;4
 CONSENSUAL;EconomicOperands;1
 CONSIDERED;EconomicOperands;3
 CONSIST OF;EconomicOperands;1
-CONSISTENT;Attributes;13
 CONTAINING;EconomicOperands;4
 CONTRACTED;EconomicOperands;4
 CONTRACTOR;EconomicOperands;1
 CONTROLLED;EconomicOperands;3
 CONVERSION;EconomicOperands;1
+CO-OBLIGOR;EconomicOperands;1
 COORDINATE;EconomicOperands;2
 COUNSELING;EconomicOperands;71
 COUNSELORS;EconomicOperands;6
@@ -956,9 +948,6 @@ DEFINITION;EconomicOperands;9
 DELINQUENT;EconomicOperands;6
 DEPARTMENT;EconomicOperands;14
 DESCRIBING;EconomicOperands;3
-DESIGNATED;RegulatoryOperators;2
-DETERMINED;RegulatoryOperators;7
-DETERMINES;RegulatoryOperators;13
 DIFFERENCE;EconomicOperands;2
 DIFFICULTY;EconomicOperands;1
 DIRECTIVES;EconomicOperands;1
@@ -975,12 +964,8 @@ EMPLOYMENT;EconomicOperands;1
 ENCOURAGES;EconomicOperands;1
 ENTERPRISE;EconomicOperands;2
 ENUMERATED;EconomicOperands;2
-EQUIVALENT;Attributes;1
 EVALUATING;EconomicOperands;2
 EVALUATION;EconomicOperands;1
-EXCEPTIONS;LogicalConnectors;2
-EXCLUSIONS;LogicalConnectors;1
-EXEMPTIONS;RegulatoryOperators;5
 EXPERIENCE;EconomicOperands;1
 EXPIRATION;EconomicOperands;5
 FACILITATE;EconomicOperands;4
@@ -989,8 +974,8 @@ FANNIE MAE;EconomicOperands;13
 FIRST-TIME;EconomicOperands;2
 FIXED RATE;EconomicOperands;5
 FIXED-RATE;EconomicOperands;2
-FOR-PROFIT;EconomicOperands;1
 FORECLOSED;EconomicOperands;2
+FOR-PROFIT;EconomicOperands;1
 FRAUDULENT;EconomicOperands;3
 GOOD FAITH;EconomicOperands;5
 GOVERNMENT;EconomicOperands;17
@@ -998,29 +983,19 @@ GUARANTEED;EconomicOperands;5
 GUIDELINES;EconomicOperands;11
 HOMEBUYERS;EconomicOperands;9
 HOMEOWNERS;EconomicOperands;12
-IDENTIFIED;FunctionWords;1
 IDENTIFIER;EconomicOperands;1
 IMPORTANCE;EconomicOperands;3
-IN GENERAL;FunctionWords;60
-IN LIEU OF;LogicalConnectors;2
-IN NO CASE;LogicalConnectors;2
-INADEQUATE;Attributes;1
 INCENTIVES;EconomicOperands;2
 INCIDENTAL;EconomicOperands;1
 INCOMPLETE;EconomicOperands;2
 INCREASING;EconomicOperands;1
-INDIRECTLY;Attributes;7
 INDIVIDUAL;EconomicOperands;8
-INELIGIBLE;RegulatoryOperators;1
 INFLUENCED;EconomicOperands;1
 INITIATIVE;EconomicOperands;2
 INSPECTION;EconomicOperands;9
 INTIMIDATE;EconomicOperands;1
-LATER THAN;LogicalConnectors;2
 LEAD-BASED;EconomicOperands;1
 LIKELIHOOD;EconomicOperands;2
-LIMITATION;EconomicOperands;12
-LIMITED TO;LogicalConnectors;3
 LITIGATION;EconomicOperands;2
 LOW-INCOME;EconomicOperands;8
 MAINTAINED;EconomicOperands;1
@@ -1031,9 +1006,7 @@ MECHANISMS;EconomicOperands;1
 MEMBERSHIP;EconomicOperands;3
 MINORITIES;EconomicOperands;4
 MONITORING;EconomicOperands;3
-MULTI-YEAR;Attributes;1
 MULTIMEDIA;EconomicOperands;1
-MULTIPLIED;LogicalConnectors;2
 NATIONALLY;EconomicOperands;1
 NEAR-PRIME;EconomicOperands;1
 NEGOTIATES;EconomicOperands;1
@@ -1042,21 +1015,15 @@ OCCURRENCE;EconomicOperands;1
 OPERATIONS;EconomicOperands;3
 ORIGINATED;EconomicOperands;2
 ORIGINATOR;EconomicOperands;3
-PARAGRAPHS;Other;7
-PARTICULAR;FunctionWords;1
 PERCENTAGE;EconomicOperands;45
 PERFORMING;EconomicOperands;2
-PERMITTING;RegulatoryOperators;1
 PERSONALLY;EconomicOperands;2
 PHASED-OUT;EconomicOperands;1
 POSSESSION;EconomicOperands;1
-PRECLUDING;RegulatoryOperators;1
 PREPAYMENT;EconomicOperands;22
-PRESCRIBED;RegulatoryOperators;28
 PREVAILING;EconomicOperands;1
 PREVALENCE;EconomicOperands;1
 PREVENTION;EconomicOperands;2
-PREVIOUSLY;LogicalConnectors;1
 PROCEDURES;EconomicOperands;18
 PROCESSING;EconomicOperands;1
 PROFESSION;EconomicOperands;1
@@ -1067,8 +1034,6 @@ PROTECTING;EconomicOperands;1
 PROTECTION;EconomicOperands;23
 PROVISIONS;EconomicOperands;26
 PURCHASERS;EconomicOperands;1
-REASONABLE;Attributes;28
-REASONABLY;Attributes;11
 REBUTTABLE;EconomicOperands;1
 RECAPTURED;EconomicOperands;1
 RECIPIENTS;EconomicOperands;3
@@ -1085,7 +1050,6 @@ REGULATION;EconomicOperands;10
 REGULATORS;EconomicOperands;1
 REGULATORY;EconomicOperands;13
 REPOSITORY;EconomicOperands;1
-REPRESENTS;LogicalConnectors;1
 RESCISSION;EconomicOperands;3
 RESIDENCES;EconomicOperands;1
 RESOLUTION;EconomicOperands;3
@@ -1095,43 +1059,23 @@ REVOCATION;EconomicOperands;1
 SANCTIONED;EconomicOperands;1
 SCHEDULING;EconomicOperands;1
 SECRETARYS;EconomicOperands;3
-SECTION 10;LegalReferences;1
-SECTION 43;LegalReferences;1
-SECTION 6E;LegalReferences;1
-SECTION 6F;LegalReferences;1
-SECTION 6G;LegalReferences;1
 SECURITIES;EconomicOperands;3
 SETTLEMENT;EconomicOperands;9
-SO LONG AS;LogicalConnectors;1
 STATEMENTS;EconomicOperands;4
 STATIONERY;EconomicOperands;1
 STRENGTHEN;EconomicOperands;1
 STRUCTURAL;EconomicOperands;1
 STRUCTURES;EconomicOperands;2
-SUBCLAUSES;LegalReferences;1
-SUBJECT TO;LogicalConnectors;25
 SUBMISSION;EconomicOperands;3
 SUBMITTING;EconomicOperands;2
-SUBSECTION;LegalReferences;27
-SUBSEQUENT;FunctionWords;6
 SUBSIDIARY;EconomicOperands;5
 SUBSTITUTE;EconomicOperands;1
-SUBTITLE A;LegalReferences;1
-SUBTITLE B;LegalReferences;1
-SUBTITLE F;LegalReferences;1
-SUBTITLE G;LegalReferences;1
-SUBTITLE H;LegalReferences;1
 SUCCESSFUL;EconomicOperands;1
-SUFFICIENT;Attributes;5
 SUPERVISOR;EconomicOperands;1
 SUPPLEMENT;EconomicOperands;3
 SUSPENSION;EconomicOperands;4
 TERMINATED;EconomicOperands;1
-THEREAFTER;FunctionWords;1
-THEREUNDER;FunctionWords;2
-THIS TITLE;LegalReferences;41
 THRESHOLDS;EconomicOperands;2
-THROUGHOUT;FunctionWords;1
 TIMEFRAMES;EconomicOperands;1
 TRANSCRIPT;EconomicOperands;1
 TRANSITION;EconomicOperands;1
@@ -1140,24 +1084,81 @@ UNDERLYING;EconomicOperands;3
 UNDERSTAND;EconomicOperands;1
 UNDERTAKEN;EconomicOperands;1
 UNEXPENDED;EconomicOperands;1
-UPWARDS OF;LogicalConnectors;1
 VALUATIONS;EconomicOperands;1
 VIOLATIONS;EconomicOperands;9
 VULNERABLE;EconomicOperands;3
 WIDESPREAD;EconomicOperands;1
+APPLICABLE;FunctionWords;35
+AS FOLLOWS;FunctionWords;9
+IDENTIFIED;FunctionWords;1
+IN GENERAL;FunctionWords;60
+PARTICULAR;FunctionWords;1
+SUBSEQUENT;FunctionWords;6
+THEREAFTER;FunctionWords;1
+THEREUNDER;FunctionWords;2
+THROUGHOUT;FunctionWords;1
+SECTION 10;LegalReferences;1
+SECTION 43;LegalReferences;1
+SECTION 6E;LegalReferences;1
+SECTION 6F;LegalReferences;1
+SECTION 6G;LegalReferences;1
+SUBCLAUSES;LegalReferences;1
+SUBSECTION;LegalReferences;27
+SUBTITLE A;LegalReferences;1
+SUBTITLE B;LegalReferences;1
+SUBTITLE F;LegalReferences;1
+SUBTITLE G;LegalReferences;1
+SUBTITLE H;LegalReferences;1
+THIS TITLE;LegalReferences;41
+ALTOGETHER;LogicalConnectors;1
+APART FROM;LogicalConnectors;1
+AS LONG AS;LogicalConnectors;1
+AS WELL AS;LogicalConnectors;3
+CONCERNING;LogicalConnectors;3
+EQUIVALENT;LogicalConnectors;1
+EXCEPTIONS;LogicalConnectors;2
+EXCLUSIONS;LogicalConnectors;1
+IN LIEU OF;LogicalConnectors;2
+IN NO CASE;LogicalConnectors;2
+LATER THAN;LogicalConnectors;2
+LIMITED TO;LogicalConnectors;3
+MULTIPLIED;LogicalConnectors;2
+PREVIOUSLY;LogicalConnectors;1
+REPRESENTS;LogicalConnectors;1
+SO LONG AS;LogicalConnectors;1
+SUBJECT TO;LogicalConnectors;25
+UPWARDS OF;LogicalConnectors;1
+ADDITIONAL;MathematicalOperators;15
+AMENDMENTS;Other;13
+CONFORMING;Other;4
+PARAGRAPHS;Other;7
+LIMITATION;RegulatoryOperators;12
+AUTHORISED;RegulatoryOperators;1
+AUTHORIZED;RegulatoryOperators;13
+DESIGNATED;RegulatoryOperators;2
+DETERMINED;RegulatoryOperators;7
+DETERMINES;RegulatoryOperators;13
+EXEMPTIONS;RegulatoryOperators;5
+INELIGIBLE;RegulatoryOperators;1
+PERMITTING;RegulatoryOperators;1
+PRECLUDING;RegulatoryOperators;1
+PRESCRIBED;RegulatoryOperators;28
 12 MONTHS;Attributes;7
 18 MONTHS;Attributes;2
-2 CONTENT;LegalReferences;1
 24 MONTHS;Attributes;1
 300000000;Attributes;1
 36 MONTHS;Attributes;2
 5 PERCENT;Attributes;1
+ADVISABLE;Attributes;1
+NECESSARY;Attributes;20
+NO LONGER;Attributes;3
+PER ANNUM;Attributes;1
+SIX-MONTH;Attributes;1
 ABANDONED;EconomicOperands;2
 ACCOUNTED;EconomicOperands;1
 ADDRESSES;EconomicOperands;5
 ADHERE TO;EconomicOperands;1
 ADJUSTING;EconomicOperands;1
-ADVISABLE;Attributes;1
 ADVOCATES;EconomicOperands;1
 AFFECTING;EconomicOperands;3
 AFFILIATE;EconomicOperands;9
@@ -1165,7 +1166,6 @@ AFFIRMING;EconomicOperands;1
 AGGREGATE;EconomicOperands;5
 AGREEMENT;EconomicOperands;8
 ALLOCATED;EconomicOperands;1
-AMENDMENT;Other;10
 AMORTIZES;EconomicOperands;4
 APPLICANT;EconomicOperands;14
 APPOINTED;EconomicOperands;5
@@ -1176,10 +1176,8 @@ ASSESSING;EconomicOperands;1
 ATTEMPTED;EconomicOperands;1
 ATTORNEYS;EconomicOperands;2
 AUTHORITY;EconomicOperands;17
-AUTHORIZE;RegulatoryOperators;1
 AVAILABLE;EconomicOperands;56
 AWARENESS;EconomicOperands;1
-BEGINNING;LogicalConnectors;1
 BONA FIDE;EconomicOperands;12
 BORROWERS;EconomicOperands;16
 BREAKDOWN;EconomicOperands;1
@@ -1191,10 +1189,8 @@ CARRY OUT;EconomicOperands;9
 CAUSES OF;EconomicOperands;1
 CERTIFIED;EconomicOperands;26
 CERTIFIES;EconomicOperands;1
-CHAPTER 5;LegalReferences;1
 CHARACTER;EconomicOperands;1
 CHARTERED;EconomicOperands;1
-CLAUSE II;LegalReferences;2
 COLLECTED;EconomicOperands;7
 COMMITTEE;EconomicOperands;11
 COMMUNITY;EconomicOperands;6
@@ -1208,7 +1204,6 @@ CONDITION;EconomicOperands;5
 CONDUCTED;EconomicOperands;7
 CONFUSING;EconomicOperands;1
 CONSIDERS;EconomicOperands;5
-CONSTRUED;Other;10
 CONSUMERS;EconomicOperands;54
 CONTINUES;EconomicOperands;1
 CONTRACTS;EconomicOperands;2
@@ -1223,15 +1218,9 @@ CUSTOMERS;EconomicOperands;1
 DECEPTION;EconomicOperands;2
 DECEPTIVE;EconomicOperands;4
 DECISIONS;EconomicOperands;1
-DEDUCTION;EconomicOperands;1
-DEFERENCE;Other;3
 DELETIONS;EconomicOperands;1
 DEPOSITED;EconomicOperands;3
-DESCRIBED;Other;22
-DESCRIBES;Other;2
-DETERMINE;RegulatoryOperators;13
 DEVELOPED;EconomicOperands;5
-DIFFERENT;FunctionWords;6
 DILIGENCE;EconomicOperands;1
 DISBURSED;EconomicOperands;1
 DISCOUNTS;EconomicOperands;1
@@ -1242,29 +1231,22 @@ DOCUMENTS;EconomicOperands;6
 DRAW DOWN;EconomicOperands;1
 DWELLINGS;EconomicOperands;2
 EDUCATION;EconomicOperands;9
-EFFECTIVE;Other;8
 EFFICIENT;EconomicOperands;1
 EMERGENCY;EconomicOperands;7
 EMPIRICAL;EconomicOperands;1
 EMPLOYEES;EconomicOperands;3
-ENACTMENT;Other;18
 ENCOURAGE;EconomicOperands;4
 ESCROWING;EconomicOperands;1
 ESSENTIAL;EconomicOperands;1
-ESTABLISH;RegulatoryOperators;20
 ESTIMATED;EconomicOperands;2
 ESTIMATES;EconomicOperands;1
 ETHNICITY;EconomicOperands;1
-EXCEPT AS;LogicalConnectors;13
-EXCEPTION;RegulatoryOperators;4
 EXCESSIVE;EconomicOperands;1
 EXECUTIVE;EconomicOperands;1
-EXEMPTION;RegulatoryOperators;6
 EXISTENCE;EconomicOperands;4
 EXPANDING;EconomicOperands;1
 EXPENSIVE;EconomicOperands;1
 EXPERTISE;EconomicOperands;1
-EXPRESSLY;Other;1
 EXTENDING;EconomicOperands;2
 EXTENSION;EconomicOperands;16
 EXTENSIVE;EconomicOperands;1
@@ -1273,28 +1255,20 @@ FAVORABLE;EconomicOperands;1
 FEDERALLY;EconomicOperands;20
 FINANCIAL;EconomicOperands;12
 FINANCING;EconomicOperands;6
-FOLLOWING;FunctionWords;106
 FUNCTIONS;EconomicOperands;14
 FURNISHED;EconomicOperands;1
-GENERALLY;FunctionWords;1
 GENERATED;EconomicOperands;1
 GUARANTEE;EconomicOperands;5
-HEREAFTER;FunctionWords;2
 HOMEOWNER;EconomicOperands;4
 IMPLEMENT;EconomicOperands;6
 IMPORTANT;EconomicOperands;1
 IMPROVING;EconomicOperands;1
 INCENTIVE;EconomicOperands;1
-INCLUDING;LogicalConnectors;80
-INCREASED;EconomicOperands;3
-INCREASES;EconomicOperands;3
 INFLATION;EconomicOperands;1
 INFLUENCE;EconomicOperands;2
 INFORMING;EconomicOperands;1
-INITIALLY;LogicalConnectors;2
 INITIATED;EconomicOperands;1
 INITIATES;EconomicOperands;1
-INSERTING;Other;88
 INSPECTOR;EconomicOperands;2
 INSTRUCTS;EconomicOperands;1
 INSURANCE;EconomicOperands;50
@@ -1306,26 +1280,20 @@ INVOLVING;EconomicOperands;5
 IRREGULAR;EconomicOperands;1
 KNOWINGLY;EconomicOperands;2
 KNOWLEDGE;EconomicOperands;1
-LESS THAN;LogicalConnectors;8
 LIABILITY;EconomicOperands;7
 LIBRARIES;EconomicOperands;1
 LICENSING;EconomicOperands;23
 LICENSURE;EconomicOperands;3
-LISTED IN;Other;2
 LOCATIONS;EconomicOperands;1
 MAINTAINS;EconomicOperands;2
-MANDATORY;EconomicOperands;4
 MATERIALS;EconomicOperands;9
 MECHANISM;EconomicOperands;1
 MODIFYING;EconomicOperands;1
-MORE THAN;LogicalConnectors;28
 MORTGAGED;EconomicOperands;4
 MORTGAGEE;EconomicOperands;1
 MORTGAGES;EconomicOperands;28
 MORTGAGOR;EconomicOperands;5
-NECESSARY;Attributes;20
 NEGOTIATE;EconomicOperands;1
-NO LONGER;Attributes;3
 NONPROFIT;EconomicOperands;1
 OBJECTIVE;EconomicOperands;1
 OBTAINING;EconomicOperands;9
@@ -1333,29 +1301,22 @@ OCCASIONS;EconomicOperands;1
 OPERATING;EconomicOperands;3
 OPERATION;EconomicOperands;3
 ORGANIZED;EconomicOperands;1
-OTHERWISE;LogicalConnectors;16
 OVERSIGHT;EconomicOperands;1
 OWNERSHIP;EconomicOperands;3
-PARAGRAPH;LegalReferences;15
 PENALTIES;EconomicOperands;13
-PER ANNUM;Attributes;1
 PERFORMED;EconomicOperands;5
 PERMANENT;EconomicOperands;3
-PERMITTED;RegulatoryOperators;4
 PERSONNEL;EconomicOperands;2
 PLACEMENT;EconomicOperands;1
 PORTFOLIO;EconomicOperands;3
 POTENTIAL;EconomicOperands;6
 PRACTICES;EconomicOperands;17
-PRECEDING;FunctionWords;4
 PREDATORY;EconomicOperands;2
 PREFERRED;EconomicOperands;1
 PREPARING;EconomicOperands;1
-PRESCRIBE;RegulatoryOperators;18
 PRINCIPAL;EconomicOperands;60
 PRIVATELY;EconomicOperands;1
 PRIVILEGE;EconomicOperands;1
-PRO-RATED;RegulatoryOperators;1
 PROCEDURE;EconomicOperands;2
 PROCESSED;EconomicOperands;1
 PROCESSES;EconomicOperands;2
@@ -1380,16 +1341,12 @@ REDUCTION;EconomicOperands;8
 REFERENCE;EconomicOperands;3
 REFERRALS;EconomicOperands;2
 REFINANCE;EconomicOperands;4
-REGARDING;LogicalConnectors;21
-REGULATED;RegulatoryOperators;7
 REGULATOR;EconomicOperands;1
 REIMBURSE;EconomicOperands;2
 REPAYMENT;EconomicOperands;14
-REPEALING;RegulatoryOperators;1
 REPLACING;EconomicOperands;1
 REPORTING;EconomicOperands;10
 REPRESENT;EconomicOperands;1
-REQUIRING;RegulatoryOperators;2
 RESETTING;EconomicOperands;2
 RESIDENCE;EconomicOperands;9
 RESIDENTS;EconomicOperands;2
@@ -1405,17 +1362,12 @@ SCHEDULED;EconomicOperands;6
 SCHEDULES;EconomicOperands;1
 SECONDARY;EconomicOperands;5
 SECRETARY;EconomicOperands;75
-SECTION 4;LegalReferences;1
-SECTION 6;LegalReferences;2
 SELECTING;EconomicOperands;1
 SELECTION;EconomicOperands;3
-SEMICOLON;Other;3
 SERVICERS;EconomicOperands;7
 SERVICING;EconomicOperands;2
 SITUATION;EconomicOperands;1
-SIX-MONTH;Attributes;1
 SOUNDNESS;EconomicOperands;1
-SPECIFIED;RegulatoryOperators;5
 SPECIFIES;EconomicOperands;1
 SPONSORED;EconomicOperands;2
 STANDARDS;EconomicOperands;32
@@ -1423,11 +1375,9 @@ STATEMENT;EconomicOperands;12
 STATUTORY;EconomicOperands;3
 STRIPPING;EconomicOperands;1
 STRUCTURE;EconomicOperands;2
-SUBCLAUSE;LegalReferences;1
 SUBMITTED;EconomicOperands;1
 SUBORNING;EconomicOperands;2
 SUBSIDIES;EconomicOperands;1
-SUBTITLES;Other;2
 SUCCESSOR;EconomicOperands;4
 SUSPENDED;EconomicOperands;1
 TAXPAYERS;EconomicOperands;1
@@ -1438,9 +1388,6 @@ TERMINATE;EconomicOperands;2
 TERRITORY;EconomicOperands;1
 THRESHOLD;EconomicOperands;4
 TIMESHARE;EconomicOperands;1
-TITLE III;LegalReferences;1
-TITLE XIV;LegalReferences;1
-TO RESUME;LogicalConnectors;1
 TOLL-FREE;EconomicOperands;5
 TRADE-OFF;EconomicOperands;1
 UNDERTAKE;EconomicOperands;1
@@ -1455,15 +1402,74 @@ WEB-BASED;EconomicOperands;1
 WHOLESALE;EconomicOperands;1
 WILLFULLY;EconomicOperands;1
 WITHDRAWN;EconomicOperands;1
-1-4 UNIT;Attributes;1
+DIFFERENT;FunctionWords;6
+FOLLOWING;FunctionWords;106
+GENERALLY;FunctionWords;1
+HEREAFTER;FunctionWords;2
+PRECEDING;FunctionWords;4
+2 CONTENT;LegalReferences;1
+CHAPTER 5;LegalReferences;1
+CLAUSE II;LegalReferences;2
+PARAGRAPH;LegalReferences;15
+SECTION 4;LegalReferences;1
+SECTION 6;LegalReferences;2
+SUBCLAUSE;LegalReferences;1
+TITLE III;LegalReferences;1
+TITLE XIV;LegalReferences;1
+BEGINNING;LogicalConnectors;1
+EXCEPT AS;LogicalConnectors;13
+INCLUDING;LogicalConnectors;80
+INITIALLY;LogicalConnectors;2
+LESS THAN;LogicalConnectors;8
+MORE THAN;LogicalConnectors;28
+OTHERWISE;LogicalConnectors;16
+REGARDING;LogicalConnectors;21
+TO RESUME;LogicalConnectors;1
+DEDUCTION;MathematicalOperators;1
+INCREASED;MathematicalOperators;3
+INCREASES;MathematicalOperators;3
+AMENDMENT;Other;10
+CONSTRUED;Other;10
+DEFERENCE;Other;3
+DESCRIBED;Other;22
+DESCRIBES;Other;2
+EFFECTIVE;Other;8
+ENACTMENT;Other;18
+EXPRESSLY;Other;1
+INSERTING;Other;88
+LISTED IN;Other;2
+SEMICOLON;Other;3
+SUBTITLES;Other;2
+MANDATORY;RegulatoryOperators;4
+AUTHORIZE;RegulatoryOperators;1
+DETERMINE;RegulatoryOperators;13
+ESTABLISH;RegulatoryOperators;20
+EXCEPTION;RegulatoryOperators;4
+EXEMPTION;RegulatoryOperators;6
+PERMITTED;RegulatoryOperators;4
+PRESCRIBE;RegulatoryOperators;18
+PRO-RATED;RegulatoryOperators;1
+REGULATED;RegulatoryOperators;7
+REPEALING;RegulatoryOperators;1
+REQUIRING;RegulatoryOperators;2
+SPECIFIED;RegulatoryOperators;5
 10 YEARS;Attributes;2
 12-MONTH;Attributes;1
-18-MONTH;Attributes;1
+1-4 UNIT;Attributes;1
 180 DAYS;Attributes;1
-3 REPORT;LegalReferences;1
+18-MONTH;Attributes;1
 35000000;Attributes;1
 45000000;Attributes;1
 6 MONTHS;Attributes;3
+ADEQUATE;Attributes;2
+DIRECTLY;Attributes;14
+FEASIBLE;Attributes;1
+IMPROPER;Attributes;2
+PERIODIC;Attributes;9
+POSSIBLE;Attributes;1
+PROMPTLY;Attributes;2
+PROPERLY;Attributes;1
+RELEVANT;Attributes;3
 ACADEMIC;EconomicOperands;1
 ACCEPTED;EconomicOperands;3
 ACCIDENT;EconomicOperands;2
@@ -1473,9 +1479,7 @@ ACCURACY;EconomicOperands;1
 ACCURATE;EconomicOperands;1
 ACHIEVED;EconomicOperands;1
 ACTIVITY;EconomicOperands;2
-ADDITION;EconomicOperands;2
 ADEQUACY;EconomicOperands;1
-ADEQUATE;Attributes;2
 ADJUSTED;EconomicOperands;4
 ADOPTION;EconomicOperands;1
 ADVANCES;EconomicOperands;2
@@ -1485,29 +1489,22 @@ AGENCIES;EconomicOperands;29
 AGREEING;EconomicOperands;1
 AIMED AT;EconomicOperands;1
 ALLOCATE;EconomicOperands;2
-AMENDING;Other;7
 AMORTIZE;EconomicOperands;2
 ANALYSES;EconomicOperands;2
 ANALYSIS;EconomicOperands;9
 APPARENT;EconomicOperands;3
 APPLYING;EconomicOperands;3
 APPROACH;EconomicOperands;3
-APPROVAL;RegulatoryOperators;4
 APPROVED;EconomicOperands;9
 ASSESSED;EconomicOperands;3
-ASSIGNED;RegulatoryOperators;1
 ASSIGNEE;EconomicOperands;11
 ASSISTED;EconomicOperands;1
 ASSUMING;EconomicOperands;2
-AT FIRST;LogicalConnectors;1
-AT LEAST;LogicalConnectors;9
 ATTEMPTS;EconomicOperands;1
 AVOIDING;EconomicOperands;7
 AWARDING;EconomicOperands;1
 BALANCES;EconomicOperands;4
 BARRIERS;EconomicOperands;2
-BASED ON;Other;19
-BECOMING;Other;1
 BOOKLETS;EconomicOperands;2
 BORROWER;EconomicOperands;36
 BRINGING;EconomicOperands;1
@@ -1519,18 +1516,14 @@ CARRYING;EconomicOperands;8
 CASUALTY;EconomicOperands;1
 CHANNELS;EconomicOperands;10
 CHARGING;EconomicOperands;1
-CLAUSE I;LegalReferences;3
 CLERICAL;EconomicOperands;6
-COERCION;EconomicOperands;1
 COLLUDES;EconomicOperands;1
 COMBINED;EconomicOperands;2
 COMMENCE;EconomicOperands;1
-COMMONLY;FunctionWords;1
 COMPANYS;EconomicOperands;1
 COMPARED;EconomicOperands;1
 COMPLETE;EconomicOperands;3
 COMPLIED;EconomicOperands;1
-COMPUTED;RegulatoryOperators;2
 COMPUTER;EconomicOperands;6
 CONCERNS;EconomicOperands;1
 CONDUCTS;EconomicOperands;1
@@ -1538,7 +1531,6 @@ CONGRESS;EconomicOperands;15
 CONSIDER;EconomicOperands;8
 CONSUMER;EconomicOperands;165
 CONTAINS;EconomicOperands;2
-CONTENTS;FunctionWords;1
 CONTRACT;EconomicOperands;10
 COSTS OF;EconomicOperands;3
 COUNCILS;EconomicOperands;2
@@ -1553,16 +1545,13 @@ DATABASE;EconomicOperands;5
 DEADLINE;EconomicOperands;2
 DEALINGS;EconomicOperands;1
 DECISION;EconomicOperands;3
-DECREASE;EconomicOperands;2
 DEFAULTS;EconomicOperands;4
 DEFERRAL;EconomicOperands;2
 DEFERRED;EconomicOperands;1
 DEFINING;EconomicOperands;3
 DELETION;EconomicOperands;1
 DELIVERY;EconomicOperands;1
-DESCRIBE;Other;1
 DESIGNED;EconomicOperands;4
-DIRECTLY;Attributes;14
 DIRECTOR;EconomicOperands;31
 DISASTER;EconomicOperands;1
 DISCLOSE;EconomicOperands;4
@@ -1571,7 +1560,6 @@ DISTINCT;EconomicOperands;1
 DISTRICT;EconomicOperands;2
 DIVISION;EconomicOperands;2
 DOCUMENT;EconomicOperands;2
-DOES NOT;FunctionWords;27
 DURATION;EconomicOperands;2
 DWELLING;EconomicOperands;41
 ECONOMIC;EconomicOperands;2
@@ -1584,11 +1572,9 @@ EMPLOYEE;EconomicOperands;4
 ENFORCED;EconomicOperands;1
 ENGAGING;EconomicOperands;2
 ENHANCED;EconomicOperands;1
-ENSURING;RegulatoryOperators;2
 ENTERING;EconomicOperands;1
 ENTITIES;EconomicOperands;6
 ENTITLED;EconomicOperands;8
-EQUAL TO;LogicalConnectors;7
 ESCROWED;EconomicOperands;1
 ESTIMATE;EconomicOperands;5
 EVASIONS;EconomicOperands;2
@@ -1602,7 +1588,6 @@ EXPENDED;EconomicOperands;1
 EXPENSES;EconomicOperands;3
 EXTENDED;EconomicOperands;4
 EXTERNAL;EconomicOperands;1
-FEASIBLE;Attributes;1
 FINANCED;EconomicOperands;4
 FINDINGS;EconomicOperands;3
 FORMULAE;EconomicOperands;1
@@ -1614,11 +1599,9 @@ HEARINGS;EconomicOperands;1
 IDENTIFY;EconomicOperands;1
 IDENTITY;EconomicOperands;2
 IMPORTED;EconomicOperands;1
-IMPROPER;Attributes;2
 INCIDENT;EconomicOperands;1
 INCLUDED;EconomicOperands;5
 INCLUDES;EconomicOperands;7
-INCREASE;EconomicOperands;8
 INCURRED;EconomicOperands;1
 INDICATE;EconomicOperands;1
 INDIRECT;EconomicOperands;6
@@ -1637,22 +1620,18 @@ LANGUAGE;EconomicOperands;8
 LICENSED;EconomicOperands;10
 LICENSES;EconomicOperands;4
 LIFETIME;EconomicOperands;1
-LIMITING;RegulatoryOperators;2
 LOCATION;EconomicOperands;1
 LUMP SUM;EconomicOperands;1
 MAINTAIN;EconomicOperands;11
-MANDATED;EconomicOperands;3
 MATERIAL;EconomicOperands;1
 MATURITY;EconomicOperands;2
 MEASURES;EconomicOperands;6
 MEETINGS;EconomicOperands;3
 MINORITY;EconomicOperands;3
 MISSTATE;EconomicOperands;1
-MODIFIED;FunctionWords;2
 MORTGAGE;EconomicOperands;147
 MULTIPLE;EconomicOperands;3
 NATIONAL;EconomicOperands;17
-NEGATIVE;EconomicOperands;9
 NONPRIME;EconomicOperands;1
 NOTIFIED;EconomicOperands;2
 NOTIFIES;EconomicOperands;1
@@ -1670,21 +1649,17 @@ PAMPHLET;EconomicOperands;1
 PAYMENTS;EconomicOperands;39
 PER DIEM;EconomicOperands;1
 PERFORMS;EconomicOperands;3
-PERIODIC;Attributes;9
 PERSONAL;EconomicOperands;3
 PHYSICAL;EconomicOperands;2
 PLANNING;EconomicOperands;3
 POLICIES;EconomicOperands;7
 PORTIONS;EconomicOperands;1
 POSITION;EconomicOperands;4
-POSSIBLE;Attributes;1
 PRACTICE;EconomicOperands;11
 PRE-LOAN;EconomicOperands;2
-PRECEDES;Other;2
 PREMIUMS;EconomicOperands;19
 PREPARED;EconomicOperands;5
 PRESENCE;EconomicOperands;2
-PREVIOUS;LogicalConnectors;5
 PRIORITY;EconomicOperands;4
 PROBABLE;EconomicOperands;1
 PROCEEDS;EconomicOperands;3
@@ -1692,15 +1667,10 @@ PRODUCED;EconomicOperands;1
 PRODUCTS;EconomicOperands;1
 PROGRAMS;EconomicOperands;17
 PROGRESS;EconomicOperands;1
-PROHIBIT;RegulatoryOperators;2
 PROJECTS;EconomicOperands;2
 PROMOTES;EconomicOperands;1
-PROMPTLY;Attributes;2
-PROPERLY;Attributes;1
 PROPERTY;EconomicOperands;73
-PROVIDED;LogicalConnectors;56
 PROVIDES;EconomicOperands;15
-PROVISOS;Other;1
 PUBLICLY;EconomicOperands;6
 PURCHASE;EconomicOperands;17
 PURPOSES;EconomicOperands;63
@@ -1714,15 +1684,11 @@ REGISTER;EconomicOperands;4
 REGISTRY;EconomicOperands;17
 REJECTED;EconomicOperands;1
 RELATION;EconomicOperands;1
-RELEVANT;Attributes;3
 RELIABLE;EconomicOperands;3
 REMEDIES;EconomicOperands;2
 REMINDER;EconomicOperands;1
 RENDERED;EconomicOperands;2
-REPEALED;RegulatoryOperators;1
 REQUESTS;EconomicOperands;8
-REQUIRED;RegulatoryOperators;56
-REQUIRES;RegulatoryOperators;3
 RESEARCH;EconomicOperands;1
 RESERVES;EconomicOperands;2
 RESIDING;EconomicOperands;1
@@ -1737,31 +1703,20 @@ REVISION;EconomicOperands;1
 SANITARY;EconomicOperands;1
 SCHEDULE;EconomicOperands;9
 SEASONAL;EconomicOperands;2
-SECTIONS;Other;18
 SECURING;EconomicOperands;12
 SECURITY;EconomicOperands;7
-SENTENCE;Other;18
 SEPARATE;EconomicOperands;6
 SERVICER;EconomicOperands;49
 SERVICES;EconomicOperands;35
 SETTLING;EconomicOperands;1
-SO AS TO;LogicalConnectors;2
 SOFTWARE;EconomicOperands;9
-SPECIFIC;FunctionWords;6
 STAFFING;EconomicOperands;2
 STANDARD;EconomicOperands;7
 STANDING;EconomicOperands;1
 STEERING;EconomicOperands;4
-STRIKING;Other;48
 SUBPRIME;EconomicOperands;5
-SUBTITLE;LegalReferences;3
-SUBTRACT;RegulatoryOperators;3
-SUITABLE;RegulatoryOperators;1
 TARGETED;EconomicOperands;1
 TAXATION;EconomicOperands;1
-THIS ACT;LegalReferences;20
-TITLE II;LegalReferences;2
-TITLE XI;LegalReferences;2
 TOWNSHIP;EconomicOperands;1
 TRACKING;EconomicOperands;2
 TRAINING;EconomicOperands;4
@@ -1769,7 +1724,6 @@ TRANSFER;EconomicOperands;3
 TRANSMIT;EconomicOperands;4
 TREASURY;EconomicOperands;3
 UNBIASED;EconomicOperands;1
-UNLAWFUL;Attributes;1
 UPDATING;EconomicOperands;2
 VARIABLE;EconomicOperands;4
 VERIFIED;EconomicOperands;3
@@ -1781,21 +1735,72 @@ VIOLATES;EconomicOperands;2
 VOUCHERS;EconomicOperands;1
 WARNINGS;EconomicOperands;2
 WARRANTS;EconomicOperands;1
-WHATEVER;FunctionWords;2
 WITHHOLD;EconomicOperands;1
-1-MONTH;Attributes;1
+COMMONLY;FunctionWords;1
+CONTENTS;FunctionWords;1
+DOES NOT;FunctionWords;27
+MODIFIED;FunctionWords;2
+SPECIFIC;FunctionWords;6
+WHATEVER;FunctionWords;2
+3 REPORT;LegalReferences;1
+CLAUSE I;LegalReferences;3
+SUBTITLE;LegalReferences;3
+THIS ACT;LegalReferences;20
+TITLE II;LegalReferences;2
+TITLE XI;LegalReferences;2
+AT FIRST;LogicalConnectors;1
+AT LEAST;LogicalConnectors;9
+EQUAL TO;LogicalConnectors;7
+PREVIOUS;LogicalConnectors;5
+PROVIDED;LogicalConnectors;56
+SO AS TO;LogicalConnectors;2
+ADDITION;MathematicalOperators;2
+DECREASE;MathematicalOperators;2
+INCREASE;MathematicalOperators;8
+NEGATIVE;MathematicalOperators;9
+AMENDING;Other;7
+BASED ON;Other;19
+BECOMING;Other;1
+DESCRIBE;Other;1
+PRECEDES;Other;2
+PROVISOS;Other;1
+SECTIONS;Other;18
+SENTENCE;Other;18
+STRIKING;Other;48
+COERCION;RegulatoryOperators;1
+MANDATED;RegulatoryOperators;3
+UNLAWFUL;RegulatoryOperators;1
+APPROVAL;RegulatoryOperators;4
+ASSIGNED;RegulatoryOperators;1
+COMPUTED;RegulatoryOperators;2
+ENSURING;RegulatoryOperators;2
+LIMITING;RegulatoryOperators;2
+PROHIBIT;RegulatoryOperators;2
+REPEALED;RegulatoryOperators;1
+REQUIRED;RegulatoryOperators;56
+REQUIRES;RegulatoryOperators;3
+SUBTRACT;RegulatoryOperators;3
+SUITABLE;RegulatoryOperators;1
 1000000;Attributes;3
 120-DAY;Attributes;1
 14 DAYS;Attributes;1
 14 UNIT;Attributes;1
 15 DAYS;Attributes;2
+1-MONTH;Attributes;1
 2 YEARS;Attributes;1
 30 DAYS;Attributes;6
 3000000;Attributes;1
 5 YEARS;Attributes;4
-6-MONTH;Attributes;1
 60 DAYS;Attributes;5
+6-MONTH;Attributes;1
 90 DAYS;Attributes;6
+ALREADY;Attributes;2
+EARLIER;Attributes;3
+JUNE 15;Attributes;1
+MONTHLY;Attributes;21
+PERCENT;Attributes;14
+PRUDENT;Attributes;1
+QUARTER;Attributes;1
 ABILITY;EconomicOperands;24
 ABSENCE;EconomicOperands;2
 ABUSIVE;EconomicOperands;6
@@ -1805,22 +1810,15 @@ ACHIEVE;EconomicOperands;1
 ACTIONS;EconomicOperands;15
 ADDRESS;EconomicOperands;7
 ADJUSTS;EconomicOperands;2
-ADOPTED;Other;1
 ADVANCE;EconomicOperands;10
 ADVERSE;EconomicOperands;1
 ADVISES;EconomicOperands;1
 AFFAIRS;EconomicOperands;2
 AFFECTS;EconomicOperands;4
 AFFORDS;EconomicOperands;1
-AGAINST;FunctionWords;11
 AGENCYS;EconomicOperands;1
 ALLEGED;EconomicOperands;1
-ALLOWED;RegulatoryOperators;2
-ALREADY;Attributes;2
-AMENDED;RegulatoryOperators;99
 AMOUNTS;EconomicOperands;35
-ANOTHER;FunctionWords;4
-APPEARS;Other;3
 APPLIED;EconomicOperands;10
 APPOINT;EconomicOperands;1
 ARISING;EconomicOperands;2
@@ -1828,14 +1826,12 @@ ARRANGE;EconomicOperands;1
 ASSISTS;EconomicOperands;2
 ASSURED;EconomicOperands;1
 AT-RISK;EconomicOperands;1
-AVERAGE;EconomicOperands;4
 AVOIDED;EconomicOperands;1
 BALANCE;EconomicOperands;14
 BANKING;EconomicOperands;1
 BECOMES;EconomicOperands;2
 BELIEVE;EconomicOperands;2
 BENEFIT;EconomicOperands;2
-BETWEEN;FunctionWords;9
 BOOKLET;EconomicOperands;11
 BOROUGH;EconomicOperands;1
 BROKERS;EconomicOperands;1
@@ -1844,10 +1840,8 @@ CAPABLE;EconomicOperands;1
 CAPITAL;EconomicOperands;1
 CAUSING;EconomicOperands;2
 CENTERS;EconomicOperands;2
-CERTAIN;FunctionWords;16
 CERTIFY;EconomicOperands;1
 CHANGES;EconomicOperands;3
-CHAPTER;Other;2
 CHARGED;EconomicOperands;10
 CHARGES;EconomicOperands;14
 CHOICES;EconomicOperands;2
@@ -1857,17 +1851,14 @@ CLEARLY;EconomicOperands;1
 CLIENTS;EconomicOperands;2
 CLOSING;EconomicOperands;13
 CLOSURE;EconomicOperands;1
-COERCES;EconomicOperands;1
 COLLECT;EconomicOperands;4
 COLLUDE;EconomicOperands;1
 COMMENT;EconomicOperands;1
 COMPANY;EconomicOperands;8
 COMPLEX;EconomicOperands;5
-CONDUCT;EconomicOperands;12
-CONFORM;RegulatoryOperators;3
+CONDUCT;EconomicOperands;13
 CONTACT;EconomicOperands;7
 CONTAIN;EconomicOperands;4
-CONTENT;Other;2
 CONTROL;EconomicOperands;3
 CORRECT;EconomicOperands;2
 COUNCIL;EconomicOperands;9
@@ -1875,7 +1866,6 @@ COURIER;EconomicOperands;1
 COURSES;EconomicOperands;1
 COVERED;EconomicOperands;1
 CREATED;EconomicOperands;1
-CURRENT;FunctionWords;9
 DAMAGES;EconomicOperands;8
 DANGERS;EconomicOperands;1
 DEFAULT;EconomicOperands;12
@@ -1888,57 +1878,41 @@ DEVELOP;EconomicOperands;4
 DISPUTE;EconomicOperands;1
 DROPPED;EconomicOperands;1
 DRYWALL;EconomicOperands;3
-EARLIER;Attributes;3
 EDUCATE;EconomicOperands;1
 EFFECTS;EconomicOperands;2
 EFFORTS;EconomicOperands;6
 ELDERLY;EconomicOperands;2
 EMPLOYS;EconomicOperands;3
-ENFORCE;RegulatoryOperators;3
 ENGLISH;EconomicOperands;4
 ENHANCE;EconomicOperands;2
 ENSURES;EconomicOperands;1
-EQUALLY;LogicalConnectors;1
 EVADING;EconomicOperands;2
 EVASION;EconomicOperands;4
 EXAMINE;EconomicOperands;1
-EXCEEDS;LogicalConnectors;4
 EXCLUDE;EconomicOperands;4
 EXPENSE;EconomicOperands;2
 EXPOSED;EconomicOperands;1
 EXPRESS;EconomicOperands;3
 EXTORTS;EconomicOperands;1
 FACTORS;EconomicOperands;3
-FAILING;FunctionWords;1
 FAILURE;EconomicOperands;5
 FALLING;EconomicOperands;1
 FEDERAL;EconomicOperands;55
 FINANCE;EconomicOperands;21
 FINDING;EconomicOperands;4
-FOLLOWS;FunctionWords;5
 FORFEIT;EconomicOperands;1
 FORGERY;EconomicOperands;1
 FORMULA;EconomicOperands;4
 FULFILL;EconomicOperands;1
 FUNDING;EconomicOperands;6
 FURNISH;EconomicOperands;1
-FURTHER;LogicalConnectors;3
-GENERAL;FunctionWords;7
 GETTING;EconomicOperands;1
-GRANTED;LogicalConnectors;1
-GREATER;LogicalConnectors;1
-HEADING;Other;5
-HIGHEST;Attributes;4
 HISTORY;EconomicOperands;3
 HOTLINE;EconomicOperands;7
 HOUSING;EconomicOperands;66
-HOWEVER;LogicalConnectors;1
 IMPOSED;EconomicOperands;7
 IMPOUND;EconomicOperands;21
 IMPROVE;EconomicOperands;1
-IN CASE;LogicalConnectors;1
-IN FACT;LogicalConnectors;2
-IN THAT;LogicalConnectors;1
 INCLUDE;EconomicOperands;44
 INCOMES;EconomicOperands;1
 INDEXED;EconomicOperands;2
@@ -1949,50 +1923,36 @@ INTERIM;EconomicOperands;5
 INVOLVE;EconomicOperands;1
 ISSUERS;EconomicOperands;1
 ISSUING;EconomicOperands;1
-JOINTLY;FunctionWords;7
-JUNE 15;Attributes;1
 LARCENY;EconomicOperands;1
 LENDERS;EconomicOperands;12
 LENDING;EconomicOperands;10
 LICENSE;EconomicOperands;5
-LIMITED;EconomicOperands;2
 LOCATED;EconomicOperands;5
 LOCK IN;EconomicOperands;1
 MAILING;EconomicOperands;2
-MATTERS;FunctionWords;1
-MAXIMUM;Attributes;16
-MEANING;Other;6
 MEDICAL;EconomicOperands;1
 MEETING;EconomicOperands;2
 MEMBERS;EconomicOperands;4
 METHODS;EconomicOperands;2
-MINIMUM;Attributes;16
 MISSION;EconomicOperands;1
 MISUSED;EconomicOperands;1
 MONITOR;EconomicOperands;6
-MONTHLY;Attributes;21
 NETWORK;EconomicOperands;1
-NOTHING;FunctionWords;2
 NOTICES;EconomicOperands;1
 NUMBERS;EconomicOperands;3
 OBLIGOR;EconomicOperands;7
 OFFERED;EconomicOperands;4
 OFFICES;EconomicOperands;1
-ONLY IF;LogicalConnectors;4
 OPERATE;EconomicOperands;1
 OPTIONS;EconomicOperands;2
 ORDERED;EconomicOperands;1
-OVERALL;LogicalConnectors;1
 PARTIAL;EconomicOperands;4
 PARTIES;EconomicOperands;2
 PAYABLE;EconomicOperands;12
 PAYMENT;EconomicOperands;67
 PAYROLL;EconomicOperands;1
 PENALTY;EconomicOperands;17
-PENDING;FunctionWords;2
-PERCENT;Attributes;14
 PERFORM;EconomicOperands;7
-PERMITS;RegulatoryOperators;3
 PERSONS;EconomicOperands;13
 PLANNED;EconomicOperands;1
 PORTION;EconomicOperands;1
@@ -2000,8 +1960,6 @@ POSTING;EconomicOperands;1
 PREMIUM;EconomicOperands;5
 PREPAID;EconomicOperands;1
 PREPARE;EconomicOperands;2
-PRESENT;FunctionWords;7
-PREVENT;RegulatoryOperators;5
 PRICING;EconomicOperands;1
 PRIMARY;EconomicOperands;4
 PRIVACY;EconomicOperands;3
@@ -2012,13 +1970,10 @@ PROGRAM;EconomicOperands;40
 PROMOTE;EconomicOperands;2
 PROTECT;EconomicOperands;5
 PROVIDE;EconomicOperands;46
-PROVISO;Other;2
-PRUDENT;Attributes;1
 PUBLISH;EconomicOperands;2
 PURPOSE;EconomicOperands;10
 QUALIFY;EconomicOperands;1
 QUALITY;EconomicOperands;3
-QUARTER;Attributes;1
 QUICKLY;EconomicOperands;1
 RECEIPT;EconomicOperands;7
 RECEIVE;EconomicOperands;15
@@ -2030,7 +1985,6 @@ REFLECT;EconomicOperands;6
 REFORMS;EconomicOperands;1
 REFUSED;EconomicOperands;1
 REGULAR;EconomicOperands;2
-RELATED;FunctionWords;31
 REMAINS;EconomicOperands;3
 RENEWAL;EconomicOperands;1
 RENTERS;EconomicOperands;2
@@ -2038,7 +1992,6 @@ RENTING;EconomicOperands;1
 REPLACE;EconomicOperands;1
 REPORTS;EconomicOperands;7
 REQUEST;EconomicOperands;4
-REQUIRE;RegulatoryOperators;9
 RESCUES;EconomicOperands;1
 RESIDES;EconomicOperands;2
 RESPOND;EconomicOperands;2
@@ -2052,9 +2005,7 @@ REVISED;EconomicOperands;2
 REVOKED;EconomicOperands;2
 ROLE OF;EconomicOperands;2
 SATISFY;EconomicOperands;3
-SAVINGS;FunctionWords;2
 SCHEMES;EconomicOperands;1
-SECTION;LegalReferences;11
 SECURED;EconomicOperands;36
 SECURES;EconomicOperands;1
 SEEKING;EconomicOperands;4
@@ -2066,19 +2017,13 @@ SERVING;EconomicOperands;2
 SESSION;EconomicOperands;2
 SET-OFF;EconomicOperands;2
 SETTING;EconomicOperands;1
-SEVERAL;FunctionWords;2
 SHARING;EconomicOperands;1
 SHOPPED;EconomicOperands;1
-SIMILAR;LogicalConnectors;5
-SMALLER;Attributes;2
-SO THAT;LogicalConnectors;3
 SOURCES;EconomicOperands;2
 SPANISH;EconomicOperands;4
 SPECIAL;EconomicOperands;4
-STATUTE;Other;3
 STUDIES;EconomicOperands;2
 SUBJECT;EconomicOperands;3
-SUCH AS;LogicalConnectors;9
 SUMMARY;EconomicOperands;1
 SUPPORT;EconomicOperands;4
 SURVEYS;EconomicOperands;1
@@ -2087,15 +2032,7 @@ TAXABLE;EconomicOperands;2
 TENANCY;EconomicOperands;1
 TENANTS;EconomicOperands;4
 TESTING;EconomicOperands;2
-THAT IS;LogicalConnectors;45
-THEREIN;Other;1
-THEREOF;FunctionWords;4
-THROUGH;FunctionWords;24
-TITLE 5;LegalReferences;1
-TITLE I;LegalReferences;4
-TITLE X;LegalReferences;3
 TRADING;EconomicOperands;1
-TRIPLED;RegulatoryOperators;1
 TYPICAL;EconomicOperands;1
 UNIFORM;EconomicOperands;9
 UNSOUND;EconomicOperands;1
@@ -2103,39 +2040,101 @@ UPDATED;EconomicOperands;1
 UPFRONT;EconomicOperands;1
 UTILIZE;EconomicOperands;1
 VALUING;EconomicOperands;1
-VARIOUS;FunctionWords;3
-VARYING;FunctionWords;2
 VERSION;EconomicOperands;1
 VIOLATE;EconomicOperands;3
 WEBSITE;EconomicOperands;2
-WHETHER;LogicalConnectors;23
-WITHOUT;FunctionWords;12
 WORKING;EconomicOperands;2
 WRITING;EconomicOperands;3
 WRITTEN;EconomicOperands;14
-1-YEAR;Attributes;5
+AGAINST;FunctionWords;11
+ANOTHER;FunctionWords;4
+BETWEEN;FunctionWords;9
+CERTAIN;FunctionWords;16
+CURRENT;FunctionWords;9
+FAILING;FunctionWords;1
+FOLLOWS;FunctionWords;5
+GENERAL;FunctionWords;7
+MATTERS;FunctionWords;1
+PENDING;FunctionWords;2
+PRESENT;FunctionWords;7
+RELATED;FunctionWords;31
+SAVINGS;FunctionWords;2
+SEVERAL;FunctionWords;2
+THEREOF;FunctionWords;4
+THROUGH;FunctionWords;24
+VARIOUS;FunctionWords;3
+VARYING;FunctionWords;2
+WITHOUT;FunctionWords;12
+SECTION;LegalReferences;11
+TITLE 5;LegalReferences;1
+TITLE I;LegalReferences;4
+TITLE X;LegalReferences;3
+JOINTLY;LogicalConnectors;7
+NOTHING;LogicalConnectors;2
+EQUALLY;LogicalConnectors;1
+EXCEEDS;LogicalConnectors;4
+FURTHER;LogicalConnectors;3
+GRANTED;LogicalConnectors;1
+GREATER;LogicalConnectors;1
+HOWEVER;LogicalConnectors;1
+IN CASE;LogicalConnectors;1
+IN FACT;LogicalConnectors;2
+IN THAT;LogicalConnectors;1
+ONLY IF;LogicalConnectors;4
+OVERALL;LogicalConnectors;1
+SIMILAR;LogicalConnectors;5
+SO THAT;LogicalConnectors;3
+SUCH AS;LogicalConnectors;9
+THAT IS;LogicalConnectors;45
+WHETHER;LogicalConnectors;23
+AVERAGE;MathematicalOperators;4
+HIGHEST;MathematicalOperators;4
+MAXIMUM;MathematicalOperators;16
+MINIMUM;MathematicalOperators;16
+SMALLER;MathematicalOperators;2
+ADOPTED;Other;1
+APPEARS;Other;3
+CHAPTER;Other;2
+CONTENT;Other;2
+HEADING;Other;5
+MEANING;Other;6
+PROVISO;Other;2
+STATUTE;Other;3
+THEREIN;Other;1
+COERCES;RegulatoryOperators;1
+LIMITED;RegulatoryOperators;2
+ALLOWED;RegulatoryOperators;2
+AMENDED;RegulatoryOperators;99
+CONFORM;RegulatoryOperators;3
+ENFORCE;RegulatoryOperators;3
+PERMITS;RegulatoryOperators;3
+PREVENT;RegulatoryOperators;5
+REQUIRE;RegulatoryOperators;9
+TRIPLED;RegulatoryOperators;1
 15-DAY;Attributes;2
+1-YEAR;Attributes;5
 3 DAYS;Attributes;2
-3-YEAR;Attributes;2
 30-DAY;Attributes;3
+3-YEAR;Attributes;2
 500000;Attributes;2
+FOURTH;Attributes;2
+LIKELY;Attributes;1
+PROMPT;Attributes;4
+TIMELY;Attributes;7
+WEEKLY;Attributes;1
 ACCEPT;EconomicOperands;2
 ACCESS;EconomicOperands;4
 ACCRUE;EconomicOperands;1
 ACTING;EconomicOperands;5
 ACTION;EconomicOperands;23
 ACTUAL;EconomicOperands;1
-ADDING;Other;33
 ADJUST;EconomicOperands;4
 ADVICE;EconomicOperands;3
 ADVISE;EconomicOperands;2
 AGENCY;EconomicOperands;51
 AGENTS;EconomicOperands;3
-ALLOWS;RegulatoryOperators;1
-ALMOST;LogicalConnectors;1
 AMOUNT;EconomicOperands;83
 ANNUAL;EconomicOperands;21
-ANYONE;FunctionWords;1
 ARISES;EconomicOperands;1
 ASKING;EconomicOperands;1
 ASSERT;EconomicOperands;1
@@ -2146,8 +2145,6 @@ ASSURE;EconomicOperands;3
 AUDITS;EconomicOperands;1
 BANKER;EconomicOperands;2
 BECOME;EconomicOperands;1
-BEFORE;LogicalConnectors;27
-BEHIND;FunctionWords;2
 BOARDS;EconomicOperands;1
 BODIES;EconomicOperands;1
 BRIBES;EconomicOperands;1
@@ -2162,12 +2159,8 @@ CHARGE;EconomicOperands;19
 CHOICE;EconomicOperands;3
 CHOOSE;EconomicOperands;1
 CLAIMS;EconomicOperands;1
-CLAUSE;LegalReferences;2
 CLOSED;EconomicOperands;2
-COERCE;EconomicOperands;1
 COMBAT;EconomicOperands;2
-COMMON;FunctionWords;1
-COMPLY;RegulatoryOperators;9
 COPIES;EconomicOperands;1
 COUNTY;EconomicOperands;1
 COUPON;EconomicOperands;1
@@ -2175,35 +2168,25 @@ COURSE;EconomicOperands;1
 CREATE;EconomicOperands;1
 CREDIT;EconomicOperands;98
 DEALER;EconomicOperands;1
-DEEMED;RegulatoryOperators;4
 DEFINE;EconomicOperands;2
 DENIAL;EconomicOperands;1
 DENIED;EconomicOperands;3
 DENIES;EconomicOperands;1
 DETAIL;EconomicOperands;4
 DIRECT;EconomicOperands;9
-DIVIDE;RegulatoryOperators;1
 DOLLAR;EconomicOperands;3
-DUE TO;LogicalConnectors;3
-DURING;FunctionWords;24
 DUTIES;EconomicOperands;4
 EFFECT;EconomicOperands;19
 EFFORT;EconomicOperands;1
-EITHER;LogicalConnectors;10
 ENABLE;EconomicOperands;1
 ENDING;EconomicOperands;1
 ENGAGE;EconomicOperands;1
-ENSURE;RegulatoryOperators;12
-ENTIRE;LogicalConnectors;4
 ENTITY;EconomicOperands;11
 EQUITY;EconomicOperands;7
 ERRORS;EconomicOperands;2
 ESCROW;EconomicOperands;27
 ESTATE;EconomicOperands;25
 ETHNIC;EconomicOperands;1
-EXCEED;EconomicOperands;33
-EXCEPT;LogicalConnectors;19
-EXEMPT;RegulatoryOperators;6
 EXISTS;EconomicOperands;1
 EXPECT;EconomicOperands;1
 EXTEND;EconomicOperands;7
@@ -2218,56 +2201,40 @@ FISCAL;EconomicOperands;5
 FOLLOW;EconomicOperands;2
 FORCED;EconomicOperands;1
 FORMAL;EconomicOperands;2
-FOURTH;Attributes;2
 FUNDED;EconomicOperands;3
 FUTURE;EconomicOperands;2
 GENDER;EconomicOperands;1
-GIVING;FunctionWords;1
 GRANTS;EconomicOperands;8
 GROUND;EconomicOperands;1
 HARBOR;EconomicOperands;3
-HAVING;FunctionWords;8
 HAZARD;EconomicOperands;2
 HEALTH;EconomicOperands;2
-HEREBY;FunctionWords;3
-HIGHER;LogicalConnectors;2
 HIRING;EconomicOperands;1
 HOLDER;EconomicOperands;4
 HYBRID;EconomicOperands;4
 IMPACT;EconomicOperands;4
-IMPOSE;RegulatoryOperators;6
 INCOME;EconomicOperands;24
 INDUCE;EconomicOperands;1
 INFORM;EconomicOperands;4
-INSERT;Other;1
 INSURE;EconomicOperands;1
 INTENT;EconomicOperands;2
 ISSUED;EconomicOperands;8
 ISSUES;EconomicOperands;3
 JUNIOR;EconomicOperands;1
-LARGER;LogicalConnectors;1
 LENDER;EconomicOperands;19
 LENGTH;EconomicOperands;1
-LESSER;LogicalConnectors;1
 LEVELS;EconomicOperands;4
 LIABLE;EconomicOperands;3
-LIKELY;Attributes;1
-LIMITS;EconomicOperands;1
 LOCATE;EconomicOperands;2
-MAKING;FunctionWords;17
 MANAGE;EconomicOperands;1
-MANNER;Other;12
 MARGIN;EconomicOperands;3
 MARKET;EconomicOperands;11
 MASTER;EconomicOperands;2
-MATTER;Other;5
-MEDIAN;Attributes;2
 MEMBER;EconomicOperands;2
 METHOD;EconomicOperands;6
 MISUSE;EconomicOperands;2
 MODELS;EconomicOperands;9
 MODIFY;EconomicOperands;4
-MOVING;Other;1
 NATURE;EconomicOperands;6
 NEEDED;EconomicOperands;1
 NOTICE;EconomicOperands;28
@@ -2285,19 +2252,15 @@ PARISH;EconomicOperands;1
 PAYING;EconomicOperands;7
 PAYOFF;EconomicOperands;10
 PERIOD;EconomicOperands;35
-PERMIT;RegulatoryOperators;3
 PERSON;EconomicOperands;49
 PLACED;EconomicOperands;3
 POINTS;EconomicOperands;30
 POLICY;EconomicOperands;9
 PRICES;EconomicOperands;1
-PROMPT;Attributes;4
 PROPER;EconomicOperands;3
 PUBLIC;EconomicOperands;27
-PURELY;Other;1
 PURSUE;EconomicOperands;2
 RANDOM;EconomicOperands;1
-RATIOS;LogicalConnectors;1
 REASON;EconomicOperands;2
 RECORD;EconomicOperands;2
 REFORM;EconomicOperands;1
@@ -2309,7 +2272,6 @@ RELIEF;EconomicOperands;7
 RELIES;EconomicOperands;1
 REMAIN;EconomicOperands;5
 REMEDY;EconomicOperands;2
-REMOVE;RegulatoryOperators;1
 RENTAL;EconomicOperands;7
 REPAID;EconomicOperands;1
 REPAIR;EconomicOperands;1
@@ -2325,8 +2287,6 @@ REVISE;EconomicOperands;6
 RIGHTS;EconomicOperands;1
 SAFETY;EconomicOperands;1
 SAMPLE;EconomicOperands;3
-SAVING;FunctionWords;1
-SECOND;LogicalConnectors;11
 SECTOR;EconomicOperands;2
 SECURE;EconomicOperands;3
 SELECT;EconomicOperands;4
@@ -2336,60 +2296,93 @@ SERVES;EconomicOperands;1
 SETOFF;EconomicOperands;1
 SHARED;EconomicOperands;2
 SHARES;EconomicOperands;2
-SHOULD;FunctionWords;7
 SINGLE;EconomicOperands;5
-SOLELY;LogicalConnectors;1
 SOURCE;EconomicOperands;3
 SPREAD;EconomicOperands;1
 STATED;EconomicOperands;1
 STATES;EconomicOperands;9
 STATUS;EconomicOperands;5
 SUBMIT;EconomicOperands;9
-SUNSET;Other;1
 SUPPLY;EconomicOperands;1
 SYSTEM;EconomicOperands;5
-TABLES;Other;1
 TAKING;EconomicOperands;2
 TARGET;EconomicOperands;1
 TENANT;EconomicOperands;1
 THINGS;EconomicOperands;1
-THOUGH;LogicalConnectors;1
-TIMELY;Attributes;7
-TOPICS;Other;2
-TOWARD;FunctionWords;1
 TRAVEL;EconomicOperands;2
 UNABLE;EconomicOperands;1
 UNFAIR;EconomicOperands;4
 UNIQUE;EconomicOperands;1
-UNLESS;LogicalConnectors;24
 UNUSED;EconomicOperands;1
 UPDATE;EconomicOperands;3
 VALUES;EconomicOperands;2
 VARIES;EconomicOperands;2
 VERIFY;EconomicOperands;4
-VERSUS;FunctionWords;1
 VOLUME;EconomicOperands;1
-WAIVER;RegulatoryOperators;3
-WEEKLY;Attributes;1
 WIDELY;EconomicOperands;1
+BEHIND;FunctionWords;2
+COMMON;FunctionWords;1
+DURING;FunctionWords;24
+GIVING;FunctionWords;1
+HAVING;FunctionWords;8
+HEREBY;FunctionWords;3
+MAKING;FunctionWords;17
+SAVING;FunctionWords;1
+TOWARD;FunctionWords;1
+VERSUS;FunctionWords;1
+CLAUSE;LegalReferences;2
+ANYONE;LogicalConnectors;1
+ALMOST;LogicalConnectors;1
+BEFORE;LogicalConnectors;27
+DUE TO;LogicalConnectors;3
+EITHER;LogicalConnectors;10
+ENTIRE;LogicalConnectors;4
+EXCEPT;LogicalConnectors;19
+HIGHER;LogicalConnectors;2
+LARGER;LogicalConnectors;1
+LESSER;LogicalConnectors;1
+RATIOS;LogicalConnectors;1
+SECOND;LogicalConnectors;11
+SOLELY;LogicalConnectors;1
+THOUGH;LogicalConnectors;1
+UNLESS;LogicalConnectors;24
 WITHIN;LogicalConnectors;25
+EXCEED;MathematicalOperators;33
+MEDIAN;MathematicalOperators;2
+ADDING;MathematicalOperators;33
+INSERT;Other;1
+MANNER;Other;12
+MATTER;Other;5
+MOVING;Other;1
+PURELY;Other;1
+SUNSET;Other;1
+TABLES;Other;1
+TOPICS;Other;2
+COERCE;RegulatoryOperators;1
+LIMITS;RegulatoryOperators;1
+SHOULD;RegulatoryOperators;7
+ALLOWS;RegulatoryOperators;1
+COMPLY;RegulatoryOperators;9
+DEEMED;RegulatoryOperators;4
+DIVIDE;RegulatoryOperators;1
+ENSURE;RegulatoryOperators;12
+EXEMPT;RegulatoryOperators;6
+IMPOSE;RegulatoryOperators;6
+PERMIT;RegulatoryOperators;3
+REMOVE;RegulatoryOperators;1
+WAIVER;RegulatoryOperators;3
 10000;Attributes;2
 20000;Attributes;3
-ABOUT;FunctionWords;11
-ABOVE;FunctionWords;4
+FIRST;Attributes;26
+SIXTH;Attributes;4
+THIRD;Attributes;8
+TWICE;Attributes;2
 ACTED;EconomicOperands;2
-ADDED;Other;27
 ADOPT;EconomicOperands;1
-AFTER;LogicalConnectors;103
 AGENT;EconomicOperands;4
 AGING;EconomicOperands;1
 AGREE;EconomicOperands;2
-ALLOW;RegulatoryOperators;2
-ALONE;LogicalConnectors;2
-ALONG;FunctionWords;1
 AMEND;EconomicOperands;1
-AMONG;FunctionWords;4
-APPLY;Other;21
 AREAS;EconomicOperands;18
 ARENA;EconomicOperands;1
 ASSET;EconomicOperands;2
@@ -2397,12 +2390,8 @@ AUDIT;EconomicOperands;1
 AVOID;EconomicOperands;3
 AWARD;EconomicOperands;1
 AWARE;EconomicOperands;3
-BASED;Other;1
 BASIC;EconomicOperands;1
-BASIS;Other;15
 BEGIN;EconomicOperands;2
-BEING;FunctionWords;7
-BELOW;FunctionWords;1
 BOARD;EconomicOperands;50
 BRIBE;EconomicOperands;1
 BRIEF;EconomicOperands;2
@@ -2410,7 +2399,6 @@ BUYER;EconomicOperands;2
 CARDS;EconomicOperands;1
 CAUSE;EconomicOperands;4
 CHINA;EconomicOperands;1
-CITED;Other;2
 CIVIL;EconomicOperands;4
 CLAIM;EconomicOperands;2
 CLASS;EconomicOperands;4
@@ -2430,24 +2418,18 @@ ENTER;EconomicOperands;1
 EQUAL;EconomicOperands;4
 ERROR;EconomicOperands;1
 EVENT;EconomicOperands;2
-EVERY;FunctionWords;2
 EXIST;EconomicOperands;1
 FAILS;EconomicOperands;3
-FEWER;FunctionWords;1
 FIELD;EconomicOperands;1
 FINAL;EconomicOperands;11
 FINDS;EconomicOperands;3
-FIRST;Attributes;26
 FIXED;EconomicOperands;2
 FLOOD;EconomicOperands;3
 FORCE;EconomicOperands;2
 FORMS;EconomicOperands;1
-FORTH;FunctionWords;1
-FOUND;Other;3
 FRAUD;EconomicOperands;8
 FULLY;EconomicOperands;10
 FUNDS;EconomicOperands;11
-GIVEN;FunctionWords;3
 GOALS;EconomicOperands;3
 GRACE;EconomicOperands;1
 GRANT;EconomicOperands;10
@@ -2457,18 +2439,15 @@ INDEX;EconomicOperands;6
 INPUT;EconomicOperands;3
 ISSUE;EconomicOperands;5
 ITEMS;EconomicOperands;9
-KNOWN;Other;3
 KNOWS;EconomicOperands;3
 LACKS;EconomicOperands;1
 LARGE;EconomicOperands;2
 LEGAL;EconomicOperands;15
 LEVEL;EconomicOperands;6
-LIMIT;EconomicOperands;4
 LISTS;EconomicOperands;2
 LOANS;EconomicOperands;50
 LOCAL;EconomicOperands;13
 LOWER;EconomicOperands;3
-MAKES;FunctionWords;5
 MEANS;EconomicOperands;38
 MEETS;EconomicOperands;6
 MODEL;EconomicOperands;4
@@ -2481,12 +2460,10 @@ NORMS;EconomicOperands;2
 OFFER;EconomicOperands;4
 OLDER;EconomicOperands;1
 ORDER;EconomicOperands;3
-OTHER;FunctionWords;131
 OWNED;EconomicOperands;7
 OWNER;EconomicOperands;1
 PAINT;EconomicOperands;1
 PANEL;EconomicOperands;1
-PARTS;FunctionWords;1
 PARTY;EconomicOperands;8
 PIECE;EconomicOperands;3
 PLACE;EconomicOperands;5
@@ -2500,7 +2477,6 @@ RADON;EconomicOperands;1
 RANGE;EconomicOperands;1
 RAPID;EconomicOperands;1
 RATES;EconomicOperands;8
-RATIO;LogicalConnectors;1
 REFER;EconomicOperands;2
 RENEW;EconomicOperands;2
 RENTS;EconomicOperands;1
@@ -2518,70 +2494,76 @@ SEEKS;EconomicOperands;1
 SENSE;EconomicOperands;3
 SERVE;EconomicOperands;1
 SEWER;EconomicOperands;1
-SHALL;RegulatoryOperators;308
 SIGNS;EconomicOperands;1
-SIXTH;Attributes;4
 STAFF;EconomicOperands;1
 STATE;EconomicOperands;97
 STEPS;EconomicOperands;2
 STOCK;EconomicOperands;2
 STUDY;EconomicOperands;29
-TABLE;Other;5
-TAKEN;Other;7
-TAKES;FunctionWords;4
 TASKS;EconomicOperands;1
 TAXES;EconomicOperands;19
-TERMS;Other;40
 THEFT;EconomicOperands;1
-THEIR;FunctionWords;12
-THERE;FunctionWords;10
-THESE;FunctionWords;10
-THIRD;Attributes;8
-THOSE;FunctionWords;10
 TIMES;EconomicOperands;4
-TITLE;LegalReferences;5
-TOTAL;Attributes;24
 TRADE;EconomicOperands;3
 TRUST;EconomicOperands;15
-TWICE;Attributes;2
 TYPES;EconomicOperands;2
-UNDER;FunctionWords;221
 UNITS;EconomicOperands;6
-UNTIL;FunctionWords;3
 URBAN;EconomicOperands;1
 USAGE;EconomicOperands;1
 USING;EconomicOperands;5
 VALID;EconomicOperands;3
 VALUE;EconomicOperands;22
 VISIT;EconomicOperands;3
-WAIVE;RegulatoryOperators;4
 WATER;EconomicOperands;1
-WHERE;FunctionWords;18
-WHICH;FunctionWords;93
-WHILE;LogicalConnectors;3
-WHOLE;FunctionWords;2
-WHOSE;FunctionWords;5
 WORTH;EconomicOperands;2
-WOULD;FunctionWords;15
 YEARS;EconomicOperands;7
 YIELD;EconomicOperands;1
+ABOUT;FunctionWords;11
+ABOVE;FunctionWords;4
+ALONG;FunctionWords;1
+AMONG;FunctionWords;4
+BEING;FunctionWords;7
+BELOW;FunctionWords;1
+EVERY;FunctionWords;2
+FORTH;FunctionWords;1
+GIVEN;FunctionWords;3
+MAKES;FunctionWords;5
+PARTS;FunctionWords;1
+TAKES;FunctionWords;4
+THEIR;FunctionWords;12
+THERE;FunctionWords;10
+THESE;FunctionWords;10
+THOSE;FunctionWords;10
+UNDER;FunctionWords;221
+WHICH;FunctionWords;93
+WHOLE;FunctionWords;2
+WHOSE;FunctionWords;5
+WOULD;FunctionWords;15
+TITLE;LegalReferences;5
+OTHER;LogicalConnectors;131
+UNTIL;LogicalConnectors;3
+WHERE;LogicalConnectors;18
+AFTER;LogicalConnectors;103
+ALONE;LogicalConnectors;2
+RATIO;LogicalConnectors;1
+WHILE;LogicalConnectors;3
+FEWER;MathematicalOperators;1
+TOTAL;MathematicalOperators;24
+ADDED;MathematicalOperators;27
+APPLY;Other;21
+BASED;Other;1
+BASIS;Other;15
+CITED;Other;2
+FOUND;Other;3
+KNOWN;Other;3
+TABLE;Other;5
+TAKEN;Other;7
+TERMS;Other;40
+LIMIT;RegulatoryOperators;4
+ALLOW;RegulatoryOperators;2
+SHALL;RegulatoryOperators;308
+WAIVE;RegulatoryOperators;4
 1000;Attributes;3
-1122;LegalReferences;1
-1124;LegalReferences;1
-128A;LegalReferences;1
-129E;LegalReferences;2
-1401;LegalReferences;1
-1403;LegalReferences;1
-1404;LegalReferences;1
-1411;LegalReferences;1
-1444;LegalReferences;1
-1461;LegalReferences;1
-1462;LegalReferences;1
-1463;LegalReferences;1
-1464;LegalReferences;1
-1471;LegalReferences;1
-1472;LegalReferences;2
-1977;LegalReferences;1
 1995;Attributes;1
 1996;Attributes;1
 2000;Attributes;3
@@ -2599,16 +2581,14 @@ YIELD;EconomicOperands;1
 2013;Attributes;1
 2014;Attributes;1
 5000;Attributes;2
+DAYS;Attributes;3
+FOUR;Attributes;1
 ABLE;EconomicOperands;2
-ACTS;LegalReferences;7
-ALSO;LogicalConnectors;14
 AREA;EconomicOperands;10
-BEEN;FunctionWords;25
 BEST;EconomicOperands;1
 BILL;EconomicOperands;1
 BODY;EconomicOperands;1
 BOOK;EconomicOperands;1
-BOTH;FunctionWords;8
 CITY;EconomicOperands;2
 CODE;EconomicOperands;5
 COME;EconomicOperands;1
@@ -2616,14 +2596,10 @@ COPY;EconomicOperands;6
 COST;EconomicOperands;10
 DATA;EconomicOperands;18
 DATE;EconomicOperands;58
-DAYS;Attributes;3
 DEBT;EconomicOperands;14
 DEED;EconomicOperands;6
-DOWN;FunctionWords;1
 DUAL;EconomicOperands;1
 DUTY;EconomicOperands;2
-EACH;FunctionWords;51
-ENDS;Other;1
 FACE;EconomicOperands;1
 FACT;EconomicOperands;3
 FAIL;EconomicOperands;4
@@ -2634,16 +2610,12 @@ FIND;EconomicOperands;1
 FINE;EconomicOperands;2
 FIRM;EconomicOperands;1
 FORM;EconomicOperands;11
-FOUR;Attributes;1
 FREE;EconomicOperands;4
-FROM;FunctionWords;72
 FULL;EconomicOperands;6
 FUND;EconomicOperands;6
 GAIN;EconomicOperands;3
-GIVE;FunctionWords;5
 GOOD;EconomicOperands;2
 GUAM;EconomicOperands;1
-HAVE;FunctionWords;39
 HEAD;EconomicOperands;1
 HELD;EconomicOperands;2
 HELP;EconomicOperands;2
@@ -2651,17 +2623,12 @@ HIGH;EconomicOperands;12
 HOLD;EconomicOperands;2
 HOME;EconomicOperands;48
 HVCC;EconomicOperands;5
-INTO;FunctionWords;14
-ITEM;Other;5
 JOIN;EconomicOperands;1
-KNOW;Other;2
 LACK;EconomicOperands;4
 LAND;EconomicOperands;1
 LAST;EconomicOperands;2
 LATE;EconomicOperands;9
 LAWS;EconomicOperands;5
-LEFT;Other;1
-LESS;FunctionWords;1
 LIEN;EconomicOperands;14
 LIFE;EconomicOperands;7
 LINE;EconomicOperands;2
@@ -2669,42 +2636,24 @@ LIST;EconomicOperands;5
 LOAN;EconomicOperands;172
 LOSE;EconomicOperands;1
 LOSS;EconomicOperands;5
-MADE;FunctionWords;62
 MAIL;EconomicOperands;2
-MAKE;FunctionWords;23
 MEET;EconomicOperands;8
-MORE;LogicalConnectors;19
-MOST;FunctionWords;3
-MUCH;FunctionWords;1
-MUST;FunctionWords;7
 NAME;EconomicOperands;1
 NEED;EconomicOperands;3
-NEXT;LogicalConnectors;1
-NONE;FunctionWords;3
 NOTE;EconomicOperands;4
-ONCE;FunctionWords;3
-ONE-;FunctionWords;1
-ONLY;LogicalConnectors;11
 OPEN;EconomicOperands;13
-OVER;FunctionWords;12
 OWNS;EconomicOperands;1
 PAID;EconomicOperands;17
-PART;FunctionWords;7
-PAST;FunctionWords;4
 PLAN;EconomicOperands;13
-PLUS;FunctionWords;4
 RACE;EconomicOperands;1
 RATE;EconomicOperands;27
-READ;Other;7
 REAL;EconomicOperands;31
-RISE;Other;2
 RISK;EconomicOperands;4
 ROLE;EconomicOperands;2
 ROOT;EconomicOperands;1
 RULE;EconomicOperands;7
 SAFE;EconomicOperands;4
 SALE;EconomicOperands;10
-SAME;FunctionWords;14
 SEEK;EconomicOperands;2
 SELL;EconomicOperands;1
 SEND;EconomicOperands;1
@@ -2712,19 +2661,9 @@ SENT;EconomicOperands;3
 SIDE;EconomicOperands;1
 SITE;EconomicOperands;8
 SIZE;EconomicOperands;8
-SOLE;LogicalConnectors;2
-SOME;FunctionWords;1
-SUCH;FunctionWords;297
 SUMS;EconomicOperands;1
-TAKE;FunctionWords;9
 TASK;EconomicOperands;1
-TERM;Other;69
 TEST;EconomicOperands;1
-THAN;FunctionWords;29
-THAT;FunctionWords;256
-THEM;FunctionWords;1
-THEY;FunctionWords;5
-THIS;FunctionWords;12
 TIME;EconomicOperands;34
 TIPS;EconomicOperands;5
 TOWN;EconomicOperands;1
@@ -2735,111 +2674,188 @@ URLS;EconomicOperands;1
 USED;EconomicOperands;28
 USES;EconomicOperands;1
 VARY;EconomicOperands;4
-VIII;LegalReferences;5
 WAYS;EconomicOperands;1
+WORK;EconomicOperands;2
+YEAR;EconomicOperands;14
+BEEN;FunctionWords;25
+DOWN;FunctionWords;1
+FROM;FunctionWords;72
+GIVE;FunctionWords;5
+HAVE;FunctionWords;39
+INTO;FunctionWords;14
+MADE;FunctionWords;62
+MAKE;FunctionWords;23
+MOST;FunctionWords;3
+MUCH;FunctionWords;1
+MUST;FunctionWords;7
+ONCE;FunctionWords;3
+ONE-;FunctionWords;1
+PART;FunctionWords;7
+PAST;FunctionWords;4
+PLUS;FunctionWords;4
+SAME;FunctionWords;14
+SOME;FunctionWords;1
+SUCH;FunctionWords;297
+TAKE;FunctionWords;9
+THAN;FunctionWords;29
+THAT;FunctionWords;256
+THEM;FunctionWords;1
+THEY;FunctionWords;5
+THIS;FunctionWords;12
 WERE;FunctionWords;7
 WHAT;FunctionWords;1
-WHEN;FunctionWords;16
 WHOM;FunctionWords;1
 WILL;FunctionWords;36
 WITH;FunctionWords;105
-WORK;EconomicOperands;2
-YEAR;EconomicOperands;14
 YOUR;FunctionWords;4
+1122;LegalReferences;1
+1124;LegalReferences;1
+128A;LegalReferences;1
+129E;LegalReferences;2
+1401;LegalReferences;1
+1403;LegalReferences;1
+1404;LegalReferences;1
+1411;LegalReferences;1
+1444;LegalReferences;1
+1461;LegalReferences;1
+1462;LegalReferences;1
+1463;LegalReferences;1
+1464;LegalReferences;1
+1471;LegalReferences;1
+1472;LegalReferences;2
+1977;LegalReferences;1
+ACTS;LegalReferences;7
+VIII;LegalReferences;5
+BOTH;LogicalConnectors;8
+EACH;LogicalConnectors;51
+NONE;LogicalConnectors;3
+WHEN;LogicalConnectors;16
+ALSO;LogicalConnectors;14
+MORE;LogicalConnectors;19
+NEXT;LogicalConnectors;1
+ONLY;LogicalConnectors;11
+SOLE;LogicalConnectors;2
+LESS;MathematicalOperators;1
+OVER;MathematicalOperators;12
+ENDS;Other;1
+ITEM;Other;5
+KNOW;Other;2
+LEFT;Other;1
+READ;Other;7
+RISE;Other;2
+TERM;Other;69
 100;Attributes;1
-113;LegalReferences;1
 125;Attributes;2
-129;LegalReferences;21
-130;LegalReferences;1
 133;Attributes;1
-140;LegalReferences;4
-141;LegalReferences;8
-201;LegalReferences;1
-220;LegalReferences;1
 2ND;Attributes;1
-303;LegalReferences;1
 3RD;Attributes;1
 443;Attributes;2
 4TH;Attributes;1
 6TH;Attributes;3
-ACT;LegalReferences;9
-ADD;RegulatoryOperators;3
+DUE;Attributes;14
+TEN;Attributes;2
 AGE;EconomicOperands;5
 AIG;EconomicOperands;1
-AII;LegalReferences;1
-ALL;FunctionWords;54
-AND;LogicalConnectors;827
-ANY;FunctionWords;279
-APP;LegalReferences;1
-ARE;FunctionWords;68
 ASK;EconomicOperands;2
-BAR;FunctionWords;2
-BUT;LogicalConnectors;19
-CAN;FunctionWords;7
 DAY;EconomicOperands;3
-DUE;Attributes;14
-END;Other;65
 FEE;EconomicOperands;37
-FOR;FunctionWords;416
 GAO;EconomicOperands;3
 GET;EconomicOperands;3
+HUD;EconomicOperands;5
+IFI;EconomicOperands;2
+ILL;EconomicOperands;1
+LAW;EconomicOperands;31
+LOW;EconomicOperands;2
+NET;EconomicOperands;6
+NEW;EconomicOperands;76
+NPV;EconomicOperands;4
+NRC;EconomicOperands;1
+OUT;EconomicOperands;11
+PAY;EconomicOperands;17
+SEC;EconomicOperands;39
+SUM;EconomicOperands;1
+TAX;EconomicOperands;3
+USE;EconomicOperands;23
+WEB;EconomicOperands;2
+ARE;FunctionWords;68
+BAR;FunctionWords;2
+CAN;FunctionWords;7
+FOR;FunctionWords;416
 HAD;FunctionWords;1
 HAS;FunctionWords;70
 HOW;FunctionWords;9
-HUD;EconomicOperands;5
-IFI;EconomicOperands;2
-III;LegalReferences;36
-ILL;EconomicOperands;1
-ITS;FunctionWords;10
-LAW;EconomicOperands;31
-LOW;EconomicOperands;2
+ITS;FunctionWords;9
 MAY;FunctionWords;121
 MET;FunctionWords;3
-NET;EconomicOperands;6
-NEW;EconomicOperands;76
-NON;LogicalConnectors;2
-NOT;LogicalConnectors;120
-NPV;EconomicOperands;4
-NRC;EconomicOperands;1
 OFF;FunctionWords;4
 ONE;FunctionWords;5
 OUR;FunctionWords;1
-OUT;EconomicOperands;11
 OWN;FunctionWords;3
-PAY;EconomicOperands;17
-SEC;EconomicOperands;38
-SET;Other;15
-SUM;EconomicOperands;1
-TAX;EconomicOperands;3
-TEN;Attributes;2
 THE;FunctionWords;2288
-USE;EconomicOperands;23
-VII;LegalReferences;6
 WAS;FunctionWords;6
-WEB;EconomicOperands;2
 WHO;FunctionWords;32
+113;LegalReferences;1
+129;LegalReferences;21
+130;LegalReferences;1
+140;LegalReferences;4
+141;LegalReferences;8
+201;LegalReferences;1
+220;LegalReferences;1
+303;LegalReferences;1
+ACT;LegalReferences;9
+AII;LegalReferences;1
+APP;LegalReferences;1
+III;LegalReferences;36
+VII;LegalReferences;6
 XII;LegalReferences;1
+ALL;LogicalConnectors;54
+ANY;LogicalConnectors;279
+AND;LogicalConnectors;839
+BUT;LogicalConnectors;19
+NON;LogicalConnectors;2
+NOT;LogicalConnectors;120
+END;Other;65
+SET;Other;15
+ADD;RegulatoryOperators;3
 10;Attributes;4
-11;LegalReferences;4
-12;Attributes;7
+12;Attributes;8
+15;Attributes;6
+20;Attributes;4
+25;Attributes;8
+30;Attributes;2
+31;Attributes;1
+35;Attributes;4
+50;Attributes;3
+EC;EconomicOperands;29
+IT;EconomicOperands;7
+TR;EconomicOperands;1
+US;EconomicOperands;12
+VI;EconomicOperands;7
+AN;FunctionWords;189
+AT;FunctionWords;99
+BE;FunctionWords;187
+BY;FunctionWords;486
+DO;FunctionWords;11
+GO;FunctionWords;1
+IN;FunctionWords;445
+IS;FunctionWords;229
+OF;FunctionWords;1251
+ON;FunctionWords;176
+TO;FunctionWords;564
+UP;FunctionWords;9
+11;LegalReferences;3
 13;LegalReferences;1
 14;LegalReferences;46
-15;Attributes;6
-16;LegalReferences;2
+16;LegalReferences;3
 17;LegalReferences;2
 18;LegalReferences;2
 19;LegalReferences;2
 1B;LegalReferences;3
-20;Attributes;4
 21;LegalReferences;1
 22;LegalReferences;1
-25;Attributes;8
 27;LegalReferences;2
 2B;LegalReferences;6
-30;Attributes;2
-31;Attributes;1
 32;LegalReferences;1
-35;Attributes;4
 3C;LegalReferences;1
 40;LegalReferences;1
 41;LegalReferences;1
@@ -2849,7 +2865,6 @@ XII;LegalReferences;1
 48;LegalReferences;1
 49;LegalReferences;1
 4D;LegalReferences;2
-50;Attributes;3
 51;LegalReferences;1
 54;LegalReferences;1
 5D;LegalReferences;2
@@ -2858,64 +2873,44 @@ A4;LegalReferences;2
 A6;LegalReferences;2
 A7;LegalReferences;1
 AA;LegalReferences;6
-AN;FunctionWords;189
-AS;LogicalConnectors;195
-AT;FunctionWords;99
 B2;LegalReferences;1
 BB;LegalReferences;1
-BE;FunctionWords;187
-BY;FunctionWords;486
 CC;LegalReferences;6
-DO;FunctionWords;11
-EC;EconomicOperands;30
-F1;LegalReferences;2
-GO;FunctionWords;1
-IF;LogicalConnectors;52
 II;LegalReferences;57
-IN;FunctionWords;445
-IS;FunctionWords;229
-IT;EconomicOperands;6
-IV;LegalReferences;15
+IV;LegalReferences;14
 IX;LegalReferences;3
-NO;FunctionWords;47
-OF;FunctionWords;1253
-ON;FunctionWords;176
+XI;LegalReferences;2
+NO;LogicalConnectors;47
+AS;LogicalConnectors;195
+IF;LogicalConnectors;52
 OR;LogicalConnectors;648
 SO;LogicalConnectors;4
-TO;FunctionWords;564
-TR;EconomicOperands;1
-UP;FunctionWords;9
-US;EconomicOperands;12
-VI;EconomicOperands;6
-XI;LegalReferences;2
-1;Attributes;123
-2;Attributes;119
+1;Attributes;125
+2;Attributes;118
 3;Attributes;85
 4;Attributes;55
 5;Attributes;39
-6;Attributes;22
+6;Attributes;21
 7;Attributes;30
 8;Attributes;15
 9;Attributes;14
 A;FunctionWords;842
+I;FunctionWords;64
 B;LegalReferences;155
 C;LegalReferences;95
 D;LegalReferences;74
 E;LegalReferences;46
 F;LegalReferences;23
-G;EconomicOperands;23
 H;LegalReferences;19
-I;FunctionWords;64
 J;LegalReferences;5
 K;LegalReferences;7
 L;LegalReferences;7
 M;LegalReferences;8
 N;LegalReferences;7
-O;LegalReferences;4
+O;LegalReferences;2
 P;LegalReferences;8
 Q;LegalReferences;1
 R;LegalReferences;7
-S;EconomicOperands;108
 T;LegalReferences;7
 U;LegalReferences;7
 V;LegalReferences;11

@@ -1,8 +1,9 @@
 category;category_count;category_unique_count;title
-"Attributes";176;53;11
-"EconomicOperands";2127;629;11
-"FunctionWords";2406;91;11
+"Attributes";170;52;11
+"EconomicOperands";2101;620;11
+"FunctionWords";2254;80;11
 "LegalReferences";387;127;11
-"LogicalConnectors";615;60;11
-"Other";147;34;11
-"RegulatoryOperators";214;33;11
+"LogicalConnectors";764;69;11
+"MathematicalOperators";22;7;11
+"Other";141;33;11
+"RegulatoryOperators";220;37;11
