@@ -17,6 +17,7 @@ import re
 def do_run(master_dict_file, title_dict_file, results_file):
     out_text = ""
     master_dict = {}
+    master_categories = {}
     dict_current = {}
 
     print("<<< 15_EX-ANTE_DICTIONARY_QUALITY.PY")
@@ -30,6 +31,7 @@ def do_run(master_dict_file, title_dict_file, results_file):
         tokens = line.strip().split("\t")
         try:
             master_dict[tokens[0].strip('"')] = tokens[2].strip('"')
+            master_categories[tokens[0].strip('"')] = tokens[1].strip('"')
         except:
             pass
     dict_file.close()
@@ -50,7 +52,7 @@ def do_run(master_dict_file, title_dict_file, results_file):
     for key_current in dict_current.keys():
         if key_current in master_dict.keys():
             excess_count = int(master_dict[key_current]) - int(dict_current[key_current])
-            out_text += key_current + ";" + str(excess_count) + "\n"
+            out_text += key_current + ";" + str(excess_count) + ";" + str(master_categories[key_current]) + "\n"
         else:
             pass  # only happens in title 0 for some weird reason and only for ~10 entries fix later
             # print("NO SUCH LUCK: ", key_current)
