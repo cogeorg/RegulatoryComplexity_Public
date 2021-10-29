@@ -92,10 +92,7 @@ insheet using ./results/Master_consolidated+cleaned.csv, clear
 	
 outsheet using ./results/html_noclass/Master_consolidated+cleaned_category_unique_count.csv, replace
 
-insheet using ./results/Master_v1.0.csv, clear
-	rename v1 key
-	rename v2 category
-	drop if category == ""
+insheet using ./results/Master_v1.0.csv, delimiter(";") clear
 	gen one = 1
 	bysort category: egen unique_count = total(one)
 

@@ -9,6 +9,8 @@ URL: https://regulatorycomplexity.pythonanywhere.com
 
 **PART B - Paper Section - Dodd-Frank Act**
 
+*Note:* The most recent Master Dictionary is MasterDictionary_v1.0.csv in this folder.
+
 *STEP 1:*
 
 The titles of the Dodd-Frank Act converted into html before any words are classified:
