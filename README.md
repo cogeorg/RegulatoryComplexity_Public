@@ -1,15 +1,16 @@
 # RegulatoryComplexity_Public
 Public repository for Colliard and Georg (2021) "Measuring Regulatory Complexity"
 
+*Note 1:* The replication folder for our paper is 999_Replication_Paper/. The README file contains detailed instructions for how to replicate all results in our paper.
+
+*Note 2:* The most recent Master Dictionary we create is MasterDictionary_v1.0.csv in this folder.
+
 
 **PART A - Classification Website**
 
 URL: https://regulatorycomplexity.pythonanywhere.com
 
-
 **PART B - Paper Section - Dodd-Frank Act**
-
-*Note:* The most recent Master Dictionary is MasterDictionary_v1.0.csv in this folder.
 
 *STEP 1:*
 
