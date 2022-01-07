@@ -10,10 +10,13 @@ Public repository for Colliard and Georg (2021) "Measuring Regulatory Complexity
 
 URL: https://regulatorycomplexity.pythonanywhere.com
 
+
 **PART B - Experiments Website**
 
 URL: https://regulatorycomplexity.org
+
 SOURCE: https://github.com/cogeorg/regulatory-complexity/
+
 
 **PART C - Section 4 - Dodd-Frank Act**
 
