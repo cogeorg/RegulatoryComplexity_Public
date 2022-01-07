@@ -118,7 +118,7 @@ Run:
 
 To create ./results/html_noclass/cons-count_title_`i’.csv (i=1/16)
 
-This file is read by 14_count_html_noclass.do, which produces the output reportes in Tables TODO in the paper. Results are included in the following files:
+This file is read by 14_count_html_noclass.do, which produces the output reportes in Tables 15-17 in the paper. Results are included in the following files:
 
 ./results/html_noclass/category_cons_count_all_titles-total.csv
 (number of total and unique occurrences per category)
