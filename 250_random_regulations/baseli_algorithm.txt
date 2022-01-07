@@ -1,0 +1,150 @@
+// 1
+IF (
+    ASSET_CLASS == "cash"
+) THEN:
+    risk_weight = 0.0;
+
+ELSE IF (
+    ASSET_CLASS == "claims" AND
+        (ISSUER == " central_governments" OR ISSUER == " central_banks") AND
+        DENOMINATION == "national" AND
+        FUNDING_CURRENCY == "national"
+) THEN:
+    risk_weight = 0.0;
+
+ELSE IF (
+    ASSET_CLASS == "claims" AND
+        (ISSUER == " central_governments" OR ISSUER == " central_banks") AND
+        ISSUER_COUNTRY == "oecd"
+) THEN:
+    risk_weight = 0.0;
+
+ELSE IF (
+    ASSET_CLASS == "claims" AND
+        (COLLATERALIZED == "oecd" OR GUARANTEED == "oecd")
+) THEN:
+    risk_weight = 0.0;
+
+// 2
+ELSE IF (
+    ASSET_CLASS == "claims" AND (
+        (ISSUER == "public-sector_entities" AND ISSUER_COUNTRY == "domestic") AND
+        (ISSUER != "central_governments" AND ISSUER_COUNTRY == "domestic")
+    ) OR
+    ASSET_CLASS == "loans" AND (
+        (GUARANTEED == "public-sector_entities" AND GUARANTEED_COUNTRY == "domestic") AND
+        (GUARANTEED != "central_governments" AND GUARANTEED_COUNTRY == "domestic")
+    )
+) THEN:
+    risk_weight = national_discretion;
+
+
+ELSE IF ( // 3a
+    ASSET_CLASS == "claims" AND (
+        (ISSUER == "IBRD" OR ISSUER == "IADB" OR ISSUER == "AsDB" OR ISSUER == "AfDB" OR
+            ISSUER == "EIB") OR
+        (GUARANTEED == "IBRD" OR GUARANTEED == "IADB"  OR GUARANTEED == "AsDB" OR
+            GUARANTEED == "AfDB" OR GUARANTEED == "EIB") OR
+        (COLLATERALIZED == "IBRD" OR COLLATERALIZED == "IADB"  OR COLLATERALIZED == "AsDB" OR
+            COLLATERALIZED == "AfDB" OR COLLATERALIZED == "EIB")
+) THEN:
+    risk_weight = 0.2;
+
+ELSE IF ( // 3b
+    ASSET_CLASS == "claims" AND (
+        (ISSUER == "bank" AND ISSUER_COUNTRY == "oecd")
+    ) OR
+    ASSET_CLASS == "loans" AND
+        (GUARANTEED == "bank" AND GUARANTEED_COUNTRY == "oecd")
+) THEN:
+    risk_weight = 0.2;
+
+ELSE IF ( // 3c
+    ASSET_CLASS == "claims" AND (
+        (ISSUER == "bank" AND ISSUER_COUNTRY != "oecd" AND ASSET_MATURITY <= 1)
+    ) OR
+    ASSET_CLASS == "loans" AND
+        (GUARANTEED == "bank" AND GUARANTEED_COUNTRY != "oecd" AND ASSET_MATURITY <= 1)
+) THEN:
+    risk_weight = 0.2;
+
+ELSE IF ( // 3d
+    ASSET_CLASS == "claims" AND (
+        (ISSUER == "public_sector_entities" AND ISSUER != "central_governments" AND
+            ISSUER_COUNTRY == "oecd" AND ISSUER_COUNTRY != "domestic")
+    ) OR
+    ASSET_CLASS == "loans" AND
+        (GUARANTEED == "public_sector_entities" AND GUARANTEED != "central_governments" AND
+            GUARANTEED_COUNTRY == "oecd" AND GUARANTEED_COUNTRY != "domestic")
+) THEN:
+    risk_weight = 0.2;
+
+ELSE IF ( // 3e
+    ASSET_CLASS == "cash" AND (
+        CASH_COLLECTION == "in_process"
+    )
+) THEN:
+    risk_weight = 0.2;
+
+
+// 4
+ELSE IF (
+    ASSET_CLASS == "loans" AND
+        (LOAN_SECURITY == "mortgage" AND (PROPERTY_OCCUPIED == "owner" OR
+            PROPERTY_OCCUPIED == "rented"))
+) THEN:
+    risk_weight = 0.5;
+
+
+// 5a
+ELSE IF (
+    ASSET_CLASS == "claims" AND (
+        ISSUER == "private_sector"
+) THEN:
+  risk_weight = 1.0;
+
+// 5b
+ELSE IF (
+    ASSET_CLASS == "claims" AND (
+        (ISSUER == "banks" AND ISSUER_COUNTRY != "oecd" AND ASSET_MATURITY > 1)
+) THEN:
+  risk_weight = 1.0;
+
+// 5c
+ELSE IF (
+    ASSET_CLASS == "claims" AND (
+        (ISSUER == "central_governments" AND ISSUER_COUNTRY != "oecd" AND
+            DENOMINATION != "national" AND FUNDING_CURRENCY != "national")
+) THEN:
+  risk_weight = 1.0;
+
+// 5d
+ELSE IF (
+    ASSET_CLASS == "claims" AND (
+        (ISSUER == "commercial_companies" AND ISSUER_OWNER == "public_sector")
+) THEN:
+  risk_weight = 1.0;
+
+// 5e
+ELSE IF (
+    (ASSET_CLASS == "premises" OR ASSET_CLASS == "plant" OR ASSET_CLASS == "equipment" OR
+        ASSET_CLASS == "other_fixed_assets") OR
+) THEN:
+  risk_weight = 1.0;
+
+// 5f
+ELSE IF (
+    (ASSET_CLASS == "real_estate" OR ASSET_CLASS == "other_investments") OR
+) THEN:
+  risk_weight = 1.0;
+
+// 5g
+ELSE IF (
+    ASSET_CLASS == "capital_instruments" AND (
+        (ISSUER == "banks" AND DEDUCTED_FROM != "capital")
+) THEN:
+  risk_weight = 1.0;
+
+// 5h
+ELSE:
+  risk_weight = 1.0;
