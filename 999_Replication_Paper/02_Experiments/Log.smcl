@@ -1,0 +1,849 @@
+{smcl}
+{com}{sf}{ul off}{txt}{.-}
+      name:  {res}<unnamed>
+       {txt}log:  {res}C:\Users\colliard\Desktop\Experiment 1 - Analysis\Log.smcl
+  {txt}log type:  {res}smcl
+ {txt}opened on:  {res}16 Jun 2021, 11:21:32
+
+{com}. do "C:\Users\colliard\AppData\Local\Temp\STD1130_000000.tmp"
+{txt}
+{com}. use "C:\Users\colliard\Desktop\Experiment 1 - Analysis\master.dta", replace
+{txt}
+{com}. 
+. //We have 7 students who took the test more than once and mess up the panel, also it means they got extra training, don't know what to do with them. I just drop them. I also drop students who don't get a single answer correct (they are not going to be picked up by the regressions anyway)
+. 
+. drop if (user=="71448" || user=="71502" || user=="71519" || user=="71533" || user=="S60331" || user=="S62720" || user=="riwa.kanaan@hec.edu")
+{txt}(89 observations deleted)
+
+{com}. drop if total_score==0
+{txt}(27 observations deleted)
+
+{com}. 
+. //Convert time into number of seconds
+. rename time time2
+{res}{txt}
+{com}. generate time = 60*mm(time2)+ss(time2)
+{txt}
+{com}. drop time2
+{txt}
+{com}. 
+. //Encode user
+. rename user user1
+{res}{txt}
+{com}. encode user1, gen(user)
+{txt}
+{com}. drop user1
+{txt}
+{com}. 
+. //There is definitely a learning effect, perhaps also a tiredness effect
+. bysort id_question: egen mean_correct=mean(is_correct)
+{txt}
+{com}. twoway connected mean_correct id_question
+{res}{txt}
+{com}. drop mean_correct
+{txt}
+{com}. 
+. //Some dummy variables
+. gen business = 0
+{txt}
+{com}. replace business = 1 if ed_area=="Business"
+{txt}(882 real changes made)
+
+{com}. gen MSc = 0
+{txt}
+{com}. replace MSc = 1 if ed_level =="Master’s Level"
+{txt}(558 real changes made)
+
+{com}. gen above_median = 0
+{txt}
+{com}. replace above_median = 1 if total_score >4
+{txt}(648 real changes made)
+
+{com}. 
+. gen vocabulary = uniqueoperands+uniqueoperators
+{txt}
+{com}. 
+. //Interaction terms
+. gen business_volume = business*totalvolume
+{txt}
+{com}. gen business_uoperators = business*uniqueoperators
+{txt}
+{com}. gen business_uoperands = business*uniqueoperands
+{txt}
+{com}. gen business_vocabulary = business*vocabulary
+{txt}
+{com}. gen business_level = business*level
+{txt}
+{com}. gen business_operators = business*operators
+{txt}
+{com}. 
+. gen MSc_volume = MSc*totalvolume
+{txt}
+{com}. gen MSc_uoperators = MSc*uniqueoperators
+{txt}
+{com}. gen MSc_uoperands = MSc*uniqueoperands
+{txt}
+{com}. gen MSc_vocabulary = MSc*vocabulary
+{txt}
+{com}. gen MSc_level = MSc*level
+{txt}
+{com}. gen MSc_operators = MSc*operators
+{txt}
+{com}. 
+. gen above_median_volume = above_median*totalvolume
+{txt}
+{com}. gen above_median_uoperators = above_median*uniqueoperators
+{txt}
+{com}. gen above_median_uoperands = above_median*uniqueoperands
+{txt}
+{com}. gen above_median_vocabulary = above_median*vocabulary
+{txt}
+{com}. gen above_median_level = above_median*level
+{txt}
+{com}. gen above_median_operators = above_median*operators
+{txt}
+{com}. 
+. //Some housekeeping
+. drop score sex ed_level answer correctanswer id_student ed_yr_obtained ed_area ed_institution ex_area ex_yr id_orig_file
+{txt}
+{com}. 
+. //Question 1: Is volume sufficient to explain the data?
+. 
+. //1a. Probit on is_correct, without fixed effects
+. 
+. quietly probit is_correct totalvolume operators if total_score<9
+{txt}
+{com}. estimates store regr1a1
+{txt}
+{com}. quietly probit is_correct totalvolume uniqueoperators if total_score<9
+{txt}
+{com}. estimates store regr1a2
+{txt}
+{com}. quietly probit is_correct totalvolume uniqueoperands if total_score<9
+{txt}
+{com}. estimates store regr1a3
+{txt}
+{com}. quietly probit is_correct totalvolume vocabulary if total_score<9
+{txt}
+{com}. estimates store regr1a4
+{txt}
+{com}. quietly probit is_correct totalvolume level if total_score<9
+{txt}
+{com}. estimates store regr1a5
+{txt}
+{com}. 
+. estout regr1a1 regr1a2 regr1a3 regr1a4 regr1a5, cells(b(star fmt(3)) t(par fmt(2))) style(tex) keep(totalvolume operators uniqueoperators uniqueoperands vocabulary level) starlevels(* 0.10 ** 0.05 *** 0.01) ///
+> legend label collabels(none)  type
+{res}
+                    &     regr1a1   &     regr1a2   &     regr1a3   &     regr1a4   &     regr1a5   \\
+is_correct          &               &               &               &               &               \\
+Total Volume        &      -0.008   &      -0.012***&      -0.007*  &      -0.005   &      -0.010***\\
+                    &     (-0.27)   &     (-4.38)   &     (-1.76)   &     (-1.12)   &     (-2.73)   \\
+Operators           &      -0.017   &               &               &               &               \\
+                    &     (-0.26)   &               &               &               &               \\
+Unique Operators    &               &      -0.192** &               &               &               \\
+                    &               &     (-2.30)   &               &               &               \\
+Unique Operands     &               &               &      -0.036** &               &               \\
+                    &               &               &     (-2.34)   &               &               \\
+vocabulary          &               &               &               &      -0.042***&               \\
+                    &               &               &               &     (-2.75)   &               \\
+Level               &               &               &               &               &       1.754** \\
+                    &               &               &               &               &      (2.00)   \\
+* p<0.10, ** p<0.05, *** p<0.01
+{txt}
+{com}. 
+. //1b. Probit on is_correct, with fixed effects
+. 
+. quietly probit is_correct totalvolume operators i.id_question i.user if total_score<9
+{txt}
+{com}. estimates store regr1b1
+{txt}
+{com}. quietly probit is_correct totalvolume uniqueoperators i.id_question i.user if total_score<9
+{txt}
+{com}. estimates store regr1b2
+{txt}
+{com}. quietly probit is_correct totalvolume uniqueoperands i.id_question i.user if total_score<9
+{txt}
+{com}. estimates store regr1b3
+{txt}
+{com}. quietly probit is_correct totalvolume vocabulary i.id_question i.user if total_score<9
+{txt}
+{com}. estimates store regr1b4
+{txt}
+{com}. quietly probit is_correct totalvolume level i.id_question i.user if total_score<9
+{txt}
+{com}. estimates store regr1b5
+{txt}
+{com}. 
+. estout regr1b1 regr1b2 regr1b3 regr1b4 regr1b5, cells(b(star fmt(3)) t(par fmt(2))) style(tex) keep(totalvolume operators uniqueoperators uniqueoperands vocabulary level) starlevels(* 0.10 ** 0.05 *** 0.01) ///
+> legend label collabels(none)  type
+{res}
+                    &     regr1b1   &     regr1b2   &     regr1b3   &     regr1b4   &     regr1b5   \\
+is_correct          &               &               &               &               &               \\
+Total Volume        &       0.012   &      -0.020***&      -0.016***&      -0.013** &      -0.016***\\
+                    &      (0.32)   &     (-5.77)   &     (-3.04)   &     (-2.36)   &     (-3.56)   \\
+Operators           &      -0.082   &               &               &               &               \\
+                    &     (-0.98)   &               &               &               &               \\
+Unique Operators    &               &      -0.212** &               &               &               \\
+                    &               &     (-2.04)   &               &               &               \\
+Unique Operands     &               &               &      -0.038** &               &               \\
+                    &               &               &     (-2.02)   &               &               \\
+vocabulary          &               &               &               &      -0.045** &               \\
+                    &               &               &               &     (-2.39)   &               \\
+Level               &               &               &               &               &       2.534** \\
+                    &               &               &               &               &      (2.35)   \\
+* p<0.10, ** p<0.05, *** p<0.01
+{txt}
+{com}. 
+. //1c. Regression on time, without fixed effects
+. 
+. quietly reg time totalvolume operators if is_correct==1
+{txt}
+{com}. estimates store regr1c1
+{txt}
+{com}. quietly reg time totalvolume uniqueoperators if is_correct==1
+{txt}
+{com}. estimates store regr1c2
+{txt}
+{com}. quietly reg time totalvolume uniqueoperands if is_correct==1
+{txt}
+{com}. estimates store regr1c3
+{txt}
+{com}. quietly reg time totalvolume vocabulary if is_correct==1
+{txt}
+{com}. estimates store regr1c4
+{txt}
+{com}. quietly reg time totalvolume level if is_correct==1
+{txt}
+{com}. estimates store regr1c5
+{txt}
+{com}. 
+. estout regr1c1 regr1c2 regr1c3 regr1c4 regr1c5, cells(b(star fmt(3)) t(par fmt(2))) style(tex) keep(totalvolume operators uniqueoperators uniqueoperands vocabulary level) starlevels(* 0.10 ** 0.05 *** 0.01) ///
+> legend label collabels(none)  type
+{res}
+                    &     regr1c1   &     regr1c2   &     regr1c3   &     regr1c4   &     regr1c5   \\
+Total Volume        &      -4.873*  &       1.930***&       1.414***&       1.362***&       1.936***\\
+                    &     (-1.81)   &      (8.65)   &      (3.89)   &      (3.51)   &      (6.69)   \\
+Operators           &      15.423** &               &               &               &               \\
+                    &      (2.55)   &               &               &               &               \\
+Unique Operators    &               &       1.856   &               &               &               \\
+                    &               &      (0.30)   &               &               &               \\
+Unique Operands     &               &               &       2.272*  &               &               \\
+                    &               &               &      (1.71)   &               &               \\
+vocabulary          &               &               &               &       2.237*  &               \\
+                    &               &               &               &      (1.72)   &               \\
+Level               &               &               &               &               &     -11.646   \\
+                    &               &               &               &               &     (-0.18)   \\
+* p<0.10, ** p<0.05, *** p<0.01
+{txt}
+{com}. 
+. //1d. Regression on time, with fixed effects
+. 
+. quietly reg time totalvolume operators i.id_question i.user if is_correct==1
+{txt}
+{com}. estimates store regr1d1
+{txt}
+{com}. quietly reg time totalvolume uniqueoperators i.id_question i.user if is_correct==1
+{txt}
+{com}. estimates store regr1d2
+{txt}
+{com}. quietly reg time totalvolume uniqueoperands i.id_question i.user if is_correct==1
+{txt}
+{com}. estimates store regr1d3
+{txt}
+{com}. quietly reg time totalvolume vocabulary i.id_question i.user if is_correct==1
+{txt}
+{com}. estimates store regr1d4
+{txt}
+{com}. quietly reg time totalvolume level i.id_question i.user if is_correct==1
+{txt}
+{com}. estimates store regr1d5
+{txt}
+{com}. 
+. estout regr1d1 regr1d2 regr1d3 regr1d4 regr1d5, cells(b(star fmt(3)) t(par fmt(2))) style(tex) keep(totalvolume operators uniqueoperators uniqueoperands vocabulary level) starlevels(* 0.10 ** 0.05 *** 0.01) ///
+> legend label collabels(none)  type
+{res}
+                    &     regr1d1   &     regr1d2   &     regr1d3   &     regr1d4   &     regr1d5   \\
+Total Volume        &      -4.926** &       1.786***&       1.356***&       1.257***&       1.889***\\
+                    &     (-2.00)   &      (8.76)   &      (4.12)   &      (3.59)   &      (7.16)   \\
+Operators           &      15.454***&               &               &               &               \\
+                    &      (2.79)   &               &               &               &               \\
+Unique Operators    &               &       5.811   &               &               &               \\
+                    &               &      (1.03)   &               &               &               \\
+Unique Operands     &               &               &       2.354*  &               &               \\
+                    &               &               &      (1.96)   &               &               \\
+vocabulary          &               &               &               &       2.485** &               \\
+                    &               &               &               &      (2.12)   &               \\
+Level               &               &               &               &               &     -13.580   \\
+                    &               &               &               &               &     (-0.23)   \\
+* p<0.10, ** p<0.05, *** p<0.01
+{txt}
+{com}. 
+. 
+. //Question 2: What model best explains the variation?
+. 
+. //2a. Probit on is_correct, without fixed effects
+. 
+. quietly probit is_correct totalvolume if total_score<9
+{txt}
+{com}. estimates store regr2a1
+{txt}
+{com}. lroc, nograph
+
+{txt}Probit model for is_correct
+
+number of observations = {res}     909
+{txt}area under ROC curve   = {res}  0.6479
+{txt}
+{com}. display e(r2_p)
+{res}.05800687
+{txt}
+{com}. quietly probit is_correct operators if total_score<9
+{txt}
+{com}. estimates store regr2a2
+{txt}
+{com}. lroc, nograph
+
+{txt}Probit model for is_correct
+
+number of observations = {res}     909
+{txt}area under ROC curve   = {res}  0.6455
+{txt}
+{com}. display e(r2_p)
+{res}.05800094
+{txt}
+{com}. quietly probit is_correct vocabulary if total_score<9
+{txt}
+{com}. estimates store regr2a3
+{txt}
+{com}. lroc, nograph
+
+{txt}Probit model for is_correct
+
+number of observations = {res}     909
+{txt}area under ROC curve   = {res}  0.6426
+{txt}
+{com}. display e(r2_p)
+{res}.06343816
+{txt}
+{com}. quietly probit is_correct level if total_score<9
+{txt}
+{com}. estimates store regr2a4
+{txt}
+{com}. lroc, nograph
+
+{txt}Probit model for is_correct
+
+number of observations = {res}     909
+{txt}area under ROC curve   = {res}  0.6310
+{txt}
+{com}. display e(r2_p)
+{res}.05512979
+{txt}
+{com}. quietly probit is_correct totalvolume level if total_score<9
+{txt}
+{com}. estimates store regr2a5
+{txt}
+{com}. lroc, nograph
+
+{txt}Probit model for is_correct
+
+number of observations = {res}     909
+{txt}area under ROC curve   = {res}  0.6382
+{txt}
+{com}. display e(r2_p)
+{res}.06152519
+{txt}
+{com}. quietly probit is_correct operators operands uniqueoperands uniqueoperators if total_score<9
+{txt}
+{com}. estimates store regr2a6
+{txt}
+{com}. lroc, nograph
+
+{txt}Probit model for is_correct
+
+number of observations = {res}     909
+{txt}area under ROC curve   = {res}  0.6416
+{txt}
+{com}. display e(r2_p)
+{res}.06868421
+{txt}
+{com}. //Missing here: a table with roc and pseudo r2 for each model.
+. 
+. //2b. Probit on is_correct, with fixed effects
+. 
+. quietly probit is_correct totalvolume i.id_question i.user if total_score<9
+{txt}
+{com}. estimates store regr2b1
+{txt}
+{com}. lroc, nograph
+
+{txt}Probit model for is_correct
+
+number of observations = {res}     837
+{txt}area under ROC curve   = {res}  0.8329
+{txt}
+{com}. display e(r2_p)
+{res}.27572123
+{txt}
+{com}. quietly probit is_correct operators i.id_question i.user if total_score<9
+{txt}
+{com}. estimates store regr2b2
+{txt}
+{com}. lroc, nograph
+
+{txt}Probit model for is_correct
+
+number of observations = {res}     837
+{txt}area under ROC curve   = {res}  0.8330
+{txt}
+{com}. display e(r2_p)
+{res}.27650144
+{txt}
+{com}. quietly probit is_correct vocabulary i.id_question i.user if total_score<9
+{txt}
+{com}. estimates store regr2b3
+{txt}
+{com}. lroc, nograph
+
+{txt}Probit model for is_correct
+
+number of observations = {res}     837
+{txt}area under ROC curve   = {res}  0.8334
+{txt}
+{com}. display e(r2_p)
+{res}.27584629
+{txt}
+{com}. quietly probit is_correct level i.id_question i.user if total_score<9
+{txt}
+{com}. estimates store regr2b4
+{txt}
+{com}. lroc, nograph
+
+{txt}Probit model for is_correct
+
+number of observations = {res}     837
+{txt}area under ROC curve   = {res}  0.8271
+{txt}
+{com}. display e(r2_p)
+{res}.26929738
+{txt}
+{com}. quietly probit is_correct totalvolume level i.id_question i.user if total_score<9
+{txt}
+{com}. estimates store regr2b5
+{txt}
+{com}. lroc, nograph
+
+{txt}Probit model for is_correct
+
+number of observations = {res}     837
+{txt}area under ROC curve   = {res}  0.8348
+{txt}
+{com}. display e(r2_p)
+{res}.28090048
+{txt}
+{com}. quietly probit is_correct operators operands uniqueoperands uniqueoperators i.id_question i.user if total_score<9
+{txt}
+{com}. estimates store regr2b6
+{txt}
+{com}. lroc, nograph
+
+{txt}Probit model for is_correct
+
+number of observations = {res}     837
+{txt}area under ROC curve   = {res}  0.8387
+{txt}
+{com}. display e(r2_p)
+{res}.28671802
+{txt}
+{com}. //Missing here: a table with roc and pseudo r2 for each model.
+. 
+. //2c. OLS on time without fixed effects
+. 
+. quietly reg time totalvolume if is_correct==1
+{txt}
+{com}. estimates store regr2c1
+{txt}
+{com}. display e(r2)
+{res}.20102829
+{txt}
+{com}. quietly reg time operators if is_correct==1
+{txt}
+{com}. estimates store regr2c2
+{txt}
+{com}. display e(r2)
+{res}.20454897
+{txt}
+{com}. quietly reg time vocabulary if is_correct==1
+{txt}
+{com}. estimates store regr2c3
+{txt}
+{com}. display e(r2)
+{res}.19076186
+{txt}
+{com}. quietly reg time level if is_correct==1
+{txt}
+{com}. estimates store regr2c4
+{txt}
+{com}. display e(r2)
+{res}.15169881
+{txt}
+{com}. quietly reg time totalvolume level if is_correct==1
+{txt}
+{com}. estimates store regr2c5
+{txt}
+{com}. display e(r2)
+{res}.20106507
+{txt}
+{com}. quietly reg time operators operands uniqueoperands uniqueoperators if is_correct==1
+{txt}
+{com}. estimates store regr2c6
+{txt}
+{com}. display e(r2)
+{res}.21862737
+{txt}
+{com}. //Missing here: a table with r2 for each model.
+. 
+. //2d. OLS on time with fixed effects
+. 
+. quietly reg time totalvolume i.id_question i.user if is_correct==1
+{txt}
+{com}. estimates store regr2d1
+{txt}
+{com}. display e(r2)
+{res}.5279641
+{txt}
+{com}. quietly reg time operators i.id_question i.user if is_correct==1
+{txt}
+{com}. estimates store regr2d2
+{txt}
+{com}. display e(r2)
+{res}.53089634
+{txt}
+{com}. quietly reg time vocabulary i.id_question i.user if is_correct==1
+{txt}
+{com}. estimates store regr2d3
+{txt}
+{com}. display e(r2)
+{res}.52147418
+{txt}
+{com}. quietly reg time level i.id_question i.user if is_correct==1
+{txt}
+{com}. estimates store regr2d4
+{txt}
+{com}. display e(r2)
+{res}.48791583
+{txt}
+{com}. quietly reg time totalvolume level i.id_question i.user if is_correct==1
+{txt}
+{com}. estimates store regr2d5
+{txt}
+{com}. display e(r2)
+{res}.528007
+{txt}
+{com}. quietly reg time operators operands uniqueoperands uniqueoperators i.id_question i.user if is_correct==1
+{txt}
+{com}. estimates store regr2d6
+{txt}
+{com}. display e(r2)
+{res}.54366225
+{txt}
+{com}. //Missing here: a table with r2 for each model.
+. 
+. 
+. 
+. //3. Are effects heterogeneous across students?
+. 
+. //3a. Probit on is_correct, with fixed effects. Effect of MSc.
+. 
+. quietly probit is_correct totalvolume MSc_volume i.id_question i.user if total_score<9
+{txt}
+{com}. estimates store regr3a1
+{txt}
+{com}. quietly probit is_correct operators MSc_operators i.id_question i.user if total_score<9
+{txt}
+{com}. estimates store regr3a2
+{txt}
+{com}. quietly probit is_correct vocabulary MSc_vocabulary i.id_question i.user if total_score<9
+{txt}
+{com}. estimates store regr3a3
+{txt}
+{com}. quietly probit is_correct level MSc_level i.id_question i.user if total_score<9
+{txt}
+{com}. estimates store regr3a4
+{txt}
+{com}. quietly probit is_correct totalvolume level MSc_volume MSc_level i.id_question i.user if total_score<9
+{txt}
+{com}. estimates store regr3a5
+{txt}
+{com}. 
+. estout regr3a1 regr3a2 regr3a3 regr3a4 regr3a5, cells(b(star fmt(3)) t(par fmt(2))) style(tex) keep(totalvolume operators vocabulary level MSc_volume MSc_operators MSc_vocabulary MSc_level) starlevels(* 0.10 ** 0.05 *** 0.01) ///
+> legend label collabels(none)  type
+{res}
+                    &     regr3a1   &     regr3a2   &     regr3a3   &     regr3a4   &     regr3a5   \\
+is_correct          &               &               &               &               &               \\
+Total Volume        &      -0.024***&               &               &               &      -0.017***\\
+                    &     (-6.51)   &               &               &               &     (-2.64)   \\
+MSc_volume          &      -0.002   &               &               &               &       0.002   \\
+                    &     (-0.29)   &               &               &               &      (0.26)   \\
+Operators           &               &      -0.054***&               &               &               \\
+                    &               &     (-6.51)   &               &               &               \\
+MSc_operators       &               &      -0.004   &               &               &               \\
+                    &               &     (-0.35)   &               &               &               \\
+vocabulary          &               &               &      -0.088***&               &               \\
+                    &               &               &     (-6.83)   &               &               \\
+MSc_vocabulary      &               &               &       0.008   &               &               \\
+                    &               &               &      (0.44)   &               &               \\
+Level               &               &               &               &       5.349***&       1.889   \\
+                    &               &               &               &      (5.96)   &      (1.22)   \\
+MSc_level           &               &               &               &       0.701   &       1.254   \\
+                    &               &               &               &      (0.55)   &      (0.59)   \\
+* p<0.10, ** p<0.05, *** p<0.01
+{txt}
+{com}. 
+. //3b. Probit on is_correct, with fixed effects. Effect of business.
+. 
+. quietly probit is_correct totalvolume business_volume i.id_question i.user if total_score<9
+{txt}
+{com}. estimates store regr3b1
+{txt}
+{com}. quietly probit is_correct operators business_operators i.id_question i.user if total_score<9
+{txt}
+{com}. estimates store regr3b2
+{txt}
+{com}. quietly probit is_correct vocabulary business_vocabulary i.id_question i.user if total_score<9
+{txt}
+{com}. estimates store regr3b3
+{txt}
+{com}. quietly probit is_correct level business_level i.id_question i.user if total_score<9
+{txt}
+{com}. estimates store regr3b4
+{txt}
+{com}. quietly probit is_correct totalvolume level business_volume business_level i.id_question i.user if total_score<9
+{txt}
+{com}. estimates store regr3b5
+{txt}
+{com}. 
+. estout regr3b1 regr3b2 regr3b3 regr3b4 regr3b5, cells(b(star fmt(3)) t(par fmt(2))) style(tex) keep(totalvolume operators vocabulary level business_volume business_operators business_vocabulary business_level) starlevels(* 0.10 ** 0.05 *** 0.01) ///
+> legend label collabels(none)  type
+{res}
+                    &     regr3b1   &     regr3b2   &     regr3b3   &     regr3b4   &     regr3b5   \\
+is_correct          &               &               &               &               &               \\
+Total Volume        &      -0.023***&               &               &               &      -0.008   \\
+                    &     (-3.63)   &               &               &               &     (-0.72)   \\
+business_volume     &      -0.002   &               &               &               &      -0.009   \\
+                    &     (-0.30)   &               &               &               &     (-0.70)   \\
+Operators           &               &      -0.051***&               &               &               \\
+                    &               &     (-3.60)   &               &               &               \\
+business_operators  &               &      -0.006   &               &               &               \\
+                    &               &     (-0.36)   &               &               &               \\
+vocabulary          &               &               &      -0.088***&               &               \\
+                    &               &               &     (-3.95)   &               &               \\
+business_vocabulary &               &               &       0.005   &               &               \\
+                    &               &               &      (0.19)   &               &               \\
+Level               &               &               &               &       5.273***&       3.714   \\
+                    &               &               &               &      (3.68)   &      (1.46)   \\
+business_level      &               &               &               &       0.529   &      -1.390   \\
+                    &               &               &               &      (0.33)   &     (-0.50)   \\
+* p<0.10, ** p<0.05, *** p<0.01
+{txt}
+{com}. 
+. //3c. Probit on is_correct, with fixed effects. Effect of above_median.
+. //Warning: this effect may be a bit mechanical?
+. 
+. quietly probit is_correct totalvolume above_median_volume i.id_question i.user if total_score<9
+{txt}
+{com}. estimates store regr3c1
+{txt}
+{com}. quietly probit is_correct operators above_median_operators i.id_question i.user if total_score<9
+{txt}
+{com}. estimates store regr3c2
+{txt}
+{com}. quietly probit is_correct vocabulary above_median_vocabulary i.id_question i.user if total_score<9
+{txt}
+{com}. estimates store regr3c3
+{txt}
+{com}. quietly probit is_correct level above_median_level i.id_question i.user if total_score<9
+{txt}
+{com}. estimates store regr3c4
+{txt}
+{com}. quietly probit is_correct totalvolume level above_median_volume above_median_level i.id_question i.user if total_score<9
+{txt}
+{com}. estimates store regr3c5
+{txt}
+{com}. 
+. estout regr3c1 regr3c2 regr3c3 regr3c4 regr3c5, cells(b(star fmt(3)) t(par fmt(2))) style(tex) keep(totalvolume operators vocabulary level above_median_volume above_median_operators above_median_vocabulary above_median_level) starlevels(* 0.10 ** 0.05 *** 0.01) ///
+> legend label collabels(none) type
+{res}
+                    &     regr3c1   &     regr3c2   &     regr3c3   &     regr3c4   &     regr3c5   \\
+is_correct          &               &               &               &               &               \\
+Total Volume        &      -0.033***&               &               &               &      -0.025***\\
+                    &     (-8.00)   &               &               &               &     (-3.52)   \\
+above_median_volume &       0.015***&               &               &               &       0.015   \\
+                    &      (2.86)   &               &               &               &      (1.60)   \\
+Operators           &               &      -0.074***&               &               &               \\
+                    &               &     (-8.01)   &               &               &               \\
+above_median_operators&               &       0.034***&               &               &               \\
+                    &               &      (2.82)   &               &               &               \\
+vocabulary          &               &               &      -0.109***&               &               \\
+                    &               &               &     (-7.98)   &               &               \\
+above_median_vocabulary&               &               &       0.047***&               &               \\
+                    &               &               &      (2.59)   &               &               \\
+Level               &               &               &               &       7.009***&       2.202   \\
+                    &               &               &               &      (7.40)   &      (1.38)   \\
+above_median_level  &               &               &               &      -2.600** &       0.123   \\
+                    &               &               &               &     (-2.03)   &      (0.06)   \\
+* p<0.10, ** p<0.05, *** p<0.01
+{txt}
+{com}. 
+. 
+. //3d. OLS on time, with fixed effects. Effect of MSc.
+. 
+. quietly reg time totalvolume MSc_volume i.id_question i.user if is_correct==1
+{txt}
+{com}. estimates store regr3d1
+{txt}
+{com}. quietly reg time operators MSc_operators i.id_question i.user if is_correct==1
+{txt}
+{com}. estimates store regr3d2
+{txt}
+{com}. quietly reg time vocabulary MSc_vocabulary i.id_question i.user if is_correct==1
+{txt}
+{com}. estimates store regr3d3
+{txt}
+{com}. quietly reg time level MSc_level i.id_question i.user if is_correct==1
+{txt}
+{com}. estimates store regr3d4
+{txt}
+{com}. quietly reg time totalvolume level MSc_volume MSc_level i.id_question i.user if is_correct==1
+{txt}
+{com}. estimates store regr3d5
+{txt}
+{com}. 
+. estout regr3d1 regr3d2 regr3d3 regr3d4 regr3d5, cells(b(star fmt(3)) t(par fmt(2))) style(tex) keep(totalvolume operators vocabulary level MSc_volume MSc_operators MSc_vocabulary MSc_level) starlevels(* 0.10 ** 0.05 *** 0.01) ///
+> legend label collabels(none)  type
+{res}
+                    &     regr3d1   &     regr3d2   &     regr3d3   &     regr3d4   &     regr3d5   \\
+Total Volume        &       1.748***&               &               &               &       2.065***\\
+                    &      (8.50)   &               &               &               &      (5.02)   \\
+MSc_volume          &       0.349   &               &               &               &      -0.267   \\
+                    &      (1.26)   &               &               &               &     (-0.50)   \\
+Operators           &               &       3.918***&               &               &               \\
+                    &               &      (8.55)   &               &               &               \\
+MSc_operators       &               &       0.880   &               &               &               \\
+                    &               &      (1.42)   &               &               &               \\
+vocabulary          &               &               &       6.087***&               &               \\
+                    &               &               &      (8.76)   &               &               \\
+MSc_vocabulary      &               &               &       0.476   &               &               \\
+                    &               &               &      (0.51)   &               &               \\
+Level               &               &               &               &    -317.545***&      81.042   \\
+                    &               &               &               &     (-6.68)   &      (0.89)   \\
+MSc_level           &               &               &               &     -90.448   &    -158.367   \\
+                    &               &               &               &     (-1.43)   &     (-1.34)   \\
+* p<0.10, ** p<0.05, *** p<0.01
+{txt}
+{com}. 
+. //3e. OLS on time, with fixed effects. Effect of business.
+. 
+. quietly reg time totalvolume business_volume i.id_question i.user if is_correct==1
+{txt}
+{com}. estimates store regr3e1
+{txt}
+{com}. quietly reg time operators business_operators i.id_question i.user if is_correct==1
+{txt}
+{com}. estimates store regr3e2
+{txt}
+{com}. quietly reg time vocabulary business_vocabulary i.id_question i.user if is_correct==1
+{txt}
+{com}. estimates store regr3e3
+{txt}
+{com}. quietly reg time level business_level i.id_question i.user if is_correct==1
+{txt}
+{com}. estimates store regr3e4
+{txt}
+{com}. quietly reg time totalvolume level business_volume business_level i.id_question i.user if is_correct==1
+{txt}
+{com}. estimates store regr3e5
+{txt}
+{com}. 
+. estout regr3e1 regr3e2 regr3e3 regr3e4 regr3e5, cells(b(star fmt(3)) t(par fmt(2))) style(tex) keep(totalvolume operators vocabulary level business_volume business_operators business_vocabulary business_level) starlevels(* 0.10 ** 0.05 *** 0.01) ///
+> legend label collabels(none)  type
+{res}
+                    &     regr3e1   &     regr3e2   &     regr3e3   &     regr3e4   &     regr3e5   \\
+Total Volume        &       1.139***&               &               &               &       0.715   \\
+                    &      (3.29)   &               &               &               &      (1.03)   \\
+business_volume     &       0.950** &               &               &               &       1.369*  \\
+                    &      (2.52)   &               &               &               &      (1.82)   \\
+Operators           &               &       2.602***&               &               &               \\
+                    &               &      (3.35)   &               &               &               \\
+business_operators  &               &       2.131** &               &               &               \\
+                    &               &      (2.52)   &               &               &               \\
+vocabulary          &               &               &       3.955***&               &               \\
+                    &               &               &      (3.33)   &               &               \\
+business_vocabulary &               &               &       2.821** &               &               \\
+                    &               &               &      (2.19)   &               &               \\
+Level               &               &               &               &    -238.405***&    -104.761   \\
+                    &               &               &               &     (-3.08)   &     (-0.71)   \\
+business_level      &               &               &               &    -155.753*  &     103.375   \\
+                    &               &               &               &     (-1.84)   &      (0.64)   \\
+* p<0.10, ** p<0.05, *** p<0.01
+{txt}
+{com}. 
+. //3f. OLS on time, with fixed effects. Effect of above_median.
+. 
+. quietly reg time totalvolume above_median_volume i.id_question i.user if is_correct==1
+{txt}
+{com}. estimates store regr3f1
+{txt}
+{com}. quietly reg time operators above_median_operators i.id_question i.user if is_correct==1
+{txt}
+{com}. estimates store regr3f2
+{txt}
+{com}. quietly reg time vocabulary above_median_vocabulary i.id_question i.user if is_correct==1
+{txt}
+{com}. estimates store regr3f3
+{txt}
+{com}. quietly reg time level above_median_level i.id_question i.user if is_correct==1
+{txt}
+{com}. estimates store regr3f4
+{txt}
+{com}. quietly reg time totalvolume level above_median_volume above_median_level i.id_question i.user if is_correct==1
+{txt}
+{com}. estimates store regr3f5
+{txt}
+{com}. 
+. estout regr3f1 regr3f2 regr3f3 regr3f4 regr3f5, cells(b(star fmt(3)) t(par fmt(2))) style(tex) keep(totalvolume operators vocabulary level above_median_volume above_median_operators above_median_vocabulary above_median_level) starlevels(* 0.10 ** 0.05 *** 0.01) ///
+> legend label collabels(none) type
+{res}
+                    &     regr3f1   &     regr3f2   &     regr3f3   &     regr3f4   &     regr3f5   \\
+Total Volume        &       2.170***&               &               &               &       1.862***\\
+                    &      (7.53)   &               &               &               &      (3.36)   \\
+above_median_volume &      -0.295   &               &               &               &       0.080   \\
+                    &     (-0.90)   &               &               &               &      (0.13)   \\
+Operators           &               &       4.900***&               &               &               \\
+                    &               &      (7.61)   &               &               &               \\
+above_median_operators&               &      -0.642   &               &               &               \\
+                    &               &     (-0.88)   &               &               &               \\
+vocabulary          &               &               &       6.402***&               &               \\
+                    &               &               &      (6.80)   &               &               \\
+above_median_vocabulary&               &               &      -0.063   &               &               \\
+                    &               &               &     (-0.06)   &               &               \\
+Level               &               &               &               &    -381.249***&     -70.327   \\
+                    &               &               &               &     (-6.52)   &     (-0.65)   \\
+above_median_level  &               &               &               &      17.626   &      88.179   \\
+                    &               &               &               &      (0.25)   &      (0.69)   \\
+* p<0.10, ** p<0.05, *** p<0.01
+{txt}
+{com}. 
+. 
+. 
+{txt}end of do-file
+
+{com}. log close
+      {txt}name:  {res}<unnamed>
+       {txt}log:  {res}C:\Users\colliard\Desktop\Experiment 1 - Analysis\Log.smcl
+  {txt}log type:  {res}smcl
+ {txt}closed on:  {res}16 Jun 2021, 11:22:04
+{txt}{.-}
+{smcl}
+{txt}{sf}{ul off}

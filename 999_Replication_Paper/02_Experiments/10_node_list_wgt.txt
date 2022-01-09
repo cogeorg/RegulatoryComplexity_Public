@@ -1,0 +1,102 @@
+ASSET_CLASS = {
+    'cash', 0.3,
+    'claim', 0.8,
+    'loan', 1.0,
+    'fixed_asset', 0.2,
+    'real_estate', 0.1,
+    'other_investment', 0.1,
+    'capital_instrument', 0.1
+}
+
+cash = {
+    'CASH_COLLECTION', 1.0
+}
+
+claim = {
+    'ISSUER', 1.0,
+    'DENOMINATION', 1.0,
+    'FUNDING_CURRENCY', 1.0,
+    'ISSUER_COUNTRY', 1.0,
+    'COLLATERALIZED', 1.0,
+    'GUARANTEED', 1.0,
+    'ASSET_MATURITY', 1.0,
+    'ISSUER_OWNER', 1.0
+}
+
+loan = {
+    'GUARANTEED', 1.0,
+    'GUARANTEED_COUNTRY', 1.0,
+    'ASSET_MATURITY', 1.0,
+    'LOAN_SECURITY', 1.0,
+    'PROPERTY_OCCUPIED', 1.0
+}
+
+capital_instrument = {
+    'ISSUER', 1.0,
+    'DEDUCTED_FROM', 1.0
+}
+
+ISSUER = {
+    'central government', 0.3,
+    'central bank', 0.3,
+    'public-sector entity', 0.4,
+    'multilateral development bank', 0.7,
+    'bank', 1.0,
+    'commercial company', 0.3
+}
+
+DENOMINATION = {
+    'national', 1.0
+}
+
+FUNDING_CURRENCY = {
+    'national', 1.0
+}
+
+ISSUER_COUNTRY = {
+    'oecd', 1.0,
+    'domestic', 1.0
+}
+
+COLLATERALIZED = {
+    'oecd', 1.0,
+    'multilateral development bank', 1.0
+}
+
+GUARANTEED = {
+    'oecd', 1.0,
+    'public-sector entity', 1.0,
+    'central government', 1.0,
+    'multilateral development bank', 1.0
+}
+
+GUARANTEED_COUNTRY = {
+    'oecd', 1.0,
+    'public-sector entity', 1.0
+}
+
+ASSET_MATURITY = {
+    'lt1', 1.0,
+    'g1', 1.0
+}
+
+CASH_COLLECTION = {
+    'in progress', 1.0
+}
+
+LOAN_SECURITY = {
+    'mortgage', 1.0
+}
+
+PROPERTY_OCCUPIED = {
+    'owner', 1.0,
+    'rented', 1.0
+}
+
+ISSUER_OWNER = {
+    'public sector', 1.0
+}
+
+DEDUCTED_FROM = {
+    'capital', 1.0
+}

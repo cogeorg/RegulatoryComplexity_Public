@@ -1,0 +1,365 @@
+THE SECURITIES INVESTOR PROTECTION ACT OF 1970 15 USC 78AAA ET SEQ;17;LegalReferences
+DODD-FRANK WALL STREET REFORM AND CONSUMER PROTECTION ACT;26;LegalReferences
+NATIONALLY RECOGNIZED STATISTICAL RATING ORGANIZATION;136;EconomicOperands
+THE BANK HOLDING COMPANY ACT OF 1956 12 USC 1844C5;0;LegalReferences
+THE BANK HOLDING COMPANY ACT OF 1956 12 USC 1841P;0;LegalReferences
+THE BANK HOLDING COMPANY ACT OF 1956 12 USC 1841;4;LegalReferences
+THE SECURITIES EXCHANGE ACT OF 1934 15 USC 78C;5;LegalReferences
+THE FEDERAL DEPOSIT INSURANCE ACT 12 USC 1813;19;LegalReferences
+COMMONWEALTH OF THE NORTHERN MARIANA ISLANDS;1;EconomicOperands
+THE SARBANES-OXLEY ACT OF 2002 15 USC 7211;0;LegalReferences
+OFFICE OF THE COMPTROLLER OF THE CURRENCY;109;EconomicOperands
+THE COMMODITY EXCHANGE ACT 7 USC 1 ET SEQ;3;LegalReferences
+THE FEDERAL CREDIT UNION ACT 12 USC 1752;4;LegalReferences
+BUREAU OF CONSUMER FINANCIAL PROTECTION;92;EconomicOperands
+FEDERAL HOME LOAN MORTGAGE CORPORATION;6;EconomicOperands
+SECURITY-BASED SWAP EXECUTION FACILITY;48;EconomicOperands
+FEDERAL DEPOSIT INSURANCE CORPORATION;109;EconomicOperands
+FEDERAL NATIONAL MORTGAGE ASSOCIATION;6;EconomicOperands
+FINANCIAL STABILITY OVERSIGHT COUNCIL;23;EconomicOperands
+MAJOR SECURITY-BASED SWAP PARTICIPANT;156;EconomicOperands
+MUNICIPAL SECURITIES RULEMAKING BOARD;8;EconomicOperands
+COMMODITY FUTURES TRADING COMMISSION;145;EconomicOperands
+PRIMARY FINANCIAL REGULATORY AGENCY;36;EconomicOperands
+SECURITY-BASED SWAP DATA REPOSITORY;40;EconomicOperands
+THE INVESTMENT ADVISERS ACT OF 1940;50;LegalReferences
+THE SECURITIES EXCHANGE ACT OF 1934;76;LegalReferences
+APPROPRIATE FEDERAL BANKING AGENCY;165;EconomicOperands
+SECURITIES AND EXCHANGE COMMISSION;159;EconomicOperands
+THE INVESTMENT COMPANY ACT OF 1940;25;LegalReferences
+DERIVATIVES CLEARING ORGANIZATION;168;EconomicOperands
+FUNCTIONALLY REGULATED SUBSIDIARY;14;EconomicOperands
+THE FEDERAL DEPOSIT INSURANCE ACT;60;LegalReferences
+SAVINGS AND LOAN HOLDING COMPANY;46;EconomicOperands
+THE FEDERAL TRADE COMMISSION ACT;28;LegalReferences
+INSURED DEPOSITORY INSTITUTION;172;EconomicOperands
+FEDERAL DEPOSIT INSURANCE ACT;5;LegalReferences
+COMMONWEALTH OF PUERTO RICO;3;EconomicOperands
+FEDERAL SAVINGS ASSOCIATION;53;EconomicOperands
+FUTURES COMMISSION MERCHANT;33;EconomicOperands
+SECURITY-BASED SWAP DEALER;178;EconomicOperands
+COMMODITY TRADING ADVISER;0;EconomicOperands
+COMMODITY TRADING ADVISOR;8;EconomicOperands
+FINANCIAL HOLDING COMPANY;11;EconomicOperands
+SECRETARY OF THE TREASURY;41;EconomicOperands
+STATE SAVINGS ASSOCIATION;37;EconomicOperands
+FEDERAL BANKING AGENCIES;62;EconomicOperands
+THE HOME OWNERS LOAN ACT;11;LegalReferences
+COMMODITY POOL OPERATOR;6;EconomicOperands
+SWAP EXECUTION FACILITY;77;EconomicOperands
+DEPOSITORY INSTITUTION;84;EconomicOperands
+FEDERAL BANKING AGENCY;18;EconomicOperands
+MAJOR SWAP PARTICIPANT;150;EconomicOperands
+BANK HOLDING COMPANY;124;EconomicOperands
+DISTRICT OF COLUMBIA;13;EconomicOperands
+FEDERAL CREDIT UNION;3;EconomicOperands
+PRUDENTIAL STANDARDS;28;EconomicOperands
+STATE NONMEMBER BANK;0;EconomicOperands
+SWAP DATA REPOSITORY;51;EconomicOperands
+INVESTOR PROTECTION;24;EconomicOperands
+SAVINGS ASSOCIATION;63;EconomicOperands
+SECURITY-BASED SWAP;386;EconomicOperands
+BOARD OF GOVERNORS;524;EconomicOperands
+INTRODUCING BROKER;14;EconomicOperands
+INVESTMENT ADVISER;68;EconomicOperands
+INVESTMENT COMPANY;15;EconomicOperands
+FOR THE PURPOSE OF;80;LogicalConnectors
+HOLDING COMPANIES;49;EconomicOperands
+INSURANCE COMPANY;29;EconomicOperands
+STATE MEMBER BANK;3;EconomicOperands
+IN THE CONTEXT OF;4;FunctionWords
+TABLE OF CONTENTS;1;FunctionWords
+UNCONSTITUTIONAL;0;Attributes
+FOREIGN EXCHANGE;4;EconomicOperands
+FEDERAL RESERVE;171;EconomicOperands
+SECURITIES LAWS;34;EconomicOperands
+STATE-CHARTERED;9;EconomicOperands
+THE CLAYTON ACT;2;LegalReferences
+WITH RESPECT TO;660;LogicalConnectors
+AMERICAN SAMOA;3;EconomicOperands
+ANTITRUST LAWS;2;EconomicOperands
+BOARD OF TRADE;82;EconomicOperands
+COMMODITY POOL;15;EconomicOperands
+EFFECTIVE DATE;102;EconomicOperands
+INSURED BRANCH;2;EconomicOperands
+VIRGIN ISLANDS;3;EconomicOperands
+SUBPARAGRAPH A;408;LegalReferences
+SUBPARAGRAPH B;182;LegalReferences
+COMPLYING WITH;14;RegulatoryOperators
+CONGRESSIONAL;8;EconomicOperands
+TRANSFER DATE;79;EconomicOperands
+UNITED STATES;411;EconomicOperands
+PROVIDED THAT;22;LogicalConnectors
+TO THE EXTENT;159;LogicalConnectors
+CIRCUMSTANCE;1;EconomicOperands
+COLLECTIVELY;4;EconomicOperands
+CREDIT UNION;11;EconomicOperands
+FOREIGN BANK;37;EconomicOperands
+INCORPORATED;18;EconomicOperands
+INDIVIDUALLY;6;EconomicOperands
+INSTITUTIONS;73;EconomicOperands
+SUBSECTION A;278;LegalReferences
+THIS SECTION;770;LegalReferences
+SPECIFICALLY;35;LogicalConnectors
+SEVERABILITY;0;Other
+APPLICATION;108;EconomicOperands
+ASSOCIATION;68;EconomicOperands
+COMPETITION;10;EconomicOperands
+CORPORATION;767;EconomicOperands
+DEFINITIONS;113;EconomicOperands
+INFORMATION;730;EconomicOperands
+INSTITUTION;65;EconomicOperands
+LEGISLATION;6;EconomicOperands
+SUPERVISION;92;EconomicOperands
+SWAP DEALER;162;EconomicOperands
+REFERRED TO;117;FunctionWords
+SECTION 101;7;LegalReferences
+SECTION 165;2;LegalReferences
+SECTION 202;8;LegalReferences
+SECTION 311;2;LegalReferences
+SECTION 5C5;1;LegalReferences
+SHORT TITLE;13;Other
+ESTABLISHED;276;RegulatoryOperators
+TAKE EFFECT;58;RegulatoryOperators
+ACCOUNTING;87;EconomicOperands
+ACTIVITIES;289;EconomicOperands
+COMMISSION;1561;EconomicOperands
+COMMITTEES;38;EconomicOperands
+INCIDENTAL;24;EconomicOperands
+INVESTMENT;137;EconomicOperands
+POSSESSION;19;EconomicOperands
+PROVISIONS;268;EconomicOperands
+REGISTERED;323;EconomicOperands
+REGULATORY;189;EconomicOperands
+SECURITIES;456;EconomicOperands
+STATE BANK;29;EconomicOperands
+SUBSIDIARY;187;EconomicOperands
+AS FOLLOWS;49;FunctionWords
+SECTION 10;5;LegalReferences
+SECTION 2P;0;LegalReferences
+SECTION 3Q;15;LegalReferences
+SUBJECT TO;529;LogicalConnectors
+AMENDMENTS;147;Other
+DESIGNATED;127;RegulatoryOperators
+DETERMINED;145;RegulatoryOperators
+AFFILIATE;130;EconomicOperands
+ANTITRUST;9;EconomicOperands
+AUTHORITY;550;EconomicOperands
+COMMODITY;98;EconomicOperands
+DEVELOPED;14;EconomicOperands
+DOMICILED;7;EconomicOperands
+INSURANCE;226;EconomicOperands
+NONMEMBER;1;EconomicOperands
+OPERATION;48;EconomicOperands
+OVERSIGHT;75;EconomicOperands
+PROCESSOR;7;EconomicOperands
+PROVISION;380;EconomicOperands
+REFERENCE;14;EconomicOperands
+SECRETARY;318;EconomicOperands
+STANDARDS;300;EconomicOperands
+STATEMENT;76;EconomicOperands
+STATUTORY;15;EconomicOperands
+SUBMITTED;78;EconomicOperands
+TERRITORY;13;EconomicOperands
+FOLLOWING;727;FunctionWords
+SECTION 1;65;LegalReferences
+SECTION 2;21;LegalReferences
+SECTION 3;43;LegalReferences
+SECTION 5;18;LegalReferences
+TITLE III;3;LegalReferences
+EXCEPT AS;153;LogicalConnectors
+INCLUDING;760;LogicalConnectors
+OTHERWISE;265;LogicalConnectors
+AMENDMENT;82;Other
+CONSTRUED;124;Other
+DESCRIBED;671;Other
+ENACTMENT;292;Other
+SUPERSEDE;7;Other
+SPECIFIED;51;RegulatoryOperators
+ADVISORY;46;EconomicOperands
+AFFECTED;19;EconomicOperands
+AGENCIES;200;EconomicOperands
+CLEARING;214;EconomicOperands
+CONTRACT;362;EconomicOperands
+ENHANCED;24;EconomicOperands
+EXCHANGE;98;EconomicOperands
+INCLUDES;74;EconomicOperands
+NATIONAL;126;EconomicOperands
+PURPOSES;443;EconomicOperands
+SECURITY;219;EconomicOperands
+TRANSFER;205;EconomicOperands
+THIS ACT;335;LegalReferences
+PROVIDED;439;LogicalConnectors
+MEANINGS;16;Other
+REQUIRES;25;RegulatoryOperators
+COMPANY;320;EconomicOperands
+CONTROL;86;EconomicOperands
+COUNCIL;376;EconomicOperands
+DEFINED;336;EconomicOperands
+DEPOSIT;31;EconomicOperands
+EFFECTS;22;EconomicOperands
+FEDERAL;541;EconomicOperands
+FINANCE;84;EconomicOperands
+FUTURES;58;EconomicOperands
+HOUSING;112;EconomicOperands
+METHODS;21;EconomicOperands
+PASSAGE;6;EconomicOperands
+APPLIES;23;FunctionWords
+BETWEEN;118;FunctionWords
+SAVINGS;39;FunctionWords
+SECTION;40;LegalReferences
+TITLE I;13;LegalReferences
+TITLE X;5;LegalReferences
+JOINTLY;100;LogicalConnectors
+NOTHING;98;LogicalConnectors
+IN THAT;11;LogicalConnectors
+THAT IS;542;LogicalConnectors
+THEREBY;4;LogicalConnectors
+CONTEXT;7;Other
+MEANING;64;Other
+AMENDED;650;RegulatoryOperators
+REQUIRE;209;RegulatoryOperators
+ACTING;61;EconomicOperands
+AGENCY;449;EconomicOperands
+BROKER;125;EconomicOperands
+BUDGET;36;EconomicOperands
+BUREAU;786;EconomicOperands
+CONFER;0;EconomicOperands
+DEALER;147;EconomicOperands
+ENTITY;210;EconomicOperands
+HOUSES;1;EconomicOperands
+IMPAIR;7;EconomicOperands
+ISSUER;177;EconomicOperands
+MARKET;225;EconomicOperands
+MEMBER;171;EconomicOperands
+MODIFY;22;EconomicOperands
+PERSON;914;EconomicOperands
+PUBLIC;312;EconomicOperands
+RECORD;44;EconomicOperands
+REMAIN;41;EconomicOperands
+REPORT;563;EconomicOperands
+RETAIL;20;EconomicOperands
+SENATE;149;EconomicOperands
+SYSTEM;170;EconomicOperands
+TITLED;0;EconomicOperands
+UNFAIR;27;EconomicOperands
+WEALTH;2;EconomicOperands
+COMMON;10;FunctionWords
+CLAUSE;48;LegalReferences
+EXCEPT;160;LogicalConnectors
+UNLESS;183;LogicalConnectors
+FIRST;89;Attributes
+AGENT;66;EconomicOperands
+BANKS;58;EconomicOperands
+BOARD;506;EconomicOperands
+CHAIR;2;EconomicOperands
+HOUSE;1;EconomicOperands
+MEANS;405;EconomicOperands
+PRINT;0;EconomicOperands
+PRIOR;87;EconomicOperands
+STATE;598;EconomicOperands
+GIVEN;23;FunctionWords
+THOSE;85;FunctionWords
+UNDER;2764;FunctionWords
+WHICH;1001;FunctionWords
+1467A;1;LegalReferences
+TITLE;23;LegalReferences
+OTHER;1545;LogicalConnectors
+AFTER;904;LogicalConnectors
+APPLY;226;Other
+CITED;14;Other
+TERMS;243;Other
+SHALL;3590;RegulatoryOperators
+2010;7;Attributes
+BANK;175;EconomicOperands
+DATE;690;EconomicOperands
+GUAM;3;EconomicOperands
+HELD;84;EconomicOperands
+HOME;94;EconomicOperands
+LATE;10;EconomicOperands
+LOAN;291;EconomicOperands
+SWAP;292;EconomicOperands
+USED;154;EconomicOperands
+VOTE;55;EconomicOperands
+BEEN;188;FunctionWords
+HAVE;440;FunctionWords
+MADE;377;FunctionWords
+SAME;197;FunctionWords
+SUCH;2878;FunctionWords
+THAT;2674;FunctionWords
+THIS;147;FunctionWords
+WITH;1271;FunctionWords
+VIII;24;LegalReferences
+TERM;744;Other
+DAY;82;EconomicOperands
+LAW;448;EconomicOperands
+PAY;112;EconomicOperands
+SEC;492;EconomicOperands
+ARE;755;FunctionWords
+FOR;3115;FunctionWords
+HAS;471;FunctionWords
+MAY;1449;FunctionWords
+THE;25543;FunctionWords
+ACT;161;LegalReferences
+III;463;LegalReferences
+SEQ;3;LegalReferences
+VII;42;LegalReferences
+XII;4;LegalReferences
+ALL;477;LogicalConnectors
+ANY;3982;LogicalConnectors
+AND;9334;LogicalConnectors
+NOT;1127;LogicalConnectors
+10;49;Attributes
+12;74;Attributes
+15;72;Attributes
+31;17;Attributes
+US;121;EconomicOperands
+VI;64;EconomicOperands
+AN;1689;FunctionWords
+BE;2143;FunctionWords
+BY;4964;FunctionWords
+GO;0;FunctionWords
+IN;5895;FunctionWords
+IS;2015;FunctionWords
+OF;14645;FunctionWords
+ON;1710;FunctionWords
+TO;6658;FunctionWords
+11;71;LegalReferences
+13;26;LegalReferences
+14;65;LegalReferences
+17;24;LegalReferences
+18;19;LegalReferences
+A6;3;LegalReferences
+B2;7;LegalReferences
+II;1099;LegalReferences
+IV;232;LegalReferences
+IX;20;LegalReferences
+XI;8;LegalReferences
+AS;2625;LogicalConnectors
+IF;587;LogicalConnectors
+OR;8903;LogicalConnectors
+1;1315;Attributes
+2;1114;Attributes
+3;660;Attributes
+4;423;Attributes
+5;315;Attributes
+6;235;Attributes
+7;276;Attributes
+8;162;Attributes
+9;211;Attributes
+A;8229;FunctionWords
+I;1244;FunctionWords
+B;1708;LegalReferences
+C;1125;LegalReferences
+D;749;LegalReferences
+E;697;LegalReferences
+M;78;LegalReferences
+N;102;LegalReferences
+O;50;LegalReferences
+Q;26;LegalReferences
+R;164;LegalReferences
+T;134;LegalReferences
+U;91;LegalReferences
+V;155;LegalReferences
+X;53;LegalReferences
+Y;27;LegalReferences

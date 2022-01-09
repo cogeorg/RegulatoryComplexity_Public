@@ -1,0 +1,267 @@
+SECTION 1603 OF THE AMERICAN RECOVERY AND REINVESTMENT ACT OF 2009 PUBLIC LAW 1115 123 STAT 302;0;LegalReferences
+SECTION 1607 OF THE AMERICAN RECOVERY AND REINVESTMENT ACT OF 2009 PUBLIC LAW 1115 123 STAT 305;0;LegalReferences
+SECTION 1117 OF THE HOUSING AND ECONOMIC RECOVERY ACT OF 2008 PUBLIC LAW 110289 122 STAT 2683;0;LegalReferences
+TITLE XVI OF THE AMERICAN RECOVERY AND REINVESTMENT ACT OF 2009 PUBLIC LAW 1115 123 STAT 302;0;LegalReferences
+THE FEDERAL NATIONAL MORTGAGE ASSOCIATION CHARTER ACT 12 USC 1719G2;0;LegalReferences
+THE EMERGENCY ECONOMIC STABILIZATION ACT OF 2008 12 USC 5225A;0;LegalReferences
+THE EMERGENCY ECONOMIC STABILIZATION ACT OF 2008 12 USC 5216;0;LegalReferences
+THE FEDERAL HOME LOAN MORTGAGE CORPORATION ACT 12 USC 1455L2;0;LegalReferences
+THE FEDERAL HOME LOAN BANK ACT 12 USC 1431L2;0;LegalReferences
+FEDERAL HOME LOAN MORTGAGE CORPORATION;6;EconomicOperands
+FEDERAL NATIONAL MORTGAGE ASSOCIATION;6;EconomicOperands
+ECONOMIC RECOVERY ACT OF 2008;1;LegalReferences
+SECRETARY OF THE TREASURY;36;EconomicOperands
+MORTGAGE-BACKED SECURITY;0;EconomicOperands
+GOVERNOR OF THE STATE;0;EconomicOperands
+THE PAY IT BACK ACT;0;LegalReferences
+SUBSECTION A OR B;9;LegalReferences
+PAY IT BACK ACT;0;LegalReferences
+THIS SUBSECTION;410;LegalReferences
+NOTWITHSTANDING;182;LogicalConnectors
+APPROPRIATIONS;26;EconomicOperands
+SUBPARAGRAPH B;180;LegalReferences
+SUBPARAGRAPH C;66;LegalReferences
+SUBPARAGRAPH D;41;LegalReferences
+AS A RESULT OF;25;LogicalConnectors
+FOR ANY REASON;2;LogicalConnectors
+DISCRETIONARY;4;EconomicOperands
+SECTION 304G2;0;LegalReferences
+SECTION 306L2;0;LegalReferences
+REDESIGNATING;96;Other
+AUTHORIZATION;34;RegulatoryOperators
+475000000000;0;Attributes
+700000000000;0;Attributes
+JUNE 25 2010;0;Attributes
+APPROPRIATED;30;EconomicOperands
+GUARANTEEING;6;EconomicOperands
+PRESIDENTIAL;0;EconomicOperands
+REQUIREMENTS;495;EconomicOperands
+PARAGRAPH 3A;12;LegalReferences
+SECTION 115A;0;LegalReferences
+SECTION 11L2;0;LegalReferences
+SUBSECTION B;177;LegalReferences
+SUBSECTION D;43;LegalReferences
+DECEMBER 31;7;Attributes
+UNNECESSARY;3;Attributes
+ASSOCIATION;69;EconomicOperands
+AUTHORITIES;100;EconomicOperands
+CARRIED OUT;9;EconomicOperands
+CORPORATION;770;EconomicOperands
+FREDDIE MAC;15;EconomicOperands
+LEGISLATURE;0;EconomicOperands
+OBLIGATIONS;144;EconomicOperands
+OUTSTANDING;31;EconomicOperands
+TRANSFERRED;207;EconomicOperands
+UNCOMMITTED;1;EconomicOperands
+UNOBLIGATED;1;EconomicOperands
+PURSUANT TO;422;FunctionWords
+SECTION 106;3;LegalReferences
+SHORT TITLE;14;Other
+1244000000;0;Attributes
+1259000000;0;Attributes
+ASSESSMENT;58;EconomicOperands
+ASSISTANCE;105;EconomicOperands
+COMMITMENT;2;EconomicOperands
+CONSIDERED;69;EconomicOperands
+FANNIE MAE;16;EconomicOperands
+GOVERNMENT;123;EconomicOperands
+GUARANTEES;10;EconomicOperands
+INITIATIVE;13;EconomicOperands
+OBLIGATION;96;EconomicOperands
+PROHIBITED;13;EconomicOperands
+RECAPTURED;1;EconomicOperands
+RECAPTURES;0;EconomicOperands
+REDUCTIONS;2;EconomicOperands
+SECURITIES;459;EconomicOperands
+WITHDRAWAL;9;EconomicOperands
+IN GENERAL;654;FunctionWords
+THIS TITLE;593;LegalReferences
+TITLE XIII;0;LegalReferences
+AMENDMENTS;149;Other
+AUTHORIZED;169;RegulatoryOperators
+DETERMINES;211;RegulatoryOperators
+AGREEMENT;262;EconomicOperands
+AUTHORITY;549;EconomicOperands
+AVAILABLE;244;EconomicOperands
+COMMITTED;24;EconomicOperands
+DEDICATED;0;EconomicOperands
+DEPOSITED;30;EconomicOperands
+EXECUTIVE;22;EconomicOperands
+EXERCISED;1;EconomicOperands
+FINANCIAL;540;EconomicOperands
+INITIATED;12;EconomicOperands
+OBLIGATED;1;EconomicOperands
+PREFERRED;4;EconomicOperands
+PRESIDENT;40;EconomicOperands
+PRINCIPAL;107;EconomicOperands
+PROVISION;381;EconomicOperands
+RECAPTURE;1;EconomicOperands
+REDUCTION;16;EconomicOperands
+REJECTION;0;EconomicOperands
+REPAYMENT;29;EconomicOperands
+RESCINDED;2;EconomicOperands
+SECRETARY;308;EconomicOperands
+STATEWIDE;0;EconomicOperands
+WITHDRAWS;1;EconomicOperands
+FOLLOWING;720;FunctionWords
+INCLUDING;760;LogicalConnectors
+OTHERWISE;269;LogicalConnectors
+INCREASES;8;MathematicalOperators
+AMENDMENT;85;Other
+ENACTMENT;292;Other
+INSERTING;1065;Other
+6 MONTHS;26;Attributes
+PERIODIC;24;Attributes
+ACCEPTED;14;EconomicOperands
+ACQUIRED;14;EconomicOperands
+ACTIVITY;99;EconomicOperands
+AMERICAN;2;EconomicOperands
+CONGRESS;165;EconomicOperands
+CONTINUE;46;EconomicOperands
+CONTRACT;362;EconomicOperands
+DIRECTOR;516;EconomicOperands
+DIVISION;43;EconomicOperands
+INDUSTRY;24;EconomicOperands
+INTEREST;248;EconomicOperands
+MAINTAIN;101;EconomicOperands
+PURCHASE;101;EconomicOperands
+PURPOSES;443;EconomicOperands
+REALIZED;9;EconomicOperands
+RECEIVED;103;EconomicOperands
+REQUESTS;29;EconomicOperands
+SPENDING;0;EconomicOperands
+TAXPAYER;12;EconomicOperands
+TREASURY;16;EconomicOperands
+SPECIFIC;58;FunctionWords
+3 REPORT;10;LegalReferences
+THIS ACT;347;LegalReferences
+PROVIDED;440;LogicalConnectors
+STRIKING;1002;Other
+AMOUNTS;113;EconomicOperands
+DEFICIT;2;EconomicOperands
+DEPOSIT;29;EconomicOperands
+ENACTED;9;EconomicOperands
+FEDERAL;542;EconomicOperands
+FINANCE;83;EconomicOperands
+HOUSING;109;EconomicOperands
+NATIONS;5;EconomicOperands
+PROGRAM;148;EconomicOperands
+PROJECT;3;EconomicOperands
+PURPOSE;75;EconomicOperands
+REDUCED;10;EconomicOperands
+RESCIND;7;EconomicOperands
+REVENUE;13;EconomicOperands
+SUPPORT;61;EconomicOperands
+BETWEEN;118;FunctionWords
+GENERAL;131;FunctionWords
+GRANTED;41;LogicalConnectors
+AMENDED;643;RegulatoryOperators
+AGENCY;448;EconomicOperands
+AGREED;10;EconomicOperands
+AMOUNT;341;EconomicOperands
+BECAME;6;EconomicOperands
+BECOME;45;EconomicOperands
+ENTITY;212;EconomicOperands
+LOSSES;41;EconomicOperands
+NATION;2;EconomicOperands
+OFFSET;17;EconomicOperands
+REDUCE;30;EconomicOperands
+REPORT;560;EconomicOperands
+RETURN;20;EconomicOperands
+SUBMIT;180;EconomicOperands
+SUFFER;1;EconomicOperands
+HEREBY;5;FunctionWords
+BEFORE;343;LogicalConnectors
+ADDING;263;MathematicalOperators
+WAIVER;33;RegulatoryOperators
+BANKS;58;EconomicOperands
+FUNDS;166;EconomicOperands
+INCUR;7;EconomicOperands
+LOCAL;38;EconomicOperands
+PLANS;40;EconomicOperands
+PRIOR;87;EconomicOperands
+STATE;603;EconomicOperands
+STOCK;38;EconomicOperands
+VITAL;0;EconomicOperands
+EVERY;29;FunctionWords
+UNDER;2790;FunctionWords
+OTHER;1535;LogicalConnectors
+WHERE;58;LogicalConnectors
+AFTER;901;LogicalConnectors
+WHILE;29;LogicalConnectors
+APPLY;226;Other
+CITED;14;Other
+SHALL;3578;RegulatoryOperators
+WAIVE;11;RegulatoryOperators
+2012;13;Attributes
+ARRA;0;EconomicOperands
+BEST;16;EconomicOperands
+DATE;691;EconomicOperands
+FEES;108;EconomicOperands
+FUND;253;EconomicOperands
+HEAD;19;EconomicOperands
+HOME;95;EconomicOperands
+LOAN;292;EconomicOperands
+PAID;66;EconomicOperands
+SALE;179;EconomicOperands
+TARP;0;EconomicOperands
+TIME;247;EconomicOperands
+USED;154;EconomicOperands
+BEEN;187;FunctionWords
+FROM;716;FunctionWords
+HAVE;441;FunctionWords
+MADE;379;FunctionWords
+SAME;208;FunctionWords
+SUCH;2878;FunctionWords
+THAT;2693;FunctionWords
+THIS;146;FunctionWords
+WILL;132;FunctionWords
+1301;0;LegalReferences
+ALSO;46;LogicalConnectors
+SOLE;31;LogicalConnectors
+THEN;42;LogicalConnectors
+FEE;68;EconomicOperands
+SEC;491;EconomicOperands
+USE;221;EconomicOperands
+ARE;757;FunctionWords
+FOR;3099;FunctionWords
+HAS;480;FunctionWords
+MAY;1446;FunctionWords
+ONE;62;FunctionWords
+THE;25598;FunctionWords
+WAS;181;FunctionWords
+130;1;LegalReferences
+ALL;475;LogicalConnectors
+ANY;3984;LogicalConnectors
+AND;9328;LogicalConnectors
+NOT;1121;LogicalConnectors
+END;458;Other
+IT;171;EconomicOperands
+AN;1685;FunctionWords
+AT;758;FunctionWords
+BE;2144;FunctionWords
+BY;4938;FunctionWords
+IN;5908;FunctionWords
+IS;2008;FunctionWords
+OF;14646;FunctionWords
+ON;1710;FunctionWords
+TO;6660;FunctionWords
+13;26;LegalReferences
+16;26;LegalReferences
+II;1099;LegalReferences
+NO;317;LogicalConnectors
+AS;2632;LogicalConnectors
+IF;585;LogicalConnectors
+OR;8904;LogicalConnectors
+1;1309;Attributes
+2;1105;Attributes
+4;423;Attributes
+5;315;Attributes
+6;236;Attributes
+A;8230;FunctionWords
+I;1244;FunctionWords
+B;1706;LegalReferences
+C;1125;LegalReferences
+D;750;LegalReferences
+F;268;LegalReferences
+Y;30;LegalReferences

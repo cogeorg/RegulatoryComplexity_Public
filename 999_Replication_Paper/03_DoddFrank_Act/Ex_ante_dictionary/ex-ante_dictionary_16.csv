@@ -1,0 +1,77 @@
+SUBSECTION B OF SECTION 1256 OF THE INTERNAL REVENUE CODE OF 1986;0;LegalReferences
+SUBPARAGRAPHS A THROUGH E;4;LegalReferences
+TAXABLE YEARS BEGINNING;0;EconomicOperands
+PARAGRAPHS 1 THROUGH 5;4;LegalReferences
+SECTION 1256 CONTRACT;0;EconomicOperands
+CREDIT DEFAULT SWAP;1;EconomicOperands
+INTEREST RATE FLOOR;0;EconomicOperands
+EQUITY INDEX SWAP;1;EconomicOperands
+INTEREST RATE CAP;0;EconomicOperands
+COMMODITY SWAP;2;EconomicOperands
+EFFECTIVE DATE;102;EconomicOperands
+CURRENCY SWAP;2;EconomicOperands
+INTEREST RATE;55;EconomicOperands
+LAST SENTENCE;3;EconomicOperands
+REDESIGNATING;98;Other
+SUBPARAGRAPHS;7;Other
+THIS SECTION;770;LegalReferences
+RESPECTIVELY;76;LogicalConnectors
+REDESIGNATED;64;Other
+ACCORDINGLY;13;LogicalConnectors
+BASIS SWAP;2;EconomicOperands
+SECURITIES;459;EconomicOperands
+IN GENERAL;654;FunctionWords
+EXCEPTIONS;36;LogicalConnectors
+AMENDMENTS;149;Other
+AGREEMENT;262;EconomicOperands
+FOLLOWING;726;FunctionWords
+PARAGRAPH;38;LegalReferences
+TITLE XVI;0;LegalReferences
+ENACTMENT;292;Other
+INDENTING;0;Other
+INSERTING;1069;Other
+CONTRACT;359;EconomicOperands
+PURPOSES;442;EconomicOperands
+THIS ACT;350;LegalReferences
+STRIKING;1003;Other
+FUTURES;58;EconomicOperands
+INCLUDE;260;EconomicOperands
+TREATED;47;EconomicOperands
+CERTAIN;107;FunctionWords
+SIMILAR;111;LogicalConnectors
+AMENDED;650;RegulatoryOperators
+DEALER;153;EconomicOperands
+EQUITY;63;EconomicOperands
+OPTION;87;EconomicOperands
+UNLESS;183;LogicalConnectors
+SWAPS;214;EconomicOperands
+AFTER;905;LogicalConnectors
+APPLY;226;Other
+SHALL;3593;RegulatoryOperators
+DATE;691;EconomicOperands
+SWAP;292;EconomicOperands
+MADE;380;FunctionWords
+SUCH;2888;FunctionWords
+TERM;763;Other
+NEW;164;EconomicOperands
+SEC;497;EconomicOperands
+ETC;1;FunctionWords
+FOR;3117;FunctionWords
+THE;25677;FunctionWords
+601;1;LegalReferences
+ANY;4005;LogicalConnectors
+AND;9348;LogicalConnectors
+NOT;1126;LogicalConnectors
+BY;4969;FunctionWords
+IS;2017;FunctionWords
+OF;14690;FunctionWords
+ON;1712;FunctionWords
+TO;6677;FunctionWords
+AS;2643;LogicalConnectors
+OR;8924;LogicalConnectors
+SO;86;LogicalConnectors
+1;1315;Attributes
+2;1114;Attributes
+3;661;Attributes
+A;8239;FunctionWords
+B;1711;LegalReferences
