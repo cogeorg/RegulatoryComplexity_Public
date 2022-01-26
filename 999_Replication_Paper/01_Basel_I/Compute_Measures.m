@@ -2,6 +2,9 @@
 MText = readmatrix('Basel_I_Text_Data.xlsx');
 MAlgo = readmatrix('Basel_I_Algo_Data.xlsx');
 
+MText = MText(:,2:end);
+MAlgo = MAlgo(:,2:end);
+
 nText = size(MText);
 nText = nText(1);
 nAlgo = size(MAlgo);

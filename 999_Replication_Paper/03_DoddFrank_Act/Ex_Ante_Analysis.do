@@ -1,4 +1,4 @@
-cd "C:\Users\colliard\Desktop\Measuring Regulatory Complexity\Material\DFA\Ex_ante_dictionary\"
+cd "Ex_ante_dictionary\"
 
 import delimited ex-ante_dictionary_1.csv, clear 
 

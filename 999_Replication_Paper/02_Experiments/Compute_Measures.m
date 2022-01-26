@@ -1,6 +1,6 @@
 %Read the xlsx file with word counts
 M = readmatrix('random_regulations_data.xlsx');
-M = M(2:end,:);
+M = M(2:end,2:end);
 nText = size(M);
 nText = nText(1);
 
@@ -78,6 +78,5 @@ T=0:1:40;
 MeasuresText = [T' MeasuresText];
 Measures_Table_Text = round(MeasuresText,2);
 Measures_Table_Text = array2table(Measures_Table_Text,'VariableNames',{'Regulation','Length','Cyclomatic','Quantity','Potential Volume','Operator Diversity','Level'});
-table2latex(Measures_Table_Text,'Measures_Table_Text.tex')
 
 writetable(Measures_Table_Text,'Measures.csv') 

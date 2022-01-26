@@ -1,9 +1,9 @@
-import delimited "C:\Users\colliard\Desktop\Measuring Regulatory Complexity\Material\DFA\category_cons_count_all_titles.csv"
+import delimited "category_cons_count_all_titles.csv"
 save counts_titles.dta, replace
 
 clear
 
-import delimited "C:\Users\colliard\Desktop\Measuring Regulatory Complexity\Material\DFA\Master_v1.0_category_unique_count.csv"
+import delimited "Master_v1.0_category_unique_count.csv"
 append using counts_titles.dta
 
 replace category_unique_count = unique_count if title ==.
