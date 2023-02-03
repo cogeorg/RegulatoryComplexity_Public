@@ -15,9 +15,6 @@ URL: https://regulatorycomplexity.pythonanywhere.com
 
 URL: https://regulatorycomplexity.org
 
-SOURCE: https://github.com/cogeorg/regulatory-complexity/
-
-
 **PART C - Section 4 - Dodd-Frank Act**
 
 *STEP 1:*
