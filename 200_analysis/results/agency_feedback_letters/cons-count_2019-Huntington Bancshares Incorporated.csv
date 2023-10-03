@@ -1,0 +1,290 @@
+2019-Huntington Bancshares Incorporated.txt;DODD-FRANK WALL STREET REFORM AND CONSUMER PROTECTION ACT;LegalReferences;1
+2019-Huntington Bancshares Incorporated.txt;FEDERAL DEPOSIT INSURANCE CORPORATION;EconomicOperands;1
+2019-Huntington Bancshares Incorporated.txt;BANK HOLDING COMPANIES;EconomicOperands;2
+2019-Huntington Bancshares Incorporated.txt;FEDERAL RESERVE BOARD;EconomicOperands;1
+2019-Huntington Bancshares Incorporated.txt;BANK HOLDING COMPANY;EconomicOperands;1
+2019-Huntington Bancshares Incorporated.txt;FINANCIAL STATEMENTS;EconomicOperands;1
+2019-Huntington Bancshares Incorporated.txt;PRUDENTIAL STANDARDS;EconomicOperands;1
+2019-Huntington Bancshares Incorporated.txt;CONSUMER PROTECTION;EconomicOperands;1
+2019-Huntington Bancshares Incorporated.txt;FINANCIAL STABILITY;EconomicOperands;1
+2019-Huntington Bancshares Incorporated.txt;BOARD OF GOVERNORS;EconomicOperands;1
+2019-Huntington Bancshares Incorporated.txt;RESOLUTION PROCESS;EconomicOperands;1
+2019-Huntington Bancshares Incorporated.txt;TOTAL CONSOLIDATED;EconomicOperands;2
+2019-Huntington Bancshares Incorporated.txt;WITH REFERENCE TO;LogicalConnectors;1
+2019-Huntington Bancshares Incorporated.txt;ECONOMIC GROWTH;EconomicOperands;1
+2019-Huntington Bancshares Incorporated.txt;FEDERAL RESERVE;EconomicOperands;1
+2019-Huntington Bancshares Incorporated.txt;ORGANIZATIONAL;EconomicOperands;1
+2019-Huntington Bancshares Incorporated.txt;AS A RESULT OF;LogicalConnectors;1
+2019-Huntington Bancshares Incorporated.txt;INTERNATIONAL;EconomicOperands;1
+2019-Huntington Bancshares Incorporated.txt;RESTRUCTURING;EconomicOperands;1
+2019-Huntington Bancshares Incorporated.txt;UNDERSTANDING;EconomicOperands;1
+2019-Huntington Bancshares Incorporated.txt;UNITED STATES;EconomicOperands;1
+2019-Huntington Bancshares Incorporated.txt;APPLICABILITY;FunctionWords;1
+2019-Huntington Bancshares Incorporated.txt;PROVIDED THAT;LogicalConnectors;1
+2019-Huntington Bancshares Incorporated.txt;TO THE EXTENT;LogicalConnectors;2
+2019-Huntington Bancshares Incorporated.txt;COMMUNICATED;EconomicOperands;2
+2019-Huntington Bancshares Incorporated.txt;CONFIDENTIAL;EconomicOperands;2
+2019-Huntington Bancshares Incorporated.txt;DEFICIENCIES;EconomicOperands;1
+2019-Huntington Bancshares Incorporated.txt;EXPECTATIONS;EconomicOperands;2
+2019-Huntington Bancshares Incorporated.txt;IMPROVEMENTS;EconomicOperands;1
+2019-Huntington Bancshares Incorporated.txt;INCORPORATED;EconomicOperands;1
+2019-Huntington Bancshares Incorporated.txt;REQUIREMENTS;EconomicOperands;7
+2019-Huntington Bancshares Incorporated.txt;SHORTCOMINGS;EconomicOperands;1
+2019-Huntington Bancshares Incorporated.txt;SECTION 165D;LegalReferences;2
+2019-Huntington Bancshares Incorporated.txt;ADDITIONALLY;LogicalConnectors;1
+2019-Huntington Bancshares Incorporated.txt;APPROPRIATE;Attributes;1
+2019-Huntington Bancshares Incorporated.txt;DECEMBER 31;Attributes;4
+2019-Huntington Bancshares Incorporated.txt;APPLICATION;EconomicOperands;2
+2019-Huntington Bancshares Incorporated.txt;INFORMATION;EconomicOperands;8
+2019-Huntington Bancshares Incorporated.txt;STRESS TEST;EconomicOperands;1
+2019-Huntington Bancshares Incorporated.txt;PURSUANT TO;FunctionWords;1
+2019-Huntington Bancshares Incorporated.txt;SECTION 165;LegalReferences;2
+2019-Huntington Bancshares Incorporated.txt;FOR EXAMPLE;LogicalConnectors;1
+2019-Huntington Bancshares Incorporated.txt;IN ADDITION;LogicalConnectors;1
+2019-Huntington Bancshares Incorporated.txt;CONSISTENT;Attributes;1
+2019-Huntington Bancshares Incorporated.txt;COMPLIANCE;EconomicOperands;1
+2019-Huntington Bancshares Incorporated.txt;GOVERNANCE;EconomicOperands;1
+2019-Huntington Bancshares Incorporated.txt;MATERIALLY;EconomicOperands;1
+2019-Huntington Bancshares Incorporated.txt;PRUDENTIAL;EconomicOperands;2
+2019-Huntington Bancshares Incorporated.txt;REGULATORY;EconomicOperands;1
+2019-Huntington Bancshares Incorporated.txt;RESOLUTION;EconomicOperands;20
+2019-Huntington Bancshares Incorporated.txt;SUBMISSION;EconomicOperands;2
+2019-Huntington Bancshares Incorporated.txt;SUBMITTING;EconomicOperands;1
+2019-Huntington Bancshares Incorporated.txt;THROUGHOUT;FunctionWords;1
+2019-Huntington Bancshares Incorporated.txt;SECTION 8C;LegalReferences;1
+2019-Huntington Bancshares Incorporated.txt;SECTIONS 4;LegalReferences;1
+2019-Huntington Bancshares Incorporated.txt;SUBSECTION;LegalReferences;1
+2019-Huntington Bancshares Incorporated.txt;SUBJECT TO;LogicalConnectors;4
+2019-Huntington Bancshares Incorporated.txt;ADDITIONAL;MathematicalOperators;1
+2019-Huntington Bancshares Incorporated.txt;DETERMINED;RegulatoryOperators;1
+2019-Huntington Bancshares Incorporated.txt;DETERMINES;RegulatoryOperators;1
+2019-Huntington Bancshares Incorporated.txt;ASSISTANT;EconomicOperands;1
+2019-Huntington Bancshares Incorporated.txt;ASSOCIATE;EconomicOperands;1
+2019-Huntington Bancshares Incorporated.txt;COMPANIES;EconomicOperands;1
+2019-Huntington Bancshares Incorporated.txt;CORPORATE;EconomicOperands;1
+2019-Huntington Bancshares Incorporated.txt;EXECUTIVE;EconomicOperands;1
+2019-Huntington Bancshares Incorporated.txt;QUESTIONS;EconomicOperands;1
+2019-Huntington Bancshares Incorporated.txt;REFERENCE;EconomicOperands;1
+2019-Huntington Bancshares Incorporated.txt;RESULTING;EconomicOperands;1
+2019-Huntington Bancshares Incorporated.txt;REVISIONS;EconomicOperands;1
+2019-Huntington Bancshares Incorporated.txt;SOUNDNESS;EconomicOperands;1
+2019-Huntington Bancshares Incorporated.txt;SUBMITTED;EconomicOperands;2
+2019-Huntington Bancshares Incorporated.txt;THRESHOLD;EconomicOperands;1
+2019-Huntington Bancshares Incorporated.txt;SECTION 4;LegalReferences;1
+2019-Huntington Bancshares Incorporated.txt;INCLUDING;LogicalConnectors;1
+2019-Huntington Bancshares Incorporated.txt;LESS THAN;LogicalConnectors;1
+2019-Huntington Bancshares Incorporated.txt;REGARDING;LogicalConnectors;1
+2019-Huntington Bancshares Incorporated.txt;DESCRIBES;Other;1
+2019-Huntington Bancshares Incorporated.txt;ENACTMENT;Other;1
+2019-Huntington Bancshares Incorporated.txt;RELEVANT;Attributes;1
+2019-Huntington Bancshares Incorporated.txt;AGENCIES;EconomicOperands;7
+2019-Huntington Bancshares Incorporated.txt;BASELINE;EconomicOperands;1
+2019-Huntington Bancshares Incorporated.txt;BELIEVES;EconomicOperands;1
+2019-Huntington Bancshares Incorporated.txt;BUSINESS;EconomicOperands;1
+2019-Huntington Bancshares Incorporated.txt;DIRECTOR;EconomicOperands;2
+2019-Huntington Bancshares Incorporated.txt;DOCUMENT;EconomicOperands;1
+2019-Huntington Bancshares Incorporated.txt;DOMESTIC;EconomicOperands;1
+2019-Huntington Bancshares Incorporated.txt;ECONOMIC;EconomicOperands;1
+2019-Huntington Bancshares Incorporated.txt;ELEMENTS;EconomicOperands;1
+2019-Huntington Bancshares Incorporated.txt;ENHANCED;EconomicOperands;2
+2019-Huntington Bancshares Incorporated.txt;EXTENDED;EconomicOperands;1
+2019-Huntington Bancshares Incorporated.txt;IDENTIFY;EconomicOperands;1
+2019-Huntington Bancshares Incorporated.txt;INCLUDES;EconomicOperands;1
+2019-Huntington Bancshares Incorporated.txt;MATERIAL;EconomicOperands;3
+2019-Huntington Bancshares Incorporated.txt;PLANNING;EconomicOperands;1
+2019-Huntington Bancshares Incorporated.txt;PROPOSED;EconomicOperands;1
+2019-Huntington Bancshares Incorporated.txt;REVIEWED;EconomicOperands;1
+2019-Huntington Bancshares Incorporated.txt;SEPARATE;EconomicOperands;1
+2019-Huntington Bancshares Incorporated.txt;SEVERELY;EconomicOperands;2
+2019-Huntington Bancshares Incorporated.txt;STANDARD;EconomicOperands;2
+2019-Huntington Bancshares Incorporated.txt;STRATEGY;EconomicOperands;2
+2019-Huntington Bancshares Incorporated.txt;TOGETHER;FunctionWords;1
+2019-Huntington Bancshares Incorporated.txt;PROVIDED;LogicalConnectors;1
+2019-Huntington Bancshares Incorporated.txt;INCREASE;MathematicalOperators;1
+2019-Huntington Bancshares Incorporated.txt;DESCRIBE;Other;1
+2019-Huntington Bancshares Incorporated.txt;SECTIONS;Other;1
+2019-Huntington Bancshares Incorporated.txt;EXEMPTED;RegulatoryOperators;1
+2019-Huntington Bancshares Incorporated.txt;MITIGATE;RegulatoryOperators;1
+2019-Huntington Bancshares Incorporated.txt;REQUIRED;RegulatoryOperators;3
+2019-Huntington Bancshares Incorporated.txt;QUARTER;Attributes;1
+2019-Huntington Bancshares Incorporated.txt;ABILITY;EconomicOperands;1
+2019-Huntington Bancshares Incorporated.txt;ADVERSE;EconomicOperands;3
+2019-Huntington Bancshares Incorporated.txt;BECOMES;EconomicOperands;1
+2019-Huntington Bancshares Incorporated.txt;CAPTURE;EconomicOperands;1
+2019-Huntington Bancshares Incorporated.txt;CHANGED;EconomicOperands;1
+2019-Huntington Bancshares Incorporated.txt;CHANGES;EconomicOperands;5
+2019-Huntington Bancshares Incorporated.txt;COMMENT;EconomicOperands;1
+2019-Huntington Bancshares Incorporated.txt;COMPANY;EconomicOperands;13
+2019-Huntington Bancshares Incorporated.txt;CONTACT;EconomicOperands;1
+2019-Huntington Bancshares Incorporated.txt;CONTAIN;EconomicOperands;1
+2019-Huntington Bancshares Incorporated.txt;COVERED;EconomicOperands;13
+2019-Huntington Bancshares Incorporated.txt;DISCUSS;EconomicOperands;1
+2019-Huntington Bancshares Incorporated.txt;FAILURE;EconomicOperands;1
+2019-Huntington Bancshares Incorporated.txt;HELPFUL;EconomicOperands;1
+2019-Huntington Bancshares Incorporated.txt;INCLUDE;EconomicOperands;1
+2019-Huntington Bancshares Incorporated.txt;ISSUING;EconomicOperands;1
+2019-Huntington Bancshares Incorporated.txt;ORDERLY;EconomicOperands;1
+2019-Huntington Bancshares Incorporated.txt;PROMOTE;EconomicOperands;1
+2019-Huntington Bancshares Incorporated.txt;PROVIDE;EconomicOperands;2
+2019-Huntington Bancshares Incorporated.txt;REFLECT;EconomicOperands;1
+2019-Huntington Bancshares Incorporated.txt;SUMMARY;EconomicOperands;1
+2019-Huntington Bancshares Incorporated.txt;UPDATED;EconomicOperands;1
+2019-Huntington Bancshares Incorporated.txt;BETWEEN;FunctionWords;1
+2019-Huntington Bancshares Incorporated.txt;CURRENT;FunctionWords;1
+2019-Huntington Bancshares Incorporated.txt;THROUGH;FunctionWords;1
+2019-Huntington Bancshares Incorporated.txt;SECTION;LegalReferences;5
+2019-Huntington Bancshares Incorporated.txt;JOINTLY;LogicalConnectors;3
+2019-Huntington Bancshares Incorporated.txt;DIVIDED;LogicalConnectors;1
+2019-Huntington Bancshares Incorporated.txt;THAT IS;LogicalConnectors;1
+2019-Huntington Bancshares Incorporated.txt;CHAPTER;Other;1
+2019-Huntington Bancshares Incorporated.txt;AMENDED;RegulatoryOperators;1
+2019-Huntington Bancshares Incorporated.txt;PREVENT;RegulatoryOperators;1
+2019-Huntington Bancshares Incorporated.txt;ADJUST;EconomicOperands;1
+2019-Huntington Bancshares Incorporated.txt;ASSETS;EconomicOperands;2
+2019-Huntington Bancshares Incorporated.txt;ASSUME;EconomicOperands;1
+2019-Huntington Bancshares Incorporated.txt;DETAIL;EconomicOperands;1
+2019-Huntington Bancshares Incorporated.txt;ISSUED;EconomicOperands;1
+2019-Huntington Bancshares Incorporated.txt;MONTHS;EconomicOperands;1
+2019-Huntington Bancshares Incorporated.txt;NOTICE;EconomicOperands;1
+2019-Huntington Bancshares Incorporated.txt;PUBLIC;EconomicOperands;3
+2019-Huntington Bancshares Incorporated.txt;RELIEF;EconomicOperands;1
+2019-Huntington Bancshares Incorporated.txt;REMAIN;EconomicOperands;3
+2019-Huntington Bancshares Incorporated.txt;REVIEW;EconomicOperands;2
+2019-Huntington Bancshares Incorporated.txt;SAFETY;EconomicOperands;1
+2019-Huntington Bancshares Incorporated.txt;SHARES;EconomicOperands;1
+2019-Huntington Bancshares Incorporated.txt;SYSTEM;EconomicOperands;1
+2019-Huntington Bancshares Incorporated.txt;THINGS;EconomicOperands;1
+2019-Huntington Bancshares Incorporated.txt;EITHER;LogicalConnectors;1
+2019-Huntington Bancshares Incorporated.txt;UNLESS;LogicalConnectors;1
+2019-Huntington Bancshares Incorporated.txt;SHOULD;RegulatoryOperators;5
+2019-Huntington Bancshares Incorporated.txt;COMPLY;RegulatoryOperators;1
+2019-Huntington Bancshares Incorporated.txt;FIRST;Attributes;1
+2019-Huntington Bancshares Incorporated.txt;BOARD;EconomicOperands;4
+2019-Huntington Bancshares Incorporated.txt;ISSUE;EconomicOperands;1
+2019-Huntington Bancshares Incorporated.txt;LARGE;EconomicOperands;1
+2019-Huntington Bancshares Incorporated.txt;LEASE;EconomicOperands;1
+2019-Huntington Bancshares Incorporated.txt;RAPID;EconomicOperands;1
+2019-Huntington Bancshares Incorporated.txt;RISKS;EconomicOperands;1
+2019-Huntington Bancshares Incorporated.txt;SCOPE;EconomicOperands;1
+2019-Huntington Bancshares Incorporated.txt;ABOUT;FunctionWords;1
+2019-Huntington Bancshares Incorporated.txt;AMONG;FunctionWords;1
+2019-Huntington Bancshares Incorporated.txt;COULD;FunctionWords;1
+2019-Huntington Bancshares Incorporated.txt;THEIR;FunctionWords;1
+2019-Huntington Bancshares Incorporated.txt;THESE;FunctionWords;1
+2019-Huntington Bancshares Incorporated.txt;UNDER;FunctionWords;3
+2019-Huntington Bancshares Incorporated.txt;WOULD;FunctionWords;2
+2019-Huntington Bancshares Incorporated.txt;OTHER;LogicalConnectors;1
+2019-Huntington Bancshares Incorporated.txt;AFTER;LogicalConnectors;1
+2019-Huntington Bancshares Incorporated.txt;SINCE;LogicalConnectors;1
+2019-Huntington Bancshares Incorporated.txt;APPLY;Other;1
+2019-Huntington Bancshares Incorporated.txt;BILL;EconomicOperands;3
+2019-Huntington Bancshares Incorporated.txt;DATE;EconomicOperands;2
+2019-Huntington Bancshares Incorporated.txt;FDIC;EconomicOperands;4
+2019-Huntington Bancshares Incorporated.txt;FILE;EconomicOperands;1
+2019-Huntington Bancshares Incorporated.txt;FIRM;EconomicOperands;1
+2019-Huntington Bancshares Incorporated.txt;GAIN;EconomicOperands;1
+2019-Huntington Bancshares Incorporated.txt;NOTE;EconomicOperands;1
+2019-Huntington Bancshares Incorporated.txt;PAGE;EconomicOperands;1
+2019-Huntington Bancshares Incorporated.txt;PLAN;EconomicOperands;28
+2019-Huntington Bancshares Incorporated.txt;RULE;EconomicOperands;7
+2019-Huntington Bancshares Incorporated.txt;SENT;EconomicOperands;1
+2019-Huntington Bancshares Incorporated.txt;TEND;EconomicOperands;1
+2019-Huntington Bancshares Incorporated.txt;TIME;EconomicOperands;1
+2019-Huntington Bancshares Incorporated.txt;FROM;FunctionWords;2
+2019-Huntington Bancshares Incorporated.txt;HAVE;FunctionWords;4
+2019-Huntington Bancshares Incorporated.txt;INTO;FunctionWords;1
+2019-Huntington Bancshares Incorporated.txt;MADE;FunctionWords;1
+2019-Huntington Bancshares Incorporated.txt;MUST;FunctionWords;2
+2019-Huntington Bancshares Incorporated.txt;PART;FunctionWords;2
+2019-Huntington Bancshares Incorporated.txt;SUCH;FunctionWords;2
+2019-Huntington Bancshares Incorporated.txt;THAT;FunctionWords;11
+2019-Huntington Bancshares Incorporated.txt;THIS;FunctionWords;5
+2019-Huntington Bancshares Incorporated.txt;WILL;FunctionWords;3
+2019-Huntington Bancshares Incorporated.txt;WITH;FunctionWords;5
+2019-Huntington Bancshares Incorporated.txt;5240;LegalReferences;1
+2019-Huntington Bancshares Incorporated.txt;ALSO;LogicalConnectors;2
+2019-Huntington Bancshares Incorporated.txt;NEXT;LogicalConnectors;1
+2019-Huntington Bancshares Incorporated.txt;THEN;LogicalConnectors;1
+2019-Huntington Bancshares Incorporated.txt;100;Attributes;1
+2019-Huntington Bancshares Incorporated.txt;ODD;Attributes;4
+2019-Huntington Bancshares Incorporated.txt;BAN;EconomicOperands;1
+2019-Huntington Bancshares Incorporated.txt;OUT;EconomicOperands;1
+2019-Huntington Bancshares Incorporated.txt;SIV;EconomicOperands;1
+2019-Huntington Bancshares Incorporated.txt;ARE;FunctionWords;2
+2019-Huntington Bancshares Incorporated.txt;DID;FunctionWords;1
+2019-Huntington Bancshares Incorporated.txt;FOR;FunctionWords;8
+2019-Huntington Bancshares Incorporated.txt;HAS;FunctionWords;1
+2019-Huntington Bancshares Incorporated.txt;HER;FunctionWords;2
+2019-Huntington Bancshares Incorporated.txt;ITS;FunctionWords;2
+2019-Huntington Bancshares Incorporated.txt;MAY;FunctionWords;3
+2019-Huntington Bancshares Incorporated.txt;ONE;FunctionWords;1
+2019-Huntington Bancshares Incorporated.txt;THE;FunctionWords;79
+2019-Huntington Bancshares Incorporated.txt;115;LegalReferences;1
+2019-Huntington Bancshares Incorporated.txt;129;LegalReferences;1
+2019-Huntington Bancshares Incorporated.txt;201;LegalReferences;20
+2019-Huntington Bancshares Incorporated.txt;202;LegalReferences;2
+2019-Huntington Bancshares Incorporated.txt;ACT;LegalReferences;5
+2019-Huntington Bancshares Incorporated.txt;ANY;LogicalConnectors;6
+2019-Huntington Bancshares Incorporated.txt;AND;LogicalConnectors;18
+2019-Huntington Bancshares Incorporated.txt;NOR;LogicalConnectors;2
+2019-Huntington Bancshares Incorporated.txt;NOT;LogicalConnectors;6
+2019-Huntington Bancshares Incorporated.txt;END;Other;1
+2019-Huntington Bancshares Incorporated.txt;12;Attributes;3
+2019-Huntington Bancshares Incorporated.txt;25;Attributes;2
+2019-Huntington Bancshares Incorporated.txt;CP;EconomicOperands;2
+2019-Huntington Bancshares Incorporated.txt;EC;EconomicOperands;1
+2019-Huntington Bancshares Incorporated.txt;IT;EconomicOperands;1
+2019-Huntington Bancshares Incorporated.txt;US;EconomicOperands;1
+2019-Huntington Bancshares Incorporated.txt;VI;EconomicOperands;1
+2019-Huntington Bancshares Incorporated.txt;AN;FunctionWords;6
+2019-Huntington Bancshares Incorporated.txt;AT;FunctionWords;7
+2019-Huntington Bancshares Incorporated.txt;BE;FunctionWords;8
+2019-Huntington Bancshares Incorporated.txt;BY;FunctionWords;5
+2019-Huntington Bancshares Incorporated.txt;GO;FunctionWords;2
+2019-Huntington Bancshares Incorporated.txt;IN;FunctionWords;13
+2019-Huntington Bancshares Incorporated.txt;IS;FunctionWords;3
+2019-Huntington Bancshares Incorporated.txt;OF;FunctionWords;26
+2019-Huntington Bancshares Incorporated.txt;ON;FunctionWords;9
+2019-Huntington Bancshares Incorporated.txt;TO;FunctionWords;20
+2019-Huntington Bancshares Incorporated.txt;11;LegalReferences;1
+2019-Huntington Bancshares Incorporated.txt;13;LegalReferences;1
+2019-Huntington Bancshares Incorporated.txt;17;LegalReferences;1
+2019-Huntington Bancshares Incorporated.txt;24;LegalReferences;1
+2019-Huntington Bancshares Incorporated.txt;36;LegalReferences;1
+2019-Huntington Bancshares Incorporated.txt;38;LegalReferences;2
+2019-Huntington Bancshares Incorporated.txt;5D;LegalReferences;1
+2019-Huntington Bancshares Incorporated.txt;A3;LegalReferences;1
+2019-Huntington Bancshares Incorporated.txt;NO;LogicalConnectors;1
+2019-Huntington Bancshares Incorporated.txt;AS;LogicalConnectors;4
+2019-Huntington Bancshares Incorporated.txt;IF;LogicalConnectors;4
+2019-Huntington Bancshares Incorporated.txt;OR;LogicalConnectors;10
+2019-Huntington Bancshares Incorporated.txt;SO;LogicalConnectors;1
+2019-Huntington Bancshares Incorporated.txt;1;Attributes;3
+2019-Huntington Bancshares Incorporated.txt;2;Attributes;5
+2019-Huntington Bancshares Incorporated.txt;3;Attributes;4
+2019-Huntington Bancshares Incorporated.txt;4;Attributes;6
+2019-Huntington Bancshares Incorporated.txt;5;Attributes;3
+2019-Huntington Bancshares Incorporated.txt;6;Attributes;1
+2019-Huntington Bancshares Incorporated.txt;7;Attributes;6
+2019-Huntington Bancshares Incorporated.txt;8;Attributes;4
+2019-Huntington Bancshares Incorporated.txt;9;Attributes;13
+2019-Huntington Bancshares Incorporated.txt;A;FunctionWords;16
+2019-Huntington Bancshares Incorporated.txt;I;FunctionWords;10
+2019-Huntington Bancshares Incorporated.txt;B;LegalReferences;5
+2019-Huntington Bancshares Incorporated.txt;C;LegalReferences;14
+2019-Huntington Bancshares Incorporated.txt;D;LegalReferences;10
+2019-Huntington Bancshares Incorporated.txt;E;LegalReferences;29
+2019-Huntington Bancshares Incorporated.txt;F;LegalReferences;8
+2019-Huntington Bancshares Incorporated.txt;H;LegalReferences;2
+2019-Huntington Bancshares Incorporated.txt;J;LegalReferences;1
+2019-Huntington Bancshares Incorporated.txt;K;LegalReferences;4
+2019-Huntington Bancshares Incorporated.txt;L;LegalReferences;14
+2019-Huntington Bancshares Incorporated.txt;M;LegalReferences;2
+2019-Huntington Bancshares Incorporated.txt;N;LegalReferences;8
+2019-Huntington Bancshares Incorporated.txt;O;LegalReferences;6
+2019-Huntington Bancshares Incorporated.txt;P;LegalReferences;3
+2019-Huntington Bancshares Incorporated.txt;R;LegalReferences;28
+2019-Huntington Bancshares Incorporated.txt;T;LegalReferences;19
+2019-Huntington Bancshares Incorporated.txt;U;LegalReferences;5
+2019-Huntington Bancshares Incorporated.txt;V;LegalReferences;3
+2019-Huntington Bancshares Incorporated.txt;Y;LegalReferences;4

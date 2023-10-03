@@ -1,5 +1,5 @@
-#!/bin/bash
-
+#!/usr/bin/env bash
+# OPTIMIZED FOR OS X
 
 #
 # STEP 0 -- PREPARE INPUT DATA
@@ -58,8 +58,8 @@
 #
 
 # ./14_count_html_noclass.py ./html_noclass/ ./results/Master_consolidated.csv ./results/html_noclass/
-./14_count_html_noclass.py ./html_noclass/ ./results/Master_v1.0.csv ./results/html_noclass/
-/usr/local/stata17/stata-se -b do 14_count_html_noclass.do
+# ./14_count_html_noclass.py ./html_noclass/ ./results/Master_v1.0.csv ./results/html_noclass/
+# /usr/local/stata17/stata-se -b do 14_count_html_noclass.do
 
 
 #
@@ -70,3 +70,10 @@
 #   ./results/html_noclass/cons-count_title_$i.csv \
 #   ./results/html_noclass/ex-ante_dictionary_$i.csv ; \
 # done
+
+
+#
+# STEP 6 -- ANALYZE AGENCY FEEDBACK LETTERS
+#
+./15_analyze_agencyletters.py ../300_AgencyFeedbackLetters/ ./results/Master_v1.0.csv ./results/agency_feedback_letters/
+cd results/agency_feedback_letters/ ; rm all_cons-count.csv 2>/dev/null ; cat cons-count_* >> all_cons-count.csv ; cd -

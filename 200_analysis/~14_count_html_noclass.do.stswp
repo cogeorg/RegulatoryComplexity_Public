@@ -121,7 +121,7 @@ insheet using all_cons-count.csv, delimiter(";") nonames clear
 	drop v2
 	bysort name_entity category: egen foo = sum(occurrence)
 	rename foo tot_occurence
-	keep name_entity category tot_occurence
+	keep name_entity category tot_occurence unique_count
 	duplicates drop
 	
 	split name_entity, p("-")
@@ -132,3 +132,6 @@ insheet using all_cons-count.csv, delimiter(";") nonames clear
 	destring year, replace
 	order name_entity year category tot_occurence
 save all_cons-count.dta, replace
+	keep name_entity year
+	duplicates drop
+outsheet using "entity_year.csv", delimiter(";") replace
