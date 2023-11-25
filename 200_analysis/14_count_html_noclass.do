@@ -101,34 +101,3 @@ insheet using ./results/Master_v1.0.csv, delimiter(";") clear
 	
 outsheet using ./results/html_noclass/Master_v1.0_category_unique_count.csv, replace
 
-//
-// FEEDBACK LETTERS
-//
-cd ~/Git/RegulatoryComplexity_Public/200_analysis/results/agency_feedback_letters
-insheet using all_cons-count.csv, delimiter(";") nonames clear
-	drop if v1 == ".DS_Store"
-	split v1, p(".txt")
-	drop v1
-	rename v11 name_entity
-	rename v3 category
-	rename v4 occurrence
-	
-	gen one = 1
-	bysort name_entity category: egen unique_count = total(one)
-	
-	order name_entity category occurrence
-	
-	drop v2
-	bysort name_entity category: egen foo = sum(occurrence)
-	rename foo tot_occurence
-	keep name_entity category tot_occurence
-	duplicates drop
-	
-	split name_entity, p("-")
-	drop name_entity
-	gen name_entity = name_entity2 + name_entity3 
-	drop name_entity2 name_entity3
-	rename name_entity1 year
-	destring year, replace
-	order name_entity year category tot_occurence
-save all_cons-count.dta, replace
