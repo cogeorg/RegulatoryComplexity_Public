@@ -1,0 +1,459 @@
+F18.txt;FOR THE PURPOSE OF;LogicalConnectors;5
+F18.txt;IN ACCORDANCE WITH;LogicalConnectors;20
+F18.txt;OFF-BALANCE SHEET;EconomicOperands;19
+F18.txt;IN THE CONTEXT OF;FunctionWords;1
+F18.txt;WITH REFERENCE TO;LogicalConnectors;1
+F18.txt;FINANCIAL ASSETS;EconomicOperands;99
+F18.txt;FOR THE PURPOSES;LogicalConnectors;1
+F18.txt;LOAN COMMITMENT;EconomicOperands;15
+F18.txt;CLASSIFICATION;EconomicOperands;6
+F18.txt;RECOMMENDATION;EconomicOperands;2
+F18.txt;BALANCE SHEET;EconomicOperands;2
+F18.txt;CENTRAL BANKS;EconomicOperands;143
+F18.txt;COMPREHENSIVE;EconomicOperands;17
+F18.txt;DERECOGNITION;EconomicOperands;1
+F18.txt;CORPORATIONS;EconomicOperands;276
+F18.txt;COUNTERPARTY;EconomicOperands;6
+F18.txt;INSTITUTIONS;EconomicOperands;128
+F18.txt;PARAGRAPH 11;LegalReferences;1
+F18.txt;PARAGRAPH 15;LegalReferences;1
+F18.txt;PARAGRAPH 16;LegalReferences;1
+F18.txt;PARAGRAPH 17;LegalReferences;1
+F18.txt;PARAGRAPH 22;LegalReferences;1
+F18.txt;PARAGRAPH 23;LegalReferences;4
+F18.txt;RESPECTIVELY;LogicalConnectors;1
+F18.txt;SIGNIFICANT;Attributes;128
+F18.txt;ACCUMULATED;EconomicOperands;312
+F18.txt;APPLICATION;EconomicOperands;1
+F18.txt;CALCULATION;EconomicOperands;1
+F18.txt;COMMITMENTS;EconomicOperands;17
+F18.txt;CONSECUTIVE;EconomicOperands;1
+F18.txt;CREDIT RISK;EconomicOperands;272
+F18.txt;DESIGNATION;EconomicOperands;3
+F18.txt;ENTERPRISES;EconomicOperands;61
+F18.txt;GOVERNMENTS;EconomicOperands;128
+F18.txt;INFORMATION;EconomicOperands;11
+F18.txt;INSTITUTION;EconomicOperands;2
+F18.txt;INSTRUMENTS;EconomicOperands;257
+F18.txt;IRREVOCABLE;EconomicOperands;1
+F18.txt;LIQUIDATION;EconomicOperands;2
+F18.txt;MEASUREMENT;EconomicOperands;3
+F18.txt;OBLIGATIONS;EconomicOperands;1
+F18.txt;RECOGNITION;EconomicOperands;132
+F18.txt;RESIDENTIAL;EconomicOperands;53
+F18.txt;TRANSACTION;EconomicOperands;1
+F18.txt;TRANSFERRED;EconomicOperands;1
+F18.txt;REFERRED TO;FunctionWords;4
+F18.txt;PARAGRAPH 1;LegalReferences;2
+F18.txt;PARAGRAPH 2;LegalReferences;3
+F18.txt;PARAGRAPH 3;LegalReferences;1
+F18.txt;PARAGRAPH 8;LegalReferences;2
+F18.txt;PARAGRAPH 9;LegalReferences;2
+F18.txt;CONSISTENT;Attributes;1
+F18.txt;ACCOUNTING;EconomicOperands;10
+F18.txt;APPROACHES;EconomicOperands;1
+F18.txt;CALCULATED;EconomicOperands;2
+F18.txt;CATEGORIES;EconomicOperands;1
+F18.txt;CLASSIFIED;EconomicOperands;16
+F18.txt;COLLATERAL;EconomicOperands;235
+F18.txt;COMMERCIAL;EconomicOperands;100
+F18.txt;COMMISSION;EconomicOperands;1
+F18.txt;COMPARISON;EconomicOperands;1
+F18.txt;CONDITIONS;EconomicOperands;5
+F18.txt;CONSIDERED;EconomicOperands;35
+F18.txt;DERIVATIVE;EconomicOperands;7
+F18.txt;GUARANTEES;EconomicOperands;86
+F18.txt;HOUSEHOLDS;EconomicOperands;87
+F18.txt;INDIVIDUAL;EconomicOperands;3
+F18.txt;INSTRUMENT;EconomicOperands;1
+F18.txt;LIKELIHOOD;EconomicOperands;2
+F18.txt;LIQUIDATED;EconomicOperands;1
+F18.txt;ORIGINATED;EconomicOperands;88
+F18.txt;PERFORMING;EconomicOperands;388
+F18.txt;PORTFOLIOS;EconomicOperands;2
+F18.txt;POSSESSION;EconomicOperands;1
+F18.txt;PROCEDURES;EconomicOperands;2
+F18.txt;PROVISIONS;EconomicOperands;151
+F18.txt;REFERENCES;EconomicOperands;255
+F18.txt;REGULATION;EconomicOperands;1
+F18.txt;SECURITIES;EconomicOperands;43
+F18.txt;SEPARATELY;EconomicOperands;3
+F18.txt;APPLICABLE;FunctionWords;6
+F18.txt;AS FOLLOWS;FunctionWords;1
+F18.txt;IDENTIFIED;FunctionWords;6
+F18.txt;REPRESENTS;LogicalConnectors;1
+F18.txt;SUBJECT TO;LogicalConnectors;34
+F18.txt;ADDITIONAL;MathematicalOperators;3
+F18.txt;PARAGRAPHS;Other;7
+F18.txt;DESIGNATED;RegulatoryOperators;3
+F18.txt;QUARTERLY;Attributes;1
+F18.txt;ALLOCATED;EconomicOperands;1
+F18.txt;CONTINUED;EconomicOperands;1
+F18.txt;CONTINUES;EconomicOperands;1
+F18.txt;DEDICATED;EconomicOperands;1
+F18.txt;DEFAULTED;EconomicOperands;28
+F18.txt;EXISTENCE;EconomicOperands;1
+F18.txt;EXPOSURES;EconomicOperands;243
+F18.txt;FINANCIAL;EconomicOperands;379
+F18.txt;FRAMEWORK;EconomicOperands;5
+F18.txt;GUARANTEE;EconomicOperands;27
+F18.txt;LIABILITY;EconomicOperands;1
+F18.txt;PORTFOLIO;EconomicOperands;3
+F18.txt;PRINCIPAL;EconomicOperands;1
+F18.txt;PURCHASED;EconomicOperands;89
+F18.txt;REFERENCE;EconomicOperands;1
+F18.txt;REPAYMENT;EconomicOperands;3
+F18.txt;REPORTING;EconomicOperands;1
+F18.txt;RESULTING;EconomicOperands;2
+F18.txt;SURRENDER;EconomicOperands;1
+F18.txt;THRESHOLD;EconomicOperands;2
+F18.txt;UNRELATED;EconomicOperands;1
+F18.txt;VOLUNTARY;EconomicOperands;2
+F18.txt;DIFFERENT;FunctionWords;1
+F18.txt;FOLLOWING;FunctionWords;10
+F18.txt;SECTION 2;LegalReferences;2
+F18.txt;EXCLUDING;LogicalConnectors;1
+F18.txt;BEGINNING;LogicalConnectors;3
+F18.txt;INCLUDING;LogicalConnectors;6
+F18.txt;LESS THAN;LogicalConnectors;60
+F18.txt;MORE THAN;LogicalConnectors;4
+F18.txt;DEDUCTION;MathematicalOperators;1
+F18.txt;LISTED IN;Other;3
+F18.txt;EXCEPTION;RegulatoryOperators;1
+F18.txt;SPECIFIED;RegulatoryOperators;1
+F18.txt;180 DAYS;Attributes;100
+F18.txt;ONE YEAR;Attributes;1
+F18.txt;RELEVANT;Attributes;3
+F18.txt;ADVANCES;EconomicOperands;57
+F18.txt;AFFECTED;EconomicOperands;1
+F18.txt;APPENDIX;EconomicOperands;43
+F18.txt;APPROACH;EconomicOperands;2
+F18.txt;ASSESSED;EconomicOperands;3
+F18.txt;BALANCES;EconomicOperands;15
+F18.txt;CARRYING;EconomicOperands;105
+F18.txt;CATEGORY;EconomicOperands;6
+F18.txt;COMMENCE;EconomicOperands;1
+F18.txt;CONSIDER;EconomicOperands;1
+F18.txt;CONTINUE;EconomicOperands;3
+F18.txt;CRITERIA;EconomicOperands;6
+F18.txt;DELEGATE;EconomicOperands;1
+F18.txt;DEPOSITS;EconomicOperands;15
+F18.txt;DISPUTES;EconomicOperands;1
+F18.txt;ENTITIES;EconomicOperands;1
+F18.txt;EXCLUDED;EconomicOperands;1
+F18.txt;EXPOSURE;EconomicOperands;26
+F18.txt;INCLUDED;EconomicOperands;5
+F18.txt;INTEREST;EconomicOperands;3
+F18.txt;MATERIAL;EconomicOperands;5
+F18.txt;MEASURED;EconomicOperands;6
+F18.txt;MEASURES;EconomicOperands;26
+F18.txt;MULTIPLE;EconomicOperands;1
+F18.txt;NATIONAL;EconomicOperands;154
+F18.txt;NOTIONAL;EconomicOperands;1
+F18.txt;OBTAINED;EconomicOperands;1
+F18.txt;OCCURRED;EconomicOperands;1
+F18.txt;ORIGINAL;EconomicOperands;1
+F18.txt;PROPERTY;EconomicOperands;124
+F18.txt;RECEIVED;EconomicOperands;159
+F18.txt;REPORTED;EconomicOperands;27
+F18.txt;SEPARATE;EconomicOperands;3
+F18.txt;SOLVENCY;EconomicOperands;1
+F18.txt;UNLIKELY;EconomicOperands;50
+F18.txt;DOES NOT;FunctionWords;1
+F18.txt;AT LEAST;LogicalConnectors;1
+F18.txt;EQUAL TO;LogicalConnectors;60
+F18.txt;PROVIDED;LogicalConnectors;2
+F18.txt;DECREASE;MathematicalOperators;2
+F18.txt;INCREASE;MathematicalOperators;130
+F18.txt;NEGATIVE;MathematicalOperators;144
+F18.txt;BASED ON;Other;83
+F18.txt;GRANTING;RegulatoryOperators;1
+F18.txt;2 YEARS;Attributes;25
+F18.txt;30 DAYS;Attributes;73
+F18.txt;5 YEARS;Attributes;25
+F18.txt;7 YEARS;Attributes;100
+F18.txt;90 DAYS;Attributes;151
+F18.txt;ACCOUNT;EconomicOperands;1
+F18.txt;ACCRUED;EconomicOperands;1
+F18.txt;AMOUNTS;EconomicOperands;5
+F18.txt;APPLIED;EconomicOperands;3
+F18.txt;CEASING;EconomicOperands;1
+F18.txt;CHANGES;EconomicOperands;144
+F18.txt;CLOSING;EconomicOperands;2
+F18.txt;DEFAULT;EconomicOperands;1
+F18.txt;DEFINED;EconomicOperands;12
+F18.txt;INCLUDE;EconomicOperands;4
+F18.txt;INITIAL;EconomicOperands;131
+F18.txt;OBLIGOR;EconomicOperands;1
+F18.txt;PARTIAL;EconomicOperands;5
+F18.txt;PROVIDE;EconomicOperands;2
+F18.txt;REASONS;EconomicOperands;1
+F18.txt;REFLECT;EconomicOperands;2
+F18.txt;SECURED;EconomicOperands;3
+F18.txt;TRADING;EconomicOperands;45
+F18.txt;WRITTEN;EconomicOperands;2
+F18.txt;ANOTHER;FunctionWords;1
+F18.txt;BETWEEN;FunctionWords;1
+F18.txt;CURRENT;FunctionWords;2
+F18.txt;GENERAL;FunctionWords;128
+F18.txt;PRESENT;FunctionWords;2
+F18.txt;RELATED;FunctionWords;2
+F18.txt;THROUGH;FunctionWords;73
+F18.txt;WITHOUT;FunctionWords;44
+F18.txt;NEITHER;LogicalConnectors;2
+F18.txt;IN CASE;LogicalConnectors;3
+F18.txt;IN THAT;LogicalConnectors;2
+F18.txt;OVERALL;LogicalConnectors;1
+F18.txt;SUCH AS;LogicalConnectors;1
+F18.txt;MAXIMUM;MathematicalOperators;27
+F18.txt;CHAPTER;Other;2
+F18.txt;MEANING;Other;1
+F18.txt;RESPECT;Other;1
+F18.txt;AMOUNT;EconomicOperands;219
+F18.txt;ASSETS;EconomicOperands;7
+F18.txt;BECOME;EconomicOperands;1
+F18.txt;BREACH;EconomicOperands;1
+F18.txt;CEASES;EconomicOperands;1
+F18.txt;CREDIT;EconomicOperands;393
+F18.txt;DEBTOR;EconomicOperands;10
+F18.txt;DEMAND;EconomicOperands;15
+F18.txt;EQUITY;EconomicOperands;35
+F18.txt;ESTATE;EconomicOperands;42
+F18.txt;IMPAIR;EconomicOperands;436
+F18.txt;INCOME;EconomicOperands;17
+F18.txt;MEDIUM;EconomicOperands;61
+F18.txt;METHOD;EconomicOperands;2
+F18.txt;NUMBER;EconomicOperands;1
+F18.txt;PERIOD;EconomicOperands;4
+F18.txt;PROFIT;EconomicOperands;23
+F18.txt;REPAID;EconomicOperands;2
+F18.txt;SECTOR;EconomicOperands;4
+F18.txt;STAGES;EconomicOperands;1
+F18.txt;STATUS;EconomicOperands;4
+F18.txt;TAKING;EconomicOperands;1
+F18.txt;DURING;FunctionWords;3
+F18.txt;PART I;LegalReferences;2
+F18.txt;DUE TO;LogicalConnectors;150
+F18.txt;EITHER;LogicalConnectors;1
+F18.txt;ENTIRE;LogicalConnectors;2
+F18.txt;EXCEPT;LogicalConnectors;3
+F18.txt;HIGHER;LogicalConnectors;90
+F18.txt;WITHIN;LogicalConnectors;3
+F18.txt;SHOULD;RegulatoryOperators;1
+F18.txt;DEEMED;RegulatoryOperators;1
+F18.txt;ASSET;EconomicOperands;3
+F18.txt;CEASE;EconomicOperands;3
+F18.txt;FLOWS;EconomicOperands;25
+F18.txt;GROSS;EconomicOperands;101
+F18.txt;GROUP;EconomicOperands;2
+F18.txt;HOLDS;EconomicOperands;15
+F18.txt;HOUSE;EconomicOperands;15
+F18.txt;ITEMS;EconomicOperands;1
+F18.txt;LEGAL;EconomicOperands;2
+F18.txt;LOANS;EconomicOperands;314
+F18.txt;MEETS;EconomicOperands;3
+F18.txt;POINT;EconomicOperands;3
+F18.txt;REFER;EconomicOperands;1
+F18.txt;SMALL;EconomicOperands;61
+F18.txt;SWAPS;EconomicOperands;2
+F18.txt;TIMES;EconomicOperands;1
+F18.txt;TYPES;EconomicOperands;1
+F18.txt;VALUE;EconomicOperands;189
+F18.txt;BEING;FunctionWords;3
+F18.txt;BORNE;FunctionWords;7
+F18.txt;CASES;FunctionWords;2
+F18.txt;GIVEN;FunctionWords;47
+F18.txt;PARTS;FunctionWords;1
+F18.txt;TAKES;FunctionWords;1
+F18.txt;THEIR;FunctionWords;5
+F18.txt;THOSE;FunctionWords;4
+F18.txt;UNDER;FunctionWords;18
+F18.txt;WHICH;FunctionWords;610
+F18.txt;OTHER;LogicalConnectors;217
+F18.txt;UNTIL;LogicalConnectors;1
+F18.txt;WHERE;LogicalConnectors;13
+F18.txt;AFTER;LogicalConnectors;1
+F18.txt;RATIO;LogicalConnectors;102
+F18.txt;SINCE;LogicalConnectors;130
+F18.txt;TOTAL;MathematicalOperators;4
+F18.txt;BASED;Other;3
+F18.txt;BASIS;Other;5
+F18.txt;FOUND;Other;1
+F18.txt;SHALL;RegulatoryOperators;69
+F18.txt;DAYS;Attributes;2
+F18.txt;WELL;Attributes;2
+F18.txt;ABLE;EconomicOperands;125
+F18.txt;BEAR;EconomicOperands;26
+F18.txt;CASH;EconomicOperands;15
+F18.txt;COST;EconomicOperands;34
+F18.txt;DATA;EconomicOperands;2
+F18.txt;DATE;EconomicOperands;1
+F18.txt;DEBT;EconomicOperands;133
+F18.txt;FAIR;EconomicOperands;187
+F18.txt;FEES;EconomicOperands;1
+F18.txt;FLOW;EconomicOperands;11
+F18.txt;FULL;EconomicOperands;3
+F18.txt;GAPS;EconomicOperands;2
+F18.txt;HELD;EconomicOperands;41
+F18.txt;LATE;EconomicOperands;12
+F18.txt;LOAN;EconomicOperands;2
+F18.txt;LONG;EconomicOperands;1
+F18.txt;LOSS;EconomicOperands;23
+F18.txt;MEET;EconomicOperands;1
+F18.txt;NEED;EconomicOperands;1
+F18.txt;PAID;EconomicOperands;1
+F18.txt;RATE;EconomicOperands;1
+F18.txt;REAL;EconomicOperands;42
+F18.txt;RISK;EconomicOperands;1
+F18.txt;SALE;EconomicOperands;22
+F18.txt;SIZE;EconomicOperands;61
+F18.txt;SOLD;EconomicOperands;1
+F18.txt;TIME;EconomicOperands;3
+F18.txt;UPON;EconomicOperands;1
+F18.txt;USED;EconomicOperands;1
+F18.txt;YEAR;EconomicOperands;253
+F18.txt;BEEN;FunctionWords;2
+F18.txt;DOWN;FunctionWords;6
+F18.txt;FROM;FunctionWords;14
+F18.txt;HAVE;FunctionWords;5
+F18.txt;INTO;FunctionWords;3
+F18.txt;MADE;FunctionWords;1
+F18.txt;ONCE;FunctionWords;1
+F18.txt;PART;FunctionWords;3240
+F18.txt;PAST;FunctionWords;516
+F18.txt;THAN;FunctionWords;126
+F18.txt;THAT;FunctionWords;98
+F18.txt;THEY;FunctionWords;2
+F18.txt;THIS;FunctionWords;24
+F18.txt;WERE;FunctionWords;1
+F18.txt;WITH;FunctionWords;201
+F18.txt;VIII;LegalReferences;139
+F18.txt;BOTH;LogicalConnectors;3
+F18.txt;EACH;LogicalConnectors;1
+F18.txt;ALSO;LogicalConnectors;1
+F18.txt;ONLY;LogicalConnectors;2
+F18.txt;THEN;LogicalConnectors;1
+F18.txt;LESS;MathematicalOperators;2
+F18.txt;MEAN;Other;1
+F18.txt;RISE;Other;4
+F18.txt;100;Attributes;60
+F18.txt;DUE;Attributes;516
+F18.txt;TEN;Attributes;2
+F18.txt;AGE;EconomicOperands;173
+F18.txt;AID;EconomicOperands;2
+F18.txt;BAN;EconomicOperands;3
+F18.txt;CAP;EconomicOperands;2
+F18.txt;IFI;EconomicOperands;2
+F18.txt;OUT;EconomicOperands;20
+F18.txt;PAY;EconomicOperands;50
+F18.txt;SUM;EconomicOperands;50
+F18.txt;ARE;FunctionWords;71
+F18.txt;CAN;FunctionWords;28
+F18.txt;FOR;FunctionWords;146
+F18.txt;HAS;FunctionWords;2
+F18.txt;ITS;FunctionWords;1
+F18.txt;MET;FunctionWords;4
+F18.txt;OFF;FunctionWords;4
+F18.txt;ONE;FunctionWords;1
+F18.txt;PER;FunctionWords;1
+F18.txt;THE;FunctionWords;153
+F18.txt;VIA;FunctionWords;1
+F18.txt;105;LegalReferences;42
+F18.txt;106;LegalReferences;1
+F18.txt;110;LegalReferences;1
+F18.txt;113;LegalReferences;20
+F18.txt;115;LegalReferences;20
+F18.txt;215;LegalReferences;1
+F18.txt;217;LegalReferences;15
+F18.txt;220;LegalReferences;1
+F18.txt;III;LegalReferences;8
+F18.txt;SEQ;LegalReferences;1
+F18.txt;VII;LegalReferences;62
+F18.txt;ALL;LogicalConnectors;7
+F18.txt;ANY;LogicalConnectors;8
+F18.txt;AND;LogicalConnectors;422
+F18.txt;BUT;LogicalConnectors;87
+F18.txt;NON;LogicalConnectors;427
+F18.txt;NOR;LogicalConnectors;2
+F18.txt;NOT;LogicalConnectors;185
+F18.txt;END;Other;1
+F18.txt;20;Attributes;13
+F18.txt;23;Attributes;2438
+F18.txt;25;Attributes;36
+F18.txt;35;Attributes;210
+F18.txt;62;Attributes;7
+F18.txt;EC;EconomicOperands;3
+F18.txt;IT;EconomicOperands;6
+F18.txt;PE;EconomicOperands;2
+F18.txt;TR;EconomicOperands;18
+F18.txt;VI;EconomicOperands;242
+F18.txt;AN;FunctionWords;3256
+F18.txt;AT;FunctionWords;194
+F18.txt;BE;FunctionWords;134
+F18.txt;BY;FunctionWords;138
+F18.txt;DO;FunctionWords;1
+F18.txt;GO;FunctionWords;5
+F18.txt;IN;FunctionWords;419
+F18.txt;IS;FunctionWords;152
+F18.txt;OF;FunctionWords;741
+F18.txt;ON;FunctionWords;232
+F18.txt;TO;FunctionWords;124
+F18.txt;11;LegalReferences;69
+F18.txt;13;LegalReferences;82
+F18.txt;16;LegalReferences;84
+F18.txt;17;LegalReferences;46
+F18.txt;18;LegalReferences;12
+F18.txt;19;LegalReferences;1
+F18.txt;21;LegalReferences;37
+F18.txt;22;LegalReferences;369
+F18.txt;24;LegalReferences;12
+F18.txt;29;LegalReferences;52
+F18.txt;2A;LegalReferences;89
+F18.txt;44;LegalReferences;120
+F18.txt;47;LegalReferences;38
+F18.txt;49;LegalReferences;9
+F18.txt;4I;LegalReferences;181
+F18.txt;6A;LegalReferences;2
+F18.txt;6B;LegalReferences;6
+F18.txt;8A;LegalReferences;2
+F18.txt;A3;LegalReferences;4
+F18.txt;A4;LegalReferences;1
+F18.txt;A6;LegalReferences;2
+F18.txt;AA;LegalReferences;155
+F18.txt;II;LegalReferences;4
+F18.txt;IV;LegalReferences;9
+F18.txt;IX;LegalReferences;8
+F18.txt;XI;LegalReferences;1
+F18.txt;NO;LogicalConnectors;77
+F18.txt;AS;LogicalConnectors;54
+F18.txt;IF;LogicalConnectors;605
+F18.txt;OR;LogicalConnectors;415
+F18.txt;1;Attributes;253
+F18.txt;2;Attributes;1932
+F18.txt;3;Attributes;103
+F18.txt;4;Attributes;77
+F18.txt;5;Attributes;451
+F18.txt;6;Attributes;608
+F18.txt;7;Attributes;851
+F18.txt;8;Attributes;791
+F18.txt;9;Attributes;780
+F18.txt;A;FunctionWords;1422
+F18.txt;I;FunctionWords;471
+F18.txt;B;LegalReferences;771
+F18.txt;C;LegalReferences;809
+F18.txt;D;LegalReferences;771
+F18.txt;E;LegalReferences;4626
+F18.txt;F;LegalReferences;175
+F18.txt;H;LegalReferences;1
+F18.txt;K;LegalReferences;5
+F18.txt;L;LegalReferences;382
+F18.txt;M;LegalReferences;978
+F18.txt;N;LegalReferences;3620
+F18.txt;O;LegalReferences;313
+F18.txt;P;LegalReferences;354
+F18.txt;R;LegalReferences;1179
+F18.txt;T;LegalReferences;770
+F18.txt;U;LegalReferences;68
+F18.txt;V;LegalReferences;3341
+F18.txt;X;LegalReferences;3246
+F18.txt;Y;LegalReferences;9

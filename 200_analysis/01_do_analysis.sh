@@ -73,7 +73,14 @@
 
 
 #
-# STEP 6 -- ANALYZE AGENCY FEEDBACK LETTERS
+# STEP 6 -- EBA REGULATIONS
 #
-./15_analyze_agencyletters.py ../300_AgencyFeedbackLetters/ ./results/Master_v1.0.csv ./results/agency_feedback_letters/
-cd results/agency_feedback_letters/ ; rm all_cons-count.csv 2>/dev/null ; cat cons-count_* >> all_cons-count.csv ; cd -
+./17_analyze_EBA.py ../310_EBA/ ./results/Master_v1.0.csv ./results/EBA/
+cd results/EBA/ ; rm all_cons-count.csv 2>/dev/null ; cat cons-count_* >> all_cons-count.csv ; cd -
+
+
+#
+# OUTDATED -- ANALYZE AGENCY FEEDBACK LETTERS
+#
+# ./15_analyze_agencyletters.py ../300_AgencyFeedbackLetters/ ./results/Master_v1.0.csv ./results/agency_feedback_letters/
+# cd results/agency_feedback_letters/ ; rm all_cons-count.csv 2>/dev/null ; cat cons-count_* >> all_cons-count.csv ; cd -
