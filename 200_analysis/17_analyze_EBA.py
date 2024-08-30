@@ -31,7 +31,7 @@ def clean(value):
     value = value.replace("``", "")
     value = value.replace("--", "")
 
-    value = value.upper()
+    value = value.lower()
 
     return value
 
@@ -42,7 +42,7 @@ def clean(value):
 def do_run(input_dir, dict_file_name, output_dir):
     dict = {}
 
-    print("<<< 15_ANALYZE_AGENCYLETTERS.PY")
+    print("<<< 17_ANALYZE_AGENCYLETTERS.PY")
 
     #
     # LOAD CONSOLIDATED DICTIONARY

@@ -1,270 +1,280 @@
-F25.txt;FINANCIAL INSTRUMENT;EconomicOperands;9
-F25.txt;IN THE CONTEXT OF;FunctionWords;1
-F25.txt;IRRESPECTIVE OF;LogicalConnectors;3
-F25.txt;WITH REGARD TO;LogicalConnectors;5
-F25.txt;BALANCE SHEET;EconomicOperands;33
-F25.txt;DERECOGNITION;EconomicOperands;2
-F25.txt;REGARDLESS OF;LogicalConnectors;1
-F25.txt;AGRICULTURAL;EconomicOperands;6
-F25.txt;APPRECIATION;EconomicOperands;1
-F25.txt;CANCELLATION;EconomicOperands;1
-F25.txt;CONSTRUCTION;EconomicOperands;11
-F25.txt;CORPORATIONS;EconomicOperands;6
-F25.txt;COUNTERPARTY;EconomicOperands;2
-F25.txt;PRESENTATION;EconomicOperands;1
-F25.txt;PARAGRAPH 17;LegalReferences;2
-F25.txt;ACCUMULATED;EconomicOperands;47
-F25.txt;ACQUISITION;EconomicOperands;1
-F25.txt;COLLECTIONS;EconomicOperands;1
-F25.txt;COMMISSIONS;EconomicOperands;1
-F25.txt;CREDIT RISK;EconomicOperands;13
-F25.txt;DEVELOPMENT;EconomicOperands;17
-F25.txt;INFORMATION;EconomicOperands;7
-F25.txt;INSTITUTION;EconomicOperands;3
-F25.txt;PROCEEDINGS;EconomicOperands;1
-F25.txt;RECOGNITION;EconomicOperands;77
-F25.txt;REPLACEMENT;EconomicOperands;7
-F25.txt;RESIDENTIAL;EconomicOperands;5
-F25.txt;TRANSACTION;EconomicOperands;2
-F25.txt;REFERRED TO;FunctionWords;1
-F25.txt;PARAGRAPH 3;LegalReferences;2
-F25.txt;IN ADDITION;LogicalConnectors;5
-F25.txt;ACCOUNTING;EconomicOperands;2
-F25.txt;CALCULATED;EconomicOperands;1
-F25.txt;CLASSIFIED;EconomicOperands;36
-F25.txt;COLLATERAL;EconomicOperands;135
-F25.txt;COMMERCIAL;EconomicOperands;12
-F25.txt;CONSIDERED;EconomicOperands;1
-F25.txt;DIFFERENCE;EconomicOperands;1
-F25.txt;PERMISSION;EconomicOperands;11
-F25.txt;POSSESSION;EconomicOperands;69
-F25.txt;RECOGNIZED;EconomicOperands;1
-F25.txt;REFERENCES;EconomicOperands;41
-F25.txt;SECURITIES;EconomicOperands;5
-F25.txt;SEPARATELY;EconomicOperands;2
-F25.txt;PARAGRAPHS;Other;3
-F25.txt;ALLOCATED;EconomicOperands;1
-F25.txt;BREAKDOWN;EconomicOperands;1
-F25.txt;COLLECTED;EconomicOperands;11
-F25.txt;EQUIPMENT;EconomicOperands;36
-F25.txt;EXECUTION;EconomicOperands;3
-F25.txt;FINANCIAL;EconomicOperands;2
-F25.txt;FINANCING;EconomicOperands;5
-F25.txt;PROCESSES;EconomicOperands;3
-F25.txt;REDUCTION;EconomicOperands;24
-F25.txt;REFERENCE;EconomicOperands;7
-F25.txt;REPORTING;EconomicOperands;1
-F25.txt;VALUATION;EconomicOperands;2
-F25.txt;VOLUNTARY;EconomicOperands;1
-F25.txt;DIFFERENT;FunctionWords;2
-F25.txt;FOLLOWING;FunctionWords;1
-F25.txt;EXCLUDING;LogicalConnectors;6
-F25.txt;BEGINNING;LogicalConnectors;3
-F25.txt;MORE THAN;LogicalConnectors;1
-F25.txt;DESCRIBED;Other;2
-F25.txt;EXCEPTION;RegulatoryOperators;1
-F25.txt;RELEVANT;Attributes;1
-F25.txt;CARRYING;EconomicOperands;68
-F25.txt;EXCHANGE;EconomicOperands;6
-F25.txt;EXPOSURE;EconomicOperands;4
-F25.txt;FINANCED;EconomicOperands;1
-F25.txt;MEASURED;EconomicOperands;1
-F25.txt;NATIONAL;EconomicOperands;32
-F25.txt;OBTAINED;EconomicOperands;79
-F25.txt;PLANNING;EconomicOperands;11
-F25.txt;POLICIES;EconomicOperands;2
-F25.txt;POSITIVE;EconomicOperands;6
-F25.txt;PROPERTY;EconomicOperands;54
-F25.txt;PROVIDES;EconomicOperands;1
-F25.txt;RECEIVED;EconomicOperands;2
-F25.txt;REFLECTS;EconomicOperands;1
-F25.txt;REPORTED;EconomicOperands;9
-F25.txt;SEPARATE;EconomicOperands;2
-F25.txt;TRANSFER;EconomicOperands;1
-F25.txt;EQUAL TO;LogicalConnectors;1
-F25.txt;PROVIDED;LogicalConnectors;1
-F25.txt;NEGATIVE;MathematicalOperators;41
-F25.txt;BASED ON;Other;16
-F25.txt;DESCRIBE;Other;1
-F25.txt;2 YEARS;Attributes;23
-F25.txt;5 YEARS;Attributes;20
-F25.txt;AMOUNTS;EconomicOperands;1
-F25.txt;BALANCE;EconomicOperands;34
-F25.txt;CHANGES;EconomicOperands;49
-F25.txt;CLOSING;EconomicOperands;5
-F25.txt;DEFINED;EconomicOperands;4
-F25.txt;INCLUDE;EconomicOperands;4
-F25.txt;INITIAL;EconomicOperands;56
-F25.txt;OPENING;EconomicOperands;5
-F25.txt;PLEDGED;EconomicOperands;2
-F25.txt;PROFITS;EconomicOperands;6
-F25.txt;PROVIDE;EconomicOperands;2
-F25.txt;REASONS;EconomicOperands;3
-F25.txt;REFLECT;EconomicOperands;4
-F25.txt;REMAINS;EconomicOperands;1
-F25.txt;REPLACE;EconomicOperands;1
-F25.txt;BETWEEN;FunctionWords;3
-F25.txt;CURRENT;FunctionWords;10
-F25.txt;PRESENT;FunctionWords;1
-F25.txt;RELATED;FunctionWords;14
-F25.txt;WITHOUT;FunctionWords;6
-F25.txt;NEITHER;LogicalConnectors;1
-F25.txt;GRANTED;LogicalConnectors;5
-F25.txt;IN CASE;LogicalConnectors;2
-F25.txt;SUCH AS;LogicalConnectors;4
-F25.txt;THAT IS;LogicalConnectors;1
-F25.txt;WHETHER;LogicalConnectors;2
-F25.txt;MEANING;Other;1
-F25.txt;AGENTS;EconomicOperands;1
-F25.txt;AMOUNT;EconomicOperands;71
-F25.txt;ASSETS;EconomicOperands;12
-F25.txt;DEBTOR;EconomicOperands;2
-F25.txt;DUTIES;EconomicOperands;1
-F25.txt;EQUITY;EconomicOperands;5
-F25.txt;ESTATE;EconomicOperands;6
-F25.txt;IMPAIR;EconomicOperands;15
-F25.txt;LOSSES;EconomicOperands;6
-F25.txt;NUMBER;EconomicOperands;7
-F25.txt;PASSED;EconomicOperands;25
-F25.txt;PERIOD;EconomicOperands;20
-F25.txt;TAKING;EconomicOperands;69
-F25.txt;DURING;FunctionWords;19
-F25.txt;PART I;LegalReferences;2
-F25.txt;DUE TO;LogicalConnectors;32
-F25.txt;COSTS;EconomicOperands;8
-F25.txt;FLOWS;EconomicOperands;22
-F25.txt;GROSS;EconomicOperands;13
-F25.txt;LEGAL;EconomicOperands;1
-F25.txt;POINT;EconomicOperands;4
-F25.txt;STOCK;EconomicOperands;2
-F25.txt;TAXES;EconomicOperands;1
-F25.txt;TYPES;EconomicOperands;3
-F25.txt;VALUE;EconomicOperands;79
-F25.txt;CASES;FunctionWords;2
-F25.txt;THESE;FunctionWords;1
-F25.txt;THOSE;FunctionWords;2
-F25.txt;UNDER;FunctionWords;11
-F25.txt;WHICH;FunctionWords;40
-F25.txt;OTHER;LogicalConnectors;36
-F25.txt;WHERE;LogicalConnectors;4
-F25.txt;RATIO;LogicalConnectors;1
-F25.txt;SINCE;LogicalConnectors;26
-F25.txt;STILL;LogicalConnectors;1
-F25.txt;TOTAL;MathematicalOperators;8
-F25.txt;BASIS;Other;1
-F25.txt;SHALL;RegulatoryOperators;31
-F25.txt;WELL;Attributes;1
-F25.txt;ABLE;EconomicOperands;18
-F25.txt;CASH;EconomicOperands;18
-F25.txt;DATE;EconomicOperands;7
-F25.txt;DEBT;EconomicOperands;30
-F25.txt;FAIR;EconomicOperands;15
-F25.txt;FEES;EconomicOperands;1
-F25.txt;FLOW;EconomicOperands;24
-F25.txt;FORM;EconomicOperands;2
-F25.txt;HELD;EconomicOperands;11
-F25.txt;LAND;EconomicOperands;23
-F25.txt;LATE;EconomicOperands;7
-F25.txt;PAID;EconomicOperands;1
-F25.txt;PLAN;EconomicOperands;36
-F25.txt;REAL;EconomicOperands;6
-F25.txt;SALE;EconomicOperands;17
-F25.txt;SOLD;EconomicOperands;5
-F25.txt;TIME;EconomicOperands;29
-F25.txt;TYPE;EconomicOperands;5
-F25.txt;USED;EconomicOperands;1
-F25.txt;YEAR;EconomicOperands;2
-F25.txt;BEEN;FunctionWords;1
-F25.txt;DOWN;FunctionWords;1
-F25.txt;FROM;FunctionWords;9
-F25.txt;HAVE;FunctionWords;1
-F25.txt;MADE;FunctionWords;1
-F25.txt;PART;FunctionWords;528
-F25.txt;SAME;FunctionWords;1
-F25.txt;THAN;FunctionWords;30
-F25.txt;THAT;FunctionWords;10
-F25.txt;THIS;FunctionWords;6
-F25.txt;WERE;FunctionWords;3
-F25.txt;WITH;FunctionWords;14
-F25.txt;BOTH;LogicalConnectors;2
-F25.txt;EACH;LogicalConnectors;1
-F25.txt;WHEN;LogicalConnectors;1
-F25.txt;MEAN;Other;3
-F25.txt;TWO;Attributes;1
-F25.txt;AGE;EconomicOperands;1
-F25.txt;NET;EconomicOperands;8
-F25.txt;NEW;EconomicOperands;9
-F25.txt;OUT;EconomicOperands;24
-F25.txt;SUM;EconomicOperands;1
-F25.txt;CAN;FunctionWords;1
-F25.txt;FOR;FunctionWords;33
-F25.txt;HAS;FunctionWords;1
-F25.txt;OFF;FunctionWords;2
-F25.txt;ONE;FunctionWords;3
-F25.txt;THE;FunctionWords;122
-F25.txt;WAS;FunctionWords;12
+F25.txt;financial instrument;EconomicOperands;9
+F25.txt;in the context of;FunctionWords;1
+F25.txt;the same meaning;LogicalConnectors;1
+F25.txt;irrespective of;LogicalConnectors;3
+F25.txt;the end of the;MathematicalOperators;1
+F25.txt;with regard to;LogicalConnectors;5
+F25.txt;the amount of;MathematicalOperators;2
+F25.txt;the number of;MathematicalOperators;2
+F25.txt;balance sheet;EconomicOperands;33
+F25.txt;regardless of;LogicalConnectors;1
+F25.txt;derecognition;EconomicOperands;2
+F25.txt;paragraph 17;LegalReferences;2
+F25.txt;agricultural;EconomicOperands;6
+F25.txt;appreciation;EconomicOperands;1
+F25.txt;cancellation;EconomicOperands;1
+F25.txt;construction;EconomicOperands;11
+F25.txt;counterparty;EconomicOperands;2
+F25.txt;presentation;EconomicOperands;1
+F25.txt;credit risk;EconomicOperands;13
+F25.txt;in addition;LogicalConnectors;5
+F25.txt;paragraph 3;LegalReferences;2
+F25.txt;referred to;FunctionWords;1
+F25.txt;accumulated;EconomicOperands;47
+F25.txt;acquisition;EconomicOperands;1
+F25.txt;collections;EconomicOperands;1
+F25.txt;commissions;EconomicOperands;1
+F25.txt;corporation;EconomicOperands;6
+F25.txt;development;EconomicOperands;17
+F25.txt;information;EconomicOperands;7
+F25.txt;institution;EconomicOperands;3
+F25.txt;proceedings;EconomicOperands;1
+F25.txt;recognition;EconomicOperands;77
+F25.txt;replacement;EconomicOperands;7
+F25.txt;residential;EconomicOperands;5
+F25.txt;transaction;EconomicOperands;2
+F25.txt;accounting;EconomicOperands;2
+F25.txt;calculated;EconomicOperands;1
+F25.txt;classified;EconomicOperands;36
+F25.txt;collateral;EconomicOperands;135
+F25.txt;commercial;EconomicOperands;12
+F25.txt;considered;EconomicOperands;1
+F25.txt;difference;EconomicOperands;1
+F25.txt;impairment;EconomicOperands;15
+F25.txt;permission;EconomicOperands;11
+F25.txt;possession;EconomicOperands;69
+F25.txt;recognized;EconomicOperands;1
+F25.txt;references;EconomicOperands;41
+F25.txt;securities;EconomicOperands;5
+F25.txt;separately;EconomicOperands;2
+F25.txt;more than;LogicalConnectors;1
+F25.txt;allocated;EconomicOperands;1
+F25.txt;beginning;LogicalConnectors;3
+F25.txt;breakdown;EconomicOperands;1
+F25.txt;collected;EconomicOperands;11
+F25.txt;described;Other;2
+F25.txt;different;FunctionWords;2
+F25.txt;equipment;EconomicOperands;36
+F25.txt;exception;RegulatoryOperators;1
+F25.txt;excluding;LogicalConnectors;6
+F25.txt;execution;EconomicOperands;3
+F25.txt;financial;EconomicOperands;2
+F25.txt;financing;EconomicOperands;5
+F25.txt;following;FunctionWords;1
+F25.txt;paragraph;LegalReferences;3
+F25.txt;reduction;EconomicOperands;24
+F25.txt;reference;EconomicOperands;7
+F25.txt;reporting;EconomicOperands;1
+F25.txt;valuation;EconomicOperands;2
+F25.txt;voluntary;EconomicOperands;1
+F25.txt;based on;Other;16
+F25.txt;equal to;LogicalConnectors;1
+F25.txt;carrying;EconomicOperands;68
+F25.txt;describe;Other;1
+F25.txt;exchange;EconomicOperands;6
+F25.txt;exposure;EconomicOperands;4
+F25.txt;financed;EconomicOperands;1
+F25.txt;measured;EconomicOperands;1
+F25.txt;national;EconomicOperands;32
+F25.txt;negative;MathematicalOperators;41
+F25.txt;obtained;EconomicOperands;79
+F25.txt;planning;EconomicOperands;11
+F25.txt;policies;EconomicOperands;2
+F25.txt;positive;EconomicOperands;6
+F25.txt;property;EconomicOperands;54
+F25.txt;provided;LogicalConnectors;1
+F25.txt;provides;EconomicOperands;1
+F25.txt;received;EconomicOperands;2
+F25.txt;reflects;EconomicOperands;1
+F25.txt;relevant;Attributes;1
+F25.txt;reported;EconomicOperands;9
+F25.txt;reversal;EconomicOperands;1
+F25.txt;separate;EconomicOperands;2
+F25.txt;transfer;EconomicOperands;1
+F25.txt;in case;LogicalConnectors;2
+F25.txt;of debt;EconomicOperands;1
+F25.txt;that is;LogicalConnectors;1
+F25.txt;amounts;EconomicOperands;1
+F25.txt;balance;EconomicOperands;34
+F25.txt;between;FunctionWords;3
+F25.txt;changes;EconomicOperands;49
+F25.txt;closing;EconomicOperands;5
+F25.txt;current;FunctionWords;10
+F25.txt;defined;EconomicOperands;4
+F25.txt;granted;LogicalConnectors;5
+F25.txt;include;EconomicOperands;4
+F25.txt;initial;EconomicOperands;56
+F25.txt;neither;LogicalConnectors;1
+F25.txt;opening;EconomicOperands;5
+F25.txt;pledged;EconomicOperands;2
+F25.txt;present;FunctionWords;1
+F25.txt;process;EconomicOperands;3
+F25.txt;provide;EconomicOperands;2
+F25.txt;reflect;EconomicOperands;4
+F25.txt;related;FunctionWords;14
+F25.txt;remains;EconomicOperands;1
+F25.txt;replace;EconomicOperands;1
+F25.txt;whether;LogicalConnectors;2
+F25.txt;without;FunctionWords;6
+F25.txt;2 year;Attributes;23
+F25.txt;5 year;Attributes;20
+F25.txt;due to;LogicalConnectors;32
+F25.txt;part i;LegalReferences;2
+F25.txt;such a;LogicalConnectors;4
+F25.txt;agents;EconomicOperands;1
+F25.txt;amount;EconomicOperands;69
+F25.txt;assets;EconomicOperands;12
+F25.txt;debtor;EconomicOperands;2
+F25.txt;during;FunctionWords;19
+F25.txt;duties;EconomicOperands;1
+F25.txt;equity;EconomicOperands;5
+F25.txt;estate;EconomicOperands;6
+F25.txt;losses;EconomicOperands;6
+F25.txt;number;EconomicOperands;5
+F25.txt;passed;EconomicOperands;25
+F25.txt;period;EconomicOperands;20
+F25.txt;profit;EconomicOperands;6
+F25.txt;reason;EconomicOperands;3
+F25.txt;taking;EconomicOperands;69
+F25.txt;basis;Other;1
+F25.txt;costs;EconomicOperands;8
+F25.txt;gross;EconomicOperands;13
+F25.txt;legal;EconomicOperands;1
+F25.txt;other;LogicalConnectors;36
+F25.txt;point;EconomicOperands;4
+F25.txt;ratio;LogicalConnectors;1
+F25.txt;shall;RegulatoryOperators;31
+F25.txt;since;LogicalConnectors;26
+F25.txt;still;LogicalConnectors;1
+F25.txt;stock;EconomicOperands;2
+F25.txt;taxes;EconomicOperands;1
+F25.txt;these;FunctionWords;1
+F25.txt;those;FunctionWords;2
+F25.txt;total;MathematicalOperators;8
+F25.txt;under;FunctionWords;11
+F25.txt;value;EconomicOperands;79
+F25.txt;where;LogicalConnectors;4
+F25.txt;which;FunctionWords;40
+F25.txt;able;EconomicOperands;18
+F25.txt;been;FunctionWords;1
+F25.txt;both;LogicalConnectors;2
+F25.txt;case;EconomicOperands;2
+F25.txt;cash;EconomicOperands;18
+F25.txt;date;EconomicOperands;7
+F25.txt;debt;EconomicOperands;29
+F25.txt;down;FunctionWords;1
+F25.txt;each;LogicalConnectors;1
+F25.txt;fair;EconomicOperands;15
+F25.txt;fees;EconomicOperands;1
+F25.txt;flow;EconomicOperands;46
+F25.txt;form;EconomicOperands;2
+F25.txt;from;FunctionWords;9
+F25.txt;have;FunctionWords;1
+F25.txt;held;EconomicOperands;11
+F25.txt;land;EconomicOperands;23
+F25.txt;late;EconomicOperands;7
+F25.txt;made;FunctionWords;1
+F25.txt;mean;Other;3
+F25.txt;paid;EconomicOperands;1
+F25.txt;part;FunctionWords;528
+F25.txt;plan;EconomicOperands;36
+F25.txt;real;EconomicOperands;6
+F25.txt;sale;EconomicOperands;17
+F25.txt;sold;EconomicOperands;5
+F25.txt;than;FunctionWords;30
+F25.txt;that;FunctionWords;10
+F25.txt;this;FunctionWords;6
+F25.txt;time;EconomicOperands;29
+F25.txt;type;EconomicOperands;8
+F25.txt;used;EconomicOperands;1
+F25.txt;well;Attributes;1
+F25.txt;were;FunctionWords;3
+F25.txt;when;LogicalConnectors;1
+F25.txt;with;FunctionWords;14
+F25.txt;year;EconomicOperands;2
+F25.txt;1 a;Other;21
+F25.txt;2 a;Other;7
+F25.txt;3 a;Other;12
+F25.txt;4 a;Other;19
+F25.txt;8 a;Other;96
+F25.txt;9 a;Other;14
+F25.txt;4 i;Other;5
 F25.txt;341;LegalReferences;2
-F25.txt;342;LegalReferences;13
-F25.txt;343;LegalReferences;15
-F25.txt;ACT;LegalReferences;1
-F25.txt;III;LegalReferences;1
-F25.txt;AND;LogicalConnectors;73
-F25.txt;BUT;LogicalConnectors;1
-F25.txt;NON;LogicalConnectors;10
-F25.txt;NOR;LogicalConnectors;1
-F25.txt;NOT;LogicalConnectors;3
-F25.txt;END;Other;1
+F25.txt;342;LegalReferences;9
+F25.txt;343;LegalReferences;3
+F25.txt;act;LegalReferences;1
+F25.txt;age;EconomicOperands;1
+F25.txt;and;LogicalConnectors;71
+F25.txt;bad;EconomicOperands;16
+F25.txt;but;LogicalConnectors;1
+F25.txt;can;FunctionWords;1
+F25.txt;for;FunctionWords;33
+F25.txt;iii;LegalReferences;1
+F25.txt;net;EconomicOperands;8
+F25.txt;new;EconomicOperands;9
+F25.txt;non;LogicalConnectors;10
+F25.txt;nor;LogicalConnectors;1
+F25.txt;not;LogicalConnectors;3
+F25.txt;off;FunctionWords;2
+F25.txt;one;FunctionWords;3
+F25.txt;opm;EconomicOperands;4
+F25.txt;out;EconomicOperands;24
+F25.txt;pre;EconomicOperands;2
+F25.txt;sum;EconomicOperands;1
+F25.txt;the;FunctionWords;115
+F25.txt;two;Attributes;1
+F25.txt;17;LegalReferences;118
 F25.txt;23;Attributes;2
 F25.txt;25;Attributes;3
 F25.txt;35;Attributes;115
-F25.txt;EC;EconomicOperands;13
-F25.txt;IT;EconomicOperands;9
-F25.txt;AN;FunctionWords;413
-F25.txt;AT;FunctionWords;84
-F25.txt;BE;FunctionWords;19
-F25.txt;BY;FunctionWords;83
-F25.txt;IN;FunctionWords;95
-F25.txt;IS;FunctionWords;12
-F25.txt;OF;FunctionWords;119
-F25.txt;ON;FunctionWords;15
-F25.txt;TO;FunctionWords;14
-F25.txt;17;LegalReferences;118
-F25.txt;2A;LegalReferences;16
-F25.txt;2B;LegalReferences;22
-F25.txt;44;LegalReferences;27
+F25.txt;44;LegalReferences;3
+F25.txt;45;Attributes;4
 F25.txt;46;LegalReferences;2
 F25.txt;47;LegalReferences;3
-F25.txt;48;LegalReferences;118
-F25.txt;49;LegalReferences;43
-F25.txt;5I;LegalReferences;119
-F25.txt;8E;LegalReferences;1
-F25.txt;AA;LegalReferences;32
-F25.txt;II;LegalReferences;4
-F25.txt;AS;LogicalConnectors;56
-F25.txt;IF;LogicalConnectors;36
-F25.txt;OR;LogicalConnectors;5
-F25.txt;1;Attributes;69
-F25.txt;2;Attributes;6
-F25.txt;3;Attributes;198
-F25.txt;4;Attributes;5
-F25.txt;5;Attributes;5
+F25.txt;48;LegalReferences;24
+F25.txt;49;LegalReferences;29
+F25.txt;aa;LegalReferences;32
+F25.txt;an;FunctionWords;246
+F25.txt;as;LogicalConnectors;69
+F25.txt;at;FunctionWords;84
+F25.txt;be;FunctionWords;19
+F25.txt;by;FunctionWords;83
+F25.txt;ec;EconomicOperands;13
+F25.txt;et;Other;1
+F25.txt;if;LogicalConnectors;31
+F25.txt;ii;LegalReferences;39
+F25.txt;in;FunctionWords;95
+F25.txt;is;FunctionWords;12
+F25.txt;it;EconomicOperands;9
+F25.txt;le;MathematicalOperators;16
+F25.txt;of;FunctionWords;113
+F25.txt;on;FunctionWords;15
+F25.txt;or;LogicalConnectors;5
+F25.txt;to;FunctionWords;14
+F25.txt;1;Attributes;48
+F25.txt;2;Attributes;41
+F25.txt;3;Attributes;214
+F25.txt;4;Attributes;149
+F25.txt;5;Attributes;120
 F25.txt;7;Attributes;36
-F25.txt;8;Attributes;5
+F25.txt;8;Attributes;4
 F25.txt;9;Attributes;18
-F25.txt;A;FunctionWords;28
-F25.txt;I;FunctionWords;77
-F25.txt;B;LegalReferences;38
-F25.txt;C;LegalReferences;20
-F25.txt;D;LegalReferences;34
-F25.txt;E;LegalReferences;549
-F25.txt;K;LegalReferences;2
-F25.txt;L;LegalReferences;47
-F25.txt;M;LegalReferences;78
-F25.txt;N;LegalReferences;474
-F25.txt;O;LegalReferences;55
-F25.txt;P;LegalReferences;134
-F25.txt;R;LegalReferences;58
-F25.txt;T;LegalReferences;65
-F25.txt;U;LegalReferences;1
-F25.txt;V;LegalReferences;436
-F25.txt;X;LegalReferences;414
+F25.txt;a;FunctionWords;27
+F25.txt;b;LegalReferences;44
+F25.txt;c;LegalReferences;20
+F25.txt;d;LegalReferences;20
+F25.txt;e;LegalReferences;517
+F25.txt;f;LegalReferences;5
+F25.txt;h;LegalReferences;1
+F25.txt;i;FunctionWords;126
+F25.txt;k;LegalReferences;2
+F25.txt;l;LegalReferences;30
+F25.txt;m;LegalReferences;59
+F25.txt;n;LegalReferences;628
+F25.txt;o;LegalReferences;51
+F25.txt;p;LegalReferences;128
+F25.txt;r;LegalReferences;54
+F25.txt;t;LegalReferences;49
+F25.txt;u;LegalReferences;1
+F25.txt;v;LegalReferences;435
+F25.txt;x;LegalReferences;414

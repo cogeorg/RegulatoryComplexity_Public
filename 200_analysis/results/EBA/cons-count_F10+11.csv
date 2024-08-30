@@ -1,0 +1,487 @@
+F10+11.txt;foreign exchange swap;EconomicOperands;2
+F10+11.txt;financial instrument;EconomicOperands;12
+F10+11.txt;credit default swap;EconomicOperands;8
+F10+11.txt;accounting standard;EconomicOperands;2
+F10+11.txt;proprietary trading;EconomicOperands;2
+F10+11.txt;for the purpose of;LogicalConnectors;2
+F10+11.txt;in accordance with;LogicalConnectors;22
+F10+11.txt;commodity contract;EconomicOperands;4
+F10+11.txt;off-balance sheet;EconomicOperands;2
+F10+11.txt;foreign exchange;EconomicOperands;32
+F10+11.txt;creditworthiness;EconomicOperands;2
+F10+11.txt;financial asset;EconomicOperands;56
+F10+11.txt;irrespective of;LogicalConnectors;8
+F10+11.txt;the end of the;MathematicalOperators;2
+F10+11.txt;in addition to;LogicalConnectors;2
+F10+11.txt;characteristic;EconomicOperands;2
+F10+11.txt;classification;EconomicOperands;2
+F10+11.txt;counterparties;EconomicOperands;10
+F10+11.txt;cross-currency;EconomicOperands;8
+F10+11.txt;the amount of;MathematicalOperators;2
+F10+11.txt;the number of;MathematicalOperators;2
+F10+11.txt;balance sheet;EconomicOperands;10
+F10+11.txt;currency swap;EconomicOperands;6
+F10+11.txt;in particular;LogicalConnectors;2
+F10+11.txt;interest rate;EconomicOperands;76
+F10+11.txt;regardless of;LogicalConnectors;4
+F10+11.txt;comprehensive;EconomicOperands;8
+F10+11.txt;consideration;EconomicOperands;2
+F10+11.txt;paragraph 11;LegalReferences;4
+F10+11.txt;paragraph 12;LegalReferences;2
+F10+11.txt;paragraph 14;LegalReferences;2
+F10+11.txt;agricultural;EconomicOperands;2
+F10+11.txt;constituting;LogicalConnectors;2
+F10+11.txt;continuation;EconomicOperands;2
+F10+11.txt;counterparty;EconomicOperands;4
+F10+11.txt;institutions;EconomicOperands;12
+F10+11.txt;relationship;EconomicOperands;8
+F10+11.txt;transactions;EconomicOperands;6
+F10+11.txt;credit risk;EconomicOperands;12
+F10+11.txt;paragraph 2;LegalReferences;2
+F10+11.txt;referred to;FunctionWords;2
+F10+11.txt;accumulated;EconomicOperands;2
+F10+11.txt;adjustments;EconomicOperands;26
+F10+11.txt;application;EconomicOperands;2
+F10+11.txt;appropriate;Attributes;2
+F10+11.txt;commodities;EconomicOperands;8
+F10+11.txt;contractual;EconomicOperands;2
+F10+11.txt;corporation;EconomicOperands;8
+F10+11.txt;derivatives;EconomicOperands;129
+F10+11.txt;discontinue;EconomicOperands;6
+F10+11.txt;implemented;RegulatoryOperators;2
+F10+11.txt;information;EconomicOperands;2
+F10+11.txt;institution;EconomicOperands;10
+F10+11.txt;instruments;EconomicOperands;31
+F10+11.txt;investments;EconomicOperands;6
+F10+11.txt;liabilities;EconomicOperands;69
+F10+11.txt;measurement;EconomicOperands;2
+F10+11.txt;performance;EconomicOperands;4
+F10+11.txt;recognition;EconomicOperands;8
+F10+11.txt;referencing;EconomicOperands;2
+F10+11.txt;transaction;EconomicOperands;6
+F10+11.txt;uncertainty;EconomicOperands;2
+F10+11.txt;as well as;LogicalConnectors;4
+F10+11.txt;accounting;EconomicOperands;42
+F10+11.txt;adjustment;EconomicOperands;2
+F10+11.txt;agreements;EconomicOperands;2
+F10+11.txt;allocation;EconomicOperands;4
+F10+11.txt;applicable;FunctionWords;12
+F10+11.txt;calculated;EconomicOperands;2
+F10+11.txt;classified;EconomicOperands;14
+F10+11.txt;commitment;EconomicOperands;4
+F10+11.txt;considered;EconomicOperands;6
+F10+11.txt;constitute;EconomicOperands;2
+F10+11.txt;contracted;EconomicOperands;2
+F10+11.txt;cumulative;EconomicOperands;2
+F10+11.txt;definition;EconomicOperands;8
+F10+11.txt;derivative;EconomicOperands;55
+F10+11.txt;designated;RegulatoryOperators;10
+F10+11.txt;determined;RegulatoryOperators;4
+F10+11.txt;identified;FunctionWords;2
+F10+11.txt;influenced;EconomicOperands;2
+F10+11.txt;instrument;EconomicOperands;8
+F10+11.txt;investment;EconomicOperands;2
+F10+11.txt;multiplied;LogicalConnectors;4
+F10+11.txt;obligation;EconomicOperands;2
+F10+11.txt;particular;FunctionWords;4
+F10+11.txt;pertaining;EconomicOperands;2
+F10+11.txt;previously;LogicalConnectors;2
+F10+11.txt;protection;EconomicOperands;6
+F10+11.txt;receivable;EconomicOperands;2
+F10+11.txt;references;EconomicOperands;37
+F10+11.txt;represents;LogicalConnectors;2
+F10+11.txt;separately;EconomicOperands;14
+F10+11.txt;subsequent;FunctionWords;4
+F10+11.txt;underlying;EconomicOperands;10
+F10+11.txt;more than;LogicalConnectors;8
+F10+11.txt;according;LogicalConnectors;8
+F10+11.txt;allocated;EconomicOperands;4
+F10+11.txt;available;EconomicOperands;2
+F10+11.txt;breakdown;EconomicOperands;12
+F10+11.txt;commodity;EconomicOperands;34
+F10+11.txt;component;EconomicOperands;6
+F10+11.txt;concluded;EconomicOperands;2
+F10+11.txt;contracts;EconomicOperands;38
+F10+11.txt;dedicated;EconomicOperands;4
+F10+11.txt;determine;RegulatoryOperators;2
+F10+11.txt;directive;EconomicOperands;4
+F10+11.txt;effective;Other;6
+F10+11.txt;exception;RegulatoryOperators;6
+F10+11.txt;exchanges;EconomicOperands;4
+F10+11.txt;financial;EconomicOperands;62
+F10+11.txt;following;FunctionWords;14
+F10+11.txt;framework;EconomicOperands;4
+F10+11.txt;generally;FunctionWords;2
+F10+11.txt;guarantee;EconomicOperands;6
+F10+11.txt;including;LogicalConnectors;20
+F10+11.txt;insurance;EconomicOperands;2
+F10+11.txt;involving;EconomicOperands;10
+F10+11.txt;liability;EconomicOperands;4
+F10+11.txt;mandatory;RegulatoryOperators;2
+F10+11.txt;operation;EconomicOperands;7
+F10+11.txt;organized;EconomicOperands;50
+F10+11.txt;portfolio;EconomicOperands;43
+F10+11.txt;positions;EconomicOperands;8
+F10+11.txt;primarily;Attributes;2
+F10+11.txt;principal;EconomicOperands;10
+F10+11.txt;reference;EconomicOperands;14
+F10+11.txt;regulated;RegulatoryOperators;2
+F10+11.txt;remaining;EconomicOperands;8
+F10+11.txt;reporting;EconomicOperands;10
+F10+11.txt;sensitive;EconomicOperands;2
+F10+11.txt;separated;EconomicOperands;2
+F10+11.txt;statement;EconomicOperands;2
+F10+11.txt;therefore;LogicalConnectors;4
+F10+11.txt;whichever;FunctionWords;2
+F10+11.txt;at least;LogicalConnectors;2
+F10+11.txt;based on;Other;30
+F10+11.txt;equal to;LogicalConnectors;2
+F10+11.txt;adjusted;EconomicOperands;2
+F10+11.txt;appendix;EconomicOperands;8
+F10+11.txt;applying;EconomicOperands;2
+F10+11.txt;carrying;EconomicOperands;57
+F10+11.txt;category;EconomicOperands;14
+F10+11.txt;classify;EconomicOperands;2
+F10+11.txt;clearing;EconomicOperands;4
+F10+11.txt;concerns;EconomicOperands;2
+F10+11.txt;contract;EconomicOperands;22
+F10+11.txt;criteria;EconomicOperands;2
+F10+11.txt;currency;EconomicOperands;16
+F10+11.txt;decrease;MathematicalOperators;2
+F10+11.txt;economic;EconomicOperands;28
+F10+11.txt;eligible;EconomicOperands;2
+F10+11.txt;estimate;EconomicOperands;2
+F10+11.txt;exchange;EconomicOperands;14
+F10+11.txt;exercise;EconomicOperands;2
+F10+11.txt;exposure;EconomicOperands;24
+F10+11.txt;forwards;EconomicOperands;2
+F10+11.txt;included;EconomicOperands;20
+F10+11.txt;increase;MathematicalOperators;2
+F10+11.txt;interest;EconomicOperands;6
+F10+11.txt;maturity;EconomicOperands;2
+F10+11.txt;measured;EconomicOperands;39
+F10+11.txt;monetary;EconomicOperands;4
+F10+11.txt;multiple;EconomicOperands;2
+F10+11.txt;national;EconomicOperands;51
+F10+11.txt;negative;MathematicalOperators;14
+F10+11.txt;notional;EconomicOperands;60
+F10+11.txt;payments;EconomicOperands;2
+F10+11.txt;position;EconomicOperands;16
+F10+11.txt;positive;EconomicOperands;14
+F10+11.txt;precious;EconomicOperands;2
+F10+11.txt;products;EconomicOperands;2
+F10+11.txt;purchase;EconomicOperands;4
+F10+11.txt;purposes;EconomicOperands;4
+F10+11.txt;quantity;EconomicOperands;2
+F10+11.txt;relevant;Attributes;10
+F10+11.txt;reported;EconomicOperands;80
+F10+11.txt;required;RegulatoryOperators;2
+F10+11.txt;restrict;RegulatoryOperators;2
+F10+11.txt;treasury;EconomicOperands;2
+F10+11.txt;variable;EconomicOperands;2
+F10+11.txt;in case;LogicalConnectors;2
+F10+11.txt;that is;LogicalConnectors;4
+F10+11.txt;account;EconomicOperands;2
+F10+11.txt;allowed;RegulatoryOperators;2
+F10+11.txt;already;Attributes;2
+F10+11.txt;amounts;EconomicOperands;18
+F10+11.txt;another;FunctionWords;2
+F10+11.txt;applied;EconomicOperands;2
+F10+11.txt;applies;FunctionWords;2
+F10+11.txt;article;EconomicOperands;6
+F10+11.txt;between;FunctionWords;4
+F10+11.txt;carried;EconomicOperands;12
+F10+11.txt;central;EconomicOperands;2
+F10+11.txt;default;EconomicOperands;2
+F10+11.txt;defined;EconomicOperands;10
+F10+11.txt;elected;EconomicOperands;2
+F10+11.txt;exclude;EconomicOperands;2
+F10+11.txt;expense;EconomicOperands;2
+F10+11.txt;exposed;EconomicOperands;2
+F10+11.txt;foreign;EconomicOperands;10
+F10+11.txt;forward;EconomicOperands;4
+F10+11.txt;hedging;EconomicOperands;61
+F10+11.txt;however;LogicalConnectors;2
+F10+11.txt;include;EconomicOperands;28
+F10+11.txt;initial;EconomicOperands;10
+F10+11.txt;involve;EconomicOperands;4
+F10+11.txt;meaning;Other;2
+F10+11.txt;measure;EconomicOperands;2
+F10+11.txt;netting;EconomicOperands;12
+F10+11.txt;portion;EconomicOperands;4
+F10+11.txt;product;EconomicOperands;25
+F10+11.txt;qualify;EconomicOperands;6
+F10+11.txt;related;FunctionWords;6
+F10+11.txt;require;RegulatoryOperators;2
+F10+11.txt;settled;EconomicOperands;2
+F10+11.txt;specify;EconomicOperands;2
+F10+11.txt;thereof;FunctionWords;2
+F10+11.txt;through;FunctionWords;23
+F10+11.txt;trading;EconomicOperands;72
+F10+11.txt;warrant;EconomicOperands;4
+F10+11.txt;whether;LogicalConnectors;16
+F10+11.txt;part i;LegalReferences;1
+F10+11.txt;such a;LogicalConnectors;8
+F10+11.txt;across;FunctionWords;2
+F10+11.txt;amount;EconomicOperands;119
+F10+11.txt;assets;EconomicOperands;37
+F10+11.txt;become;EconomicOperands;2
+F10+11.txt;before;LogicalConnectors;10
+F10+11.txt;change;EconomicOperands;2
+F10+11.txt;collar;EconomicOperands;2
+F10+11.txt;credit;EconomicOperands;56
+F10+11.txt;either;LogicalConnectors;10
+F10+11.txt;enters;EconomicOperands;2
+F10+11.txt;entire;LogicalConnectors;2
+F10+11.txt;entity;EconomicOperands;6
+F10+11.txt;equity;EconomicOperands;43
+F10+11.txt;events;EconomicOperands;2
+F10+11.txt;except;LogicalConnectors;4
+F10+11.txt;future;EconomicOperands;6
+F10+11.txt;gather;EconomicOperands;2
+F10+11.txt;holder;EconomicOperands;2
+F10+11.txt;hybrid;EconomicOperands;4
+F10+11.txt;income;EconomicOperands;10
+F10+11.txt;linked;EconomicOperands;8
+F10+11.txt;losses;EconomicOperands;4
+F10+11.txt;manage;EconomicOperands;4
+F10+11.txt;market;EconomicOperands;89
+F10+11.txt;method;EconomicOperands;11
+F10+11.txt;nature;EconomicOperands;4
+F10+11.txt;number;EconomicOperands;4
+F10+11.txt;option;EconomicOperands;80
+F10+11.txt;payoff;EconomicOperands;2
+F10+11.txt;payout;EconomicOperands;4
+F10+11.txt;profit;EconomicOperands;19
+F10+11.txt;rating;EconomicOperands;2
+F10+11.txt;remain;EconomicOperands;2
+F10+11.txt;report;EconomicOperands;2
+F10+11.txt;return;EconomicOperands;16
+F10+11.txt;sector;EconomicOperands;2
+F10+11.txt;seller;EconomicOperands;2
+F10+11.txt;single;EconomicOperands;2
+F10+11.txt;spread;EconomicOperands;10
+F10+11.txt;strike;Other;2
+F10+11.txt;taking;EconomicOperands;2
+F10+11.txt;traded;EconomicOperands;2
+F10+11.txt;within;LogicalConnectors;6
+F10+11.txt;above;FunctionWords;2
+F10+11.txt;after;LogicalConnectors;2
+F10+11.txt;among;FunctionWords;2
+F10+11.txt;apply;Other;4
+F10+11.txt;asset;EconomicOperands;2
+F10+11.txt;based;Other;13
+F10+11.txt;basis;Other;6
+F10+11.txt;being;FunctionWords;2
+F10+11.txt;below;FunctionWords;2
+F10+11.txt;buyer;EconomicOperands;2
+F10+11.txt;costs;EconomicOperands;2
+F10+11.txt;cover;EconomicOperands;2
+F10+11.txt;cross;EconomicOperands;2
+F10+11.txt;floor;EconomicOperands;2
+F10+11.txt;grade;EconomicOperands;2
+F10+11.txt;gross;EconomicOperands;6
+F10+11.txt;group;EconomicOperands;8
+F10+11.txt;hedge;EconomicOperands;243
+F10+11.txt;index;EconomicOperands;6
+F10+11.txt;joint;EconomicOperands;4
+F10+11.txt;loans;EconomicOperands;2
+F10+11.txt;metal;EconomicOperands;2
+F10+11.txt;order;EconomicOperands;2
+F10+11.txt;other;LogicalConnectors;113
+F10+11.txt;place;EconomicOperands;2
+F10+11.txt;point;EconomicOperands;4
+F10+11.txt;price;EconomicOperands;18
+F10+11.txt;rates;EconomicOperands;4
+F10+11.txt;refer;EconomicOperands;4
+F10+11.txt;right;EconomicOperands;4
+F10+11.txt;rules;EconomicOperands;2
+F10+11.txt;shall;RegulatoryOperators;172
+F10+11.txt;swaps;EconomicOperands;14
+F10+11.txt;taken;Other;2
+F10+11.txt;terms;Other;2
+F10+11.txt;their;FunctionWords;10
+F10+11.txt;there;FunctionWords;2
+F10+11.txt;these;FunctionWords;6
+F10+11.txt;those;FunctionWords;24
+F10+11.txt;total;MathematicalOperators;30
+F10+11.txt;under;FunctionWords;22
+F10+11.txt;using;EconomicOperands;2
+F10+11.txt;value;EconomicOperands;106
+F10+11.txt;where;LogicalConnectors;38
+F10+11.txt;which;FunctionWords;148
+F10+11.txt;while;LogicalConnectors;4
+F10+11.txt;whole;FunctionWords;2
+F10+11.txt;10 a;Other;14
+F10+11.txt;4 th;Other;2
+F10+11.txt;6 th;Attributes;4
+F10+11.txt;able;EconomicOperands;4
+F10+11.txt;also;LogicalConnectors;6
+F10+11.txt;bear;EconomicOperands;4
+F10+11.txt;been;FunctionWords;4
+F10+11.txt;bill;EconomicOperands;2
+F10+11.txt;book;EconomicOperands;8
+F10+11.txt;caps;EconomicOperands;2
+F10+11.txt;case;EconomicOperands;4
+F10+11.txt;cash;EconomicOperands;16
+F10+11.txt;cost;EconomicOperands;43
+F10+11.txt;date;EconomicOperands;8
+F10+11.txt;deal;EconomicOperands;14
+F10+11.txt;down;FunctionWords;12
+F10+11.txt;each;LogicalConnectors;6
+F10+11.txt;face;EconomicOperands;2
+F10+11.txt;fair;EconomicOperands;84
+F10+11.txt;firm;EconomicOperands;2
+F10+11.txt;flow;EconomicOperands;16
+F10+11.txt;from;FunctionWords;2
+F10+11.txt;gain;EconomicOperands;6
+F10+11.txt;give;FunctionWords;2
+F10+11.txt;gold;EconomicOperands;24
+F10+11.txt;have;FunctionWords;12
+F10+11.txt;held;EconomicOperands;38
+F10+11.txt;host;EconomicOperands;4
+F10+11.txt;into;FunctionWords;8
+F10+11.txt;item;Other;34
+F10+11.txt;keep;EconomicOperands;2
+F10+11.txt;late;EconomicOperands;34
+F10+11.txt;lead;EconomicOperands;2
+F10+11.txt;line;EconomicOperands;4
+F10+11.txt;link;EconomicOperands;2
+F10+11.txt;long;EconomicOperands;2
+F10+11.txt;loss;EconomicOperands;21
+F10+11.txt;meet;EconomicOperands;10
+F10+11.txt;more;LogicalConnectors;2
+F10+11.txt;most;FunctionWords;2
+F10+11.txt;name;EconomicOperands;4
+F10+11.txt;only;LogicalConnectors;6
+F10+11.txt;part;FunctionWords;498
+F10+11.txt;rate;EconomicOperands;2
+F10+11.txt;read;Other;2
+F10+11.txt;risk;EconomicOperands;63
+F10+11.txt;role;EconomicOperands;2
+F10+11.txt;sale;EconomicOperands;4
+F10+11.txt;same;FunctionWords;2
+F10+11.txt;sold;EconomicOperands;24
+F10+11.txt;some;FunctionWords;2
+F10+11.txt;swap;EconomicOperands;10
+F10+11.txt;take;FunctionWords;2
+F10+11.txt;than;FunctionWords;4
+F10+11.txt;that;FunctionWords;42
+F10+11.txt;they;FunctionWords;14
+F10+11.txt;this;FunctionWords;20
+F10+11.txt;thus;LogicalConnectors;2
+F10+11.txt;type;EconomicOperands;68
+F10+11.txt;unit;EconomicOperands;2
+F10+11.txt;upon;EconomicOperands;2
+F10+11.txt;used;EconomicOperands;14
+F10+11.txt;with;FunctionWords;34
+F10+11.txt;1 a;Other;15
+F10+11.txt;2 a;Other;3
+F10+11.txt;3 a;Other;1
+F10+11.txt;5 a;Other;31
+F10+11.txt;9 a;Other;13
+F10+11.txt;a 1;Other;7
+F10+11.txt;d 1;Other;12
+F10+11.txt;d 4;Other;7
+F10+11.txt;g 1;Other;2
+F10+11.txt;120;LegalReferences;2
+F10+11.txt;125;Attributes;2
+F10+11.txt;140;LegalReferences;6
+F10+11.txt;141;LegalReferences;2
+F10+11.txt;150;Attributes;6
+F10+11.txt;152;LegalReferences;2
+F10+11.txt;214;LegalReferences;2
+F10+11.txt;724;LegalReferences;38
+F10+11.txt;aii;LegalReferences;6
+F10+11.txt;all;LogicalConnectors;36
+F10+11.txt;and;LogicalConnectors;140
+F10+11.txt;any;LogicalConnectors;4
+F10+11.txt;are;FunctionWords;44
+F10+11.txt;bad;EconomicOperands;37
+F10+11.txt;but;LogicalConnectors;6
+F10+11.txt;can;FunctionWords;4
+F10+11.txt;cro;EconomicOperands;30
+F10+11.txt;doe;EconomicOperands;2
+F10+11.txt;for;FunctionWords;122
+F10+11.txt;may;FunctionWords;6
+F10+11.txt;net;EconomicOperands;30
+F10+11.txt;non;LogicalConnectors;33
+F10+11.txt;not;LogicalConnectors;38
+F10+11.txt;one;FunctionWords;16
+F10+11.txt;our;FunctionWords;4
+F10+11.txt;out;EconomicOperands;2
+F10+11.txt;per;FunctionWords;1
+F10+11.txt;pre;EconomicOperands;8
+F10+11.txt;sum;EconomicOperands;2
+F10+11.txt;the;FunctionWords;338
+F10+11.txt;tip;EconomicOperands;4
+F10+11.txt;two;Attributes;2
+F10+11.txt;use;EconomicOperands;2
+F10+11.txt;via;FunctionWords;2
+F10+11.txt;yet;LogicalConnectors;2
+F10+11.txt;10;Attributes;8
+F10+11.txt;11;LegalReferences;6
+F10+11.txt;12;Attributes;17
+F10+11.txt;13;LegalReferences;116
+F10+11.txt;14;LegalReferences;28
+F10+11.txt;15;Attributes;12
+F10+11.txt;32;LegalReferences;1
+F10+11.txt;36;LegalReferences;2
+F10+11.txt;39;LegalReferences;6
+F10+11.txt;41;LegalReferences;4
+F10+11.txt;42;LegalReferences;6
+F10+11.txt;44;LegalReferences;7
+F10+11.txt;aa;LegalReferences;53
+F10+11.txt;ab;Other;2
+F10+11.txt;an;FunctionWords;428
+F10+11.txt;as;LogicalConnectors;86
+F10+11.txt;at;FunctionWords;103
+F10+11.txt;be;FunctionWords;169
+F10+11.txt;by;FunctionWords;94
+F10+11.txt;do;FunctionWords;12
+F10+11.txt;ec;EconomicOperands;16
+F10+11.txt;et;Other;2
+F10+11.txt;go;FunctionWords;10
+F10+11.txt;if;LogicalConnectors;152
+F10+11.txt;ii;LegalReferences;3
+F10+11.txt;in;FunctionWords;164
+F10+11.txt;is;FunctionWords;94
+F10+11.txt;it;EconomicOperands;32
+F10+11.txt;le;MathematicalOperators;15
+F10+11.txt;no;LogicalConnectors;10
+F10+11.txt;of;FunctionWords;416
+F10+11.txt;on;FunctionWords;31
+F10+11.txt;or;LogicalConnectors;200
+F10+11.txt;to;FunctionWords;115
+F10+11.txt;tr;EconomicOperands;2
+F10+11.txt;1;Attributes;47
+F10+11.txt;2;Attributes;23
+F10+11.txt;3;Attributes;13
+F10+11.txt;4;Attributes;18
+F10+11.txt;5;Attributes;19
+F10+11.txt;6;Attributes;11
+F10+11.txt;7;Attributes;34
+F10+11.txt;8;Attributes;16
+F10+11.txt;9;Attributes;50
+F10+11.txt;a;FunctionWords;302
+F10+11.txt;b;LegalReferences;80
+F10+11.txt;c;LegalReferences;201
+F10+11.txt;d;LegalReferences;137
+F10+11.txt;e;LegalReferences;718
+F10+11.txt;f;LegalReferences;26
+F10+11.txt;h;LegalReferences;6
+F10+11.txt;i;FunctionWords;108
+F10+11.txt;k;LegalReferences;10
+F10+11.txt;l;LegalReferences;76
+F10+11.txt;m;LegalReferences;151
+F10+11.txt;n;LegalReferences;602
+F10+11.txt;o;LegalReferences;184
+F10+11.txt;p;LegalReferences;104
+F10+11.txt;q;LegalReferences;10
+F10+11.txt;r;LegalReferences;252
+F10+11.txt;t;LegalReferences;153
+F10+11.txt;u;LegalReferences;38
+F10+11.txt;v;LegalReferences;452
+F10+11.txt;x;LegalReferences;451
+F10+11.txt;y;LegalReferences;4
+F10+11.txt;z;LegalReferences;6

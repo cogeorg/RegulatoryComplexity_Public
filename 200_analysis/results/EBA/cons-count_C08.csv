@@ -1,653 +1,663 @@
-C08.txt;CAPITAL REQUIREMENTS;EconomicOperands;17
-C08.txt;FINANCIAL INSTRUMENT;EconomicOperands;1
-C08.txt;PARAGRAPHS 1 AND 2;LegalReferences;3
-C08.txt;FOR THE PURPOSE OF;LogicalConnectors;3
-C08.txt;IN ACCORDANCE WITH;LogicalConnectors;66
-C08.txt;CREDIT PROTECTION;EconomicOperands;29
-C08.txt;OFF-BALANCE SHEET;EconomicOperands;5
-C08.txt;REGULATORY POLICY;EconomicOperands;1
-C08.txt;FOREIGN EXCHANGE;EconomicOperands;3
-C08.txt;FOR THE PURPOSES;LogicalConnectors;1
-C08.txt;RISK MANAGEMENT;EconomicOperands;1
-C08.txt;IRRESPECTIVE OF;LogicalConnectors;1
-C08.txt;IMPLEMENTATION;EconomicOperands;3
-C08.txt;INFRASTRUCTURE;EconomicOperands;12
-C08.txt;AS A RESULT OF;LogicalConnectors;1
-C08.txt;IN ADDITION TO;LogicalConnectors;1
-C08.txt;IN THE CASE OF;LogicalConnectors;2
-C08.txt;IN THE FUTURE;Attributes;1
-C08.txt;BALANCE SHEET;EconomicOperands;34
-C08.txt;CENTRAL BANKS;EconomicOperands;6
-C08.txt;CORRESPONDING;EconomicOperands;10
-C08.txt;LAST SENTENCE;EconomicOperands;1
-C08.txt;METHODOLOGIES;EconomicOperands;1
-C08.txt;APPLICABLE TO;FunctionWords;1
-C08.txt;IN PARTICULAR;LogicalConnectors;1
-C08.txt;REGARDLESS OF;LogicalConnectors;1
-C08.txt;ACQUISITIONS;EconomicOperands;5
-C08.txt;CALCULATIONS;EconomicOperands;1
-C08.txt;COUNTERPARTY;EconomicOperands;22
-C08.txt;DISTRIBUTION;EconomicOperands;1
-C08.txt;INSTITUTIONS;EconomicOperands;35
-C08.txt;INSTRUCTIONS;EconomicOperands;50
-C08.txt;REPRESENTING;EconomicOperands;2
-C08.txt;REQUIREMENTS;EconomicOperands;2
-C08.txt;STANDARDIZED;EconomicOperands;1
-C08.txt;TRANSACTIONS;EconomicOperands;22
-C08.txt;SUBSEQUENTLY;LogicalConnectors;1
-C08.txt;SUBPARAGRAPH;Other;2
-C08.txt;APPROPRIATE;Attributes;3
-C08.txt;ADJUSTMENTS;EconomicOperands;15
-C08.txt;ALTERNATIVE;EconomicOperands;15
-C08.txt;APPLICATION;EconomicOperands;6
-C08.txt;ARRANGEMENT;EconomicOperands;1
-C08.txt;ASSIGNED TO;EconomicOperands;23
-C08.txt;AUTHORITIES;EconomicOperands;4
-C08.txt;CALCULATING;EconomicOperands;1
-C08.txt;CALCULATION;EconomicOperands;16
-C08.txt;COMMODITIES;EconomicOperands;3
-C08.txt;COMPOSITION;EconomicOperands;1
-C08.txt;CONSISTS OF;EconomicOperands;1
-C08.txt;CONTRACTUAL;EconomicOperands;6
-C08.txt;CORRELATION;EconomicOperands;4
-C08.txt;CREDIT RISK;EconomicOperands;70
-C08.txt;DERIVATIVES;EconomicOperands;17
-C08.txt;GOVERNMENTS;EconomicOperands;7
-C08.txt;INFORMATION;EconomicOperands;11
-C08.txt;INSTITUTION;EconomicOperands;18
-C08.txt;INSTRUMENTS;EconomicOperands;8
-C08.txt;METHODOLOGY;EconomicOperands;3
-C08.txt;ORIGINATION;EconomicOperands;1
-C08.txt;RECOGNITION;EconomicOperands;1
-C08.txt;REGULATIONS;EconomicOperands;2
-C08.txt;SPECIALIZED;EconomicOperands;5
-C08.txt;SUPERVISORY;EconomicOperands;4
-C08.txt;UNREGULATED;EconomicOperands;19
-C08.txt;PURSUANT TO;FunctionWords;1
-C08.txt;REFERRED TO;FunctionWords;12
-C08.txt;PARAGRAPH 3;LegalReferences;2
-C08.txt;CONSIDERING;LogicalConnectors;3
-C08.txt;DENOMINATOR;LogicalConnectors;3
-C08.txt;IN ORDER TO;LogicalConnectors;1
-C08.txt;CONSISTENT;Attributes;1
-C08.txt;ADJUSTMENT;EconomicOperands;12
-C08.txt;APPROACHES;EconomicOperands;2
-C08.txt;ASSOCIATED;EconomicOperands;1
-C08.txt;ATTRIBUTED;EconomicOperands;1
-C08.txt;BUSINESSES;EconomicOperands;1
-C08.txt;CALCULATED;EconomicOperands;8
-C08.txt;COLLATERAL;EconomicOperands;26
-C08.txt;COMMERCIAL;EconomicOperands;1
-C08.txt;COMMISSION;EconomicOperands;1
-C08.txt;COMPARISON;EconomicOperands;1
-C08.txt;CONDITIONS;EconomicOperands;1
-C08.txt;CONSIDERED;EconomicOperands;9
-C08.txt;CONSTITUTE;EconomicOperands;1
-C08.txt;CONTINUOUS;EconomicOperands;3
-C08.txt;CONVERSION;EconomicOperands;36
-C08.txt;DEFINITION;EconomicOperands;2
-C08.txt;DERIVATIVE;EconomicOperands;2
-C08.txt;DIFFERENCE;EconomicOperands;2
-C08.txt;FACILITIES;EconomicOperands;1
-C08.txt;GUARANTEES;EconomicOperands;9
-C08.txt;HISTORICAL;EconomicOperands;4
-C08.txt;IDENTIFIER;EconomicOperands;3
-C08.txt;IMMATERIAL;EconomicOperands;1
-C08.txt;INDIVIDUAL;EconomicOperands;5
-C08.txt;INSTRUMENT;EconomicOperands;2
-C08.txt;MITIGATION;EconomicOperands;13
-C08.txt;OBLIGATION;EconomicOperands;4
-C08.txt;OPERATIONS;EconomicOperands;1
-C08.txt;PARAMETERS;EconomicOperands;6
-C08.txt;PERCENTAGE;EconomicOperands;12
-C08.txt;PERMISSION;EconomicOperands;4
-C08.txt;PROPERTIES;EconomicOperands;1
-C08.txt;PROVISIONS;EconomicOperands;15
-C08.txt;PRUDENTIAL;EconomicOperands;1
-C08.txt;RECEIVABLE;EconomicOperands;8
-C08.txt;REDUCTIONS;EconomicOperands;1
-C08.txt;REGULATION;EconomicOperands;1
-C08.txt;REGULATORY;EconomicOperands;1
-C08.txt;REPURCHASE;EconomicOperands;3
-C08.txt;RESPECTIVE;EconomicOperands;6
-C08.txt;SECURITIES;EconomicOperands;7
-C08.txt;SEPARATELY;EconomicOperands;3
-C08.txt;SETTLEMENT;EconomicOperands;7
-C08.txt;STATEMENTS;EconomicOperands;2
-C08.txt;STRUCTURES;EconomicOperands;1
-C08.txt;SUPPORTING;EconomicOperands;41
-C08.txt;TECHNIQUES;EconomicOperands;17
-C08.txt;VOLATILITY;EconomicOperands;1
-C08.txt;APPLICABLE;FunctionWords;2
-C08.txt;PARTICULAR;FunctionWords;1
-C08.txt;RESPECTING;FunctionWords;2
-C08.txt;THEMSELVES;FunctionWords;1
-C08.txt;MEMORANDUM;LegalReferences;5
-C08.txt;AS WELL AS;LogicalConnectors;5
-C08.txt;CONCERNING;LogicalConnectors;7
-C08.txt;EQUIVALENT;LogicalConnectors;2
-C08.txt;EXCEPTIONS;LogicalConnectors;1
-C08.txt;LIMITED TO;LogicalConnectors;3
-C08.txt;RELATES TO;LogicalConnectors;1
-C08.txt;SUBJECT TO;LogicalConnectors;75
-C08.txt;ADDITIONAL;MathematicalOperators;1
-C08.txt;PARAGRAPHS;Other;10
-C08.txt;DETERMINED;RegulatoryOperators;12
-C08.txt;QUARTERLY;Attributes;1
-C08.txt;ALLOCATED;EconomicOperands;5
-C08.txt;ASSIGNING;EconomicOperands;2
-C08.txt;AUTHORITY;EconomicOperands;8
-C08.txt;AVAILABLE;EconomicOperands;2
-C08.txt;BORROWING;EconomicOperands;1
-C08.txt;BREAKDOWN;EconomicOperands;15
-C08.txt;CHARACTER;EconomicOperands;1
-C08.txt;COMMITTED;EconomicOperands;1
-C08.txt;COMPETENT;EconomicOperands;11
-C08.txt;CORPORATE;EconomicOperands;11
-C08.txt;CUSTODIAL;EconomicOperands;1
-C08.txt;DEDICATED;EconomicOperands;1
-C08.txt;DEFAULTED;EconomicOperands;16
-C08.txt;EFFICIENT;EconomicOperands;4
-C08.txt;ESSENTIAL;EconomicOperands;1
-C08.txt;ESTIMATED;EconomicOperands;7
-C08.txt;ESTIMATES;EconomicOperands;45
-C08.txt;EXPOSURES;EconomicOperands;136
-C08.txt;FINANCIAL;EconomicOperands;45
-C08.txt;FINANCING;EconomicOperands;6
-C08.txt;GUARANTEE;EconomicOperands;2
-C08.txt;INSURANCE;EconomicOperands;4
-C08.txt;NUMERICAL;EconomicOperands;1
-C08.txt;PERMANENT;EconomicOperands;5
-C08.txt;POSITIONS;EconomicOperands;9
-C08.txt;PRACTICES;EconomicOperands;1
-C08.txt;PRESENTED;EconomicOperands;1
-C08.txt;PRINCIPAL;EconomicOperands;1
-C08.txt;PRODUCING;EconomicOperands;1
-C08.txt;PURCHASED;EconomicOperands;9
-C08.txt;REFERENCE;EconomicOperands;5
-C08.txt;REFLECTED;EconomicOperands;2
-C08.txt;REPORTING;EconomicOperands;28
-C08.txt;RESULTING;EconomicOperands;1
-C08.txt;REVISIONS;EconomicOperands;1
-C08.txt;REVOLVING;EconomicOperands;1
-C08.txt;STRUCTURE;EconomicOperands;4
-C08.txt;TECHNIQUE;EconomicOperands;1
-C08.txt;TREATMENT;EconomicOperands;28
-C08.txt;DIFFERENT;FunctionWords;8
-C08.txt;FOLLOWING;FunctionWords;5
-C08.txt;SECTION 4;LegalReferences;1
-C08.txt;EXCLUDING;LogicalConnectors;7
-C08.txt;BEGINNING;LogicalConnectors;6
-C08.txt;INCLUDING;LogicalConnectors;7
-C08.txt;LESS THAN;LogicalConnectors;6
-C08.txt;MORE THAN;LogicalConnectors;8
-C08.txt;NUMERATOR;LogicalConnectors;2
-C08.txt;OTHERWISE;LogicalConnectors;1
-C08.txt;REGARDING;LogicalConnectors;5
-C08.txt;THEREFORE;LogicalConnectors;3
-C08.txt;DECREASES;MathematicalOperators;7
-C08.txt;DEDUCTION;MathematicalOperators;2
-C08.txt;INCREASES;MathematicalOperators;7
-C08.txt;LISTED IN;Other;2
-C08.txt;DETERMINE;RegulatoryOperators;1
-C08.txt;EXCEPTION;RegulatoryOperators;1
-C08.txt;REGULATED;RegulatoryOperators;1
-C08.txt;SPECIFIED;RegulatoryOperators;5
-C08.txt;POSSIBLE;Attributes;1
-C08.txt;RELEVANT;Attributes;13
-C08.txt;ADJUSTED;EconomicOperands;5
-C08.txt;ALLOCATE;EconomicOperands;1
-C08.txt;APPLYING;EconomicOperands;7
-C08.txt;APPROACH;EconomicOperands;52
-C08.txt;APPROVED;EconomicOperands;4
-C08.txt;ASSESSED;EconomicOperands;1
-C08.txt;BORROWER;EconomicOperands;1
-C08.txt;BUSINESS;EconomicOperands;1
-C08.txt;CARRYING;EconomicOperands;1
-C08.txt;CATEGORY;EconomicOperands;9
-C08.txt;CLASSIFY;EconomicOperands;1
-C08.txt;CONSIDER;EconomicOperands;1
-C08.txt;COVERING;EconomicOperands;1
-C08.txt;CRITERIA;EconomicOperands;2
-C08.txt;CURRENCY;EconomicOperands;1
-C08.txt;DEFAULTS;EconomicOperands;1
-C08.txt;DELEGATE;EconomicOperands;1
-C08.txt;DEPOSITS;EconomicOperands;1
-C08.txt;DILUTION;EconomicOperands;10
-C08.txt;ELIGIBLE;EconomicOperands;12
-C08.txt;ENTITIES;EconomicOperands;46
-C08.txt;ESTIMATE;EconomicOperands;3
-C08.txt;EXISTING;EconomicOperands;1
-C08.txt;EXPECTED;EconomicOperands;17
-C08.txt;EXPOSURE;EconomicOperands;248
-C08.txt;EXTERNAL;EconomicOperands;5
-C08.txt;INCLUDED;EconomicOperands;28
-C08.txt;INCLUDES;EconomicOperands;2
-C08.txt;INTENDED;EconomicOperands;2
-C08.txt;INTEREST;EconomicOperands;1
-C08.txt;INTERNAL;EconomicOperands;15
-C08.txt;MATURITY;EconomicOperands;14
-C08.txt;MOVEMENT;EconomicOperands;4
-C08.txt;NETWORKS;EconomicOperands;1
-C08.txt;OBTAINED;EconomicOperands;2
-C08.txt;ORIGINAL;EconomicOperands;15
-C08.txt;PHYSICAL;EconomicOperands;5
-C08.txt;PLANNING;EconomicOperands;1
-C08.txt;POLICIES;EconomicOperands;4
-C08.txt;POSITIVE;EconomicOperands;7
-C08.txt;PROPERTY;EconomicOperands;3
-C08.txt;PURPOSES;EconomicOperands;1
-C08.txt;RECEIVED;EconomicOperands;2
-C08.txt;REGIONAL;EconomicOperands;1
-C08.txt;REPORTED;EconomicOperands;91
-C08.txt;SEPARATE;EconomicOperands;1
-C08.txt;SERVICES;EconomicOperands;1
-C08.txt;STANDARD;EconomicOperands;5
-C08.txt;SPECIFIC;FunctionWords;11
-C08.txt;TITLE II;LegalReferences;11
-C08.txt;AT LEAST;LogicalConnectors;1
-C08.txt;EQUAL TO;LogicalConnectors;6
-C08.txt;PREVIOUS;LogicalConnectors;14
-C08.txt;PROVIDED;LogicalConnectors;5
-C08.txt;DEDUCTED;MathematicalOperators;3
-C08.txt;NEGATIVE;MathematicalOperators;7
-C08.txt;BASED ON;Other;6
-C08.txt;CHAPTERS;Other;1
-C08.txt;EXCLUDES;Other;3
-C08.txt;SENTENCE;Other;3
-C08.txt;ASSIGNED;RegulatoryOperators;2
-C08.txt;COMPUTED;RegulatoryOperators;1
-C08.txt;ALREADY;Attributes;1
-C08.txt;QUARTER;Attributes;2
-C08.txt;ACCOUNT;EconomicOperands;27
-C08.txt;ADDRESS;EconomicOperands;1
-C08.txt;ADVANCE;EconomicOperands;1
-C08.txt;ALTERED;EconomicOperands;1
-C08.txt;AMOUNTS;EconomicOperands;27
-C08.txt;APPLIED;EconomicOperands;3
-C08.txt;ARISING;EconomicOperands;11
-C08.txt;BALANCE;EconomicOperands;2
-C08.txt;CAPTURE;EconomicOperands;1
-C08.txt;CENTRAL;EconomicOperands;6
-C08.txt;CHANGES;EconomicOperands;16
-C08.txt;CLASS C;EconomicOperands;1
-C08.txt;CLASSES;EconomicOperands;11
-C08.txt;CONTACT;EconomicOperands;1
-C08.txt;COVERED;EconomicOperands;2
-C08.txt;DEFAULT;EconomicOperands;31
-C08.txt;DEFINED;EconomicOperands;12
-C08.txt;DELIVER;EconomicOperands;24
-C08.txt;DEPOSIT;EconomicOperands;5
-C08.txt;DERIVED;EconomicOperands;2
-C08.txt;EFFECTS;EconomicOperands;23
-C08.txt;ELECTED;EconomicOperands;3
-C08.txt;ELEMENT;EconomicOperands;3
-C08.txt;EXCLUDE;EconomicOperands;1
-C08.txt;EXPLAIN;EconomicOperands;1
-C08.txt;FACTORS;EconomicOperands;57
-C08.txt;FINANCE;EconomicOperands;4
-C08.txt;FOREIGN;EconomicOperands;1
-C08.txt;INCLUDE;EconomicOperands;7
-C08.txt;ISSUING;EconomicOperands;1
-C08.txt;LEASING;EconomicOperands;2
-C08.txt;LENDING;EconomicOperands;21
-C08.txt;NETTING;EconomicOperands;20
-C08.txt;OBLIGOR;EconomicOperands;70
-C08.txt;OPERATE;EconomicOperands;1
-C08.txt;ORDERED;EconomicOperands;2
-C08.txt;PARTIAL;EconomicOperands;5
-C08.txt;PLEDGED;EconomicOperands;1
-C08.txt;PRODUCT;EconomicOperands;6
-C08.txt;PROJECT;EconomicOperands;1
-C08.txt;PROVIDE;EconomicOperands;2
-C08.txt;QUALIFY;EconomicOperands;1
-C08.txt;QUALITY;EconomicOperands;4
-C08.txt;REDUCED;EconomicOperands;3
-C08.txt;REQUEST;EconomicOperands;2
-C08.txt;RESPOND;EconomicOperands;7
-C08.txt;RESULTS;EconomicOperands;1
-C08.txt;SECURED;EconomicOperands;11
-C08.txt;SPECIAL;EconomicOperands;13
-C08.txt;SUPPORT;EconomicOperands;1
-C08.txt;SYSTEMS;EconomicOperands;1
-C08.txt;TESTING;EconomicOperands;5
-C08.txt;TRADING;EconomicOperands;2
-C08.txt;TREATED;EconomicOperands;3
-C08.txt;UPDATES;EconomicOperands;3
-C08.txt;APPLIES;FunctionWords;4
-C08.txt;BETWEEN;FunctionWords;8
-C08.txt;CERTAIN;FunctionWords;1
-C08.txt;CURRENT;FunctionWords;7
-C08.txt;GENERAL;FunctionWords;9
-C08.txt;RELATED;FunctionWords;1
-C08.txt;WITHOUT;FunctionWords;7
-C08.txt;NEITHER;LogicalConnectors;2
-C08.txt;EVEN IF;LogicalConnectors;1
-C08.txt;GRANTED;LogicalConnectors;1
-C08.txt;IN CASE;LogicalConnectors;4
-C08.txt;IN THAT;LogicalConnectors;2
-C08.txt;SIMILAR;LogicalConnectors;1
-C08.txt;SUCH AS;LogicalConnectors;1
-C08.txt;THAT IS;LogicalConnectors;2
-C08.txt;AVERAGE;MathematicalOperators;53
-C08.txt;MINIMUM;MathematicalOperators;1
-C08.txt;CHAPTER;Other;10
-C08.txt;CONTEXT;Other;1
-C08.txt;ACTUAL;EconomicOperands;2
-C08.txt;ADJUST;EconomicOperands;4
-C08.txt;AGREED;EconomicOperands;3
-C08.txt;AMOUNT;EconomicOperands;85
-C08.txt;ANNUAL;EconomicOperands;4
-C08.txt;ASSETS;EconomicOperands;3
-C08.txt;CHANGE;EconomicOperands;7
-C08.txt;CHOSEN;EconomicOperands;1
-C08.txt;CREDIT;EconomicOperands;27
-C08.txt;EFFECT;EconomicOperands;6
-C08.txt;EQUITY;EconomicOperands;3
-C08.txt;ESTATE;EconomicOperands;17
-C08.txt;FACTOR;EconomicOperands;24
-C08.txt;FILLED;EconomicOperands;3
-C08.txt;FOLLOW;EconomicOperands;1
-C08.txt;FUNDED;EconomicOperands;29
-C08.txt;IMPACT;EconomicOperands;2
-C08.txt;INCOME;EconomicOperands;1
-C08.txt;ISSUED;EconomicOperands;2
-C08.txt;LINKED;EconomicOperands;2
-C08.txt;MARGIN;EconomicOperands;1
-C08.txt;MARKET;EconomicOperands;5
-C08.txt;MASTER;EconomicOperands;3
-C08.txt;MERGED;EconomicOperands;1
-C08.txt;METHOD;EconomicOperands;1
-C08.txt;MODELS;EconomicOperands;5
-C08.txt;NUMBER;EconomicOperands;29
-C08.txt;OBJECT;EconomicOperands;1
-C08.txt;PERIOD;EconomicOperands;27
-C08.txt;POINTS;EconomicOperands;7
-C08.txt;POLICY;EconomicOperands;3
-C08.txt;POOLED;EconomicOperands;1
-C08.txt;PUBLIC;EconomicOperands;2
-C08.txt;RATING;EconomicOperands;19
-C08.txt;RECENT;EconomicOperands;1
-C08.txt;REDUCE;EconomicOperands;2
-C08.txt;REFERS;EconomicOperands;1
-C08.txt;REPORT;EconomicOperands;16
-C08.txt;RESULT;EconomicOperands;1
-C08.txt;RETAIL;EconomicOperands;17
-C08.txt;SECTOR;EconomicOperands;22
-C08.txt;SERVED;EconomicOperands;4
-C08.txt;SIMPLE;EconomicOperands;2
-C08.txt;TAKING;EconomicOperands;10
-C08.txt;UNIQUE;EconomicOperands;2
-C08.txt;VALUES;EconomicOperands;11
-C08.txt;DURING;FunctionWords;7
-C08.txt;AS FOR;LogicalConnectors;1
-C08.txt;BEFORE;LogicalConnectors;5
-C08.txt;DUE TO;LogicalConnectors;29
-C08.txt;EXCEPT;LogicalConnectors;2
-C08.txt;HIGHER;LogicalConnectors;5
-C08.txt;IF NOT;LogicalConnectors;1
-C08.txt;LONGER;LogicalConnectors;1
-C08.txt;SECOND;LogicalConnectors;4
-C08.txt;WITHIN;LogicalConnectors;4
-C08.txt;EXCEED;MathematicalOperators;1
-C08.txt;SHOULD;RegulatoryOperators;2
-C08.txt;CANNOT;RegulatoryOperators;1
-C08.txt;COMPLY;RegulatoryOperators;1
-C08.txt;ENSURE;RegulatoryOperators;1
-C08.txt;FIRST;Attributes;2
-C08.txt;THIRD;Attributes;7
-C08.txt;ASSET;EconomicOperands;6
-C08.txt;CLASS;EconomicOperands;23
-C08.txt;COVER;EconomicOperands;1
-C08.txt;CROSS;EconomicOperands;6
-C08.txt;DEALS;EconomicOperands;1
-C08.txt;DRAWN;EconomicOperands;1
-C08.txt;EVENT;EconomicOperands;1
-C08.txt;FINAL;EconomicOperands;1
-C08.txt;FIXED;EconomicOperands;11
-C08.txt;FLOOR;EconomicOperands;2
-C08.txt;FLOWS;EconomicOperands;13
-C08.txt;FULLY;EconomicOperands;1
-C08.txt;FUNDS;EconomicOperands;1
-C08.txt;GRADE;EconomicOperands;52
-C08.txt;ITEMS;EconomicOperands;34
-C08.txt;JOINT;EconomicOperands;2
-C08.txt;LARGE;EconomicOperands;21
-C08.txt;LEGAL;EconomicOperands;2
-C08.txt;LEVEL;EconomicOperands;3
-C08.txt;LOANS;EconomicOperands;3
-C08.txt;LOCAL;EconomicOperands;1
-C08.txt;LOWER;EconomicOperands;1
-C08.txt;MEANS;EconomicOperands;2
-C08.txt;MODEL;EconomicOperands;8
-C08.txt;NOTES;EconomicOperands;1
-C08.txt;ORDER;EconomicOperands;2
-C08.txt;PARTY;EconomicOperands;7
-C08.txt;POINT;EconomicOperands;27
-C08.txt;POOLS;EconomicOperands;17
-C08.txt;PRIOR;EconomicOperands;4
-C08.txt;RANGE;EconomicOperands;23
-C08.txt;RATED;EconomicOperands;2
-C08.txt;SCALE;EconomicOperands;21
-C08.txt;SCOPE;EconomicOperands;5
-C08.txt;TREAT;EconomicOperands;2
-C08.txt;TYPES;EconomicOperands;7
-C08.txt;USING;EconomicOperands;3
-C08.txt;VALUE;EconomicOperands;87
-C08.txt;YEARS;EconomicOperands;17
-C08.txt;BELOW;FunctionWords;1
-C08.txt;CASES;FunctionWords;1
-C08.txt;GIVEN;FunctionWords;1
-C08.txt;THEIR;FunctionWords;9
-C08.txt;THESE;FunctionWords;7
-C08.txt;THOSE;FunctionWords;8
-C08.txt;UNDER;FunctionWords;16
-C08.txt;WHICH;FunctionWords;71
-C08.txt;OTHER;LogicalConnectors;37
-C08.txt;WHERE;LogicalConnectors;36
-C08.txt;AFTER;LogicalConnectors;23
-C08.txt;RATIO;LogicalConnectors;3
-C08.txt;TOTAL;MathematicalOperators;59
-C08.txt;APPLY;Other;4
-C08.txt;BASIS;Other;1
-C08.txt;FOUND;Other;1
-C08.txt;TABLE;Other;2
-C08.txt;TAKEN;Other;16
-C08.txt;SHALL;RegulatoryOperators;184
+C08.txt;financial instrument;EconomicOperands;1
+C08.txt;capital requirement;EconomicOperands;17
+C08.txt;for the purpose of;LogicalConnectors;3
+C08.txt;in accordance with;LogicalConnectors;66
+C08.txt;credit protection;EconomicOperands;29
+C08.txt;off-balance sheet;EconomicOperands;5
+C08.txt;regulatory policy;EconomicOperands;1
+C08.txt;foreign exchange;EconomicOperands;3
+C08.txt;for the purpose;FunctionWords;1
+C08.txt;irrespective of;LogicalConnectors;1
+C08.txt;risk management;EconomicOperands;1
+C08.txt;as a result of;LogicalConnectors;1
+C08.txt;in the case of;LogicalConnectors;2
+C08.txt;the end of the;MathematicalOperators;23
+C08.txt;in addition to;LogicalConnectors;1
+C08.txt;characteristic;EconomicOperands;1
+C08.txt;implementation;EconomicOperands;3
+C08.txt;infrastructure;EconomicOperands;12
+C08.txt;in the future;Attributes;1
+C08.txt;the amount of;MathematicalOperators;2
+C08.txt;the number of;MathematicalOperators;9
+C08.txt;applicable to;FunctionWords;1
+C08.txt;balance sheet;EconomicOperands;34
+C08.txt;in particular;LogicalConnectors;1
+C08.txt;last sentence;EconomicOperands;1
+C08.txt;regardless of;LogicalConnectors;1
+C08.txt;corresponding;EconomicOperands;10
+C08.txt;methodologies;EconomicOperands;1
+C08.txt;central bank;EconomicOperands;6
+C08.txt;acquisitions;EconomicOperands;5
+C08.txt;counterparty;EconomicOperands;22
+C08.txt;distribution;EconomicOperands;1
+C08.txt;institutions;EconomicOperands;35
+C08.txt;representing;EconomicOperands;2
+C08.txt;requirements;EconomicOperands;2
+C08.txt;standardized;EconomicOperands;1
+C08.txt;subparagraph;Other;2
+C08.txt;subsequently;LogicalConnectors;1
+C08.txt;transactions;EconomicOperands;22
+C08.txt;in order to;LogicalConnectors;1
+C08.txt;assigned to;EconomicOperands;23
+C08.txt;consists of;EconomicOperands;1
+C08.txt;credit risk;EconomicOperands;70
+C08.txt;paragraph 3;LegalReferences;2
+C08.txt;pursuant to;FunctionWords;1
+C08.txt;referred to;FunctionWords;12
+C08.txt;third party;EconomicOperands;7
+C08.txt;adjustments;EconomicOperands;15
+C08.txt;alternative;EconomicOperands;15
+C08.txt;application;EconomicOperands;6
+C08.txt;appropriate;Attributes;3
+C08.txt;arrangement;EconomicOperands;1
+C08.txt;authorities;EconomicOperands;4
+C08.txt;calculating;EconomicOperands;1
+C08.txt;calculation;EconomicOperands;17
+C08.txt;commodities;EconomicOperands;3
+C08.txt;composition;EconomicOperands;1
+C08.txt;considering;LogicalConnectors;3
+C08.txt;contractual;EconomicOperands;6
+C08.txt;correlation;EconomicOperands;4
+C08.txt;denominator;LogicalConnectors;3
+C08.txt;derivatives;EconomicOperands;17
+C08.txt;governments;EconomicOperands;7
+C08.txt;information;EconomicOperands;11
+C08.txt;institution;EconomicOperands;18
+C08.txt;instruction;EconomicOperands;50
+C08.txt;instruments;EconomicOperands;8
+C08.txt;methodology;EconomicOperands;3
+C08.txt;observation;EconomicOperands;3
+C08.txt;origination;EconomicOperands;1
+C08.txt;recognition;EconomicOperands;1
+C08.txt;regulations;EconomicOperands;2
+C08.txt;specialized;EconomicOperands;5
+C08.txt;supervisory;EconomicOperands;4
+C08.txt;unregulated;EconomicOperands;19
+C08.txt;as well as;LogicalConnectors;5
+C08.txt;limited to;LogicalConnectors;3
+C08.txt;relates to;LogicalConnectors;1
+C08.txt;subject to;LogicalConnectors;75
+C08.txt;additional;MathematicalOperators;1
+C08.txt;adjustment;EconomicOperands;12
+C08.txt;applicable;FunctionWords;2
+C08.txt;associated;EconomicOperands;1
+C08.txt;attributed;EconomicOperands;1
+C08.txt;businesses;EconomicOperands;1
+C08.txt;calculated;EconomicOperands;8
+C08.txt;collateral;EconomicOperands;26
+C08.txt;commercial;EconomicOperands;1
+C08.txt;commission;EconomicOperands;1
+C08.txt;comparison;EconomicOperands;1
+C08.txt;concerning;LogicalConnectors;7
+C08.txt;conditions;EconomicOperands;1
+C08.txt;considered;EconomicOperands;9
+C08.txt;consistent;Attributes;1
+C08.txt;constitute;EconomicOperands;1
+C08.txt;continuous;EconomicOperands;3
+C08.txt;conversion;EconomicOperands;36
+C08.txt;definition;EconomicOperands;2
+C08.txt;derivative;EconomicOperands;2
+C08.txt;determined;RegulatoryOperators;12
+C08.txt;difference;EconomicOperands;2
+C08.txt;equivalent;LogicalConnectors;2
+C08.txt;exceptions;LogicalConnectors;1
+C08.txt;facilities;EconomicOperands;1
+C08.txt;foundation;EconomicOperands;1
+C08.txt;historical;EconomicOperands;4
+C08.txt;identifier;EconomicOperands;3
+C08.txt;immaterial;EconomicOperands;1
+C08.txt;individual;EconomicOperands;5
+C08.txt;instrument;EconomicOperands;2
+C08.txt;memorandum;LegalReferences;5
+C08.txt;mitigation;EconomicOperands;13
+C08.txt;obligation;EconomicOperands;4
+C08.txt;operations;EconomicOperands;1
+C08.txt;parameters;EconomicOperands;6
+C08.txt;particular;FunctionWords;1
+C08.txt;percentage;EconomicOperands;12
+C08.txt;permission;EconomicOperands;4
+C08.txt;provisions;EconomicOperands;15
+C08.txt;prudential;EconomicOperands;1
+C08.txt;receivable;EconomicOperands;8
+C08.txt;regulation;EconomicOperands;1
+C08.txt;regulatory;EconomicOperands;1
+C08.txt;repurchase;EconomicOperands;3
+C08.txt;respecting;FunctionWords;2
+C08.txt;respective;EconomicOperands;6
+C08.txt;securities;EconomicOperands;7
+C08.txt;separately;EconomicOperands;3
+C08.txt;settlement;EconomicOperands;7
+C08.txt;statements;EconomicOperands;2
+C08.txt;supporting;EconomicOperands;41
+C08.txt;themselves;FunctionWords;1
+C08.txt;volatility;EconomicOperands;1
+C08.txt;listed in;Other;2
+C08.txt;more than;LogicalConnectors;8
+C08.txt;section 4;LegalReferences;1
+C08.txt;according;LogicalConnectors;1
+C08.txt;allocated;EconomicOperands;5
+C08.txt;assigning;EconomicOperands;2
+C08.txt;authority;EconomicOperands;8
+C08.txt;available;EconomicOperands;2
+C08.txt;beginning;LogicalConnectors;6
+C08.txt;borrowing;EconomicOperands;1
+C08.txt;breakdown;EconomicOperands;15
+C08.txt;committed;EconomicOperands;1
+C08.txt;competent;EconomicOperands;11
+C08.txt;corporate;EconomicOperands;11
+C08.txt;custodial;EconomicOperands;1
+C08.txt;dedicated;EconomicOperands;1
+C08.txt;deduction;MathematicalOperators;2
+C08.txt;defaulted;EconomicOperands;16
+C08.txt;determine;RegulatoryOperators;1
+C08.txt;different;FunctionWords;8
+C08.txt;efficient;EconomicOperands;4
+C08.txt;essential;EconomicOperands;1
+C08.txt;estimated;EconomicOperands;7
+C08.txt;exception;RegulatoryOperators;1
+C08.txt;excluding;LogicalConnectors;7
+C08.txt;financial;EconomicOperands;45
+C08.txt;financing;EconomicOperands;6
+C08.txt;following;FunctionWords;5
+C08.txt;guarantee;EconomicOperands;11
+C08.txt;including;LogicalConnectors;7
+C08.txt;insurance;EconomicOperands;4
+C08.txt;numerator;LogicalConnectors;2
+C08.txt;numerical;EconomicOperands;1
+C08.txt;otherwise;LogicalConnectors;1
+C08.txt;paragraph;LegalReferences;13
+C08.txt;permanent;EconomicOperands;5
+C08.txt;positions;EconomicOperands;9
+C08.txt;practices;EconomicOperands;1
+C08.txt;presented;EconomicOperands;1
+C08.txt;principal;EconomicOperands;1
+C08.txt;producing;EconomicOperands;1
+C08.txt;purchased;EconomicOperands;9
+C08.txt;quarterly;Attributes;1
+C08.txt;reduction;EconomicOperands;1
+C08.txt;reference;EconomicOperands;5
+C08.txt;reflected;EconomicOperands;2
+C08.txt;regarding;LogicalConnectors;5
+C08.txt;regulated;RegulatoryOperators;1
+C08.txt;reporting;EconomicOperands;28
+C08.txt;resulting;EconomicOperands;1
+C08.txt;revisions;EconomicOperands;1
+C08.txt;revolving;EconomicOperands;1
+C08.txt;specified;RegulatoryOperators;5
+C08.txt;structure;EconomicOperands;5
+C08.txt;technique;EconomicOperands;18
+C08.txt;therefore;LogicalConnectors;3
+C08.txt;treatment;EconomicOperands;28
+C08.txt;at least;LogicalConnectors;1
+C08.txt;based on;Other;6
+C08.txt;equal to;LogicalConnectors;6
+C08.txt;title ii;LegalReferences;11
+C08.txt;adjusted;EconomicOperands;5
+C08.txt;allocate;EconomicOperands;1
+C08.txt;applying;EconomicOperands;7
+C08.txt;approach;EconomicOperands;54
+C08.txt;approved;EconomicOperands;4
+C08.txt;assessed;EconomicOperands;1
+C08.txt;assigned;RegulatoryOperators;2
+C08.txt;borrower;EconomicOperands;1
+C08.txt;business;EconomicOperands;1
+C08.txt;carrying;EconomicOperands;1
+C08.txt;category;EconomicOperands;9
+C08.txt;classify;EconomicOperands;1
+C08.txt;computed;RegulatoryOperators;1
+C08.txt;consider;EconomicOperands;1
+C08.txt;covering;EconomicOperands;1
+C08.txt;criteria;EconomicOperands;2
+C08.txt;currency;EconomicOperands;1
+C08.txt;decrease;MathematicalOperators;7
+C08.txt;deducted;MathematicalOperators;3
+C08.txt;defaults;EconomicOperands;1
+C08.txt;delegate;EconomicOperands;1
+C08.txt;deposits;EconomicOperands;1
+C08.txt;dilution;EconomicOperands;10
+C08.txt;eligible;EconomicOperands;12
+C08.txt;entities;EconomicOperands;46
+C08.txt;estimate;EconomicOperands;48
+C08.txt;excludes;Other;3
+C08.txt;existing;EconomicOperands;1
+C08.txt;expected;EconomicOperands;17
+C08.txt;exposure;EconomicOperands;384
+C08.txt;external;EconomicOperands;5
+C08.txt;included;EconomicOperands;28
+C08.txt;includes;EconomicOperands;2
+C08.txt;increase;MathematicalOperators;7
+C08.txt;intended;EconomicOperands;2
+C08.txt;interest;EconomicOperands;1
+C08.txt;internal;EconomicOperands;15
+C08.txt;maturity;EconomicOperands;14
+C08.txt;movement;EconomicOperands;4
+C08.txt;negative;MathematicalOperators;7
+C08.txt;obligors;EconomicOperands;27
+C08.txt;obtained;EconomicOperands;2
+C08.txt;original;EconomicOperands;15
+C08.txt;physical;EconomicOperands;5
+C08.txt;planning;EconomicOperands;1
+C08.txt;policies;EconomicOperands;4
+C08.txt;positive;EconomicOperands;7
+C08.txt;possible;Attributes;1
+C08.txt;previous;LogicalConnectors;14
+C08.txt;property;EconomicOperands;3
+C08.txt;provided;LogicalConnectors;5
+C08.txt;purposes;EconomicOperands;1
+C08.txt;received;EconomicOperands;2
+C08.txt;regional;EconomicOperands;1
+C08.txt;relevant;Attributes;13
+C08.txt;reported;EconomicOperands;91
+C08.txt;selected;EconomicOperands;3
+C08.txt;sentence;Other;3
+C08.txt;separate;EconomicOperands;1
+C08.txt;services;EconomicOperands;1
+C08.txt;specific;FunctionWords;11
+C08.txt;standard;EconomicOperands;5
+C08.txt;weighted;MathematicalOperators;109
+C08.txt;class c;EconomicOperands;1
+C08.txt;even if;LogicalConnectors;1
+C08.txt;in case;LogicalConnectors;4
+C08.txt;in that;LogicalConnectors;2
+C08.txt;that is;LogicalConnectors;2
+C08.txt;account;EconomicOperands;27
+C08.txt;address;EconomicOperands;1
+C08.txt;advance;EconomicOperands;1
+C08.txt;already;Attributes;1
+C08.txt;altered;EconomicOperands;1
+C08.txt;amounts;EconomicOperands;27
+C08.txt;applied;EconomicOperands;3
+C08.txt;applies;FunctionWords;4
+C08.txt;arising;EconomicOperands;11
+C08.txt;article;EconomicOperands;137
+C08.txt;average;MathematicalOperators;53
+C08.txt;balance;EconomicOperands;2
+C08.txt;between;FunctionWords;8
+C08.txt;capture;EconomicOperands;1
+C08.txt;central;EconomicOperands;6
+C08.txt;certain;FunctionWords;1
+C08.txt;changes;EconomicOperands;16
+C08.txt;chapter;Other;11
+C08.txt;classes;EconomicOperands;11
+C08.txt;contact;EconomicOperands;1
+C08.txt;context;Other;1
+C08.txt;covered;EconomicOperands;2
+C08.txt;current;FunctionWords;7
+C08.txt;default;EconomicOperands;31
+C08.txt;defined;EconomicOperands;12
+C08.txt;deliver;EconomicOperands;24
+C08.txt;deposit;EconomicOperands;5
+C08.txt;derived;EconomicOperands;2
+C08.txt;element;EconomicOperands;3
+C08.txt;exclude;EconomicOperands;1
+C08.txt;explain;EconomicOperands;1
+C08.txt;factors;EconomicOperands;57
+C08.txt;finance;EconomicOperands;4
+C08.txt;foreign;EconomicOperands;1
+C08.txt;general;FunctionWords;9
+C08.txt;granted;LogicalConnectors;1
+C08.txt;include;EconomicOperands;7
+C08.txt;issuing;EconomicOperands;1
+C08.txt;leasing;EconomicOperands;2
+C08.txt;lending;EconomicOperands;21
+C08.txt;minimum;MathematicalOperators;1
+C08.txt;neither;LogicalConnectors;2
+C08.txt;netting;EconomicOperands;20
+C08.txt;network;EconomicOperands;1
+C08.txt;obligor;EconomicOperands;43
+C08.txt;operate;EconomicOperands;1
+C08.txt;ordered;EconomicOperands;2
+C08.txt;partial;EconomicOperands;5
+C08.txt;pledged;EconomicOperands;1
+C08.txt;product;EconomicOperands;6
+C08.txt;project;EconomicOperands;1
+C08.txt;provide;EconomicOperands;2
+C08.txt;qualify;EconomicOperands;1
+C08.txt;quality;EconomicOperands;4
+C08.txt;quarter;Attributes;2
+C08.txt;reduced;EconomicOperands;3
+C08.txt;related;FunctionWords;1
+C08.txt;request;EconomicOperands;2
+C08.txt;respond;EconomicOperands;7
+C08.txt;secured;EconomicOperands;11
+C08.txt;similar;LogicalConnectors;1
+C08.txt;special;EconomicOperands;13
+C08.txt;support;EconomicOperands;1
+C08.txt;systems;EconomicOperands;1
+C08.txt;testing;EconomicOperands;5
+C08.txt;trading;EconomicOperands;2
+C08.txt;treated;EconomicOperands;3
+C08.txt;updates;EconomicOperands;3
+C08.txt;without;FunctionWords;7
+C08.txt;as for;LogicalConnectors;1
+C08.txt;due to;LogicalConnectors;29
+C08.txt;if not;LogicalConnectors;1
+C08.txt;such a;LogicalConnectors;1
+C08.txt;actual;EconomicOperands;2
+C08.txt;adjust;EconomicOperands;4
+C08.txt;agreed;EconomicOperands;3
+C08.txt;amount;EconomicOperands;83
+C08.txt;annual;EconomicOperands;4
+C08.txt;assets;EconomicOperands;3
+C08.txt;before;LogicalConnectors;5
+C08.txt;cannot;RegulatoryOperators;1
+C08.txt;change;EconomicOperands;7
+C08.txt;chosen;EconomicOperands;1
+C08.txt;comply;RegulatoryOperators;1
+C08.txt;credit;EconomicOperands;27
+C08.txt;during;FunctionWords;7
+C08.txt;effect;EconomicOperands;29
+C08.txt;ensure;RegulatoryOperators;1
+C08.txt;equity;EconomicOperands;3
+C08.txt;estate;EconomicOperands;17
+C08.txt;exceed;MathematicalOperators;1
+C08.txt;except;LogicalConnectors;2
+C08.txt;factor;EconomicOperands;24
+C08.txt;filled;EconomicOperands;3
+C08.txt;follow;EconomicOperands;1
+C08.txt;funded;EconomicOperands;29
+C08.txt;higher;LogicalConnectors;5
+C08.txt;impact;EconomicOperands;2
+C08.txt;income;EconomicOperands;1
+C08.txt;issued;EconomicOperands;2
+C08.txt;linked;EconomicOperands;2
+C08.txt;longer;LogicalConnectors;1
+C08.txt;margin;EconomicOperands;1
+C08.txt;market;EconomicOperands;5
+C08.txt;master;EconomicOperands;3
+C08.txt;merged;EconomicOperands;1
+C08.txt;method;EconomicOperands;1
+C08.txt;models;EconomicOperands;5
+C08.txt;number;EconomicOperands;20
+C08.txt;object;EconomicOperands;1
+C08.txt;period;EconomicOperands;27
+C08.txt;points;EconomicOperands;7
+C08.txt;policy;EconomicOperands;3
+C08.txt;pooled;EconomicOperands;1
+C08.txt;proper;EconomicOperands;1
+C08.txt;public;EconomicOperands;2
+C08.txt;rating;EconomicOperands;19
+C08.txt;recent;EconomicOperands;1
+C08.txt;reduce;EconomicOperands;2
+C08.txt;refers;EconomicOperands;1
+C08.txt;report;EconomicOperands;16
+C08.txt;result;EconomicOperands;2
+C08.txt;retail;EconomicOperands;17
+C08.txt;second;LogicalConnectors;4
+C08.txt;sector;EconomicOperands;22
+C08.txt;served;EconomicOperands;4
+C08.txt;should;RegulatoryOperators;2
+C08.txt;simple;EconomicOperands;2
+C08.txt;taking;EconomicOperands;10
+C08.txt;unique;EconomicOperands;2
+C08.txt;within;LogicalConnectors;4
+C08.txt;501 a;Other;6
+C08.txt;after;LogicalConnectors;23
+C08.txt;apply;Other;4
+C08.txt;asset;EconomicOperands;6
+C08.txt;basis;Other;1
+C08.txt;below;FunctionWords;1
+C08.txt;class;EconomicOperands;23
+C08.txt;count;EconomicOperands;6
+C08.txt;cover;EconomicOperands;1
+C08.txt;cross;EconomicOperands;6
+C08.txt;drawn;EconomicOperands;1
+C08.txt;event;EconomicOperands;1
+C08.txt;final;EconomicOperands;1
+C08.txt;first;Attributes;2
+C08.txt;fixed;EconomicOperands;11
+C08.txt;floor;EconomicOperands;2
+C08.txt;fully;EconomicOperands;1
+C08.txt;funds;EconomicOperands;1
+C08.txt;given;FunctionWords;1
+C08.txt;grade;EconomicOperands;52
+C08.txt;joint;EconomicOperands;2
+C08.txt;large;EconomicOperands;21
+C08.txt;legal;EconomicOperands;2
+C08.txt;level;EconomicOperands;3
+C08.txt;loans;EconomicOperands;3
+C08.txt;local;EconomicOperands;1
+C08.txt;lower;EconomicOperands;1
+C08.txt;model;EconomicOperands;8
+C08.txt;order;EconomicOperands;2
+C08.txt;other;LogicalConnectors;37
+C08.txt;point;EconomicOperands;27
+C08.txt;prior;EconomicOperands;4
+C08.txt;range;EconomicOperands;23
+C08.txt;rated;EconomicOperands;2
+C08.txt;ratio;LogicalConnectors;3
+C08.txt;scale;EconomicOperands;21
+C08.txt;scope;EconomicOperands;5
+C08.txt;shall;RegulatoryOperators;184
+C08.txt;table;Other;2
+C08.txt;taken;Other;16
+C08.txt;their;FunctionWords;9
+C08.txt;these;FunctionWords;7
+C08.txt;those;FunctionWords;8
+C08.txt;total;MathematicalOperators;59
+C08.txt;treat;EconomicOperands;2
+C08.txt;under;FunctionWords;16
+C08.txt;using;EconomicOperands;3
+C08.txt;value;EconomicOperands;98
+C08.txt;weigh;MathematicalOperators;19
+C08.txt;where;LogicalConnectors;36
+C08.txt;which;FunctionWords;71
+C08.txt;years;EconomicOperands;17
+C08.txt;10 c;Other;2
+C08.txt;13 c;Other;1
+C08.txt;78 c;Other;1
 C08.txt;1995;Attributes;1
-C08.txt;DAYS;Attributes;5
-C08.txt;ABLE;EconomicOperands;9
-C08.txt;BACK;EconomicOperands;5
-C08.txt;BEST;EconomicOperands;2
-C08.txt;BOOK;EconomicOperands;5
-C08.txt;CASH;EconomicOperands;7
-C08.txt;DATA;EconomicOperands;5
-C08.txt;DATE;EconomicOperands;5
-C08.txt;FALL;EconomicOperands;1
-C08.txt;FEES;EconomicOperands;1
-C08.txt;FLOW;EconomicOperands;3
-C08.txt;FREE;EconomicOperands;24
-C08.txt;FULL;EconomicOperands;1
-C08.txt;HELD;EconomicOperands;6
-C08.txt;HIGH;EconomicOperands;1
-C08.txt;LAST;EconomicOperands;3
-C08.txt;LATE;EconomicOperands;29
-C08.txt;LIFE;EconomicOperands;4
-C08.txt;LONG;EconomicOperands;7
-C08.txt;LOSS;EconomicOperands;17
-C08.txt;MAIN;EconomicOperands;1
-C08.txt;MARK;EconomicOperands;5
-C08.txt;MEET;EconomicOperands;2
-C08.txt;PLAN;EconomicOperands;5
-C08.txt;POOL;EconomicOperands;19
-C08.txt;POST;EconomicOperands;11
-C08.txt;RATE;EconomicOperands;10
-C08.txt;REAL;EconomicOperands;19
-C08.txt;RING;EconomicOperands;1
-C08.txt;RISK;EconomicOperands;106
-C08.txt;SIZE;EconomicOperands;6
-C08.txt;TIME;EconomicOperands;1
-C08.txt;TYPE;EconomicOperands;1
-C08.txt;USED;EconomicOperands;48
-C08.txt;USES;EconomicOperands;2
-C08.txt;YEAR;EconomicOperands;18
-C08.txt;DOWN;FunctionWords;10
-C08.txt;FROM;FunctionWords;35
-C08.txt;HAVE;FunctionWords;5
-C08.txt;INTO;FunctionWords;28
-C08.txt;MADE;FunctionWords;4
-C08.txt;MOST;FunctionWords;1
-C08.txt;MUST;FunctionWords;1
-C08.txt;ONCE;FunctionWords;2
-C08.txt;ONE-;FunctionWords;5
-C08.txt;PART;FunctionWords;16
-C08.txt;SAME;FunctionWords;9
-C08.txt;TAKE;FunctionWords;1
-C08.txt;THAN;FunctionWords;1
-C08.txt;THAT;FunctionWords;30
-C08.txt;THEY;FunctionWords;4
-C08.txt;THIS;FunctionWords;38
-C08.txt;WERE;FunctionWords;2
-C08.txt;WILL;FunctionWords;1
-C08.txt;WITH;FunctionWords;19
-C08.txt;501A;LegalReferences;8
-C08.txt;BOTH;LogicalConnectors;5
-C08.txt;EACH;LogicalConnectors;27
-C08.txt;WHEN;LogicalConnectors;2
-C08.txt;ALSO;LogicalConnectors;7
-C08.txt;ONLY;LogicalConnectors;10
-C08.txt;THEN;LogicalConnectors;2
-C08.txt;LESS;MathematicalOperators;1
-C08.txt;OVER;MathematicalOperators;3
-C08.txt;ITEM;Other;2
-C08.txt;RISE;Other;2
-C08.txt;SETS;Other;18
-C08.txt;100;Attributes;19
-C08.txt;150;Attributes;2
-C08.txt;AID;EconomicOperands;9
-C08.txt;CAP;EconomicOperands;2
-C08.txt;CRM;EconomicOperands;35
-C08.txt;EAD;EconomicOperands;2
-C08.txt;MAP;EconomicOperands;4
-C08.txt;NEW;EconomicOperands;3
-C08.txt;OUT;EconomicOperands;12
-C08.txt;SEC;EconomicOperands;1
-C08.txt;SUM;EconomicOperands;2
-C08.txt;USE;EconomicOperands;12
-C08.txt;ARE;FunctionWords;40
-C08.txt;ETC;FunctionWords;1
-C08.txt;FOR;FunctionWords;91
-C08.txt;HAD;FunctionWords;1
-C08.txt;HAS;FunctionWords;2
-C08.txt;HER;FunctionWords;3
-C08.txt;MAY;FunctionWords;4
-C08.txt;MET;FunctionWords;4
-C08.txt;OFF;FunctionWords;22
-C08.txt;ONE;FunctionWords;5
-C08.txt;OWN;FunctionWords;38
-C08.txt;SHE;FunctionWords;3
-C08.txt;THE;FunctionWords;508
-C08.txt;VIA;FunctionWords;1
-C08.txt;110;LegalReferences;2
+C08.txt;able;EconomicOperands;9
+C08.txt;also;LogicalConnectors;7
+C08.txt;back;EconomicOperands;5
+C08.txt;best;EconomicOperands;2
+C08.txt;book;EconomicOperands;5
+C08.txt;both;LogicalConnectors;5
+C08.txt;case;EconomicOperands;1
+C08.txt;cash;EconomicOperands;7
+C08.txt;data;EconomicOperands;5
+C08.txt;date;EconomicOperands;5
+C08.txt;days;Attributes;5
+C08.txt;deal;EconomicOperands;1
+C08.txt;down;FunctionWords;10
+C08.txt;each;LogicalConnectors;27
+C08.txt;fall;EconomicOperands;1
+C08.txt;fees;EconomicOperands;1
+C08.txt;flow;EconomicOperands;16
+C08.txt;free;EconomicOperands;24
+C08.txt;from;FunctionWords;35
+C08.txt;full;EconomicOperands;1
+C08.txt;have;FunctionWords;5
+C08.txt;held;EconomicOperands;6
+C08.txt;high;EconomicOperands;1
+C08.txt;into;FunctionWords;28
+C08.txt;item;Other;36
+C08.txt;last;EconomicOperands;3
+C08.txt;late;EconomicOperands;29
+C08.txt;life;EconomicOperands;4
+C08.txt;long;EconomicOperands;7
+C08.txt;loss;EconomicOperands;17
+C08.txt;made;FunctionWords;4
+C08.txt;main;EconomicOperands;1
+C08.txt;mark;EconomicOperands;5
+C08.txt;mean;Other;2
+C08.txt;meet;EconomicOperands;2
+C08.txt;most;FunctionWords;1
+C08.txt;must;FunctionWords;1
+C08.txt;note;EconomicOperands;1
+C08.txt;once;FunctionWords;2
+C08.txt;one-;FunctionWords;5
+C08.txt;only;LogicalConnectors;10
+C08.txt;over;MathematicalOperators;3
+C08.txt;part;FunctionWords;16
+C08.txt;plan;EconomicOperands;5
+C08.txt;pool;EconomicOperands;36
+C08.txt;post;EconomicOperands;11
+C08.txt;rate;EconomicOperands;10
+C08.txt;real;EconomicOperands;19
+C08.txt;ring;EconomicOperands;1
+C08.txt;rise;Other;2
+C08.txt;risk;EconomicOperands;106
+C08.txt;same;FunctionWords;9
+C08.txt;size;EconomicOperands;6
+C08.txt;take;FunctionWords;1
+C08.txt;than;FunctionWords;7
+C08.txt;that;FunctionWords;30
+C08.txt;then;LogicalConnectors;2
+C08.txt;they;FunctionWords;4
+C08.txt;this;FunctionWords;38
+C08.txt;time;EconomicOperands;1
+C08.txt;type;EconomicOperands;8
+C08.txt;used;EconomicOperands;48
+C08.txt;were;FunctionWords;2
+C08.txt;when;LogicalConnectors;2
+C08.txt;will;FunctionWords;1
+C08.txt;with;FunctionWords;19
+C08.txt;year;EconomicOperands;18
+C08.txt;1 a;Other;5
+C08.txt;2 a;Other;2
+C08.txt;3 a;Other;4
+C08.txt;4 a;Other;4
+C08.txt;5 a;Other;2
+C08.txt;6 a;Other;2
+C08.txt;9 a;Other;1
+C08.txt;2 c;Other;17
+C08.txt;3 c;Other;13
+C08.txt;4 c;Other;11
+C08.txt;4 l;Other;1
+C08.txt;5 c;Other;5
+C08.txt;5 i;Other;2
+C08.txt;6 c;Other;11
+C08.txt;a 1;Other;1
+C08.txt;b 2;Other;2
+C08.txt;b 3;Other;2
+C08.txt;b 4;Other;2
+C08.txt;b 6;Other;2
+C08.txt;d 1;Other;2
+C08.txt;d 4;Other;4
+C08.txt;e 1;Other;2
+C08.txt;f 1;Other;4
+C08.txt;100;Attributes;12
+C08.txt;110;LegalReferences;1
 C08.txt;115;LegalReferences;2
 C08.txt;140;LegalReferences;1
-C08.txt;153;LegalReferences;15
-C08.txt;154;LegalReferences;3
-C08.txt;202;LegalReferences;1
-C08.txt;204;LegalReferences;1
-C08.txt;212;LegalReferences;1
+C08.txt;150;Attributes;2
+C08.txt;153;LegalReferences;13
+C08.txt;154;LegalReferences;2
+C08.txt;180;Attributes;4
 C08.txt;217;LegalReferences;1
-C08.txt;301;LegalReferences;2
-C08.txt;303;LegalReferences;1
+C08.txt;301;LegalReferences;1
 C08.txt;321;LegalReferences;1
-C08.txt;324;LegalReferences;1
-C08.txt;501;LegalReferences;8
+C08.txt;501;LegalReferences;10
 C08.txt;701;LegalReferences;1
-C08.txt;APP;LegalReferences;1
-C08.txt;SEQ;LegalReferences;1
-C08.txt;ALL;LogicalConnectors;20
-C08.txt;ANY;LogicalConnectors;17
-C08.txt;AND;LogicalConnectors;202
-C08.txt;BUT;LogicalConnectors;5
-C08.txt;NON;LogicalConnectors;6
-C08.txt;NOR;LogicalConnectors;2
-C08.txt;NOT;LogicalConnectors;38
-C08.txt;END;Other;24
-C08.txt;SET;Other;1
-C08.txt;10;Attributes;12
-C08.txt;15;Attributes;5
-C08.txt;20;Attributes;8
-C08.txt;23;Attributes;4
-C08.txt;25;Attributes;3
-C08.txt;30;Attributes;4
-C08.txt;50;Attributes;2
-C08.txt;62;Attributes;2
-C08.txt;EC;EconomicOperands;8
-C08.txt;IT;EconomicOperands;30
-C08.txt;PE;EconomicOperands;3
-C08.txt;TR;EconomicOperands;2
-C08.txt;AN;FunctionWords;33
-C08.txt;AT;FunctionWords;42
-C08.txt;BE;FunctionWords;163
-C08.txt;BY;FunctionWords;53
-C08.txt;DO;FunctionWords;15
-C08.txt;IN;FunctionWords;219
-C08.txt;IS;FunctionWords;45
-C08.txt;OF;FunctionWords;410
-C08.txt;ON;FunctionWords;82
-C08.txt;TO;FunctionWords;149
+C08.txt;aid;EconomicOperands;9
+C08.txt;all;LogicalConnectors;20
+C08.txt;and;LogicalConnectors;180
+C08.txt;any;LogicalConnectors;17
+C08.txt;app;LegalReferences;4
+C08.txt;are;FunctionWords;40
+C08.txt;ass;Other;1
+C08.txt;but;LogicalConnectors;5
+C08.txt;crm;EconomicOperands;35
+C08.txt;ead;EconomicOperands;2
+C08.txt;end;Other;1
+C08.txt;etc;FunctionWords;1
+C08.txt;for;FunctionWords;91
+C08.txt;had;FunctionWords;1
+C08.txt;her;FunctionWords;3
+C08.txt;log;EconomicOperands;1
+C08.txt;map;EconomicOperands;3
+C08.txt;may;FunctionWords;4
+C08.txt;met;FunctionWords;4
+C08.txt;new;EconomicOperands;3
+C08.txt;non;LogicalConnectors;6
+C08.txt;nor;LogicalConnectors;2
+C08.txt;not;LogicalConnectors;38
+C08.txt;off;FunctionWords;22
+C08.txt;one;FunctionWords;5
+C08.txt;out;EconomicOperands;12
+C08.txt;own;FunctionWords;38
+C08.txt;pre;EconomicOperands;30
+C08.txt;sec;EconomicOperands;1
+C08.txt;seq;LegalReferences;1
+C08.txt;set;Other;19
+C08.txt;she;FunctionWords;3
+C08.txt;sum;EconomicOperands;2
+C08.txt;the;FunctionWords;451
+C08.txt;use;EconomicOperands;14
+C08.txt;via;FunctionWords;1
+C08.txt;10;Attributes;10
 C08.txt;11;LegalReferences;6
-C08.txt;13;LegalReferences;1
-C08.txt;14;LegalReferences;12
-C08.txt;16;LegalReferences;23
-C08.txt;17;LegalReferences;8
-C08.txt;18;LegalReferences;14
+C08.txt;14;LegalReferences;9
+C08.txt;15;Attributes;8
+C08.txt;16;LegalReferences;25
+C08.txt;17;LegalReferences;7
+C08.txt;18;LegalReferences;10
 C08.txt;19;LegalReferences;8
+C08.txt;20;Attributes;10
 C08.txt;21;LegalReferences;9
-C08.txt;22;LegalReferences;8
-C08.txt;24;LegalReferences;2
+C08.txt;22;LegalReferences;7
+C08.txt;23;Attributes;6
+C08.txt;25;Attributes;3
 C08.txt;29;LegalReferences;2
+C08.txt;30;Attributes;4
 C08.txt;38;LegalReferences;2
 C08.txt;41;LegalReferences;4
-C08.txt;42;LegalReferences;1
-C08.txt;44;LegalReferences;3
-C08.txt;53;LegalReferences;2
-C08.txt;5B;LegalReferences;1
+C08.txt;45;Attributes;2
+C08.txt;50;Attributes;2
+C08.txt;53;LegalReferences;1
 C08.txt;68;LegalReferences;2
-C08.txt;CC;LegalReferences;9
-C08.txt;II;LegalReferences;1
-C08.txt;IV;LegalReferences;12
-C08.txt;NO;LogicalConnectors;2
-C08.txt;AS;LogicalConnectors;50
-C08.txt;IF;LogicalConnectors;3
-C08.txt;OR;LogicalConnectors;90
-C08.txt;SO;LogicalConnectors;3
-C08.txt;1;Attributes;28
-C08.txt;2;Attributes;29
-C08.txt;3;Attributes;28
-C08.txt;4;Attributes;22
-C08.txt;5;Attributes;24
-C08.txt;6;Attributes;26
-C08.txt;7;Attributes;21
-C08.txt;8;Attributes;18
-C08.txt;9;Attributes;19
-C08.txt;A;FunctionWords;262
-C08.txt;I;FunctionWords;445
-C08.txt;B;LegalReferences;131
-C08.txt;C;LegalReferences;433
-C08.txt;D;LegalReferences;298
-C08.txt;E;LegalReferences;749
-C08.txt;F;LegalReferences;19
-C08.txt;H;LegalReferences;152
-C08.txt;K;LegalReferences;12
-C08.txt;L;LegalReferences;325
-C08.txt;M;LegalReferences;121
-C08.txt;N;LegalReferences;130
-C08.txt;O;LegalReferences;119
-C08.txt;P;LegalReferences;139
-C08.txt;R;LegalReferences;666
-C08.txt;T;LegalReferences;422
-C08.txt;U;LegalReferences;153
-C08.txt;V;LegalReferences;16
-C08.txt;X;LegalReferences;3
-C08.txt;Y;LegalReferences;5
+C08.txt;78;Other;2
+C08.txt;90;Attributes;1
+C08.txt;an;FunctionWords;33
+C08.txt;as;LogicalConnectors;51
+C08.txt;at;FunctionWords;38
+C08.txt;be;FunctionWords;161
+C08.txt;by;FunctionWords;53
+C08.txt;cc;LegalReferences;8
+C08.txt;do;FunctionWords;15
+C08.txt;ec;EconomicOperands;8
+C08.txt;et;Other;14
+C08.txt;if;LogicalConnectors;3
+C08.txt;ii;LegalReferences;1
+C08.txt;in;FunctionWords;218
+C08.txt;is;FunctionWords;44
+C08.txt;it;EconomicOperands;30
+C08.txt;iv;LegalReferences;12
+C08.txt;le;MathematicalOperators;20
+C08.txt;no;LogicalConnectors;2
+C08.txt;of;FunctionWords;372
+C08.txt;on;FunctionWords;78
+C08.txt;or;LogicalConnectors;93
+C08.txt;so;LogicalConnectors;3
+C08.txt;to;FunctionWords;145
+C08.txt;tr;EconomicOperands;2
+C08.txt;1;Attributes;30
+C08.txt;2;Attributes;20
+C08.txt;3;Attributes;14
+C08.txt;4;Attributes;13
+C08.txt;5;Attributes;15
+C08.txt;6;Attributes;11
+C08.txt;7;Attributes;19
+C08.txt;8;Attributes;15
+C08.txt;9;Attributes;17
+C08.txt;a;FunctionWords;130
+C08.txt;b;LegalReferences;123
+C08.txt;c;LegalReferences;230
+C08.txt;d;LegalReferences;207
+C08.txt;e;LegalReferences;321
+C08.txt;f;LegalReferences;19
+C08.txt;h;LegalReferences;26
+C08.txt;i;FunctionWords;174
+C08.txt;k;LegalReferences;12
+C08.txt;l;LegalReferences;173
+C08.txt;m;LegalReferences;122
+C08.txt;n;LegalReferences;149
+C08.txt;o;LegalReferences;113
+C08.txt;p;LegalReferences;109
+C08.txt;r;LegalReferences;492
+C08.txt;t;LegalReferences;160
+C08.txt;u;LegalReferences;147
+C08.txt;v;LegalReferences;13
+C08.txt;x;LegalReferences;3
+C08.txt;y;LegalReferences;5

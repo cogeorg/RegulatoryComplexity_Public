@@ -1,0 +1,850 @@
+C01-05.txt;systemically important;EconomicOperands;4
+C01-05.txt;the extent to which;LogicalConnectors;1
+C01-05.txt;accounting standard;EconomicOperands;19
+C01-05.txt;capital requirement;EconomicOperands;10
+C01-05.txt;to the extent that;LogicalConnectors;1
+C01-05.txt;in accordance with;LogicalConnectors;45
+C01-05.txt;credit enhancement;EconomicOperands;1
+C01-05.txt;retained earnings;EconomicOperands;9
+C01-05.txt;the same meaning;LogicalConnectors;4
+C01-05.txt;foreign exchange;EconomicOperands;9
+C01-05.txt;operational risk;EconomicOperands;2
+C01-05.txt;for the purpose;FunctionWords;8
+C01-05.txt;associated with;FunctionWords;8
+C01-05.txt;attributable to;FunctionWords;8
+C01-05.txt;countercyclical;EconomicOperands;2
+C01-05.txt;as a result of;LogicalConnectors;3
+C01-05.txt;in the case of;LogicalConnectors;1
+C01-05.txt;in addition to;LogicalConnectors;1
+C01-05.txt;in relation to;LogicalConnectors;36
+C01-05.txt;with regard to;LogicalConnectors;1
+C01-05.txt;classification;EconomicOperands;1
+C01-05.txt;counterparties;EconomicOperands;2
+C01-05.txt;grandfathering;FunctionWords;3
+C01-05.txt;paragraph 2 a;LegalReferences;4
+C01-05.txt;the amount of;MathematicalOperators;35
+C01-05.txt;to the extent;LogicalConnectors;3
+C01-05.txt;balance sheet;EconomicOperands;5
+C01-05.txt;capital level;EconomicOperands;2
+C01-05.txt;interest rate;EconomicOperands;2
+C01-05.txt;systemic risk;EconomicOperands;5
+C01-05.txt;comprehensive;EconomicOperands;3
+C01-05.txt;consolidation;EconomicOperands;8
+C01-05.txt;contractually;EconomicOperands;2
+C01-05.txt;contributions;EconomicOperands;2
+C01-05.txt;corresponding;EconomicOperands;1
+C01-05.txt;grandfathered;EconomicOperands;30
+C01-05.txt;international;EconomicOperands;2
+C01-05.txt;methodologies;EconomicOperands;1
+C01-05.txt;profitability;EconomicOperands;37
+C01-05.txt;by virtue of;FunctionWords;1
+C01-05.txt;central bank;EconomicOperands;6
+C01-05.txt;greater than;LogicalConnectors;4
+C01-05.txt;additionally;LogicalConnectors;4
+C01-05.txt;alternatives;EconomicOperands;2
+C01-05.txt;arrangements;EconomicOperands;7
+C01-05.txt;communicated;EconomicOperands;13
+C01-05.txt;consolidated;EconomicOperands;17
+C01-05.txt;constituting;LogicalConnectors;3
+C01-05.txt;counterparty;EconomicOperands;2
+C01-05.txt;implementing;RegulatoryOperators;2
+C01-05.txt;institutions;EconomicOperands;49
+C01-05.txt;insufficient;Attributes;3
+C01-05.txt;multilateral;EconomicOperands;2
+C01-05.txt;requirements;EconomicOperands;48
+C01-05.txt;respectively;LogicalConnectors;2
+C01-05.txt;subordinated;EconomicOperands;2
+C01-05.txt;subsidiaries;EconomicOperands;24
+C01-05.txt;transitional;FunctionWords;75
+C01-05.txt;underwriting;EconomicOperands;6
+C01-05.txt;assigned to;EconomicOperands;4
+C01-05.txt;compared to;LogicalConnectors;1
+C01-05.txt;credit risk;EconomicOperands;28
+C01-05.txt;for example;LogicalConnectors;1
+C01-05.txt;pursuant to;FunctionWords;7
+C01-05.txt;referred to;FunctionWords;26
+C01-05.txt;relating to;FunctionWords;9
+C01-05.txt;relevant to;LogicalConnectors;1
+C01-05.txt;stress test;EconomicOperands;1
+C01-05.txt;accumulated;EconomicOperands;3
+C01-05.txt;adjustments;EconomicOperands;88
+C01-05.txt;alternative;EconomicOperands;19
+C01-05.txt;application;EconomicOperands;16
+C01-05.txt;authorities;EconomicOperands;10
+C01-05.txt;calculating;EconomicOperands;15
+C01-05.txt;calculation;EconomicOperands;13
+C01-05.txt;commodities;EconomicOperands;7
+C01-05.txt;consequence;EconomicOperands;6
+C01-05.txt;considering;LogicalConnectors;2
+C01-05.txt;constituent;EconomicOperands;1
+C01-05.txt;contractual;EconomicOperands;4
+C01-05.txt;cooperative;EconomicOperands;1
+C01-05.txt;determining;EconomicOperands;1
+C01-05.txt;development;EconomicOperands;2
+C01-05.txt;eligibility;EconomicOperands;10
+C01-05.txt;enforceable;Attributes;2
+C01-05.txt;exclusively;LogicalConnectors;6
+C01-05.txt;flexibility;EconomicOperands;3
+C01-05.txt;foreseeable;EconomicOperands;7
+C01-05.txt;governments;EconomicOperands;11
+C01-05.txt;immediately;Attributes;1
+C01-05.txt;information;EconomicOperands;10
+C01-05.txt;institution;EconomicOperands;168
+C01-05.txt;instruction;EconomicOperands;27
+C01-05.txt;instruments;EconomicOperands;239
+C01-05.txt;investments;EconomicOperands;12
+C01-05.txt;liabilities;EconomicOperands;43
+C01-05.txt;measurement;EconomicOperands;2
+C01-05.txt;obligations;EconomicOperands;15
+C01-05.txt;originators;EconomicOperands;1
+C01-05.txt;recognition;EconomicOperands;16
+C01-05.txt;requirement;EconomicOperands;13
+C01-05.txt;residential;EconomicOperands;1
+C01-05.txt;significant;Attributes;139
+C01-05.txt;supervisory;EconomicOperands;2
+C01-05.txt;transaction;EconomicOperands;1
+C01-05.txt;undertaking;EconomicOperands;6
+C01-05.txt;as follows;FunctionWords;10
+C01-05.txt;consist of;EconomicOperands;3
+C01-05.txt;later than;LogicalConnectors;18
+C01-05.txt;subject to;LogicalConnectors;42
+C01-05.txt;accounting;EconomicOperands;17
+C01-05.txt;additional;MathematicalOperators;64
+C01-05.txt;adjustment;EconomicOperands;6
+C01-05.txt;applicable;FunctionWords;44
+C01-05.txt;assessment;EconomicOperands;2
+C01-05.txt;assignment;EconomicOperands;3
+C01-05.txt;assistance;EconomicOperands;6
+C01-05.txt;associated;EconomicOperands;9
+C01-05.txt;calculated;EconomicOperands;11
+C01-05.txt;classified;EconomicOperands;6
+C01-05.txt;collateral;EconomicOperands;1
+C01-05.txt;commercial;EconomicOperands;2
+C01-05.txt;commission;EconomicOperands;3
+C01-05.txt;commitment;EconomicOperands;2
+C01-05.txt;concerning;LogicalConnectors;6
+C01-05.txt;conditions;EconomicOperands;19
+C01-05.txt;considered;EconomicOperands;1
+C01-05.txt;contingent;EconomicOperands;13
+C01-05.txt;conversion;EconomicOperands;10
+C01-05.txt;cumulative;EconomicOperands;2
+C01-05.txt;derivative;EconomicOperands;2
+C01-05.txt;determined;RegulatoryOperators;2
+C01-05.txt;difference;EconomicOperands;33
+C01-05.txt;equivalent;LogicalConnectors;2
+C01-05.txt;evaluation;EconomicOperands;7
+C01-05.txt;exceptions;LogicalConnectors;3
+C01-05.txt;explicitly;EconomicOperands;1
+C01-05.txt;guidelines;EconomicOperands;1
+C01-05.txt;identified;FunctionWords;3
+C01-05.txt;instrument;EconomicOperands;1
+C01-05.txt;investment;EconomicOperands;145
+C01-05.txt;management;EconomicOperands;1
+C01-05.txt;memorandum;LegalReferences;20
+C01-05.txt;multiplied;LogicalConnectors;6
+C01-05.txt;obligation;EconomicOperands;4
+C01-05.txt;offsetting;EconomicOperands;54
+C01-05.txt;particular;FunctionWords;7
+C01-05.txt;percentage;EconomicOperands;10
+C01-05.txt;performing;EconomicOperands;2
+C01-05.txt;procedures;EconomicOperands;1
+C01-05.txt;provisions;EconomicOperands;57
+C01-05.txt;prudential;EconomicOperands;20
+C01-05.txt;reciprocal;EconomicOperands;21
+C01-05.txt;references;EconomicOperands;21
+C01-05.txt;reflecting;EconomicOperands;1
+C01-05.txt;regulation;EconomicOperands;6
+C01-05.txt;regulatory;EconomicOperands;1
+C01-05.txt;represents;LogicalConnectors;1
+C01-05.txt;respective;EconomicOperands;9
+C01-05.txt;securities;EconomicOperands;6
+C01-05.txt;separately;EconomicOperands;4
+C01-05.txt;settlement;EconomicOperands;7
+C01-05.txt;short-term;EconomicOperands;2
+C01-05.txt;statements;EconomicOperands;3
+C01-05.txt;subsequent;FunctionWords;3
+C01-05.txt;supplement;EconomicOperands;1
+C01-05.txt;thresholds;EconomicOperands;3
+C01-05.txt;underlying;EconomicOperands;24
+C01-05.txt;according;LogicalConnectors;13
+C01-05.txt;accounted;EconomicOperands;2
+C01-05.txt;adjusting;EconomicOperands;1
+C01-05.txt;allocated;EconomicOperands;3
+C01-05.txt;authority;EconomicOperands;26
+C01-05.txt;available;EconomicOperands;2
+C01-05.txt;calculate;EconomicOperands;4
+C01-05.txt;commodity;EconomicOperands;1
+C01-05.txt;companies;EconomicOperands;2
+C01-05.txt;competent;EconomicOperands;28
+C01-05.txt;component;EconomicOperands;7
+C01-05.txt;considers;EconomicOperands;3
+C01-05.txt;corporate;EconomicOperands;16
+C01-05.txt;deduction;MathematicalOperators;72
+C01-05.txt;defaulted;EconomicOperands;6
+C01-05.txt;dependent;EconomicOperands;8
+C01-05.txt;determine;RegulatoryOperators;3
+C01-05.txt;different;FunctionWords;6
+C01-05.txt;directive;EconomicOperands;4
+C01-05.txt;disclosed;EconomicOperands;1
+C01-05.txt;dividends;EconomicOperands;2
+C01-05.txt;effective;Other;14
+C01-05.txt;emergency;EconomicOperands;4
+C01-05.txt;exceeding;LogicalConnectors;6
+C01-05.txt;exception;RegulatoryOperators;3
+C01-05.txt;excluding;LogicalConnectors;10
+C01-05.txt;exemption;RegulatoryOperators;2
+C01-05.txt;expressed;EconomicOperands;3
+C01-05.txt;financial;EconomicOperands;174
+C01-05.txt;following;FunctionWords;1
+C01-05.txt;framework;EconomicOperands;2
+C01-05.txt;fulfilled;EconomicOperands;2
+C01-05.txt;incentive;EconomicOperands;8
+C01-05.txt;including;LogicalConnectors;7
+C01-05.txt;inclusion;LogicalConnectors;7
+C01-05.txt;indicator;EconomicOperands;2
+C01-05.txt;influence;EconomicOperands;1
+C01-05.txt;insurance;EconomicOperands;5
+C01-05.txt;interests;EconomicOperands;12
+C01-05.txt;mandatory;RegulatoryOperators;2
+C01-05.txt;mortgages;EconomicOperands;2
+C01-05.txt;necessary;Attributes;2
+C01-05.txt;operation;EconomicOperands;6
+C01-05.txt;paragraph;LegalReferences;23
+C01-05.txt;permitted;RegulatoryOperators;36
+C01-05.txt;positions;EconomicOperands;100
+C01-05.txt;presented;EconomicOperands;2
+C01-05.txt;provision;EconomicOperands;4
+C01-05.txt;qualified;EconomicOperands;6
+C01-05.txt;reduction;EconomicOperands;7
+C01-05.txt;reference;EconomicOperands;1
+C01-05.txt;regarding;LogicalConnectors;1
+C01-05.txt;reporting;EconomicOperands;28
+C01-05.txt;represent;EconomicOperands;6
+C01-05.txt;requested;RegulatoryOperators;1
+C01-05.txt;resulting;EconomicOperands;4
+C01-05.txt;revolving;EconomicOperands;2
+C01-05.txt;similarly;LogicalConnectors;1
+C01-05.txt;situation;EconomicOperands;7
+C01-05.txt;specified;RegulatoryOperators;2
+C01-05.txt;standards;EconomicOperands;2
+C01-05.txt;statement;EconomicOperands;1
+C01-05.txt;synthetic;EconomicOperands;43
+C01-05.txt;technical;EconomicOperands;1
+C01-05.txt;temporary;EconomicOperands;48
+C01-05.txt;threshold;EconomicOperands;28
+C01-05.txt;valuation;EconomicOperands;10
+C01-05.txt;at least;LogicalConnectors;19
+C01-05.txt;based on;Other;15
+C01-05.txt;equal to;LogicalConnectors;5
+C01-05.txt;one year;Attributes;18
+C01-05.txt;title ii;LegalReferences;5
+C01-05.txt;title iv;LegalReferences;2
+C01-05.txt;absolute;MathematicalOperators;4
+C01-05.txt;accounts;EconomicOperands;14
+C01-05.txt;achieved;EconomicOperands;1
+C01-05.txt;advanced;EconomicOperands;4
+C01-05.txt;applying;EconomicOperands;4
+C01-05.txt;approach;EconomicOperands;29
+C01-05.txt;category;EconomicOperands;1
+C01-05.txt;combined;EconomicOperands;6
+C01-05.txt;complete;EconomicOperands;4
+C01-05.txt;consider;EconomicOperands;1
+C01-05.txt;contains;EconomicOperands;3
+C01-05.txt;contrary;Other;3
+C01-05.txt;coverage;EconomicOperands;2
+C01-05.txt;criteria;EconomicOperands;11
+C01-05.txt;decision;EconomicOperands;3
+C01-05.txt;deducted;MathematicalOperators;42
+C01-05.txt;deferred;EconomicOperands;77
+C01-05.txt;delegate;EconomicOperands;2
+C01-05.txt;delivery;EconomicOperands;7
+C01-05.txt;designed;EconomicOperands;9
+C01-05.txt;dilution;EconomicOperands;2
+C01-05.txt;directly;Attributes;18
+C01-05.txt;domestic;EconomicOperands;4
+C01-05.txt;eligible;EconomicOperands;62
+C01-05.txt;entities;EconomicOperands;156
+C01-05.txt;estimate;EconomicOperands;6
+C01-05.txt;exempted;RegulatoryOperators;1
+C01-05.txt;exercise;EconomicOperands;5
+C01-05.txt;existing;EconomicOperands;3
+C01-05.txt;expected;EconomicOperands;23
+C01-05.txt;exposure;EconomicOperands;127
+C01-05.txt;governed;EconomicOperands;2
+C01-05.txt;guidance;EconomicOperands;5
+C01-05.txt;included;EconomicOperands;77
+C01-05.txt;includes;EconomicOperands;5
+C01-05.txt;increase;MathematicalOperators;3
+C01-05.txt;indirect;EconomicOperands;50
+C01-05.txt;intended;EconomicOperands;2
+C01-05.txt;interest;EconomicOperands;2
+C01-05.txt;internal;EconomicOperands;7
+C01-05.txt;invested;EconomicOperands;6
+C01-05.txt;maturity;EconomicOperands;66
+C01-05.txt;measures;EconomicOperands;1
+C01-05.txt;minority;EconomicOperands;14
+C01-05.txt;modified;FunctionWords;2
+C01-05.txt;national;EconomicOperands;5
+C01-05.txt;negative;MathematicalOperators;5
+C01-05.txt;notified;EconomicOperands;1
+C01-05.txt;obtained;EconomicOperands;18
+C01-05.txt;original;EconomicOperands;6
+C01-05.txt;payments;EconomicOperands;3
+C01-05.txt;position;EconomicOperands;54
+C01-05.txt;positive;EconomicOperands;9
+C01-05.txt;possible;Attributes;3
+C01-05.txt;previous;LogicalConnectors;3
+C01-05.txt;property;EconomicOperands;4
+C01-05.txt;provided;LogicalConnectors;18
+C01-05.txt;provides;EconomicOperands;1
+C01-05.txt;purchase;EconomicOperands;15
+C01-05.txt;purposes;EconomicOperands;3
+C01-05.txt;question;EconomicOperands;2
+C01-05.txt;reducing;EconomicOperands;1
+C01-05.txt;reflects;EconomicOperands;7
+C01-05.txt;regional;EconomicOperands;4
+C01-05.txt;relation;EconomicOperands;2
+C01-05.txt;relevant;Attributes;6
+C01-05.txt;reported;EconomicOperands;137
+C01-05.txt;required;RegulatoryOperators;11
+C01-05.txt;residual;EconomicOperands;18
+C01-05.txt;restrict;RegulatoryOperators;2
+C01-05.txt;sentence;Other;2
+C01-05.txt;software;EconomicOperands;1
+C01-05.txt;solvency;EconomicOperands;3
+C01-05.txt;specific;FunctionWords;23
+C01-05.txt;standard;EconomicOperands;11
+C01-05.txt;stricter;EconomicOperands;15
+C01-05.txt;subtract;RegulatoryOperators;1
+C01-05.txt;tangible;EconomicOperands;20
+C01-05.txt;verified;EconomicOperands;2
+C01-05.txt;weighted;MathematicalOperators;22
+C01-05.txt;in case;LogicalConnectors;4
+C01-05.txt;only if;LogicalConnectors;3
+C01-05.txt;that is;LogicalConnectors;6
+C01-05.txt;ability;EconomicOperands;4
+C01-05.txt;account;EconomicOperands;6
+C01-05.txt;allowed;RegulatoryOperators;2
+C01-05.txt;already;Attributes;2
+C01-05.txt;amounts;EconomicOperands;40
+C01-05.txt;applied;EconomicOperands;7
+C01-05.txt;applies;FunctionWords;1
+C01-05.txt;arising;EconomicOperands;6
+C01-05.txt;article;EconomicOperands;720
+C01-05.txt;audited;EconomicOperands;5
+C01-05.txt;banking;EconomicOperands;4
+C01-05.txt;because;LogicalConnectors;1
+C01-05.txt;benefit;EconomicOperands;12
+C01-05.txt;between;FunctionWords;1
+C01-05.txt;brought;EconomicOperands;1
+C01-05.txt;capital;EconomicOperands;360
+C01-05.txt;capture;EconomicOperands;1
+C01-05.txt;central;EconomicOperands;8
+C01-05.txt;certain;FunctionWords;2
+C01-05.txt;changes;EconomicOperands;4
+C01-05.txt;chapter;Other;4
+C01-05.txt;charges;EconomicOperands;5
+C01-05.txt;classes;EconomicOperands;3
+C01-05.txt;collect;EconomicOperands;2
+C01-05.txt;consent;EconomicOperands;2
+C01-05.txt;consult;EconomicOperands;2
+C01-05.txt;contain;EconomicOperands;2
+C01-05.txt;council;EconomicOperands;1
+C01-05.txt;country;EconomicOperands;2
+C01-05.txt;covered;EconomicOperands;5
+C01-05.txt;created;EconomicOperands;1
+C01-05.txt;current;FunctionWords;3
+C01-05.txt;decides;EconomicOperands;2
+C01-05.txt;default;EconomicOperands;4
+C01-05.txt;deficit;EconomicOperands;12
+C01-05.txt;defined;EconomicOperands;30
+C01-05.txt;deliver;EconomicOperands;5
+C01-05.txt;derived;EconomicOperands;7
+C01-05.txt;dynamic;EconomicOperands;4
+C01-05.txt;element;EconomicOperands;13
+C01-05.txt;exceeds;LogicalConnectors;4
+C01-05.txt;factors;EconomicOperands;3
+C01-05.txt;formula;EconomicOperands;1
+C01-05.txt;forward;EconomicOperands;1
+C01-05.txt;general;FunctionWords;9
+C01-05.txt;holding;EconomicOperands;248
+C01-05.txt;imposed;EconomicOperands;1
+C01-05.txt;include;EconomicOperands;29
+C01-05.txt;initial;EconomicOperands;2
+C01-05.txt;interim;EconomicOperands;5
+C01-05.txt;legally;EconomicOperands;5
+C01-05.txt;lending;EconomicOperands;4
+C01-05.txt;located;EconomicOperands;4
+C01-05.txt;markets;EconomicOperands;1
+C01-05.txt;meaning;Other;1
+C01-05.txt;minimum;MathematicalOperators;2
+C01-05.txt;neither;LogicalConnectors;2
+C01-05.txt;netting;EconomicOperands;4
+C01-05.txt;outside;FunctionWords;7
+C01-05.txt;overall;LogicalConnectors;10
+C01-05.txt;payment;EconomicOperands;1
+C01-05.txt;pension;EconomicOperands;13
+C01-05.txt;periods;EconomicOperands;3
+C01-05.txt;persons;EconomicOperands;6
+C01-05.txt;premium;EconomicOperands;38
+C01-05.txt;present;FunctionWords;2
+C01-05.txt;process;EconomicOperands;1
+C01-05.txt;provide;EconomicOperands;3
+C01-05.txt;prudent;Attributes;4
+C01-05.txt;purpose;EconomicOperands;4
+C01-05.txt;qualify;EconomicOperands;23
+C01-05.txt;ratings;EconomicOperands;2
+C01-05.txt;receive;EconomicOperands;1
+C01-05.txt;reduced;EconomicOperands;2
+C01-05.txt;reduces;EconomicOperands;2
+C01-05.txt;reflect;EconomicOperands;6
+C01-05.txt;related;FunctionWords;47
+C01-05.txt;reports;EconomicOperands;1
+C01-05.txt;reserve;EconomicOperands;7
+C01-05.txt;respond;EconomicOperands;2
+C01-05.txt;section;LegalReferences;4
+C01-05.txt;secured;EconomicOperands;4
+C01-05.txt;set-off;EconomicOperands;4
+C01-05.txt;several;FunctionWords;1
+C01-05.txt;similar;LogicalConnectors;2
+C01-05.txt;special;EconomicOperands;8
+C01-05.txt;surplus;EconomicOperands;13
+C01-05.txt;through;FunctionWords;2
+C01-05.txt;trading;EconomicOperands;15
+C01-05.txt;treated;EconomicOperands;16
+C01-05.txt;vehicle;EconomicOperands;2
+C01-05.txt;version;EconomicOperands;1
+C01-05.txt;without;FunctionWords;25
+C01-05.txt;working;EconomicOperands;6
+C01-05.txt;due to;LogicalConnectors;57
+C01-05.txt;such a;LogicalConnectors;1
+C01-05.txt;tier 1;EconomicOperands;35
+C01-05.txt;actual;EconomicOperands;13
+C01-05.txt;adding;MathematicalOperators;2
+C01-05.txt;allows;RegulatoryOperators;19
+C01-05.txt;amount;EconomicOperands;183
+C01-05.txt;assets;EconomicOperands;88
+C01-05.txt;assign;EconomicOperands;4
+C01-05.txt;became;EconomicOperands;3
+C01-05.txt;before;LogicalConnectors;10
+C01-05.txt;beyond;FunctionWords;1
+C01-05.txt;bubble;EconomicOperands;2
+C01-05.txt;cannot;RegulatoryOperators;9
+C01-05.txt;charge;EconomicOperands;4
+C01-05.txt;claims;EconomicOperands;2
+C01-05.txt;common;FunctionWords;9
+C01-05.txt;comply;RegulatoryOperators;4
+C01-05.txt;credit;EconomicOperands;14
+C01-05.txt;deduct;LogicalConnectors;12
+C01-05.txt;deemed;RegulatoryOperators;2
+C01-05.txt;define;EconomicOperands;1
+C01-05.txt;detail;EconomicOperands;1
+C01-05.txt;direct;EconomicOperands;52
+C01-05.txt;effect;EconomicOperands;14
+C01-05.txt;either;LogicalConnectors;21
+C01-05.txt;entity;EconomicOperands;15
+C01-05.txt;equity;EconomicOperands;33
+C01-05.txt;estate;EconomicOperands;4
+C01-05.txt;europe;EconomicOperands;1
+C01-05.txt;exceed;MathematicalOperators;2
+C01-05.txt;excess;EconomicOperands;29
+C01-05.txt;factor;EconomicOperands;3
+C01-05.txt;former;EconomicOperands;1
+C01-05.txt;future;EconomicOperands;41
+C01-05.txt;global;EconomicOperands;2
+C01-05.txt;govern;EconomicOperands;1
+C01-05.txt;having;FunctionWords;3
+C01-05.txt;impact;EconomicOperands;6
+C01-05.txt;impair;EconomicOperands;3
+C01-05.txt;income;EconomicOperands;6
+C01-05.txt;issued;EconomicOperands;21
+C01-05.txt;latest;MathematicalOperators;1
+C01-05.txt;limits;RegulatoryOperators;4
+C01-05.txt;losses;EconomicOperands;30
+C01-05.txt;margin;EconomicOperands;1
+C01-05.txt;market;EconomicOperands;1
+C01-05.txt;member;EconomicOperands;5
+C01-05.txt;method;EconomicOperands;4
+C01-05.txt;models;EconomicOperands;5
+C01-05.txt;mutual;EconomicOperands;1
+C01-05.txt;needed;EconomicOperands;9
+C01-05.txt;parent;EconomicOperands;2
+C01-05.txt;period;EconomicOperands;5
+C01-05.txt;points;EconomicOperands;21
+C01-05.txt;powers;EconomicOperands;6
+C01-05.txt;profit;EconomicOperands;18
+C01-05.txt;public;EconomicOperands;6
+C01-05.txt;reason;EconomicOperands;1
+C01-05.txt;recent;EconomicOperands;1
+C01-05.txt;reduce;EconomicOperands;4
+C01-05.txt;report;EconomicOperands;18
+C01-05.txt;result;EconomicOperands;6
+C01-05.txt;retail;EconomicOperands;12
+C01-05.txt;review;EconomicOperands;1
+C01-05.txt;rights;EconomicOperands;1
+C01-05.txt;second;LogicalConnectors;2
+C01-05.txt;sector;EconomicOperands;170
+C01-05.txt;secure;EconomicOperands;2
+C01-05.txt;served;EconomicOperands;1
+C01-05.txt;solely;LogicalConnectors;3
+C01-05.txt;stable;EconomicOperands;1
+C01-05.txt;stated;EconomicOperands;2
+C01-05.txt;taking;EconomicOperands;4
+C01-05.txt;target;EconomicOperands;2
+C01-05.txt;traded;EconomicOperands;4
+C01-05.txt;voting;EconomicOperands;1
+C01-05.txt;waived;EconomicOperands;12
+C01-05.txt;waiver;RegulatoryOperators;1
+C01-05.txt;within;LogicalConnectors;5
+C01-05.txt;108 a;Other;1
+C01-05.txt;128 a;Other;4
+C01-05.txt;129 c;Other;1
+C01-05.txt;if so;LogicalConnectors;1
+C01-05.txt;about;FunctionWords;3
+C01-05.txt;above;FunctionWords;37
+C01-05.txt;after;LogicalConnectors;27
+C01-05.txt;arise;EconomicOperands;32
+C01-05.txt;aside;FunctionWords;1
+C01-05.txt;asset;EconomicOperands;4
+C01-05.txt;banks;EconomicOperands;2
+C01-05.txt;based;Other;2
+C01-05.txt;basic;EconomicOperands;2
+C01-05.txt;basis;Other;10
+C01-05.txt;carry;EconomicOperands;3
+C01-05.txt;could;FunctionWords;3
+C01-05.txt;cover;EconomicOperands;1
+C01-05.txt;cross;EconomicOperands;21
+C01-05.txt;deems;RegulatoryOperators;6
+C01-05.txt;fewer;MathematicalOperators;6
+C01-05.txt;final;EconomicOperands;6
+C01-05.txt;firms;EconomicOperands;11
+C01-05.txt;first;Attributes;1
+C01-05.txt;fixed;EconomicOperands;4
+C01-05.txt;fully;EconomicOperands;9
+C01-05.txt;funds;EconomicOperands;56
+C01-05.txt;given;FunctionWords;6
+C01-05.txt;gross;EconomicOperands;78
+C01-05.txt;group;EconomicOperands;6
+C01-05.txt;hedge;EconomicOperands;3
+C01-05.txt;index;EconomicOperands;6
+C01-05.txt;known;Other;1
+C01-05.txt;large;EconomicOperands;4
+C01-05.txt;legal;EconomicOperands;22
+C01-05.txt;level;EconomicOperands;11
+C01-05.txt;limit;RegulatoryOperators;16
+C01-05.txt;loans;EconomicOperands;2
+C01-05.txt;local;EconomicOperands;4
+C01-05.txt;lower;EconomicOperands;3
+C01-05.txt;might;FunctionWords;1
+C01-05.txt;minus;MathematicalOperators;2
+C01-05.txt;mixed;EconomicOperands;3
+C01-05.txt;occur;EconomicOperands;1
+C01-05.txt;other;LogicalConnectors;65
+C01-05.txt;owner;EconomicOperands;2
+C01-05.txt;point;EconomicOperands;313
+C01-05.txt;prior;EconomicOperands;9
+C01-05.txt;ratio;LogicalConnectors;47
+C01-05.txt;scope;EconomicOperands;7
+C01-05.txt;shall;RegulatoryOperators;190
+C01-05.txt;share;EconomicOperands;44
+C01-05.txt;short;EconomicOperands;110
+C01-05.txt;shown;EconomicOperands;1
+C01-05.txt;state;EconomicOperands;10
+C01-05.txt;taken;Other;2
+C01-05.txt;their;FunctionWords;4
+C01-05.txt;there;FunctionWords;12
+C01-05.txt;these;FunctionWords;3
+C01-05.txt;third;Attributes;6
+C01-05.txt;those;FunctionWords;20
+C01-05.txt;total;MathematicalOperators;64
+C01-05.txt;under;FunctionWords;40
+C01-05.txt;until;LogicalConnectors;2
+C01-05.txt;using;EconomicOperands;4
+C01-05.txt;value;EconomicOperands;17
+C01-05.txt;waive;RegulatoryOperators;6
+C01-05.txt;weigh;MathematicalOperators;37
+C01-05.txt;where;LogicalConnectors;165
+C01-05.txt;which;FunctionWords;115
+C01-05.txt;would;FunctionWords;3
+C01-05.txt;years;EconomicOperands;2
+C01-05.txt;12 a;Other;1
+C01-05.txt;10 a;Other;1
+C01-05.txt;13 a;Other;1
+C01-05.txt;25 a;Other;4
+C01-05.txt;4 th;Other;3
+C01-05.txt;53 a;Other;2
+C01-05.txt;78 c;Other;4
+C01-05.txt;2020;Attributes;1
+C01-05.txt;able;EconomicOperands;14
+C01-05.txt;also;LogicalConnectors;12
+C01-05.txt;back;EconomicOperands;3
+C01-05.txt;base;EconomicOperands;7
+C01-05.txt;been;FunctionWords;7
+C01-05.txt;bond;EconomicOperands;2
+C01-05.txt;book;EconomicOperands;15
+C01-05.txt;call;EconomicOperands;16
+C01-05.txt;case;EconomicOperands;5
+C01-05.txt;cash;EconomicOperands;3
+C01-05.txt;code;EconomicOperands;5
+C01-05.txt;date;EconomicOperands;64
+C01-05.txt;days;Attributes;7
+C01-05.txt;debt;EconomicOperands;6
+C01-05.txt;deem;RegulatoryOperators;8
+C01-05.txt;done;EconomicOperands;2
+C01-05.txt;down;FunctionWords;13
+C01-05.txt;each;LogicalConnectors;2
+C01-05.txt;fact;EconomicOperands;1
+C01-05.txt;fair;EconomicOperands;5
+C01-05.txt;fall;EconomicOperands;8
+C01-05.txt;flow;EconomicOperands;3
+C01-05.txt;form;EconomicOperands;12
+C01-05.txt;free;EconomicOperands;5
+C01-05.txt;from;FunctionWords;131
+C01-05.txt;fund;EconomicOperands;19
+C01-05.txt;gain;EconomicOperands;10
+C01-05.txt;good;EconomicOperands;19
+C01-05.txt;hand;EconomicOperands;1
+C01-05.txt;have;FunctionWords;72
+C01-05.txt;head;EconomicOperands;4
+C01-05.txt;held;EconomicOperands;18
+C01-05.txt;high;EconomicOperands;2
+C01-05.txt;into;FunctionWords;9
+C01-05.txt;item;Other;160
+C01-05.txt;late;EconomicOperands;72
+C01-05.txt;link;EconomicOperands;15
+C01-05.txt;long;EconomicOperands;22
+C01-05.txt;loss;EconomicOperands;16
+C01-05.txt;made;FunctionWords;16
+C01-05.txt;make;FunctionWords;1
+C01-05.txt;mean;Other;1
+C01-05.txt;meet;EconomicOperands;23
+C01-05.txt;more;LogicalConnectors;1
+C01-05.txt;most;FunctionWords;1
+C01-05.txt;note;EconomicOperands;7
+C01-05.txt;only;LogicalConnectors;30
+C01-05.txt;over;MathematicalOperators;23
+C01-05.txt;paid;EconomicOperands;9
+C01-05.txt;part;FunctionWords;26
+C01-05.txt;plan;EconomicOperands;2
+C01-05.txt;plus;FunctionWords;8
+C01-05.txt;post;EconomicOperands;1
+C01-05.txt;rate;EconomicOperands;1
+C01-05.txt;real;EconomicOperands;8
+C01-05.txt;rely;EconomicOperands;31
+C01-05.txt;ring;EconomicOperands;1
+C01-05.txt;rise;Other;2
+C01-05.txt;risk;EconomicOperands;129
+C01-05.txt;sale;EconomicOperands;1
+C01-05.txt;same;FunctionWords;38
+C01-05.txt;show;EconomicOperands;6
+C01-05.txt;sign;EconomicOperands;3
+C01-05.txt;stat;EconomicOperands;2
+C01-05.txt;such;FunctionWords;1
+C01-05.txt;take;FunctionWords;8
+C01-05.txt;than;FunctionWords;8
+C01-05.txt;that;FunctionWords;128
+C01-05.txt;then;LogicalConnectors;1
+C01-05.txt;they;FunctionWords;7
+C01-05.txt;this;FunctionWords;85
+C01-05.txt;thus;LogicalConnectors;11
+C01-05.txt;tier;EconomicOperands;15
+C01-05.txt;type;EconomicOperands;3
+C01-05.txt;upon;EconomicOperands;2
+C01-05.txt;used;EconomicOperands;12
+C01-05.txt;were;FunctionWords;6
+C01-05.txt;when;LogicalConnectors;16
+C01-05.txt;will;FunctionWords;19
+C01-05.txt;with;FunctionWords;31
+C01-05.txt;year;EconomicOperands;5
+C01-05.txt;1 a;Other;80
+C01-05.txt;2 a;Other;21
+C01-05.txt;3 a;Other;17
+C01-05.txt;4 a;Other;16
+C01-05.txt;5 a;Other;5
+C01-05.txt;6 a;Other;23
+C01-05.txt;8 a;Other;39
+C01-05.txt;9 a;Other;12
+C01-05.txt;2 c;Other;54
+C01-05.txt;3 c;Other;42
+C01-05.txt;4 c;Other;29
+C01-05.txt;4 i;Other;5
+C01-05.txt;5 c;Other;36
+C01-05.txt;5 i;Other;1
+C01-05.txt;6 c;Other;19
+C01-05.txt;9 b;Other;6
+C01-05.txt;a 1;Other;12
+C01-05.txt;a 2;Other;3
+C01-05.txt;a 4;Other;3
+C01-05.txt;d 1;Other;13
+C01-05.txt;d 4;Other;36
+C01-05.txt;e 1;Other;10
+C01-05.txt;f 1;Other;4
+C01-05.txt;f 2;Other;8
+C01-05.txt;g 1;Other;2
+C01-05.txt;100;Attributes;1
+C01-05.txt;104;LegalReferences;6
+C01-05.txt;109;LegalReferences;3
+C01-05.txt;113;LegalReferences;2
+C01-05.txt;115;LegalReferences;2
+C01-05.txt;120;LegalReferences;1
+C01-05.txt;125;Attributes;5
+C01-05.txt;129;LegalReferences;1
+C01-05.txt;140;LegalReferences;1
+C01-05.txt;153;LegalReferences;1
+C01-05.txt;154;LegalReferences;2
+C01-05.txt;220;LegalReferences;1
+C01-05.txt;321;LegalReferences;1
+C01-05.txt;521;LegalReferences;12
+C01-05.txt;701;LegalReferences;1
+C01-05.txt;921;LegalReferences;8
+C01-05.txt;952;LegalReferences;1
+C01-05.txt;aid;EconomicOperands;14
+C01-05.txt;all;LogicalConnectors;11
+C01-05.txt;and;LogicalConnectors;241
+C01-05.txt;any;LogicalConnectors;13
+C01-05.txt;app;LegalReferences;4
+C01-05.txt;are;FunctionWords;96
+C01-05.txt;ask;EconomicOperands;3
+C01-05.txt;ass;Other;1
+C01-05.txt;bad;EconomicOperands;1
+C01-05.txt;but;LogicalConnectors;7
+C01-05.txt;can;FunctionWords;23
+C01-05.txt;cap;EconomicOperands;8
+C01-05.txt;cro;EconomicOperands;3
+C01-05.txt;doe;EconomicOperands;67
+C01-05.txt;end;Other;4
+C01-05.txt;for;FunctionWords;115
+C01-05.txt;her;FunctionWords;6
+C01-05.txt;ifi;EconomicOperands;3
+C01-05.txt;iii;LegalReferences;3
+C01-05.txt;ill;EconomicOperands;10
+C01-05.txt;law;EconomicOperands;2
+C01-05.txt;may;FunctionWords;12
+C01-05.txt;met;FunctionWords;4
+C01-05.txt;net;EconomicOperands;26
+C01-05.txt;non;LogicalConnectors;20
+C01-05.txt;nor;LogicalConnectors;2
+C01-05.txt;not;LogicalConnectors;166
+C01-05.txt;one;FunctionWords;12
+C01-05.txt;own;FunctionWords;95
+C01-05.txt;per;FunctionWords;2
+C01-05.txt;pre;EconomicOperands;2
+C01-05.txt;put;Other;1
+C01-05.txt;rtc;Other;3
+C01-05.txt;sec;EconomicOperands;15
+C01-05.txt;set;Other;8
+C01-05.txt;she;FunctionWords;3
+C01-05.txt;sum;EconomicOperands;21
+C01-05.txt;tax;EconomicOperands;95
+C01-05.txt;ten;Attributes;2
+C01-05.txt;the;FunctionWords;1097
+C01-05.txt;tip;EconomicOperands;1
+C01-05.txt;two;Attributes;3
+C01-05.txt;use;EconomicOperands;3
+C01-05.txt;war;EconomicOperands;1
+C01-05.txt;way;EconomicOperands;1
+C01-05.txt;10;Attributes;10
+C01-05.txt;11;LegalReferences;28
+C01-05.txt;12;Attributes;44
+C01-05.txt;13;LegalReferences;14
+C01-05.txt;14;LegalReferences;9
+C01-05.txt;15;Attributes;22
+C01-05.txt;16;LegalReferences;7
+C01-05.txt;17;LegalReferences;3
+C01-05.txt;18;LegalReferences;2
+C01-05.txt;19;LegalReferences;3
+C01-05.txt;20;Attributes;10
+C01-05.txt;21;LegalReferences;4
+C01-05.txt;22;LegalReferences;4
+C01-05.txt;23;Attributes;5
+C01-05.txt;24;LegalReferences;7
+C01-05.txt;25;Attributes;25
+C01-05.txt;27;LegalReferences;22
+C01-05.txt;28;LegalReferences;4
+C01-05.txt;29;LegalReferences;3
+C01-05.txt;30;Attributes;10
+C01-05.txt;31;Attributes;11
+C01-05.txt;32;LegalReferences;5
+C01-05.txt;35;Attributes;2
+C01-05.txt;36;LegalReferences;49
+C01-05.txt;38;LegalReferences;17
+C01-05.txt;39;LegalReferences;4
+C01-05.txt;40;LegalReferences;4
+C01-05.txt;41;LegalReferences;34
+C01-05.txt;43;LegalReferences;2
+C01-05.txt;44;LegalReferences;6
+C01-05.txt;45;Attributes;22
+C01-05.txt;46;LegalReferences;14
+C01-05.txt;47;LegalReferences;42
+C01-05.txt;48;LegalReferences;64
+C01-05.txt;49;LegalReferences;34
+C01-05.txt;50;Attributes;9
+C01-05.txt;51;LegalReferences;10
+C01-05.txt;54;LegalReferences;1
+C01-05.txt;60;Attributes;13
+C01-05.txt;62;Attributes;6
+C01-05.txt;65;Attributes;8
+C01-05.txt;68;LegalReferences;6
+C01-05.txt;75;Attributes;1
+C01-05.txt;90;Attributes;1
+C01-05.txt;ab;Other;3
+C01-05.txt;an;FunctionWords;61
+C01-05.txt;as;LogicalConnectors;213
+C01-05.txt;at;FunctionWords;167
+C01-05.txt;be;FunctionWords;294
+C01-05.txt;by;FunctionWords;86
+C01-05.txt;cc;LegalReferences;4
+C01-05.txt;do;FunctionWords;35
+C01-05.txt;ec;EconomicOperands;18
+C01-05.txt;et;Other;155
+C01-05.txt;he;FunctionWords;3
+C01-05.txt;if;LogicalConnectors;37
+C01-05.txt;ii;LegalReferences;31
+C01-05.txt;in;FunctionWords;405
+C01-05.txt;is;FunctionWords;177
+C01-05.txt;it;EconomicOperands;53
+C01-05.txt;iv;LegalReferences;5
+C01-05.txt;le;MathematicalOperators;19
+C01-05.txt;no;LogicalConnectors;16
+C01-05.txt;of;FunctionWords;1129
+C01-05.txt;on;FunctionWords;171
+C01-05.txt;or;LogicalConnectors;179
+C01-05.txt;pe;EconomicOperands;4
+C01-05.txt;so;LogicalConnectors;3
+C01-05.txt;to;FunctionWords;354
+C01-05.txt;tr;EconomicOperands;6
+C01-05.txt;up;FunctionWords;28
+C01-05.txt;us;EconomicOperands;9
+C01-05.txt;vi;EconomicOperands;12
+C01-05.txt;1;Attributes;414
+C01-05.txt;2;Attributes;232
+C01-05.txt;3;Attributes;71
+C01-05.txt;4;Attributes;148
+C01-05.txt;5;Attributes;158
+C01-05.txt;6;Attributes;168
+C01-05.txt;7;Attributes;86
+C01-05.txt;8;Attributes;66
+C01-05.txt;9;Attributes;178
+C01-05.txt;a;FunctionWords;503
+C01-05.txt;b;LegalReferences;197
+C01-05.txt;c;LegalReferences;742
+C01-05.txt;d;LegalReferences;338
+C01-05.txt;e;LegalReferences;532
+C01-05.txt;f;LegalReferences;120
+C01-05.txt;h;LegalReferences;109
+C01-05.txt;i;FunctionWords;269
+C01-05.txt;j;LegalReferences;11
+C01-05.txt;k;LegalReferences;17
+C01-05.txt;l;LegalReferences;124
+C01-05.txt;m;LegalReferences;148
+C01-05.txt;n;LegalReferences;340
+C01-05.txt;o;LegalReferences;212
+C01-05.txt;p;LegalReferences;138
+C01-05.txt;q;LegalReferences;9
+C01-05.txt;r;LegalReferences;1453
+C01-05.txt;t;LegalReferences;350
+C01-05.txt;u;LegalReferences;151
+C01-05.txt;v;LegalReferences;25
+C01-05.txt;x;LegalReferences;17
+C01-05.txt;y;LegalReferences;37
+C01-05.txt;z;LegalReferences;8

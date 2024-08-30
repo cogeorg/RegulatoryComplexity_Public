@@ -1,0 +1,194 @@
+F14+41.txt;financial instrument;EconomicOperands;9
+F14+41.txt;in accordance with;LogicalConnectors;2
+F14+41.txt;financial asset;EconomicOperands;18
+F14+41.txt;trading account;EconomicOperands;1
+F14+41.txt;the amount of;MathematicalOperators;1
+F14+41.txt;comprehensive;EconomicOperands;2
+F14+41.txt;institutions;EconomicOperands;3
+F14+41.txt;credit risk;EconomicOperands;4
+F14+41.txt;accumulated;EconomicOperands;10
+F14+41.txt;derivatives;EconomicOperands;11
+F14+41.txt;information;EconomicOperands;2
+F14+41.txt;instruments;EconomicOperands;16
+F14+41.txt;liabilities;EconomicOperands;28
+F14+41.txt;measurement;EconomicOperands;2
+F14+41.txt;recognition;EconomicOperands;1
+F14+41.txt;accounting;EconomicOperands;23
+F14+41.txt;allocation;EconomicOperands;2
+F14+41.txt;applicable;FunctionWords;2
+F14+41.txt;derivative;EconomicOperands;5
+F14+41.txt;designated;RegulatoryOperators;11
+F14+41.txt;references;EconomicOperands;21
+F14+41.txt;securities;EconomicOperands;27
+F14+41.txt;according;LogicalConnectors;1
+F14+41.txt;contracts;EconomicOperands;3
+F14+41.txt;different;FunctionWords;2
+F14+41.txt;directive;EconomicOperands;17
+F14+41.txt;financial;EconomicOperands;21
+F14+41.txt;inclusion;LogicalConnectors;1
+F14+41.txt;portfolio;EconomicOperands;1
+F14+41.txt;positions;EconomicOperands;3
+F14+41.txt;reference;EconomicOperands;1
+F14+41.txt;reporting;EconomicOperands;1
+F14+41.txt;separated;EconomicOperands;1
+F14+41.txt;statement;EconomicOperands;2
+F14+41.txt;based on;Other;8
+F14+41.txt;advances;EconomicOperands;17
+F14+41.txt;appendix;EconomicOperands;4
+F14+41.txt;carrying;EconomicOperands;4
+F14+41.txt;continue;EconomicOperands;1
+F14+41.txt;deposits;EconomicOperands;10
+F14+41.txt;entirety;EconomicOperands;1
+F14+41.txt;measured;EconomicOperands;11
+F14+41.txt;national;EconomicOperands;21
+F14+41.txt;occasion;EconomicOperands;1
+F14+41.txt;provided;LogicalConnectors;1
+F14+41.txt;reported;EconomicOperands;4
+F14+41.txt;requires;RegulatoryOperators;1
+F14+41.txt;against;FunctionWords;1
+F14+41.txt;amounts;EconomicOperands;1
+F14+41.txt;article;EconomicOperands;4
+F14+41.txt;between;FunctionWords;2
+F14+41.txt;hedging;EconomicOperands;1
+F14+41.txt;include;EconomicOperands;5
+F14+41.txt;initial;EconomicOperands;1
+F14+41.txt;managed;EconomicOperands;5
+F14+41.txt;require;RegulatoryOperators;1
+F14+41.txt;through;FunctionWords;17
+F14+41.txt;trading;EconomicOperands;12
+F14+41.txt;as for;LogicalConnectors;1
+F14+41.txt;part i;LegalReferences;4
+F14+41.txt;amount;EconomicOperands;4
+F14+41.txt;assets;EconomicOperands;11
+F14+41.txt;before;LogicalConnectors;10
+F14+41.txt;change;EconomicOperands;18
+F14+41.txt;credit;EconomicOperands;1
+F14+41.txt;equity;EconomicOperands;13
+F14+41.txt;hybrid;EconomicOperands;5
+F14+41.txt;income;EconomicOperands;3
+F14+41.txt;issued;EconomicOperands;10
+F14+41.txt;levels;EconomicOperands;2
+F14+41.txt;losses;EconomicOperands;3
+F14+41.txt;method;EconomicOperands;2
+F14+41.txt;option;EconomicOperands;4
+F14+41.txt;period;EconomicOperands;10
+F14+41.txt;profit;EconomicOperands;16
+F14+41.txt;report;EconomicOperands;3
+F14+41.txt;based;Other;2
+F14+41.txt;basis;Other;2
+F14+41.txt;exist;EconomicOperands;1
+F14+41.txt;hedge;EconomicOperands;4
+F14+41.txt;level;EconomicOperands;73
+F14+41.txt;loans;EconomicOperands;17
+F14+41.txt;other;LogicalConnectors;13
+F14+41.txt;shall;RegulatoryOperators;11
+F14+41.txt;short;EconomicOperands;3
+F14+41.txt;taxes;EconomicOperands;10
+F14+41.txt;their;FunctionWords;2
+F14+41.txt;those;FunctionWords;1
+F14+41.txt;under;FunctionWords;4
+F14+41.txt;using;EconomicOperands;1
+F14+41.txt;value;EconomicOperands;75
+F14+41.txt;where;LogicalConnectors;4
+F14+41.txt;whole;FunctionWords;1
+F14+41.txt;also;LogicalConnectors;3
+F14+41.txt;cost;EconomicOperands;10
+F14+41.txt;date;EconomicOperands;2
+F14+41.txt;debt;EconomicOperands;27
+F14+41.txt;fair;EconomicOperands;74
+F14+41.txt;from;FunctionWords;3
+F14+41.txt;gain;EconomicOperands;3
+F14+41.txt;held;EconomicOperands;4
+F14+41.txt;late;EconomicOperands;4
+F14+41.txt;loss;EconomicOperands;16
+F14+41.txt;made;FunctionWords;1
+F14+41.txt;part;FunctionWords;136
+F14+41.txt;that;FunctionWords;2
+F14+41.txt;this;FunctionWords;4
+F14+41.txt;thus;LogicalConnectors;2
+F14+41.txt;1 a;Other;3
+F14+41.txt;2 a;Other;1
+F14+41.txt;3 a;Other;21
+F14+41.txt;4 a;Other;2
+F14+41.txt;6 a;Other;1
+F14+41.txt;9 a;Other;4
+F14+41.txt;4 i;Other;4
+F14+41.txt;5 i;Other;2
+F14+41.txt;a 4;Other;3
+F14+41.txt;a 6;Other;8
+F14+41.txt;b 6;Other;1
+F14+41.txt;g 1;Other;1
+F14+41.txt;301;LegalReferences;1
+F14+41.txt;ach;EconomicOperands;2
+F14+41.txt;aii;LegalReferences;4
+F14+41.txt;and;LogicalConnectors;22
+F14+41.txt;are;FunctionWords;2
+F14+41.txt;bad;EconomicOperands;13
+F14+41.txt;ecb;EconomicOperands;20
+F14+41.txt;for;FunctionWords;18
+F14+41.txt;ifi;EconomicOperands;1
+F14+41.txt;non;LogicalConnectors;13
+F14+41.txt;pre;EconomicOperands;1
+F14+41.txt;siv;EconomicOperands;1
+F14+41.txt;the;FunctionWords;31
+F14+41.txt;use;EconomicOperands;4
+F14+41.txt;11;LegalReferences;1
+F14+41.txt;12;Attributes;3
+F14+41.txt;13;LegalReferences;5
+F14+41.txt;14;LegalReferences;3
+F14+41.txt;17;LegalReferences;3
+F14+41.txt;18;LegalReferences;1
+F14+41.txt;19;LegalReferences;1
+F14+41.txt;25;Attributes;1
+F14+41.txt;27;LegalReferences;2
+F14+41.txt;28;LegalReferences;1
+F14+41.txt;29;LegalReferences;2
+F14+41.txt;30;Attributes;1
+F14+41.txt;32;LegalReferences;1
+F14+41.txt;35;Attributes;1
+F14+41.txt;36;LegalReferences;1
+F14+41.txt;41;LegalReferences;13
+F14+41.txt;aa;LegalReferences;21
+F14+41.txt;an;FunctionWords;116
+F14+41.txt;as;LogicalConnectors;17
+F14+41.txt;at;FunctionWords;48
+F14+41.txt;be;FunctionWords;4
+F14+41.txt;by;FunctionWords;2
+F14+41.txt;he;FunctionWords;1
+F14+41.txt;if;LogicalConnectors;153
+F14+41.txt;ii;LegalReferences;5
+F14+41.txt;in;FunctionWords;27
+F14+41.txt;is;FunctionWords;10
+F14+41.txt;it;EconomicOperands;1
+F14+41.txt;le;MathematicalOperators;8
+F14+41.txt;of;FunctionWords;18
+F14+41.txt;on;FunctionWords;4
+F14+41.txt;or;LogicalConnectors;30
+F14+41.txt;to;FunctionWords;5
+F14+41.txt;1;Attributes;35
+F14+41.txt;2;Attributes;54
+F14+41.txt;3;Attributes;64
+F14+41.txt;4;Attributes;5
+F14+41.txt;5;Attributes;5
+F14+41.txt;6;Attributes;10
+F14+41.txt;7;Attributes;17
+F14+41.txt;8;Attributes;23
+F14+41.txt;9;Attributes;32
+F14+41.txt;a;FunctionWords;68
+F14+41.txt;b;LegalReferences;33
+F14+41.txt;c;LegalReferences;32
+F14+41.txt;d;LegalReferences;10
+F14+41.txt;e;LegalReferences;199
+F14+41.txt;f;LegalReferences;19
+F14+41.txt;h;LegalReferences;40
+F14+41.txt;i;FunctionWords;52
+F14+41.txt;l;LegalReferences;11
+F14+41.txt;m;LegalReferences;27
+F14+41.txt;n;LegalReferences;185
+F14+41.txt;o;LegalReferences;9
+F14+41.txt;p;LegalReferences;33
+F14+41.txt;r;LegalReferences;225
+F14+41.txt;t;LegalReferences;31
+F14+41.txt;v;LegalReferences;120
+F14+41.txt;x;LegalReferences;143
+F14+41.txt;y;LegalReferences;21

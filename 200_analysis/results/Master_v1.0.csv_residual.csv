@@ -1,0 +1,2491 @@
+1/100TH;Attributes;1
+10 BUSINESS DAYS;Attributes;2
+10 DAYS;Attributes;8
+10 YEARS;Attributes;8
+12 MONTHS;Attributes;24
+120 DAYS;Attributes;6
+14 DAYS;Attributes;2
+15 DAYS;Attributes;6
+15 MONTHS;Attributes;3
+18 MONTHS;Attributes;23
+180 DAYS;Attributes;39
+1ST;Attributes;5
+2 MONTHS;Attributes;2
+2 YEARS;Attributes;28
+21 DAYS;Attributes;3
+24 HOURS;Attributes;6
+24 MONTHS;Attributes;7
+270 DAYS;Attributes;9
+28 DAYS;Attributes;1
+2ND;Attributes;4
+3 DAYS;Attributes;4
+30 DAYS;Attributes;54
+30 LEGISLATIVE DAYS;Attributes;1
+30 MONTHS;Attributes;6
+36 MONTHS;Attributes;2
+360 DAYS;Attributes;5
+365 DAYS;Attributes;1
+3RD;Attributes;3
+45 DAYS;Attributes;5
+4TH;Attributes;2
+5 YEARS;Attributes;33
+6 MONTHS;Attributes;27
+6 YEARS;Attributes;5
+60 DAYS;Attributes;36
+65 PERCENTAGE POINTS;Attributes;1
+6TH;Attributes;3
+7 YEARS;Attributes;1
+8 MONTHS;Attributes;1
+85 PERCENTAGE POINTS;Attributes;2
+9 MONTHS;Attributes;7
+90 CALENDAR DAYS;Attributes;1
+90 DAYS;Attributes;48
+WELLS;Attributes;1
+ABS;EconomicOperands;1
+ABUSES;EconomicOperands;2
+ACADEMICS;EconomicOperands;4
+ACCEPTANCES;EconomicOperands;5
+ACCEPTING BIDS;EconomicOperands;2
+ACCOMMODATIONS;EconomicOperands;1
+ACCOUNTANTS;EconomicOperands;5
+ACCOUNTING STANDARDS;EconomicOperands;6
+ACCRUALS;EconomicOperands;5
+ACCURATE TRADE RECONSTRUCTIONS;EconomicOperands;5
+ACT TRANSACTIONS;EconomicOperands;1
+ACTIVITIES CONDUCTED;EconomicOperands;7
+ACTORS;EconomicOperands;2
+ACTUAL DAMAGES;EconomicOperands;2
+ACTUAL DIRECT COMPENSATORY DAMAGES;EconomicOperands;4
+ADDRESSES;EconomicOperands;6
+ADJUSTABLE RATE MORTGAGES;EconomicOperands;2
+ADMINISTRATIVE EXPENSES OF THE RECEIVER;EconomicOperands;5
+ADMINISTRATORS;EconomicOperands;2
+ADVANTAGES;EconomicOperands;2
+ADVANTAGES AND DISADVANTAGES;EconomicOperands;1
+ADVERSE CIRCUMSTANCES;EconomicOperands;1
+ADVERSE EFFECTS;EconomicOperands;11
+ADVERTISEMENTS;EconomicOperands;4
+ADVOCATES;EconomicOperands;3
+AFFECTS;EconomicOperands;12
+AFFILIATE TRANSACTIONS;EconomicOperands;3
+AFFIRMATIONS;EconomicOperands;2
+AGENCY SECURITIES;EconomicOperands;1
+AGENCYS;EconomicOperands;8
+AIDS;EconomicOperands;3
+ALLEGATIONS;EconomicOperands;7
+ALLOCATIONS;EconomicOperands;1
+ALT-A LOANS;EconomicOperands;2
+ALTERNATIVE APPROACHES;EconomicOperands;2
+ANALYSTS;EconomicOperands;5
+DERIVATIVE MARKETS;EconomicOperands;2
+ANNOUNCEMENTS;EconomicOperands;1
+ANNUAL GROSS REVENUES DERIVED;EconomicOperands;2
+ANNUITIES;EconomicOperands;5
+ANSWER QUESTIONS;EconomicOperands;1
+ANTITRUST LAWS;EconomicOperands;4
+APPEARANCES;EconomicOperands;4
+APPOINTMENTS;EconomicOperands;2
+APPRAISERS;EconomicOperands;23
+APPROACHES;EconomicOperands;8
+APPROPRIATE CONGRESSIONAL COMMITTEES;EconomicOperands;9
+APPROPRIATED MONEYS;EconomicOperands;1
+ARCHIVIST OF THE UNITED STATES;EconomicOperands;1
+ARGUMENTS;EconomicOperands;1
+ARRANGERS;EconomicOperands;1
+ASPECTS;EconomicOperands;3
+ASSESS;EconomicOperands;20
+ASSESSES;EconomicOperands;1
+ASSET-BACKED SECURITIES;EconomicOperands;20
+ASSISTS;EconomicOperands;2
+ASSOCIATED PERSON OF A SECURITIES HOLDING COMPANY;EconomicOperands;1
+ASSOCIATES;EconomicOperands;1
+ASSUMPTIONS;EconomicOperands;8
+ASSURANCES;EconomicOperands;6
+ATTEMPTS;EconomicOperands;3
+ATTORNEYS;EconomicOperands;13
+AUDITED FINANCIAL STATEMENTS;EconomicOperands;6
+AUDITORS;EconomicOperands;2
+AUTO LOANS;EconomicOperands;1
+AUTOMATED TELLER MACHINES;EconomicOperands;3
+BACHELORS DEGREE;EconomicOperands;1
+BACKGROUNDS;EconomicOperands;1
+BALANCES MAINTAINED;EconomicOperands;1
+BALLOON LOANS;EconomicOperands;2
+BALLOON PAYMENTS;EconomicOperands;5
+BANK FOR INTERNATIONAL SETTLEMENTS;EconomicOperands;2
+BANK HOLDING COMPANIES;EconomicOperands;59
+BANKERS;EconomicOperands;4
+BANKERS BANK;EconomicOperands;1
+BANKERS BANKS;EconomicOperands;1
+BARRIERS;EconomicOperands;5
+BASES;EconomicOperands;2
+BEGINS;EconomicOperands;8
+BEHAVIORS;EconomicOperands;1
+BELIEVES;EconomicOperands;6
+BELIEVES AFFECTS;EconomicOperands;1
+BENEFICIARIES;EconomicOperands;1
+BENEFITS AND RISKS;EconomicOperands;2
+BIDS;EconomicOperands;2
+BLOCK TRADES;EconomicOperands;4
+BOARD OF GOVERNORS;EconomicOperands;529
+BODIES;EconomicOperands;5
+BONA FIDE DISCOUNT POINTS;EconomicOperands;8
+BONDS;EconomicOperands;3
+BONUSES;EconomicOperands;2
+BOOKS;EconomicOperands;31
+BORROWERS;EconomicOperands;32
+BRANCHES;EconomicOperands;23
+BREAKS;EconomicOperands;1
+BRIBES;EconomicOperands;1
+BROCHURES;EconomicOperands;1
+BROKER-DEALERS;EconomicOperands;3
+BROKERS;EconomicOperands;96
+BUBBLES;EconomicOperands;2
+BUDGETED EXPENDITURES;EconomicOperands;1
+BUDGETS;EconomicOperands;1
+BURDENS;EconomicOperands;4
+BUREAU OF LABOR STATISTICS;EconomicOperands;3
+BUSINESS ACTIVITIES;EconomicOperands;4
+BUYERS;EconomicOperands;2
+CALCULATIONS;EconomicOperands;1
+CALLS;EconomicOperands;3
+CAMPERS;EconomicOperands;1
+CANDIDATES;EconomicOperands;2
+CAPABILITIES;EconomicOperands;5
+CAPITAL LEVELS;EconomicOperands;4
+CAPITAL REQUIREMENTS;EconomicOperands;49
+CAPITAL STANDARDS;EconomicOperands;5
+CARRIERS;EconomicOperands;1
+CARRIES OUT;EconomicOperands;4
+CATEGORIES;EconomicOperands;20
+CAUSES;EconomicOperands;4
+CAUSES OF;EconomicOperands;3
+CEASES;EconomicOperands;4
+CENTERS;EconomicOperands;2
+CENTRAL BANKS;EconomicOperands;4
+CERTIFICATES;EconomicOperands;6
+CERTIFICATIONS;EconomicOperands;10
+CHAIRPERSONS;EconomicOperands;1
+CHALLENGES;EconomicOperands;3
+CHARACTERISTICS;EconomicOperands;12
+CHECKS;EconomicOperands;6
+CHOICES;EconomicOperands;3
+CITATIONS;EconomicOperands;1
+CITIES;EconomicOperands;1
+CITIZENS;EconomicOperands;2
+CIVILIANS;EconomicOperands;1
+CLASSIFICATIONS;EconomicOperands;3
+CLEARING REQUIREMENTS;EconomicOperands;6
+CLEARS;EconomicOperands;15
+CLERKS;EconomicOperands;1
+CLIENTS;EconomicOperands;14
+CLOSING RANGES;EconomicOperands;1
+COLLARS;EconomicOperands;1
+COLLATERAL REQUIREMENTS;EconomicOperands;3
+COLLATERALIZED DEBT OBLIGATIONS;EconomicOperands;3
+COLLECTORS;EconomicOperands;1
+COLLECTS;EconomicOperands;5
+COLLEGES;EconomicOperands;2
+COMBINES;EconomicOperands;1
+COMMERCIAL DEVELOPMENT OF OIL NATURAL GAS OR MINERALS;EconomicOperands;7
+COMMERCIAL FIRMS;EconomicOperands;2
+COMMISSIONERS;EconomicOperands;4
+COMMITMENTS;EconomicOperands;2
+COMMITTEE ON BANKING HOUSING AND URBAN AFFAIRS;EconomicOperands;98
+COMMITTEE ON FINANCIAL SERVICES;EconomicOperands;11
+COMMITTEE ON FINANCIAL SERVICES OF THE HOUSE;EconomicOperands;86
+COMMITTEE ON WAYS AND MEANS;EconomicOperands;2
+COMMITTEES ON AGRICULTURE;EconomicOperands;1
+COMMITTEES ON AGRICULTURE NUTRITION AND FORESTRY;EconomicOperands;1
+COMMITTEES ON FINANCIAL SERVICES AND WAYS AND MEANS;EconomicOperands;2
+COMMODITY FUTURES TRADING COMMISSION;EconomicOperands;155
+COMMONWEALTH OF THE NORTHERN MARIANA ISLANDS;EconomicOperands;2
+COMMUNICATIONS;EconomicOperands;7
+COMMUNITY BANKS;EconomicOperands;1
+COMPANYS;EconomicOperands;9
+COMPILATIONS;EconomicOperands;1
+COMPILATIONS STORED;EconomicOperands;1
+COMPONENTS;EconomicOperands;5
+COMPTROLLER GENERAL OF THE UNITED STATES;EconomicOperands;61
+COMPUTERS;EconomicOperands;1
+COMPUTING RESOURCES;EconomicOperands;1
+CONCENTRATIONS;EconomicOperands;4
+CONCLUDE PROCEEDINGS;EconomicOperands;1
+CONCLUSIONS;EconomicOperands;6
+CONDUCTS;EconomicOperands;12
+CONFLICTS;EconomicOperands;10
+CONFLICTS OF INTEREST;EconomicOperands;78
+CONNECTIONS;EconomicOperands;3
+CONSENTS;EconomicOperands;6
+CONSTRAINTS;EconomicOperands;1
+CONSUMER FINANCIAL PROTECTION FUNCTIONS;EconomicOperands;23
+CONSUMER PRICE INDEX FOR ALL URBAN CONSUMERS;EconomicOperands;1
+CONSUMER REPORTING AGENCY THAT COMPILES AND MAINTAINS FILES ON CONSUMERS ON A NATIONWIDE BASIS;EconomicOperands;1
+CONTRACTORS;EconomicOperands;5
+CONVERSION IMPLEMENTS;EconomicOperands;1
+CONVERSIONS;EconomicOperands;4
+CORE DEPOSITS;EconomicOperands;7
+CORE PRINCIPLES;EconomicOperands;31
+CORNERS;EconomicOperands;1
+CORPORATIONS;EconomicOperands;4
+COSTS OF;EconomicOperands;27
+COUNCIL OF INSPECTORS GENERAL;EconomicOperands;14
+COUNCILS;EconomicOperands;2
+COUNSELORS;EconomicOperands;6
+COUNTERPARTS;EconomicOperands;2
+COUNTRIES;EconomicOperands;13
+COUNTRYS;EconomicOperands;3
+COURSES;EconomicOperands;5
+COURT OF APPEALS;EconomicOperands;12
+CREDENTIALS;EconomicOperands;1
+CREDIT CARDS;EconomicOperands;5
+CREDIT DEFAULT SWAPS;EconomicOperands;2
+CREDIT ENHANCEMENTS;EconomicOperands;2
+CREDIT RATING AGENCIES;EconomicOperands;10
+CREDIT RATINGS;EconomicOperands;57
+CREDIT SCORES;EconomicOperands;4
+CREDIT UNIONS;EconomicOperands;11
+CULTURAL STYLES;EconomicOperands;1
+CURE DEFECTS;EconomicOperands;1
+CURRENCIES;EconomicOperands;10
+CUSTOMER NAME SECURITIES;EconomicOperands;9
+DAMAGES PROXIMATELY CAUSED;EconomicOperands;1
+DANGERS;EconomicOperands;1
+DATABASES;EconomicOperands;1
+DEALINGS;EconomicOperands;2
+DEALS;EconomicOperands;1
+DEBIT CARDS;EconomicOperands;6
+DEBTS;EconomicOperands;3
+DECISIONS;EconomicOperands;22
+DECLINES;EconomicOperands;1
+DEFENDANTS;EconomicOperands;2
+DEGREES;EconomicOperands;1
+DELETIONS;EconomicOperands;1
+DELIBERATIONS;EconomicOperands;2
+DEPARTMENTS;EconomicOperands;7
+DEPOSITORIES;EconomicOperands;1
+DEPOSITORS;EconomicOperands;4
+DEPOSITORY INSTITUTIONS;EconomicOperands;26
+DERIVATIVES CLEARING ORGANIZATION;EconomicOperands;172
+DERIVATIVES MARKETS;EconomicOperands;2
+DESCRIPTIONS;EconomicOperands;6
+DESIGNATING DOCUMENTS;EconomicOperands;1
+DESIRES;EconomicOperands;1
+DETAILS;EconomicOperands;11
+DETER ABUSES;EconomicOperands;2
+DEVELOPMENTS;EconomicOperands;10
+DIFFERENCES;EconomicOperands;15
+DIFFERENTIATIONS;EconomicOperands;2
+DIRECTIVES;EconomicOperands;4
+DIRECTOR OF THE PEACE CORPS;EconomicOperands;1
+DISADVANTAGES;EconomicOperands;1
+DISCIPLINES;EconomicOperands;1
+DISCUSS;EconomicOperands;3
+DISPARITIES;EconomicOperands;1
+DISPOSITIONS;EconomicOperands;1
+DISPUTANTS;EconomicOperands;2
+DISPUTES ARISING;EconomicOperands;2
+DISQUALIFYING FELONS;EconomicOperands;1
+DISRUPTIONS;EconomicOperands;5
+DISTRIBUTIONS;EconomicOperands;3
+DIVERSE BACKGROUNDS;EconomicOperands;2
+DIVISIONS;EconomicOperands;6
+DOLLARS;EconomicOperands;2
+DWELLINGS;EconomicOperands;2
+DYNAMICS;EconomicOperands;1
+ECONOMIES;EconomicOperands;1
+ECONOMISTS;EconomicOperands;2
+EDUCATION INITIATIVES;EconomicOperands;2
+EDUCATION INITIATIVES DESIGNED;EconomicOperands;1
+EFFECTS;EconomicOperands;25
+ELECTIONS;EconomicOperands;1
+ELECTRONIC CONDUIT SERVICES;EconomicOperands;4
+ELECTRONIC TRADING PLATFORMS;EconomicOperands;1
+ELECTS;EconomicOperands;8
+ELEMENTS;EconomicOperands;8
+ELIMINATING EXPECTATIONS;EconomicOperands;1
+EMISSIONS;EconomicOperands;2
+EMPLOYEESS;EconomicOperands;1
+EMPLOYERS;EconomicOperands;2
+EMPLOYMENT STRUCTURES;EconomicOperands;1
+EMPLOYS;EconomicOperands;9
+ENCOURAGE COMPLAINANTS;EconomicOperands;1
+ENGAGEMENTS;EconomicOperands;1
+ENGINEERS;EconomicOperands;1
+ENHANCEMENTS;EconomicOperands;1
+ENTERPRISES;EconomicOperands;2
+ENTITLEMENTS;EconomicOperands;5
+ENTITYS;EconomicOperands;2
+ENUMERATED CONSUMER LAWS;EconomicOperands;8
+ESTIMATES;EconomicOperands;4
+ETHICS;EconomicOperands;14
+EVALUATIONS;EconomicOperands;4
+EXAMPLES;EconomicOperands;1
+EXECUTING TRADES;EconomicOperands;3
+EXECUTION FACILITIES;EconomicOperands;21
+EXECUTIONS;EconomicOperands;1
+EXERCISES;EconomicOperands;3
+EXISTING REPORTS;EconomicOperands;8
+EXPECTATIONS;EconomicOperands;2
+EXPENDITURES;EconomicOperands;1
+EXPERIENCED SHIFTS;EconomicOperands;1
+EXPERIENCES;EconomicOperands;2
+EXPLANATIONS;EconomicOperands;1
+EXPOSURES;EconomicOperands;17
+EXTENSIONS;EconomicOperands;9
+EXTERNAL AUDIT FINDINGS;EconomicOperands;1
+EXTERNAL AUDIT FINDINGS SELF-REPORTED ERRORS;EconomicOperands;1
+EXTRACTS;EconomicOperands;1
+FACTS;EconomicOperands;16
+FAILURES;EconomicOperands;2
+FAIRS;EconomicOperands;1
+FAMILIES;EconomicOperands;10
+FATALITIES;EconomicOperands;1
+FAVORS;EconomicOperands;2
+FEATURES;EconomicOperands;5
+FEDERAL BANKING AGENCIES;EconomicOperands;63
+FEDERAL LABOR RELATIONS AUTHORITY;EconomicOperands;1
+FEDERAL SAVINGS AND LOAN INSURANCE CORPORATION;EconomicOperands;6
+FEDERAL SAVINGS ASSOCIATION;EconomicOperands;54
+FEEDS;EconomicOperands;1
+FILES;EconomicOperands;15
+FINANCIAL ACCOUNTING STANDARDS BOARD;EconomicOperands;1
+FINANCIAL ACTIVITIES;EconomicOperands;34
+FINANCIAL ASSETS;EconomicOperands;6
+FINANCIAL FIRMS;EconomicOperands;5
+FINANCIAL HOLDING COMPANIES;EconomicOperands;1
+FINANCIAL INSTITUTIONS;EconomicOperands;89
+FINANCIAL MARKETS;EconomicOperands;24
+FINANCIAL SERVICES;EconomicOperands;18
+FINANCIAL STATEMENTS;EconomicOperands;10
+FINANCIAL SYSTEMS;EconomicOperands;1
+FINDERS;EconomicOperands;1
+FINDINGS CONCLUSIONS;EconomicOperands;6
+FINDS;EconomicOperands;42
+FINDS GOOD;EconomicOperands;1
+FIREWALLS;EconomicOperands;1
+FIXTURES;EconomicOperands;1
+FLEXIBLE WORK SCHEDULES;EconomicOperands;2
+FLOWS;EconomicOperands;1
+FLUCTUATIONS;EconomicOperands;1
+FORBEARANCES;EconomicOperands;1
+FOREIGN BANKS;EconomicOperands;24
+FORM 8K;EconomicOperands;1
+FORMATS;EconomicOperands;12
+FORMS;EconomicOperands;11
+FORMULAE;EconomicOperands;1
+FORMULAS;EconomicOperands;1
+FORWARD CONTRACTS;EconomicOperands;4
+FOSTERS;EconomicOperands;1
+FOUNDATIONS;EconomicOperands;1
+FRAUDS;EconomicOperands;3
+FUNCTIONALLY REGULATED SUBSIDIARIES;EconomicOperands;3
+FUNCTIONS OF;EconomicOperands;59
+FURNISH COPIES;EconomicOperands;1
+FUTURES;EconomicOperands;60
+FUTURES COMMISSION MERCHANT;EconomicOperands;37
+GAINS;EconomicOperands;3
+GAINS AND LOSSES RESULTING;EconomicOperands;2
+GAPS;EconomicOperands;7
+GATEKEEPERS;EconomicOperands;1
+GATEWAYS;EconomicOperands;1
+GENERALLY APPLICABLE LEVERAGE CAPITAL REQUIREMENTS;EconomicOperands;4
+GENERALLY APPLICABLE RISK-BASED CAPITAL REQUIREMENTS;EconomicOperands;4
+GIRLS;EconomicOperands;1
+GLOBAL ANALYST RESEARCH SETTLEMENTS;EconomicOperands;1
+GOOD FAITH MISTAKES;EconomicOperands;1
+GOODS;EconomicOperands;27
+GOVERNMENT-SPONSORED ENTERPRISES;EconomicOperands;2
+GRANDFATHERED UNITARY SAVINGS AND LOAN HOLDING COMPANY;EconomicOperands;14
+GRANTEES;EconomicOperands;1
+GROSS REVENUES;EconomicOperands;3
+GUARANTEES;EconomicOperands;11
+GUARANTEES TIED;EconomicOperands;1
+HANDS;EconomicOperands;3
+HAZARDS;EconomicOperands;2
+HEADS;EconomicOperands;2
+HEARINGS;EconomicOperands;7
+HEDGE FUNDS;EconomicOperands;5
+HEDGERS;EconomicOperands;2
+HIGH SCHOOLS;EconomicOperands;3
+HIGHLIGHTS;EconomicOperands;1
+HISTORICALLY BLACK COLLEGES;EconomicOperands;1
+HISTORIES;EconomicOperands;1
+HOLDERS;EconomicOperands;11
+HOLDING COMPANIES;EconomicOperands;50
+HOLDINGS;EconomicOperands;4
+HOLDS;EconomicOperands;20
+HOME OWNERS;EconomicOperands;5
+HOMEOWNERS;EconomicOperands;12
+HOMEOWNERS FACING;EconomicOperands;1
+HOMES;EconomicOperands;8
+HOUSE OF REPRESENTATIVES;EconomicOperands;37
+HOUSEHOLDS;EconomicOperands;5
+HOUSES;EconomicOperands;2
+HUD-APPROVED COUNSELING AGENCY;EconomicOperands;2
+HUMAN RIGHTS;EconomicOperands;6
+IDENTIFIERS;EconomicOperands;1
+IMMUNITIES;EconomicOperands;1
+IMPACTS;EconomicOperands;4
+IMPEDIMENTS;EconomicOperands;2
+IMPLEMENTATION EXPENSES;EconomicOperands;5
+IMPLEMENTATIONS;EconomicOperands;1
+IMPLEMENTS;EconomicOperands;1
+IMPLICATIONS;EconomicOperands;4
+INCIDENTS;EconomicOperands;1
+INCOMES;EconomicOperands;1
+INCONVENIENCES;EconomicOperands;1
+INDICATORS;EconomicOperands;3
+INDICES;EconomicOperands;6
+INDUSTRIAL LOAN COMPANIES;EconomicOperands;1
+INEFFICIENCIES;EconomicOperands;1
+INFORMATIONAL PARTITIONS;EconomicOperands;3
+INITIAL PUBLIC OFFERINGS;EconomicOperands;1
+INITIATES;EconomicOperands;3
+INITIATING NEGOTIATIONS;EconomicOperands;1
+INITIATIVES;EconomicOperands;9
+INNOVATIONS;EconomicOperands;1
+INPUTS;EconomicOperands;3
+INQUIRIES;EconomicOperands;3
+INSIDERS;EconomicOperands;2
+INSIGHTS;EconomicOperands;1
+INSPECTORS;EconomicOperands;12
+INSTALLMENTS;EconomicOperands;3
+INSTANCES;EconomicOperands;1
+INSTANT MESSAGES;EconomicOperands;2
+INSTITUTIONAL SAFEGUARDS;EconomicOperands;3
+INSTRUCTIONS;EconomicOperands;3
+INSTRUMENTALITIES;EconomicOperands;1
+INSUREDS;EconomicOperands;7
+INSUREDS TAXABLE PREMIUM;EconomicOperands;1
+INTERACTIONS;EconomicOperands;1
+INTERDEPENDENCIES;EconomicOperands;1
+INTEREST RATES;EconomicOperands;1
+INTERESTED PARTIES;EconomicOperands;3
+INTERLOCKS;EconomicOperands;2
+INTERMEDIARIES;EconomicOperands;2
+INTERNAL FINANCIAL ACTIVITIES;EconomicOperands;9
+INTERNATIONAL ASSOCIATION OF INSURANCE SUPERVISORS;EconomicOperands;1
+INTERNATIONAL FINANCIAL INSTITUTIONS;EconomicOperands;1
+INTERNSHIPS;EconomicOperands;1
+INTERPRETATIONS;EconomicOperands;12
+INTERSTATE ACQUISITIONS;EconomicOperands;2
+INTERVALS;EconomicOperands;1
+INTERVIEWS;EconomicOperands;2
+INVENTORIES;EconomicOperands;1
+INVESTIGATIVE PROCEEDINGS;EconomicOperands;1
+INVESTMENT ACTIVITIES;EconomicOperands;1
+INVESTMENT ADVISERS;EconomicOperands;58
+INVESTMENT SERVICES;EconomicOperands;2
+INVESTMENT STRATEGIES;EconomicOperands;2
+IRREVOCABLE LETTERS;EconomicOperands;1
+ISSUANCES;EconomicOperands;2
+ITEMS;EconomicOperands;29
+JUDGES;EconomicOperands;1
+JURISDICTIONAL DISPUTES;EconomicOperands;2
+JURISDICTIONS;EconomicOperands;3
+KEEP BOOKS;EconomicOperands;6
+KEEPS BOOKS;EconomicOperands;1
+KNOWS;EconomicOperands;5
+LACKS;EconomicOperands;1
+LARGE BANKS;EconomicOperands;1
+LARGE FINANCIAL FIRMS;EconomicOperands;2
+LAWSUITS DECIDED;EconomicOperands;1
+LAWYERS;EconomicOperands;1
+LEADS;EconomicOperands;1
+LEASEHOLDS;EconomicOperands;1
+LEGISLATORS;EconomicOperands;3
+LENGTHS;EconomicOperands;1
+LETTERS;EconomicOperands;1
+LIBRARIES;EconomicOperands;1
+LICENSEES;EconomicOperands;1
+LICENSES;EconomicOperands;5
+LINES;EconomicOperands;14
+LINKAGES;EconomicOperands;2
+LIQUID 2-WAY MARKETS;EconomicOperands;1
+LIQUIDITY PRESSURES;EconomicOperands;1
+LIQUIDITY REQUIREMENTS;EconomicOperands;3
+LOCATIONS;EconomicOperands;3
+LOGS;EconomicOperands;1
+LOOK BACKS;EconomicOperands;2
+MAGAZINES ORIENTED;EconomicOperands;1
+MAILS;EconomicOperands;13
+MAINTAIN METRICS;EconomicOperands;1
+MANIPULATIONS;EconomicOperands;1
+MANUFACTURES;EconomicOperands;1
+MARGINS;EconomicOperands;10
+MARKET OPERATIONS;EconomicOperands;2
+MARKETERS;EconomicOperands;1
+MASTER AGREEMENTS;EconomicOperands;2
+MATURITIES;EconomicOperands;1
+MATURITIES SUITABLE;EconomicOperands;4
+MEANS;EconomicOperands;418
+MEASUREMENTS;EconomicOperands;2
+MECHANISMS;EconomicOperands;14
+MEDIA;EconomicOperands;9
+MEETS;EconomicOperands;45
+MEMBERSHIPS;EconomicOperands;1
+MERCHANDISES;EconomicOperands;1
+MERCHANTS;EconomicOperands;3
+MERITS;EconomicOperands;3
+METALS;EconomicOperands;1
+METHODS;EconomicOperands;22
+METRICS;EconomicOperands;1
+MILITARY INSTALLATIONS;EconomicOperands;1
+MINERALS;EconomicOperands;6
+MINES;EconomicOperands;5
+MINISTRIES;EconomicOperands;5
+MINISTRY OF MINES;EconomicOperands;1
+MINORITIES;EconomicOperands;11
+MISSIONS;EconomicOperands;1
+MODEL REGULATION ON THE USE OF SENIOR-SPECIFIC CERTIFICATIONS AND PROFESSIONAL DESIGNATIONS IN THE SALE OF LIFE INSURANCE AND ANNUITIES;EconomicOperands;3
+MODULES;EconomicOperands;2
+MONETARY SANCTIONS;EconomicOperands;12
+MONEYS;EconomicOperands;1
+MONTHS;EconomicOperands;12
+MORTGAGE-BACKED SECURITIES;EconomicOperands;3
+MOTIONS;EconomicOperands;1
+MOTORCYCLES;EconomicOperands;1
+MULTIFAMILY PROPERTIES;EconomicOperands;2
+MULTIMEDIA CAMPAIGNS;EconomicOperands;3
+MUNICIPAL SECURITIES RULEMAKING BOARD;EconomicOperands;9
+MUTUAL FUNDS;EconomicOperands;1
+MUTUAL HOLDING COMPANIES;EconomicOperands;2
+NAMED INSUREDS;EconomicOperands;1
+NAMED RATINGS CORRESPOND;EconomicOperands;1
+NAMES;EconomicOperands;6
+NATIONAL ARCHIVES AND RECORDS ADMINISTRATION;EconomicOperands;1
+NATIONAL ASSOCIATION OF INSURANCE COMMISSIONERS;EconomicOperands;12
+NATIONAL COUNCIL ON THE ARTS;EconomicOperands;1
+NATIONAL COUNCIL ON THE HUMANITIES;EconomicOperands;1
+NATIONAL ENDOWMENT FOR THE HUMANITIES;EconomicOperands;1
+NATIONAL ENDOWMENT OF THE ARTS;EconomicOperands;1
+NEEDS;EconomicOperands;23
+NEGOTIATIONS;EconomicOperands;1
+NETWORKS;EconomicOperands;2
+NEWSPAPERS;EconomicOperands;1
+NOMINATIONS;EconomicOperands;1
+NONACCELERATED FILERS;EconomicOperands;1
+NONBANK FINANCIAL COMPANY SUPERVISED BY THE BOARD OF GOVERNORS;EconomicOperands;68
+NON-UNITED STATES INSURER;EconomicOperands;4
+NORMS;EconomicOperands;2
+NORTH AMERICAN SECURITIES ADMINISTRATORS ASSOCIATION;EconomicOperands;1
+NORTHERN MARIANA ISLANDS;EconomicOperands;2
+NOTES;EconomicOperands;1
+NUMBERS;EconomicOperands;5
+OATHS;EconomicOperands;2
+OBJECTS;EconomicOperands;1
+OBSERVATIONS;EconomicOperands;1
+OCCASIONS;EconomicOperands;1
+OF DEBTS;EconomicOperands;1
+OF SECURITIES;EconomicOperands;63
+OFF-BALANCE-SHEET ACTIVITIES;EconomicOperands;4
+OFFENDERS;EconomicOperands;1
+OFFENSES;EconomicOperands;11
+OFFERINGS;EconomicOperands;3
+OFFERORS;EconomicOperands;1
+OFFERS;EconomicOperands;21
+OFFICE OF FINANCIAL PROTECTION FOR OLDER AMERICANS;EconomicOperands;3
+OFFICIALS;EconomicOperands;7
+OFFSETS;EconomicOperands;2
+OMISSIONS;EconomicOperands;2
+ONSITE DISPLAYS;EconomicOperands;1
+OPEN MARKET OPERATIONS;EconomicOperands;2
+OPTIONS;EconomicOperands;35
+OUTCOMES;EconomicOperands;1
+OVERLAPS;EconomicOperands;2
+OWNERS;EconomicOperands;8
+PACKAGES;EconomicOperands;1
+PAPERS;EconomicOperands;16
+PARENTS;EconomicOperands;2
+PARTICIPATIONS;EconomicOperands;2
+PARTIES;EconomicOperands;28
+PARTNERS;EconomicOperands;4
+PARTNERSHIPS;EconomicOperands;1
+PATTERNS;EconomicOperands;3
+PAYMENT AND SETTLEMENT SYSTEMS;EconomicOperands;1
+PAYMENT INSTRUMENTS;EconomicOperands;2
+PAYMENT SERVICES;EconomicOperands;1
+PAYS;EconomicOperands;1
+PEACE CORPS;EconomicOperands;1
+PENSIONS;EconomicOperands;3
+PERPETRATORS;EconomicOperands;1
+PERSON REGULATED BY THE COMMODITY FUTURES TRADING COMMISSION;EconomicOperands;4
+PERSON THAT PERFORMS INCOME TAX PREPARATION ACTIVITIES FOR CONSUMERS;EconomicOperands;3
+PERSONAL CONSUMPTION EXPENDITURES CHAIN-TYPE PRICE INDEX;EconomicOperands;1
+PETITIONS;EconomicOperands;2
+PHYSICAL DELIVERIES;EconomicOperands;1
+PIECES;EconomicOperands;1
+PLACES;EconomicOperands;2
+PLANNERS;EconomicOperands;11
+PLATFORMS;EconomicOperands;2
+PLAYS;EconomicOperands;1
+PLEADINGS;EconomicOperands;1
+POINTS AND FEES;EconomicOperands;18
+POLICY ISSUES;EconomicOperands;2
+POLICYHOLDERS;EconomicOperands;2
+POOLS;EconomicOperands;2
+POPULATIONS;EconomicOperands;3
+PORTFOLIOS;EconomicOperands;1
+PORTIONS;EconomicOperands;2
+POSES;EconomicOperands;13
+POSITION REDUCTIONS;EconomicOperands;1
+POSSESS;EconomicOperands;2
+POSSESSES;EconomicOperands;2
+POSSESSIONS;EconomicOperands;1
+POSTS;EconomicOperands;6
+POTENTIAL CONSEQUENCES;EconomicOperands;3
+PRACTITIONERS;EconomicOperands;1
+PREDICATES;EconomicOperands;1
+PREDICTORS;EconomicOperands;2
+PREDISPUTE ARBITRATION AGREEMENTS;EconomicOperands;3
+PREEMPTS;EconomicOperands;2
+PREMISES;EconomicOperands;2
+PREMIUM TAXES;EconomicOperands;8
+PREMIUMS;EconomicOperands;24
+PREPAID CARDS;EconomicOperands;3
+PRESENTS;EconomicOperands;13
+PRICE MOVEMENTS;EconomicOperands;1
+PRICES;EconomicOperands;6
+PRINCIPALS;EconomicOperands;1
+PRIVATE EQUITY FIRMS;EconomicOperands;1
+PROBABILITIES;EconomicOperands;2
+PROBLEMS;EconomicOperands;13
+PROCESSES;EconomicOperands;12
+PROCESSORS;EconomicOperands;2
+PRODUCES;EconomicOperands;3
+PROFESSIONAL STANDARDS;EconomicOperands;4
+PROFESSIONALS;EconomicOperands;2
+PROFITS;EconomicOperands;2
+PROJECTS;EconomicOperands;4
+PROPERTIES;EconomicOperands;14
+PROPERTYS;EconomicOperands;1
+PROPOSALS;EconomicOperands;6
+PROSECUTORS;EconomicOperands;2
+PROTECTIONS;EconomicOperands;9
+PROTOCOLS GOVERNING;EconomicOperands;1
+PRUDENTIAL ASPECTS;EconomicOperands;1
+PRUDENTIAL STANDARDS;EconomicOperands;30
+PUBLICATIONS;EconomicOperands;1
+PUBLICS;EconomicOperands;1
+PURCHASERS;EconomicOperands;2
+PURCHASES;EconomicOperands;15
+PURPORTS;EconomicOperands;1
+QUARTERLY LISTING OF ALIEN INSURERS;EconomicOperands;1
+QUESTIONS;EconomicOperands;10
+QUOTATIONS;EconomicOperands;1
+RAISES NOVEL;EconomicOperands;1
+RAMIFICATIONS;EconomicOperands;1
+RANKING MEMBERS;EconomicOperands;1
+REAL ESTATE INVESTMENTS;EconomicOperands;1
+REASONS;EconomicOperands;13
+REASONS FOR;EconomicOperands;11
+RECAPTURES;EconomicOperands;1
+RECEIVE DIVIDENDS;EconomicOperands;1
+RECEIVERS;EconomicOperands;1
+RECEIVERSHIPS;EconomicOperands;3
+RECIPIENTS;EconomicOperands;5
+RECORDED COMMUNICATIONS;EconomicOperands;2
+RECORDINGS;EconomicOperands;2
+RECORDS OF A COVERED FINANCIAL COMPANY;EconomicOperands;2
+RECOVERIES;EconomicOperands;1
+RECREATIONAL BOATS;EconomicOperands;1
+RECRUIT INDIVIDUALS;EconomicOperands;1
+REDACTIONS;EconomicOperands;1
+REDUCTIONS;EconomicOperands;9
+REEMPLOYED ANNUITANTS;EconomicOperands;2
+REFERRING TIPS;EconomicOperands;1
+REFORMS;EconomicOperands;8
+REFUSES;EconomicOperands;3
+REGIONS;EconomicOperands;1
+REGISTERS;EconomicOperands;1
+REGISTRANTS;EconomicOperands;1
+REGISTRATIONS;EconomicOperands;1
+REGISTRIES;EconomicOperands;2
+REGULATIONS FOR;EconomicOperands;3
+REHABILITATION EXPENDITURES;EconomicOperands;1
+REJECTS;EconomicOperands;1
+RELATIONSHIPS;EconomicOperands;9
+REMITTANCES;EconomicOperands;2
+RENTERS;EconomicOperands;2
+RENTS;EconomicOperands;1
+REPORTING REQUIREMENTS;EconomicOperands;20
+REPRESENTATIONS;EconomicOperands;5
+REPURCHASE AGREEMENTS;EconomicOperands;5
+REPUTATIONS;EconomicOperands;1
+REQUESTS FOR INFORMATION;EconomicOperands;7
+RESCUE SCAMS;EconomicOperands;7
+RESCUES;EconomicOperands;1
+RESERVE BANKS;EconomicOperands;1
+RESERVE REQUIREMENTS;EconomicOperands;2
+RESERVES;EconomicOperands;4
+RESETS;EconomicOperands;3
+RESIDENCES;EconomicOperands;1
+RESIDENTIAL MORTGAGES;EconomicOperands;4
+RESIDENTS;EconomicOperands;5
+RESOLUTION MECHANISMS;EconomicOperands;2
+RESOLVE DISPUTES;EconomicOperands;2
+RESOLVES;EconomicOperands;1
+RESOURCE CENTER ON WOMEN AND RETIREMENT PLANNING;EconomicOperands;1
+RESOURCES DEVOTED;EconomicOperands;1
+RESTATEMENTS;EconomicOperands;2
+RESULTS;EconomicOperands;61
+RESUMES;EconomicOperands;1
+RETIREES LIVING;EconomicOperands;1
+RETURNS;EconomicOperands;2
+REVENUES GENERATED;EconomicOperands;3
+REVERSE REPURCHASE AGREEMENTS;EconomicOperands;3
+REVISIONS DEMONSTRATING;EconomicOperands;1
+REVOCATIONS;EconomicOperands;1
+RIMS FELLOW;EconomicOperands;1
+RISK-RELATED FACTORS;EconomicOperands;7
+RISKS;EconomicOperands;109
+RISKS AND COSTS;EconomicOperands;2
+RISK-WEIGHTED ASSETS;EconomicOperands;3
+ROLES;EconomicOperands;1
+ROUTES;EconomicOperands;4
+ROYALTIES;EconomicOperands;1
+RULES OF;EconomicOperands;78
+RULES OF THE BOARD;EconomicOperands;13
+RULINGS;EconomicOperands;6
+SAFEGUARDS IMPLEMENTED;EconomicOperands;1
+SALARIES;EconomicOperands;6
+SALESPERSONS;EconomicOperands;3
+SAVINGS AND LOAN HOLDING COMPANY;EconomicOperands;47
+SAVINGS AND LOAN INSTITUTION;EconomicOperands;2
+SAVINGS ASSOCIATION;EconomicOperands;64
+SCAMS;EconomicOperands;3
+SCHEDULES;EconomicOperands;7
+SCHEMES;EconomicOperands;3
+SCORES;EconomicOperands;3
+SECONDARY ACTORS;EconomicOperands;2
+SECRETARYS;EconomicOperands;3
+SECRETS;EconomicOperands;1
+SECS;EconomicOperands;7
+SECURITIES ACT OF 1933;EconomicOperands;11
+SECURITIES ANALYSTS;EconomicOperands;2
+SECURITIES AND EXCHANGE COMMISSION;EconomicOperands;161
+SECURITIES CONTRACT;EconomicOperands;7
+SECURITIES EXCHANGE ACT OF 1934;EconomicOperands;16
+SECURITIES FRAUD OFFENSE;EconomicOperands;3
+SECURITIES HOLDING COMPANY;EconomicOperands;8
+SECURITIES LAWS;EconomicOperands;35
+SECURITIES MARKET;EconomicOperands;2
+SECURITIES MARKETS;EconomicOperands;12
+SECURITY-BASED SWAP AGREEMENT;EconomicOperands;25
+SEEKS;EconomicOperands;6
+SEGMENTS;EconomicOperands;1
+SELF-REGULATORY BODIES;EconomicOperands;1
+SELF-REGULATORY ORGANIZATIONS;EconomicOperands;15
+SELF-REPORTED ERRORS;EconomicOperands;1
+SELLERS;EconomicOperands;1
+SELLS;EconomicOperands;8
+SENDERS;EconomicOperands;2
+SENIORS;EconomicOperands;21
+SERVES;EconomicOperands;8
+SETTLEMENT SYSTEMS;EconomicOperands;1
+SETTLEMENTS;EconomicOperands;4
+SETTLES;EconomicOperands;9
+SHARES;EconomicOperands;15
+SHORTCOMINGS;EconomicOperands;3
+SHOWS;EconomicOperands;1
+SHUTDOWNS;EconomicOperands;1
+SIDE LETTERS;EconomicOperands;1
+SIGNATURES;EconomicOperands;2
+SIGNS;EconomicOperands;2
+SITUATED CLAIMANTS;EconomicOperands;1
+SKILLS;EconomicOperands;1
+SMALL BANKS;EconomicOperands;2
+SMALL BUSINESS LOAN;EconomicOperands;6
+SOLICITATIONS;EconomicOperands;1
+SOLICITORS;EconomicOperands;1
+SOURCES;EconomicOperands;22
+SPECIAL DAMAGES SUSTAINED;EconomicOperands;2
+SPECIAL PURPOSE VEHICLE;EconomicOperands;1
+SPECIALISTS;EconomicOperands;1
+SPECIFICATIONS;EconomicOperands;5
+SPECIFYING TRADING;EconomicOperands;2
+SPECULATORS;EconomicOperands;2
+SPONSORS;EconomicOperands;1
+SQUEEZES;EconomicOperands;1
+STAFFS;EconomicOperands;2
+STAGES;EconomicOperands;2
+STAKEHOLDERS;EconomicOperands;2
+STANDARDIZED ALGORITHMIC DESCRIPTIONS;EconomicOperands;2
+STANDBY LETTERS;EconomicOperands;2
+STATE SAVINGS ASSOCIATION;EconomicOperands;38
+STATE SECURITIES OR LAW ENFORCEMENT AUTHORITY;EconomicOperands;2
+STATISTICIANS;EconomicOperands;1
+STATUTES GOVERNING;EconomicOperands;1
+STAYS;EconomicOperands;1
+STEPS;EconomicOperands;32
+STORES;EconomicOperands;2
+STRATEGIES;EconomicOperands;7
+STRESS TESTS;EconomicOperands;7
+STRUCTURES;EconomicOperands;7
+STUDENTS;EconomicOperands;5
+SUBCOMMITTEES;EconomicOperands;2
+SUBCONTRACTORS;EconomicOperands;1
+SUBGROUPS;EconomicOperands;1
+SUBJECTS;EconomicOperands;2
+SUBORDINATES;EconomicOperands;1
+SUBSIDIES;EconomicOperands;2
+SUBSTANTIVE DIFFERENCES;EconomicOperands;1
+SUBSTITUTES;EconomicOperands;2
+SUBUNITS;EconomicOperands;2
+SUCCESSES;EconomicOperands;1
+SUCCESSORS;EconomicOperands;2
+SUGGESTIONS;EconomicOperands;5
+SUMS;EconomicOperands;10
+SUPERVISED SECURITIES HOLDING COMPANY;EconomicOperands;36
+SUPERVISORY AGENCIES;EconomicOperands;6
+SUPERVISORY FUNCTIONS;EconomicOperands;1
+SUPPLEMENTS;EconomicOperands;7
+SUPPLIERS;EconomicOperands;2
+SUPPORTING MATERIALS RELIED UPON;EconomicOperands;1
+SUPPORTS;EconomicOperands;1
+SUPREME COURT;EconomicOperands;5
+SUPREME COURT OF THE UNITED STATES;EconomicOperands;6
+SURPLUS LINES;EconomicOperands;2
+SURPLUS LINES BROKER;EconomicOperands;9
+SURPLUS LINES ELIGIBILITY;EconomicOperands;1
+SURVEYS;EconomicOperands;3
+SUSPENSIONS;EconomicOperands;2
+SWAP MARKETS;EconomicOperands;1
+SWAPS ENTITY;EconomicOperands;30
+SYSTEMIC IMPORTANCE;EconomicOperands;10
+SYSTEMIC RISKS;EconomicOperands;3
+TALENTS;EconomicOperands;1
+TASKS;EconomicOperands;2
+TAXABLE YEARS BEGINNING;EconomicOperands;1
+TECHNIQUES;EconomicOperands;2
+TELECOMMUNICATIONS;EconomicOperands;2
+TELEPHONE CALLS;EconomicOperands;3
+TENANTS;EconomicOperands;4
+TERM SECURITIES LENDING FACILITY;EconomicOperands;2
+TERRITORIES;EconomicOperands;3
+TESTIMONY TOUCHING;EconomicOperands;1
+THIRD PARTIES;EconomicOperands;12
+THREATS;EconomicOperands;7
+THRIFT DEPOSITOR PROTECTION OVERSIGHT BOARD OF THE RESOLUTION TRUST CORPORATION;EconomicOperands;1
+THRIFT PLAN FOR EMPLOYEES OF THE FEDERAL RESERVE SYSTEM;EconomicOperands;1
+TIMELINES;EconomicOperands;4
+TIPS;EconomicOperands;6
+TOOLS;EconomicOperands;4
+TRACKING UNCLEARED;EconomicOperands;1
+TRADE AGREEMENTS PROGRAM;EconomicOperands;1
+TRADERS;EconomicOperands;5
+TRADES;EconomicOperands;17
+TRADING CONVENTIONS;EconomicOperands;2
+TRADING PRACTICES;EconomicOperands;2
+TRADING VENUES;EconomicOperands;1
+TRADING VOLUMES;EconomicOperands;1
+TRAILERS;EconomicOperands;1
+TRANCHES;EconomicOperands;1
+TRANSFER OF ASSETS;EconomicOperands;5
+TRANSFEROR AGENCIES;EconomicOperands;2
+TRANSMISSIONS;EconomicOperands;1
+TRANSMITTING OR EXCHANGING FUNDS;EconomicOperands;3
+TRAVELERS CHECK;EconomicOperands;2
+TRENDS;EconomicOperands;1
+TRIALS;EconomicOperands;1
+TRUST TERRITORIES OF THE PACIFIC;EconomicOperands;1
+TRUSTEES;EconomicOperands;3
+TRUSTS;EconomicOperands;1
+TYPES;EconomicOperands;45
+UNDER THE CONTROL OF ARMED GROUPS;EconomicOperands;4
+UNDERSERVED COMMUNITIES;EconomicOperands;8
+UNDERSTANDINGS;EconomicOperands;3
+UNDERTAKINGS;EconomicOperands;8
+UNIFORM RESOURCE LOCATORS;EconomicOperands;1
+UNITED NATIONS GROUP OF EXPERTS ON THE DEMOCRATIC REPUBLIC OF CONGO;EconomicOperands;1
+UNITED STATES;EconomicOperands;413
+UNITED STATES ARMED FORCES;EconomicOperands;1
+UNITED STATES COURT OF APPEALS;EconomicOperands;11
+UNITED STATES INSURER;EconomicOperands;4
+UNITED STATES SENTENCING COMMISSION;EconomicOperands;4
+UNITED STATES TRADE REPRESENTATIVE;EconomicOperands;6
+UNIVERSAL RATINGS SYMBOLS;EconomicOperands;1
+UNIVERSITIES;EconomicOperands;1
+URBAN AFFAIRS;EconomicOperands;7
+URLS;EconomicOperands;1
+US NONBANK FINANCIAL COMPANY;EconomicOperands;10
+USERS;EconomicOperands;13
+USES;EconomicOperands;24
+UTILITYS;EconomicOperands;1
+VALIDATED COMPLAINTS;EconomicOperands;2
+VALUATIONS;EconomicOperands;2
+VALUES;EconomicOperands;11
+VARIATIONS;EconomicOperands;2
+VEHICLES;EconomicOperands;3
+VETERANS;EconomicOperands;5
+VICE CHAIRMEN OF THE BOARD;EconomicOperands;1
+VIEWS;EconomicOperands;14
+VIOLATORS;EconomicOperands;4
+VIRGIN ISLANDS;EconomicOperands;4
+VOLUMES;EconomicOperands;2
+VOTING SHARES;EconomicOperands;3
+VOUCHERS;EconomicOperands;1
+VULNERABILITIES;EconomicOperands;2
+WARNINGS;EconomicOperands;2
+WARRANTIES;EconomicOperands;5
+WARRANTS;EconomicOperands;7
+WAYS;EconomicOperands;12
+WEEKS;EconomicOperands;1
+WITHDRAWALS;EconomicOperands;2
+WITHHOLD VOTES ENTITLED;EconomicOperands;2
+WOMEN-OWNED BUSINESS;EconomicOperands;8
+WOMENS BUSINESS;EconomicOperands;1
+WORDS;EconomicOperands;1
+WORKERS;EconomicOperands;4
+WORKPLACE FLEXIBILITIES;EconomicOperands;3
+WORKS;EconomicOperands;1
+WRITTEN REPRESENTATIONS;EconomicOperands;2
+ZONES;EconomicOperands;2
+BARS;FunctionWords;2
+CASES;FunctionWords;12
+COMMONLY KNOWN AS;FunctionWords;4
+DIFFERENT CLASSES;FunctionWords;2
+DOES;FunctionWords;1
+DOES NOT;FunctionWords;183
+GENERALS;FunctionWords;1
+GIVES;FunctionWords;5
+HAS;FunctionWords;482
+HAS SPECIFIC;FunctionWords;3
+ITS;FunctionWords;345
+MAKES;FunctionWords;44
+PARTS;FunctionWords;2
+SAVINGS;FunctionWords;40
+TABLE OF CONTENTS;FunctionWords;4
+TAKES;FunctionWords;24
+THEREOF HAS BEEN;FunctionWords;3
+WAS;FunctionWords;182
+WITH REGARDS TO;FunctionWords;1
+1 NOTICE PROCEDURES;LegalReferences;1
+1029A;LegalReferences;1
+108A;LegalReferences;1
+10A;LegalReferences;2
+10B;LegalReferences;4
+10C;LegalReferences;1
+11A;LegalReferences;1
+12 USC 1441AR4A;LegalReferences;1
+12 USC 1441AR4B;LegalReferences;1
+12 USC 1467A NOTE;LegalReferences;1
+12 USC 1467AE2;LegalReferences;1
+12 USC 1467AM3;LegalReferences;1
+12 USC 1701P1;LegalReferences;1
+12 USC 1790DJ;LegalReferences;1
+12 USC 1817J;LegalReferences;2
+12 USC 1831P 9 1C;LegalReferences;1
+12 USC 1831TCF;LegalReferences;1
+12 USC 1831UB4B;LegalReferences;1
+12 USC 2 1831P1;LegalReferences;1
+12 USC 84B;LegalReferences;4
+128A;LegalReferences;1
+129E;LegalReferences;2
+12A;LegalReferences;1
+12B;LegalReferences;1
+12E2B;LegalReferences;2
+130;LegalReferences;6
+13A;LegalReferences;3
+13C;LegalReferences;1
+1467A;LegalReferences;2
+1467AA1DII;LegalReferences;1
+1467AB;LegalReferences;1
+1467AB2;LegalReferences;1
+1467AC2;LegalReferences;1
+1467AO;LegalReferences;1
+14A;LegalReferences;2
+15 US C 78A ET SEQ;LegalReferences;1
+15 USC 1602AA4;LegalReferences;1
+15 USC 1681ME 1681W;LegalReferences;1
+15 USC 17AS;LegalReferences;1
+15 USC 57A;LegalReferences;3
+15 USC 77CA2;LegalReferences;1
+15 USC 77CA8;LegalReferences;2
+15 USC 77DDDB;LegalReferences;1
+15 USC 77H1;LegalReferences;1
+15 USC 77QQQA1;LegalReferences;1
+15 USC 77SD6A;LegalReferences;1
+15 USC 77TD3A;LegalReferences;1
+15 USC 77WWWB;LegalReferences;1
+15 USC 78A3A;LegalReferences;1
+15 USC 78CA47;LegalReferences;1
+15 USC 78EEEA3;LegalReferences;1
+15 USC 78EEEB2C;LegalReferences;1
+15 USC 78FFF3;LegalReferences;1
+15 USC 78FFF3A1;LegalReferences;1
+15 USC 78FM;LegalReferences;1
+15 USC 78GC1A;LegalReferences;1
+15 USC 78J1;LegalReferences;1
+15 USC 78O7;LegalReferences;1
+15 USC 78QB1B;LegalReferences;1
+15 USC 78QE1A;LegalReferences;2
+15 USC 78SH4;LegalReferences;1
+15 USC 78U1;LegalReferences;2
+15 USC 78U2A;LegalReferences;1
+15 USC 78U-4;LegalReferences;1
+15 USC 78U4B2;LegalReferences;1
+15 USC 78UA1;LegalReferences;3
+15 USC 78UD3CI;LegalReferences;1
+15 USC 80A1 ET SEQ;LegalReferences;2
+15 USC 80A-1 ET SEQ;LegalReferences;1
+15 USC 80A17F;LegalReferences;1
+15 USC 80A2A19;LegalReferences;1
+15 USC 80A2A44;LegalReferences;1
+15 USC 80A30;LegalReferences;1
+15 USC 80A35A;LegalReferences;1
+15 USC 80A37B;LegalReferences;1
+15 USC 80A3C;LegalReferences;3
+15 USC 80A41E3A;LegalReferences;1
+15 USC 80A43;LegalReferences;1
+15 USC 80A48;LegalReferences;1
+15 USC 80A49;LegalReferences;1
+15 USC 80A6A5AIVI;LegalReferences;1
+15 USC 80A9B4B;LegalReferences;1
+15 USC 80A9D1;LegalReferences;1
+15 USC 80B1 ET SEQ;LegalReferences;8
+15 USC 80B10C;LegalReferences;1
+15 USC 80B11;LegalReferences;1
+15 USC 80B14;LegalReferences;2
+15 USC 80B2A11;LegalReferences;2
+15 USC 80B-2A11;LegalReferences;1
+15 USC 80B2A21;LegalReferences;1
+15 USC 80B3;LegalReferences;5
+15 USC 80B3F;LegalReferences;1
+15 USC 80B3I1;LegalReferences;1
+15 USC 80B4;LegalReferences;2
+15 USC 80B5;LegalReferences;2
+15 USC 80B5A;LegalReferences;1
+15 USC 80B9;LegalReferences;1
+15 USC 80B9E3A;LegalReferences;1
+15A;LegalReferences;2
+1604A;LegalReferences;1
+17 CFR 243100B2III;LegalReferences;1
+17 CFR 27520642B6;LegalReferences;1
+17 CFR PARTS 2752042;LegalReferences;1
+17A;LegalReferences;6
+1833B;LegalReferences;1
+18A;LegalReferences;1
+18B;LegalReferences;1
+19A;LegalReferences;3
+19B;LegalReferences;1
+1A;LegalReferences;31
+1B;LegalReferences;11
+1F;LegalReferences;2
+20 USC 9702D;LegalReferences;1
+206B;LegalReferences;1
+210H;LegalReferences;2
+22A;LegalReferences;1
+24F;LegalReferences;1
+25A;LegalReferences;9
+2A;LegalReferences;7
+2A13;LegalReferences;1
+2B;LegalReferences;10
+2C;LegalReferences;5
+2C2A;LegalReferences;1
+2C2B;LegalReferences;1
+2F;LegalReferences;5
+2H;LegalReferences;3
+2H3;LegalReferences;2
+2H4;LegalReferences;2
+30 USC 814B;LegalReferences;1
+30 USC 814D;LegalReferences;1
+30 USC 814E;LegalReferences;2
+30 USC 817A;LegalReferences;1
+30 USC 820B2;LegalReferences;1
+39C;LegalReferences;1
+3A;LegalReferences;3
+3A4;LegalReferences;1
+3A78;LegalReferences;1
+3B;LegalReferences;3
+3C;LegalReferences;7
+3D;LegalReferences;2
+401A;LegalReferences;1
+403A;LegalReferences;1
+403B;LegalReferences;1
+42 USC 1472H;LegalReferences;1
+4A;LegalReferences;9
+4B;LegalReferences;8
+4C;LegalReferences;5
+4D;LegalReferences;9
+4I;LegalReferences;1
+4K;LegalReferences;1
+4L;LegalReferences;1
+4S;LegalReferences;3
+501A;LegalReferences;1
+53A;LegalReferences;1
+5A;LegalReferences;7
+5B;LegalReferences;14
+5C;LegalReferences;4
+5C2;LegalReferences;1
+5C5;LegalReferences;1
+5D;LegalReferences;6
+5I;LegalReferences;1
+5TH SUBPARAGRAPH OF THE 4TH UNDESIGNATED PARAGRAPH OF SECTION 4 OF THE FEDERAL RESERVE ACT 12 USC 341;LegalReferences;1
+628A1 15 USC 1681WA1;LegalReferences;1
+6A;LegalReferences;1
+6B;LegalReferences;1
+6C;LegalReferences;1
+6D;LegalReferences;3
+6F;LegalReferences;1
+6G1A;LegalReferences;1
+7 USC 1A ET SEQ;LegalReferences;1
+763I;LegalReferences;1
+78B;LegalReferences;1
+78C;LegalReferences;11
+78CA;LegalReferences;1
+78O;LegalReferences;1
+78OB;LegalReferences;1
+78OD;LegalReferences;1
+7B1;LegalReferences;1
+7B2;LegalReferences;1
+8714A;LegalReferences;2
+8714B;LegalReferences;2
+8714C;LegalReferences;2
+8A;LegalReferences;3
+8E;LegalReferences;1
+918 15 USC 1693O;LegalReferences;1
+9A;LegalReferences;5
+9A1;LegalReferences;1
+9B;LegalReferences;3
+A1;LegalReferences;19
+A2;LegalReferences;11
+A3;LegalReferences;9
+A4;LegalReferences;7
+A6;LegalReferences;4
+A7;LegalReferences;2
+ACTS;LegalReferences;54
+ADMINISTRATIVE PROCEDURES ACT;LegalReferences;1
+ADMINISTRATIVE SERVICES ACT OF 1949 41 USC 251 ET SEQ;LegalReferences;1
+ADVISORY COMMITTEE ACT;LegalReferences;1
+ALASKA NATIVE CLAIMS SETTLEMENT ACT;LegalReferences;1
+ALTERNATIVE MORTGAGE TRANSACTION PARITY ACT OF L982 12 USC 3801 ET SEQ;LegalReferences;1
+B EXCEPTIONS;LegalReferences;3
+B2;LegalReferences;8
+B3;LegalReferences;2
+B4;LegalReferences;2
+B6;LegalReferences;1
+B9;LegalReferences;2
+BANK PRODUCTS ACT OF 2000;LegalReferences;3
+BANK PRODUCTS ACT OF 2000 7 USC 27 ET SEQ;LegalReferences;2
+BANK PRODUCTS ACT OF 2000 7 USC 27A;LegalReferences;1
+BANK SERVICE COMPANY ACT 12 USC 1867C;LegalReferences;3
+BARNETT BANK OF MARION COUNTY N A V NELSON FLORIDA INSURANCE COMMISSIONER ET AL 517 US 25 1996;LegalReferences;1
+BARNETT BANK OF MARION COUNTY NA V NELSON FLORIDA INSURANCE COMMISSIONER ET AL 517 US 25 1996;LegalReferences;1
+C1;LegalReferences;4
+C2;LegalReferences;2
+CHAPTER 213 OF TITLE 18 UNITED STATES CODE;LegalReferences;2
+CHAPTER 31 OF TITLE 31 UNITED STATES CODE;LegalReferences;3
+CHAPTER 33 OF TITLE 5 UNITED STATES CODE;LegalReferences;2
+CHAPTER 71 OF TITLE 5 UNITED STATES CODE;LegalReferences;6
+CHAPTER 83 OF TITLE 5 UNITED STATES CODE;LegalReferences;2
+CHAPTER 84 OF TITLE 5 UNITED STATES CODE;LegalReferences;4
+CHAPTER 89 OF TITLE 5 UNITED STATES CODE;LegalReferences;2
+CHAPTER 89A OF TITLE 5 UNITED STATES CODE;LegalReferences;2
+CHAPTER 89B OF TITLE 5;LegalReferences;2
+CHAPTER ONE OF TITLE LXII OF THE REVISED STATUTES OF THE UNITED STATES 12 USC 21 ET SEQ;LegalReferences;1
+CLAUSES I AND II;LegalReferences;12
+CLAUSES I II AND III;LegalReferences;1
+CLAUSES I THROUGH III;LegalReferences;8
+CLAUSES I THROUGH IV;LegalReferences;3
+CLAUSES I THROUGH IX;LegalReferences;2
+CLAUSES I THROUGH V;LegalReferences;2
+CLAUSES I THROUGH VI;LegalReferences;1
+CLAUSES I THROUGH VII;LegalReferences;1
+CLAUSES II AND III;LegalReferences;4
+CLAUSES II III AND IV;LegalReferences;1
+CLAUSES III AND IV;LegalReferences;1
+CLAUSES III IV AND V;LegalReferences;1
+CODE OF FEDERAL REGULATIONS;LegalReferences;13
+CODES;LegalReferences;2
+CONSUMER PRICE INDEX FOR URBAN WAGE EARNERS AND CLERICAL WORKERS;LegalReferences;2
+CREDIT TRANSACTIONS ACT OF 2003;LegalReferences;2
+D1;LegalReferences;4
+D4;LegalReferences;4
+DEFICIT CONTROL ACT OF 1985 2 USC 906H;LegalReferences;1
+E1;LegalReferences;2
+E2;LegalReferences;3
+EDUCATION IMPROVEMENT ACT 20 USC 9702C1;LegalReferences;1
+EMERGENCY HOMEOWNERS RELIEF ACT;LegalReferences;2
+F1;LegalReferences;13
+F2;LegalReferences;1
+FAIR AND ACCURATE CREDIT TRANSACTIONS ACT OF 2003 PUBLIC LAW 108159;LegalReferences;1
+FAIR CREDIT BILLING ACT 15 USC 16661666J;LegalReferences;1
+FAIR CREDIT REPORTING ACT 15 USC 1681M;LegalReferences;1
+FEDERAL RULES OF CIVIL PROCEDURE;LegalReferences;8
+FEDERAL TRADE COMMISSION ACT 15 USC 45A;LegalReferences;1
+FINANCIAL ACCOUNTING STATEMENTS 166 AND 167;LegalReferences;1
+FINANCIAL INSTITUTIONS ACT OF 1994 12 USC 4701 ET SEQ;LegalReferences;1
+FINANCIAL INSTITUTIONS ACT OF 2010;LegalReferences;1
+FINANCIAL INSTITUTIONS REFORM RECOVERY AND ENFORCEMENT ACT OF 1989;LegalReferences;11
+G1;LegalReferences;3
+G3;LegalReferences;1
+H2;LegalReferences;1
+H5;LegalReferences;4
+HOME OWNERS LOAN ACT;LegalReferences;5
+HOUSING AND URBAN DEVELOPMENT ACT OF 1968 12 USC 1701XE;LegalReferences;1
+HOUSING ENTERPRISES FINANCIAL SAFETY AND SOUNDNESS ACT OF 1992;LegalReferences;3
+HOUSING ENTERPRISES FINANCIAL SAFETY AND SOUNDNESS ACT OF 1992 12 USC 4501 ET SEQ;LegalReferences;1
+HOUSING ENTERPRISES FINANCIAL SAFETY AND SOUNDNESS ACT OF 1992 12 USC 4519;LegalReferences;1
+HOUSING ENTERPRISES FINANCIAL SAFETY AND SOUNDNESS ACT OF 1992 12 USC 4617D;LegalReferences;1
+HUD/FHA FORM HUD 92564CN;LegalReferences;1
+INTERNAL REVENUE SERVICE FORM W2;LegalReferences;1
+INVESTMENT ADVISERS ACT;LegalReferences;1
+INVESTMENT ADVISERS ACT OF 1940;LegalReferences;11
+L2;LegalReferences;1
+MANAGEMENT INTERLOCKS ACT;LegalReferences;1
+MODEL REGULATIONS ON THE USE OF SENIOR-SPECIFIC CERTIFICATIONS AND PROFESSIONAL DESIGNATIONS IN THE SALE OF LIFE INSURANCE AND ANNUITIES;LegalReferences;1
+MODEL RULE ON THE USE OF SENIOR-SPECIFIC CERTIFICATIONS AND PROFESSIONAL DESIGNATIONS;LegalReferences;4
+MODEL STANDARD NONFORFEITURE LAW FOR INDIVIDUAL DEFERRED ANNUITIES;LegalReferences;1
+NATIONAL ASSOCIATION OF INSURANCE COMMISSIONERS SUITABILITY IN ANNUITY TRANSACTIONS MODEL REGULATION MODEL 275;LegalReferences;1
+PACKERS AND STOCKYARDS ACT 1921;LegalReferences;1
+PACKERS AND STOCKYARDS ACT 1921 7 USC 181 ET SEQ;LegalReferences;1
+PARAGRAPH 1 OF SECTION 2301C OF THE HOUSING AND ECONOMIC RECOVERY ACT OF 2008;LegalReferences;1
+PARAGRAPH 10A;LegalReferences;1
+PARAGRAPH 10B;LegalReferences;1
+PARAGRAPH 12A;LegalReferences;2
+PARAGRAPH 12B;LegalReferences;2
+PARAGRAPH 13A;LegalReferences;1
+PARAGRAPH 13B;LegalReferences;1
+PARAGRAPH 15A;LegalReferences;1
+PARAGRAPH 17A;LegalReferences;2
+PARAGRAPH 18A;LegalReferences;2
+PARAGRAPH 18B;LegalReferences;1
+PARAGRAPH 1A;LegalReferences;37
+PARAGRAPH 1B;LegalReferences;22
+PARAGRAPH 1C;LegalReferences;7
+PARAGRAPH 2A;LegalReferences;22
+PARAGRAPH 2AI;LegalReferences;3
+PARAGRAPH 2AIII;LegalReferences;1
+PARAGRAPH 2B;LegalReferences;21
+PARAGRAPH 2BI;LegalReferences;5
+PARAGRAPH 3A;LegalReferences;13
+PARAGRAPH 3B;LegalReferences;10
+PARAGRAPH 47B;LegalReferences;1
+PARAGRAPH 4A;LegalReferences;5
+PARAGRAPH 4B;LegalReferences;11
+PARAGRAPH 53A;LegalReferences;1
+PARAGRAPH 5A;LegalReferences;2
+PARAGRAPH 5B;LegalReferences;1
+PARAGRAPH 6B;LegalReferences;3
+PARAGRAPH 8A;LegalReferences;1
+PARAGRAPH 9A;LegalReferences;3
+PARAGRAPHS 1 AND 2;LegalReferences;27
+PARAGRAPHS 1 AND 3;LegalReferences;5
+PARAGRAPHS 1 AND 4;LegalReferences;1
+PARAGRAPHS 1 THROUGH 3;LegalReferences;3
+PARAGRAPHS 1 THROUGH 4;LegalReferences;8
+PARAGRAPHS 1 THROUGH 5;LegalReferences;5
+PARAGRAPHS 1 THROUGH 6;LegalReferences;1
+PARAGRAPHS 1 THROUGH 7;LegalReferences;1
+PARAGRAPHS 1 THROUGH 8;LegalReferences;1
+PARAGRAPHS 13 AND 14;LegalReferences;1
+PARAGRAPHS 2 AND 3;LegalReferences;11
+PARAGRAPHS 2 THROUGH 12;LegalReferences;1
+PARAGRAPHS 2 THROUGH 4;LegalReferences;2
+PARAGRAPHS 2 THROUGH 5;LegalReferences;3
+PARAGRAPHS 2 THROUGH 7;LegalReferences;2
+PARAGRAPHS 2 THROUGH 8;LegalReferences;1
+PARAGRAPHS 3 AND 32;LegalReferences;4
+PARAGRAPHS 3 AND 4;LegalReferences;2
+PARAGRAPHS 3 THROUGH 11;LegalReferences;1
+PARAGRAPHS 3 THROUGH 5;LegalReferences;2
+PARAGRAPHS 3 THROUGH 6;LegalReferences;1
+PARAGRAPHS 3 THROUGH 9;LegalReferences;1
+PARAGRAPHS 4 AND 5;LegalReferences;1
+PARAGRAPHS 4 THROUGH 12;LegalReferences;1
+PARAGRAPHS 4 THROUGH 9;LegalReferences;1
+PARAGRAPHS 5 AND 6;LegalReferences;5
+PARAGRAPHS 5 THROUGH 7;LegalReferences;1
+PARAGRAPHS 7 AND 11;LegalReferences;1
+PARAGRAPHS 9 AND 10;LegalReferences;2
+PART 366 OF TITLE 12 CODE OF FEDERAL REGULATIONS;LegalReferences;1
+PROTECTING TENANTS AT FORECLOSURE ACT;LegalReferences;1
+REAL ESTATE SETTLEMENT PROCEDURES ACT OF 1974;LegalReferences;2
+REGULATORY IMPROVEMENTS ACT OF 2010;LegalReferences;1
+REVISED STATUTES;LegalReferences;4
+REVISED STATUTES OF THE UNITED STATES;LegalReferences;14
+RULE 12B2 OF THE COMMISSION 17 CFR 24012B2;LegalReferences;1
+RULE 436G;LegalReferences;2
+RULE 45C3AII;LegalReferences;4
+RULE XXII OF THE STANDING RULES OF THE SENATE;LegalReferences;1
+SECTION 10 12 USC 1467A;LegalReferences;2
+SECTION 10 15 USC 78J;LegalReferences;1
+SECTION 10 OF THE HOMEOWNERS PROTECTION ACT OF 1998 12 USC 4909;LegalReferences;1
+SECTION 1004A4 OF THE FEDERAL FINANCIAL INSTITUTIONS EXAMINATION COUNCIL ACT OF 1978 12 USC 3303A4;LegalReferences;1
+SECTION 1013A2B;LegalReferences;1
+SECTION 1013B3;LegalReferences;1
+SECTION 10153D OF TITLE 11 UNITED STATES CODE;LegalReferences;3
+SECTION 101C;LegalReferences;1
+SECTION 101E;LegalReferences;1
+SECTION 101E OF THE HOUSING AND URBAN DEVELOPMENT ACT OF 1968 12 USC 1701X 1701WE;LegalReferences;1
+SECTION 1022C;LegalReferences;1
+SECTION 1024C1;LegalReferences;1
+SECTION 1025A;LegalReferences;6
+SECTION 1025A OR 1026A;LegalReferences;1
+SECTION 1025A1;LegalReferences;1
+SECTION 1025C;LegalReferences;2
+SECTION 1026A;LegalReferences;2
+SECTION 1027A2A;LegalReferences;2
+SECTION 1027A2C;LegalReferences;1
+SECTION 1029A;LegalReferences;6
+SECTION 102A4;LegalReferences;2
+SECTION 102D;LegalReferences;1
+SECTION 102E;LegalReferences;1
+SECTION 1035 OF THE COMMUNITY DEVELOPMENT BANKING AND FINANCIAL INSTITUTIONS ACT OF 1994 12 USC 47025;LegalReferences;1
+SECTION 103A;LegalReferences;2
+SECTION 103AA;LegalReferences;2
+SECTION 103AA OF THE TRUTH IN LENDING ACT 15 USC 1602AA;LegalReferences;2
+SECTION 103AA2 OF THE TRUTH IN LENDING ACT 15 USC 1602AA2;LegalReferences;1
+SECTION 103AA4;LegalReferences;2
+SECTION 103AA4 OF THE TRUTH IN LENDING ACT 15 USC 1602AA4;LegalReferences;1
+SECTION 1042A;LegalReferences;1
+SECTION 104A;LegalReferences;3
+SECTION 104B;LegalReferences;1
+SECTION 104B1A;LegalReferences;1
+SECTION 104D;LegalReferences;1
+SECTION 104E;LegalReferences;2
+SECTION 105A 15 USC 1604A;LegalReferences;1
+SECTION 105A20 OF THE HOUSING AND COMMUNITY DEVELOPMENT ACT OF 1974 42 USC 5305A20;LegalReferences;2
+SECTION 105B;LegalReferences;1
+SECTION 105B 15 USC 1604B;LegalReferences;1
+SECTION 105B3;LegalReferences;1
+SECTION 105B4B;LegalReferences;1
+SECTION 105B5;LegalReferences;1
+SECTION 105B5A;LegalReferences;1
+SECTION 105B5BII;LegalReferences;1
+SECTION 105C1;LegalReferences;1
+SECTION 105C4;LegalReferences;1
+SECTION 105C6;LegalReferences;1
+SECTION 105C7B;LegalReferences;1
+SECTION 105F;LegalReferences;1
+SECTION 105F1 15 USC 1604F1;LegalReferences;1
+SECTION 105I;LegalReferences;1
+SECTION 106 OF THE HOUSING AND URBAN DEVELOPMENT ACT OF 1968 12 USC 1701X;LegalReferences;4
+SECTION 1061B1;LegalReferences;1
+SECTION 1061B2;LegalReferences;1
+SECTION 1061B3;LegalReferences;1
+SECTION 1061B4;LegalReferences;1
+SECTION 1061B5;LegalReferences;2
+SECTION 1061B5E;LegalReferences;1
+SECTION 1061B6;LegalReferences;1
+SECTION 1061B7;LegalReferences;1
+SECTION 1062 OF THE ELECTRONIC SIGNATURES IN GLOBAL AND NATIONAL COMMERCE ACT 15 USC 70062;LegalReferences;1
+SECTION 1064I1C;LegalReferences;1
+SECTION 106A;LegalReferences;1
+SECTION 106A OF THE HOUSING AND URBAN DEVELOPMENT ACT OF 1968 12 USC 1701XA;LegalReferences;1
+SECTION 106A4;LegalReferences;1
+SECTION 106A4 OF THE HOUSING AND URBAN DEVELOPMENT ACT OF 1968 12 USC 1701XA4;LegalReferences;1
+SECTION 106A4F OF THE HOUSING AND URBAN DEVELOPMENT ACT OF 1968 12 USC 1701XA4F;LegalReferences;1
+SECTION 106B1;LegalReferences;1
+SECTION 106C5AII OF THE HOUSING AND URBAN DEVELOPMENT ACT OF 1968 12 USC 1701XC5AII;LegalReferences;1
+SECTION 106E;LegalReferences;1
+SECTION 106E OF THE HOUSING AND URBAN DEVELOPMENT ACT OF 1968 12 USC 1701XE;LegalReferences;3
+SECTION 106G;LegalReferences;1
+SECTION 106G1 OF THE HOUSING AND URBAN DEVELOPMENT ACT OF 1968 12 USC 1701XH1;LegalReferences;1
+SECTION 107A;LegalReferences;3
+SECTION 107B;LegalReferences;1
+SECTION 107D3;LegalReferences;1
+SECTION 108A OF THE TRUTH IN LENDING ACT 15 USC 1607A;LegalReferences;1
+SECTION 108C;LegalReferences;1
+SECTION 10A;LegalReferences;5
+SECTION 10A 12 USC 1848A;LegalReferences;1
+SECTION 10A1;LegalReferences;1
+SECTION 10A1DII;LegalReferences;1
+SECTION 10A2;LegalReferences;1
+SECTION 10AI1B 15 USC 78J1I1B;LegalReferences;1
+SECTION 10B;LegalReferences;5
+SECTION 10B2;LegalReferences;1
+SECTION 10B3;LegalReferences;1
+SECTION 10C;LegalReferences;1
+SECTION 10C 12 USC 2609C AND D;LegalReferences;1
+SECTION 10C2;LegalReferences;1
+SECTION 10C9A;LegalReferences;1
+SECTION 10C9C;LegalReferences;1
+SECTION 10C9D;LegalReferences;1
+SECTION 10E;LegalReferences;1
+SECTION 10E2;LegalReferences;1
+SECTION 10G1;LegalReferences;1
+SECTION 10M3;LegalReferences;1
+SECTION 10O;LegalReferences;1
+SECTION 1103A 12 USC 3332A;LegalReferences;1
+SECTION 1103A OF THE FINANCIAL INSTITUTIONS REFORM RECOVERY AND ENFORCEMENT ACT OF 1989 12 USC 3332A;LegalReferences;2
+SECTION 1104B OF THE FINANCIAL INSTITUTIONS REFORM RECOVERY AND ENFORCEMENT ACT OF 1989 12 USC 3333B;LegalReferences;1
+SECTION 1105A;LegalReferences;1
+SECTION 1105C;LegalReferences;3
+SECTION 1106 OF THE FINANCIAL INSTITUTIONS REFORM RECOVERY AND ENFORCEMENT ACT OF 1989 12 USC 3335;LegalReferences;1
+SECTION 1109A OF THE FINANCIAL INSTITUTIONS REFORM RECOVERY AND ENFORCEMENT ACT OF 1989 12 USC 3338A;LegalReferences;2
+SECTION 1109B OF THE FINANCIAL INSTITUTIONS REFORM RECOVERY AND ENFORCEMENT ACT OF 1989 12 USC 3338B;LegalReferences;1
+SECTION 110B2;LegalReferences;1
+SECTION 1110 OF THE FINANCIAL INSTITUTIONS REFORM RECOVERY AND ENFORCEMENT ACT OF 1989 12 USC 3339;LegalReferences;1
+SECTION 1112B OF THE FINANCIAL INSTITUTIONS REFORM RECOVERY AND ENFORCEMENT ACT OF 1989 12 USC 3341B;LegalReferences;1
+SECTION 1112E 12 USC 3412E;LegalReferences;1
+SECTION 1113 OF THE FINANCIAL INSTITUTIONS AND REFORM RECOVERY AND ENFORCEMENT ACT OF 1989 12 USC 3342;LegalReferences;1
+SECTION 1116 OF THE FINANCIAL INSTITUTIONS REFORM RECOVERY AND ENFORCEMENT ACT OF 1989 12 USC 3345;LegalReferences;1
+SECTION 1117 OF THE FINANCIAL INSTITUTIONS REFORM RECOVERY AND ENFORCEMENT ACT OF 1989 12 USC 3346;LegalReferences;1
+SECTION 1118 OF THE FINANCIAL INSTITUTIONS REFORM RECOVERY AND ENFORCEMENT ACT OF 1989 12 USC 3347;LegalReferences;1
+SECTION 1119A2 OF THE FINANCIAL INSTITUTIONS REFORM RECOVERY AND ENFORCEMENT ACT OF 1989 12 USC 3348A2;LegalReferences;1
+SECTION 1121 OF THE FINANCIAL INSTITUTIONS REFORM RECOVERY AND ENFORCEMENT ACT OF 1989 12 USC 3350;LegalReferences;1
+SECTION 112111 OF THE FINANCIAL INSTITUTIONS REFORM RECOVERY AND ENFORCEMENT ACT OF 1989 12 USC 335011;LegalReferences;1
+SECTION 11216 OF THE FINANCIAL INSTITUTIONS REFORM RECOVERY AND ENFORCEMENT ACT OF 1989 12 USC 33506;LegalReferences;1
+SECTION 11218 OF THE FINANCIAL INSTITUTIONS REFORM RECOVERY AND ENFORCEMENT ACT OF 1989 12 USC 33508;LegalReferences;1
+SECTION 1122 OF THE FINANCIAL INSTITUTIONS REFORM RECOVERY AND ENFORCEMENT ACT OF 1989 12 USC 3351;LegalReferences;4
+SECTION 1122 OF THE FINANCIAL INSTITUTIONS REFORM RECOVERY AND ENFORCEMENT ACT OF 1989 12 USC 3351B;LegalReferences;1
+SECTION 1122D OF THE FINANCIAL INSTITUTIONS REFORM RECOVERY AND ENFORCEMENT ACT OF 1989 12 USC 3351D;LegalReferences;1
+SECTION 1124 OF THE FINANCIAL INSTITUTIONS REFORM RECOVERY AND ENFORCEMENT ACT OF 1989 12 USC 3331 ET SEQ;LegalReferences;1
+SECTION 1125C;LegalReferences;1
+SECTION 112B 15 USC 1681C1 NOTE;LegalReferences;1
+SECTION 1132 OF THE HOUSING AND ECONOMIC RECOVERY ACT OF 2008 12 USC 1701X NOTE;LegalReferences;2
+SECTION 113A OR 113B;LegalReferences;1
+SECTION 113B;LegalReferences;1
+SECTION 113E3;LegalReferences;1
+SECTION 115A;LegalReferences;1
+SECTION 115C;LegalReferences;2
+SECTION 11A;LegalReferences;2
+SECTION 11A1;LegalReferences;2
+SECTION 11A1E;LegalReferences;1
+SECTION 11A2 12 USC 248A2;LegalReferences;1
+SECTION 11A4;LegalReferences;1
+SECTION 11C5;LegalReferences;1
+SECTION 11E;LegalReferences;1
+SECTION 11K;LegalReferences;1
+SECTION 11L;LegalReferences;1
+SECTION 11L2;LegalReferences;1
+SECTION 11R2;LegalReferences;1
+SECTION 11S;LegalReferences;2
+SECTION 12 12 USC 1468A;LegalReferences;1
+SECTION 1204C;LegalReferences;2
+SECTION 1204C3;LegalReferences;1
+SECTION 1205B;LegalReferences;1
+SECTION 1206 12 USC 1833B;LegalReferences;1
+SECTION 1206A;LegalReferences;1
+SECTION 1216 12 USC 1833E;LegalReferences;1
+SECTION 121K;LegalReferences;1
+SECTION 128A;LegalReferences;1
+SECTION 128A OF TRUTH IN LENDING ACT 15 USC 1638A;LegalReferences;1
+SECTION 128B OF THE TRUTH IN LENDING ACT 15 USC 1638B;LegalReferences;1
+SECTION 129 15 USC 1639A;LegalReferences;1
+SECTION 129B OF THE TRUTH IN LENDING ACT;LegalReferences;3
+SECTION 129C;LegalReferences;19
+SECTION 129C OF THE TRUTH IN LENDING ACT;LegalReferences;4
+SECTION 129C2 OF THE TRUTH IN LENDING ACT 15 USC 1639C2;LegalReferences;1
+SECTION 129CB3 OF THE TRUTH IN LENDING ACT;LegalReferences;1
+SECTION 129CC2 OF THE TRUTH IN LENDING ACT;LegalReferences;1
+SECTION 129D OF THE TRUTH IN LENDING ACT;LegalReferences;1
+SECTION 129E;LegalReferences;3
+SECTION 129E OF THE TRUTH IN LENDING ACT 15 USC 1639E;LegalReferences;1
+SECTION 129M;LegalReferences;1
+SECTION 12D1J 15 USC 80A12D1J;LegalReferences;1
+SECTION 12E2B;LegalReferences;1
+SECTION 12F;LegalReferences;1
+SECTION 12I 15 USC 78LI;LegalReferences;1
+SECTION 12K 15 USC 78LK;LegalReferences;1
+SECTION 13 12 USC 1468A;LegalReferences;1
+SECTION 130320 OF THE FEDERAL HOUSING ENTERPRISES FINANCIAL SAFETY AND SOUNDNESS ACT OF 1992 12 USC 450220;LegalReferences;1
+SECTION 130A OF THE TRUTH IN LENDING ACT 15 USC 1640A;LegalReferences;1
+SECTION 130E OF THE TRUTH IN LENDING ACT 15 USC 1640E;LegalReferences;2
+SECTION 1315B 12 USC 4515B;LegalReferences;1
+SECTION 1317C 12 USC 4517C;LegalReferences;1
+SECTION 133C SECTION 714F3C OF TITLE 31 UNITED STATES CODE;LegalReferences;1
+SECTION 13A OR 15D OF THE SECURITIES EXCHANGE ACT OF 1934 15 USC 78M 78O;LegalReferences;1
+SECTION 13B;LegalReferences;1
+SECTION 13B1 15 USC 78MB1;LegalReferences;1
+SECTION 13C;LegalReferences;2
+SECTION 13C4G OF THE FEDERAL DEPOSIT INSURANCE ACT 12 USC 1823C4G;LegalReferences;1
+SECTION 13C4GI OF THE FEDERAL DEPOSIT INSURANCE ACT;LegalReferences;1
+SECTION 13C4GI OF THE FEDERAL DEPOSIT INSURANCE ACT 12 USC 1823C4GI;LegalReferences;1
+SECTION 13E;LegalReferences;1
+SECTION 13F;LegalReferences;2
+SECTION 13F1;LegalReferences;1
+SECTION 13K1A;LegalReferences;1
+SECTION 13M2;LegalReferences;1
+SECTION 13N;LegalReferences;2
+SECTION 13P;LegalReferences;7
+SECTION 13P1A;LegalReferences;1
+SECTION 14 15 USC 78N;LegalReferences;1
+SECTION 1402A;LegalReferences;2
+SECTION 1402B;LegalReferences;1
+SECTION 140D;LegalReferences;1
+SECTION 1416A 15 USC 1715A;LegalReferences;1
+SECTION 141F;LegalReferences;1
+SECTION 1461A;LegalReferences;1
+SECTION 1461C;LegalReferences;1
+SECTION 1464B;LegalReferences;1
+SECTION 1473G;LegalReferences;1
+SECTION 14A;LegalReferences;2
+SECTION 14C;LegalReferences;1
+SECTION 14G;LegalReferences;1
+SECTION 15 15 USC 78O;LegalReferences;2
+SECTION 1507A1;LegalReferences;1
+SECTION 150D2;LegalReferences;1
+SECTION 1513E;LegalReferences;1
+SECTION 1514A;LegalReferences;3
+SECTION 1514AA;LegalReferences;1
+SECTION 1514AB2;LegalReferences;1
+SECTION 154B1;LegalReferences;1
+SECTION 154B1B;LegalReferences;1
+SECTION 158A;LegalReferences;1
+SECTION 158B;LegalReferences;1
+SECTION 15A;LegalReferences;5
+SECTION 15A7;LegalReferences;2
+SECTION 15AB;LegalReferences;1
+SECTION 15B;LegalReferences;8
+SECTION 15B1;LegalReferences;1
+SECTION 15B11;LegalReferences;2
+SECTION 15B4;LegalReferences;1
+SECTION 15B6A;LegalReferences;1
+SECTION 15BA;LegalReferences;1
+SECTION 15BB;LegalReferences;3
+SECTION 15BB2E;LegalReferences;1
+SECTION 15BC;LegalReferences;1
+SECTION 15BC4;LegalReferences;1
+SECTION 15BC8;LegalReferences;1
+SECTION 15BD;LegalReferences;1
+SECTION 15BD2;LegalReferences;1
+SECTION 15C;LegalReferences;1
+SECTION 15C1A;LegalReferences;1
+SECTION 15C3;LegalReferences;6
+SECTION 15C5;LegalReferences;1
+SECTION 15CA2 15 USC 78O5A2;LegalReferences;1
+SECTION 15CC;LegalReferences;1
+SECTION 15D;LegalReferences;3
+SECTION 15E;LegalReferences;4
+SECTION 15EH2B;LegalReferences;1
+SECTION 15EM;LegalReferences;1
+SECTION 15EW;LegalReferences;1
+SECTION 15F;LegalReferences;3
+SECTION 15GA;LegalReferences;1
+SECTION 15GC2 OF THE SECURITIES EXCHANGE ACT OF 1934;LegalReferences;1
+SECTION 16 15 USC 78P;LegalReferences;1
+SECTION 165A;LegalReferences;5
+SECTION 165D;LegalReferences;1
+SECTION 167B2;LegalReferences;1
+SECTION 16A;LegalReferences;1
+SECTION 17A;LegalReferences;6
+SECTION 17A1;LegalReferences;1
+SECTION 17AC4C;LegalReferences;1
+SECTION 17B;LegalReferences;1
+SECTION 17B1B;LegalReferences;1
+SECTION 17E1A;LegalReferences;3
+SECTION 17F;LegalReferences;1
+SECTION 17F1;LegalReferences;1
+SECTION 17F2;LegalReferences;1
+SECTION 17R1;LegalReferences;1
+SECTION 18 15 USC 77R;LegalReferences;1
+SECTION 18A1B;LegalReferences;1
+SECTION 18A4;LegalReferences;2
+SECTION 18C;LegalReferences;3
+SECTION 18C5;LegalReferences;1
+SECTION 18D4A;LegalReferences;1
+SECTION 18F OF THE FEDERAL TRADE COMMISSION ACT 15 USC 57AF;LegalReferences;1
+SECTION 18G;LegalReferences;1
+SECTION 19A;LegalReferences;1
+SECTION 19B;LegalReferences;6
+SECTION 19B 12 USC 461B;LegalReferences;1
+SECTION 19B1;LegalReferences;1
+SECTION 19B1A;LegalReferences;4
+SECTION 19B1AIV;LegalReferences;1
+SECTION 19B2;LegalReferences;1
+SECTION 19B3;LegalReferences;1
+SECTION 19B4;LegalReferences;2
+SECTION 19B7;LegalReferences;1
+SECTION 19D6A;LegalReferences;1
+SECTION 19E 12 USC 1829E;LegalReferences;1
+SECTION 19H4;LegalReferences;1
+SECTION 19I;LegalReferences;1
+SECTION 1B;LegalReferences;4
+SECTION 1B4 12 USC 1861B4;LegalReferences;1
+SECTION 1B5;LegalReferences;1
+SECTION 1B7;LegalReferences;2
+SECTION 2 15 USC 78B;LegalReferences;1
+SECTION 20 15 USC 78T;LegalReferences;1
+SECTION 201A11;LegalReferences;4
+SECTION 201F;LegalReferences;1
+SECTION 202A;LegalReferences;5
+SECTION 202A1;LegalReferences;1
+SECTION 202A11;LegalReferences;4
+SECTION 202A1A;LegalReferences;1
+SECTION 202A21;LegalReferences;1
+SECTION 202C1A;LegalReferences;1
+SECTION 202F;LegalReferences;1
+SECTION 203A;LegalReferences;2
+SECTION 203B;LegalReferences;7
+SECTION 203C2A OF THE NATIONAL HOUSING ACT 12 USC 1709C2A;LegalReferences;1
+SECTION 203C3;LegalReferences;2
+SECTION 203D;LegalReferences;2
+SECTION 203F;LegalReferences;1
+SECTION 203I1;LegalReferences;1
+SECTION 203M;LegalReferences;1
+SECTION 204B;LegalReferences;1
+SECTION 204D;LegalReferences;2
+SECTION 205A;LegalReferences;1
+SECTION 205A1;LegalReferences;1
+SECTION 205B;LegalReferences;1
+SECTION 205E;LegalReferences;2
+SECTION 205F;LegalReferences;2
+SECTION 2063 15 USC 80B63;LegalReferences;1
+SECTION 206A;LegalReferences;4
+SECTION 206B;LegalReferences;17
+SECTION 206E;LegalReferences;1
+SECTION 206G7 12 USC 1786G7;LegalReferences;1
+SECTION 207K1;LegalReferences;2
+SECTION 207K5;LegalReferences;1
+SECTION 208N5;LegalReferences;1
+SECTION 209E3A;LegalReferences;1
+SECTION 20A;LegalReferences;1
+SECTION 20D3A;LegalReferences;1
+SECTION 20E;LegalReferences;1
+SECTION 21 OR 27 OF THE SECURITIES EXCHANGE ACT OF 1934 15 USC 78U 78AA;LegalReferences;2
+SECTION 210A 12 USC 3208A;LegalReferences;1
+SECTION 210A1A;LegalReferences;2
+SECTION 210A2;LegalReferences;1
+SECTION 210A5;LegalReferences;1
+SECTION 210B;LegalReferences;3
+SECTION 210B1;LegalReferences;1
+SECTION 210C;LegalReferences;2
+SECTION 210C10B;LegalReferences;1
+SECTION 210C8;LegalReferences;1
+SECTION 210H;LegalReferences;1
+SECTION 210N;LegalReferences;1
+SECTION 210N14;LegalReferences;1
+SECTION 210N9;LegalReferences;1
+SECTION 211D 15 USC 1681J NOTE;LegalReferences;1
+SECTION 212 OF THE FEDERAL CREDIT UNION ACT 112 USC 1790A;LegalReferences;1
+SECTION 212C2;LegalReferences;3
+SECTION 213A 15 USC 80B13A;LegalReferences;1
+SECTION 214B 15 USC 1681S3 NOTE;LegalReferences;1
+SECTION 214E1 15 USC 1681S3 NOTE;LegalReferences;1
+SECTION 216J;LegalReferences;1
+SECTION 217 OF THE INVESTMENT ADVISERS ACT OF 1940 15 USC 80B17;LegalReferences;1
+SECTION 21A;LegalReferences;7
+SECTION 21A1;LegalReferences;3
+SECTION 21AR4A;LegalReferences;1
+SECTION 21AR4B;LegalReferences;1
+SECTION 21BA;LegalReferences;1
+SECTION 21C;LegalReferences;2
+SECTION 21CC2 15 USC 78U3C2;LegalReferences;1
+SECTION 21D;LegalReferences;1
+SECTION 21D3CI;LegalReferences;1
+SECTION 21DB2;LegalReferences;1
+SECTION 21E;LegalReferences;3
+SECTION 21F;LegalReferences;9
+SECTION 21FA3;LegalReferences;1
+SECTION 21FH2A;LegalReferences;1
+SECTION 21H2 15 USC 78UH2;LegalReferences;1
+SECTION 220D2G OF THE LOW-INCOME HOUSING PRESERVATION AND RESIDENT HOMEOWNERSHIP ACT OF 1990 12 USC 4110D2G;LegalReferences;1
+SECTION 222 15 USC 80B18A;LegalReferences;1
+SECTION 22910A;LegalReferences;1
+SECTION 229402C2X;LegalReferences;1
+SECTION 22A;LegalReferences;3
+SECTION 22A1;LegalReferences;1
+SECTION 22D;LegalReferences;1
+SECTION 22H;LegalReferences;1
+SECTION 22H9;LegalReferences;1
+SECTION 2301A;LegalReferences;1
+SECTION 2301B;LegalReferences;2
+SECTION 2301B OF THE HOUSING AND ECONOMIC RECOVERY ACT OF 2008 42 USC 5301 NOTE;LegalReferences;1
+SECTION 2301F3AII OF THE HOUSING AND ECONOMIC RECOVERY ACT OF 2008 42 USC 5301F3AII;LegalReferences;1
+SECTION 2302B11;LegalReferences;1
+SECTION 232A;LegalReferences;1
+SECTION 232A3;LegalReferences;2
+SECTION 233B2 OF THE CRANSTON-GONZALEZ NATIONAL AFFORDABLE HOUSING ACT 42 USC 12773B2;LegalReferences;1
+SECTION 23A;LegalReferences;4
+SECTION 23B;LegalReferences;3
+SECTION 23B1 15 USC 78WB1;LegalReferences;1
+SECTION 23C4 42 USC 1437UC4;LegalReferences;2
+SECTION 24 OF THE SECURITIES ACT OF 1933 15 USC 77X;LegalReferences;1
+SECTION 24017AD17;LegalReferences;1
+SECTION 24F;LegalReferences;2
+SECTION 2539C2;LegalReferences;1
+SECTION 2554B2;LegalReferences;1
+SECTION 256H;LegalReferences;1
+SECTION 25A;LegalReferences;4
+SECTION 270A 12 USC 4309;LegalReferences;1
+SECTION 272B 12 USC 4311;LegalReferences;1
+SECTION 272B 12 USC 4311B;LegalReferences;1
+SECTION 27AC1BII 15 USC 77Z2C1BII;LegalReferences;1
+SECTION 28 12 USC 1831E;LegalReferences;1
+SECTION 28A;LegalReferences;1
+SECTION 28D;LegalReferences;1
+SECTION 28E;LegalReferences;1
+SECTION 29A;LegalReferences;2
+SECTION 2A;LegalReferences;8
+SECTION 2A1;LegalReferences;6
+SECTION 2A11;LegalReferences;2
+SECTION 2A13;LegalReferences;2
+SECTION 2A19;LegalReferences;1
+SECTION 2A1A;LegalReferences;1
+SECTION 2A4;LegalReferences;1
+SECTION 2A44;LegalReferences;1
+SECTION 2A5E;LegalReferences;1
+SECTION 2A5F;LegalReferences;1
+SECTION 2A9;LegalReferences;1
+SECTION 2B;LegalReferences;3
+SECTION 2B OF THE FEDERAL RESERVE ACT 12 USC 225B;LegalReferences;1
+SECTION 2C;LegalReferences;4
+SECTION 2C OR 2F;LegalReferences;1
+SECTION 2C2;LegalReferences;16
+SECTION 2C2A;LegalReferences;1
+SECTION 2C2B;LegalReferences;5
+SECTION 2C2D;LegalReferences;10
+SECTION 2C2F;LegalReferences;3
+SECTION 2C2H;LegalReferences;2
+SECTION 2F;LegalReferences;1
+SECTION 2H;LegalReferences;7
+SECTION 2H1;LegalReferences;5
+SECTION 2H3;LegalReferences;2
+SECTION 2H4;LegalReferences;1
+SECTION 2H5;LegalReferences;2
+SECTION 2H7;LegalReferences;3
+SECTION 2H8;LegalReferences;1
+SECTION 2H8B;LegalReferences;2
+SECTION 2J3 12 USC 1841J3;LegalReferences;1
+SECTION 2O4;LegalReferences;1
+SECTION 2O8;LegalReferences;1
+SECTION 2P;LegalReferences;1
+SECTION 3 12 USC 1462A;LegalReferences;1
+SECTION 3 15 USC 78C;LegalReferences;1
+SECTION 302A4 OF THE AMERICAN HOMEOWNERSHIP AND ECONOMIC OPPORTUNITY ACT OF 2000 42 USC 1437F NOTE;LegalReferences;1
+SECTION 302B6;LegalReferences;1
+SECTION 303 15 USC 77CCC;LegalReferences;1
+SECTION 303F;LegalReferences;1
+SECTION 304B;LegalReferences;1
+SECTION 304C4;LegalReferences;1
+SECTION 304G2;LegalReferences;1
+SECTION 305A2;LegalReferences;6
+SECTION 306 12 USC 2805B;LegalReferences;1
+SECTION 306L2;LegalReferences;1
+SECTION 308 15 USC 77HHH;LegalReferences;1
+SECTION 308B;LegalReferences;2
+SECTION 310 15 USC 77JJJ;LegalReferences;1
+SECTION 3109B;LegalReferences;1
+SECTION 311 15 USC 77KKK;LegalReferences;1
+SECTION 312B;LegalReferences;1
+SECTION 312B1A;LegalReferences;1
+SECTION 312B2B;LegalReferences;1
+SECTION 312B2C;LegalReferences;1
+SECTION 3132A1;LegalReferences;1
+SECTION 3132A7;LegalReferences;1
+SECTION 317A1;LegalReferences;1
+SECTION 321A;LegalReferences;2
+SECTION 323B;LegalReferences;1
+SECTION 325 OF THE TRUST INDENTURE ACT OF 1939 15 USC 77YYY;LegalReferences;1
+SECTION 326 15 USC 77ZZZ;LegalReferences;1
+SECTION 32A OF THE SECURITIES EXCHANGE ACT OF 1934 15 USC 78FFA;LegalReferences;1
+SECTION 32E4;LegalReferences;2
+SECTION 33D2B;LegalReferences;2
+SECTION 33E 12 USC 1831JE;LegalReferences;1
+SECTION 3512C;LegalReferences;1
+SECTION 3518C1;LegalReferences;3
+SECTION 3553A2;LegalReferences;2
+SECTION 364A;LegalReferences;1
+SECTION 36A;LegalReferences;1
+SECTION 36A1;LegalReferences;2
+SECTION 3709 OF THE REVISED STATUTES OF THE UNITED STATES 41 USC 5;LegalReferences;1
+SECTION 3730H;LegalReferences;1
+SECTION 38 12 USC 1831O;LegalReferences;1
+SECTION 38 OF THE FEDERAL DEPOSIT INSURANCE ACT 12 USC 1831O;LegalReferences;1
+SECTION 38B;LegalReferences;1
+SECTION 38K;LegalReferences;1
+SECTION 39C;LegalReferences;1
+SECTION 3A;LegalReferences;17
+SECTION 3A10;LegalReferences;2
+SECTION 3A12;LegalReferences;2
+SECTION 3A13;LegalReferences;1
+SECTION 3A2;LegalReferences;1
+SECTION 3A34;LegalReferences;1
+SECTION 3A4;LegalReferences;1
+SECTION 3A4 15 USC 77CA4;LegalReferences;1
+SECTION 3A47;LegalReferences;2
+SECTION 3A4BVIII;LegalReferences;1
+SECTION 3A5;LegalReferences;2
+SECTION 3A6;LegalReferences;1
+SECTION 3A62;LegalReferences;1
+SECTION 3A68;LegalReferences;6
+SECTION 3A68A;LegalReferences;1
+SECTION 3A77;LegalReferences;4
+SECTION 3A78;LegalReferences;5
+SECTION 3A8;LegalReferences;2
+SECTION 3B;LegalReferences;1
+SECTION 3B2;LegalReferences;6
+SECTION 3B3;LegalReferences;6
+SECTION 3C;LegalReferences;18
+SECTION 3C1 OR 3C7;LegalReferences;2
+SECTION 3C2;LegalReferences;7
+SECTION 3D;LegalReferences;3
+SECTION 3D1A;LegalReferences;1
+SECTION 3E2;LegalReferences;1
+SECTION 3F OF THE FEDERAL DEPOSIT INSURANCE ACT 12 USC 1813F;LegalReferences;1
+SECTION 3Q;LegalReferences;17
+SECTION 3Q1;LegalReferences;1
+SECTION 3Q2;LegalReferences;1
+SECTION 3S OF THE FEDERAL DEPOSIT INSURANCE ACT 12 USC 1813S;LegalReferences;2
+SECTION 3Y3;LegalReferences;1
+SECTION 4 OF THE SECURITIES EXCHANGE ACT OF 1934 15 USC 78D;LegalReferences;3
+SECTION 402B;LegalReferences;1
+SECTION 403A;LegalReferences;1
+SECTION 403B;LegalReferences;1
+SECTION 404B;LegalReferences;10
+SECTION 408 7 USC 27F;LegalReferences;1
+SECTION 422B6 OF THE CRANSTON-GONZALEZ NATIONAL AFFORDABLE HOUSING ACT 42 USC 12872B6;LegalReferences;1
+SECTION 42E3A;LegalReferences;1
+SECTION 43 12 USC 1831T;LegalReferences;1
+SECTION 4302D;LegalReferences;1
+SECTION 435M;LegalReferences;1
+SECTION 44B4B;LegalReferences;1
+SECTION 457B;LegalReferences;1
+SECTION 457E1A;LegalReferences;1
+SECTION 46A2;LegalReferences;1
+SECTION 49 OF THE INVESTMENT COMPANY ACT OF 1940 15 USC 80A48;LegalReferences;1
+SECTION 491B1FIII OF THE MCKINNEY-VENTO HOMELESS ASSISTANCE ACT 42 USC 11408B1FIII;LegalReferences;2
+SECTION 4A;LegalReferences;10
+SECTION 4B;LegalReferences;3
+SECTION 4C;LegalReferences;17
+SECTION 4C 15 USC 78D3;LegalReferences;1
+SECTION 4C1;LegalReferences;4
+SECTION 4D;LegalReferences;10
+SECTION 4D OF THE TELEMARKETING AND CONSUMER FRAUD AND ABUSE PREVENTION ACT 15 USC 6103D;LegalReferences;1
+SECTION 4D1C;LegalReferences;1
+SECTION 4G;LegalReferences;1
+SECTION 4H;LegalReferences;1
+SECTION 4I;LegalReferences;1
+SECTION 4J1;LegalReferences;1
+SECTION 4J2;LegalReferences;1
+SECTION 4J2A;LegalReferences;1
+SECTION 4J3;LegalReferences;1
+SECTION 4K;LegalReferences;14
+SECTION 4K4E;LegalReferences;1
+SECTION 4K6B;LegalReferences;2
+SECTION 4L1;LegalReferences;1
+SECTION 5 OF THE REAL ESTATE SETTLEMENT PROCEDURES ACT OF 1974 12 USC 2604;LegalReferences;2
+SECTION 501A;LegalReferences;1
+SECTION 501B;LegalReferences;2
+SECTION 501B 15 USC 6801B;LegalReferences;1
+SECTION 501C;LegalReferences;1
+SECTION 501C3;LegalReferences;4
+SECTION 502C;LegalReferences;1
+SECTION 502E5 15 USC 6802E5;LegalReferences;1
+SECTION 502H4B OF THE HOUSING ACT OF 1949 42 USC 1472H4B;LegalReferences;1
+SECTION 504A 15 USC 6804A;LegalReferences;1
+SECTION 505A 15 USC 6805A;LegalReferences;1
+SECTION 505A6;LegalReferences;1
+SECTION 505B1 15 USC 6805B1;LegalReferences;1
+SECTION 507A2;LegalReferences;1
+SECTION 507B 15 USC 6807;LegalReferences;1
+SECTION 508 OF THE HOUSING AND URBAN DEVELOPMENT ACT OF 1970 12 USC 1701Z7;LegalReferences;1
+SECTION 5136A OF THE REVISED STATUTES OF THE UNITED STATES;LegalReferences;1
+SECTION 5136A OF TITLE LXII OF THE REVISED STATUTES OF THE UNITED STATES 12 USC 24A;LegalReferences;1
+SECTION 5136C OF THE REVISED STATUTES OF THE UNITED STATES;LegalReferences;2
+SECTION 513C1;LegalReferences;1
+SECTION 513D;LegalReferences;1
+SECTION 5155G1A;LegalReferences;1
+SECTION 5197 OF THE REVISED STATUTES OF THE UNITED STATES 12 USC 85;LegalReferences;1
+SECTION 5200B;LegalReferences;3
+SECTION 5200B3;LegalReferences;1
+SECTION 521B;LegalReferences;1
+SECTION 529B1;LegalReferences;1
+SECTION 547C;LegalReferences;1
+SECTION 548C;LegalReferences;1
+SECTION 552A OF TITLE 5 UNITED STATES CODE;LegalReferences;3
+SECTION 552B;LegalReferences;1
+SECTION 552B OR 552A OF TITLE 5 UNITED STATES CODE;LegalReferences;1
+SECTION 552B3;LegalReferences;4
+SECTION 552B5;LegalReferences;1
+SECTION 552B8;LegalReferences;1
+SECTION 555 OF PUBLIC LAW 100461 22 USC 286HHA6;LegalReferences;1
+SECTION 5703B;LegalReferences;1
+SECTION 5A;LegalReferences;6
+SECTION 5A OF THE INSPECTOR GENERAL ACT OF 1978 5 USC APP;LegalReferences;3
+SECTION 5A3;LegalReferences;1
+SECTION 5B;LegalReferences;11
+SECTION 5B1B;LegalReferences;1
+SECTION 5B2;LegalReferences;1
+SECTION 5C;LegalReferences;7
+SECTION 5C OF THE TELEMARKETING AND CONSUMER FRAUD AND ABUSE PREVENTION ACT 15 USC 6104C;LegalReferences;1
+SECTION 5C2;LegalReferences;1
+SECTION 5C5;LegalReferences;2
+SECTION 5C5B 12 USC 1844C5B;LegalReferences;1
+SECTION 5D;LegalReferences;4
+SECTION 5E;LegalReferences;1
+SECTION 5E1;LegalReferences;1
+SECTION 5F 12 USC 1844F;LegalReferences;1
+SECTION 5G OF THE COMMODITY EXCHANGE ACT;LegalReferences;1
+SECTION 5I;LegalReferences;1
+SECTION 5Q;LegalReferences;1
+SECTION 5U3;LegalReferences;1
+SECTION 603 15 USC 1681A;LegalReferences;1
+SECTION 603 OF THE EXPEDITED FUNDS AVAILABILITY ACT 12 USC 4002;LegalReferences;1
+SECTION 603 OF THE NATIONAL MANUFACTURED HOUSING CONSTRUCTION AND SAFETY STANDARDS ACT OF 1974 42 USC 5402;LegalReferences;1
+SECTION 603D1 OF THE EXPEDITED FUNDS AVAILABILITY ACT 12 USC 4002;LegalReferences;1
+SECTION 603K2 15 USC 1681AK2;LegalReferences;1
+SECTION 603P OF THE FAIR CREDIT REPORTING ACT 15 USC 1681AP;LegalReferences;2
+SECTION 604 OF THE EXPEDITED FUNDS AVAILABILITY ACT 12 USC 4003;LegalReferences;1
+SECTION 604A;LegalReferences;1
+SECTION 604G 15 USC 1681BG;LegalReferences;1
+SECTION 605 OF THE EXPEDITED FUNDS AVAILABILITY ACT 12 USC 4004;LegalReferences;1
+SECTION 605F1;LegalReferences;1
+SECTION 605H2A 15 USC 1681CH2A;LegalReferences;1
+SECTION 606C3;LegalReferences;1
+SECTION 609 OF THE EXPEDITED FUNDS AVAILABILITY ACT 12 USC 4008;LegalReferences;1
+SECTION 609D;LegalReferences;1
+SECTION 609D2;LegalReferences;3
+SECTION 609F1;LegalReferences;2
+SECTION 609F2A;LegalReferences;2
+SECTION 611E2 15 USC 1681IE;LegalReferences;1
+SECTION 615D;LegalReferences;1
+SECTION 615D2B 15 USC 1681MD2B;LegalReferences;1
+SECTION 615E1 15 USC 1681ME;LegalReferences;1
+SECTION 615E1 15 USC 1681ME1;LegalReferences;1
+SECTION 615H6 15 USC 1681MH6;LegalReferences;1
+SECTION 61A3BIII 15 USC 80A60A3BIII;LegalReferences;1
+SECTION 621 15 USC 1681S;LegalReferences;1
+SECTION 623 15 USC 1681S2;LegalReferences;1
+SECTION 623A1;LegalReferences;1
+SECTION 624 OF THE FAIR CREDIT REPORTING ACT 15 USC 1681S3;LegalReferences;1
+SECTION 626 OF THE OMNIBUS APPROPRIATIONS ACT 2009 15 USC 1638 NOTE;LegalReferences;1
+SECTION 628A1 15 USC 1681WA1;LegalReferences;2
+SECTION 628A3 15 USC 1681WA3;LegalReferences;1
+SECTION 6A;LegalReferences;6
+SECTION 6A5AIVI;LegalReferences;1
+SECTION 6B;LegalReferences;11
+SECTION 6C;LegalReferences;2
+SECTION 6CD;LegalReferences;1
+SECTION 6D;LegalReferences;2
+SECTION 6E;LegalReferences;2
+SECTION 6F;LegalReferences;1
+SECTION 6G;LegalReferences;1
+SECTION 6G1A;LegalReferences;1
+SECTION 6G5B;LegalReferences;1
+SECTION 6I2;LegalReferences;1
+SECTION 6J3 12 USC 2605J3;LegalReferences;1
+SECTION 7 OF THE SECURITIES ACT OF 1933 15 USC 77G;LegalReferences;2
+SECTION 701B OF THE EQUAL CREDIT OPPORTUNITY ACT 15 USC 1691B;LegalReferences;1
+SECTION 702 15 USC 1691A;LegalReferences;1
+SECTION 703 15 USC 1691B;LegalReferences;1
+SECTION 703F;LegalReferences;1
+SECTION 704 15 USC 1691C;LegalReferences;1
+SECTION 704A;LegalReferences;2
+SECTION 704A4 15 USC 1691CA4;LegalReferences;1
+SECTION 706E 15 USC 1691EE;LegalReferences;1
+SECTION 706F 15 USC 1691EF;LegalReferences;1
+SECTION 706G 15 USC 1691EG;LegalReferences;1
+SECTION 7103A8;LegalReferences;2
+SECTION 714A;LegalReferences;1
+SECTION 714B;LegalReferences;1
+SECTION 714D;LegalReferences;1
+SECTION 714F;LegalReferences;1
+SECTION 714F1A;LegalReferences;1
+SECTION 714F3C OF TITLE 31 UNITED STATES CODE;LegalReferences;1
+SECTION 716C;LegalReferences;1
+SECTION 721A1;LegalReferences;1
+SECTION 721B;LegalReferences;1
+SECTION 721C;LegalReferences;1
+SECTION 721D;LegalReferences;1
+SECTION 723A1B;LegalReferences;1
+SECTION 723A3;LegalReferences;1
+SECTION 744Q;LegalReferences;1
+SECTION 745B3;LegalReferences;1
+SECTION 763I;LegalReferences;1
+SECTION 7701A36;LegalReferences;1
+SECTION 7A;LegalReferences;6
+SECTION 7A2B;LegalReferences;2
+SECTION 7AC8;LegalReferences;2
+SECTION 7B 12 USC 2606B;LegalReferences;1
+SECTION 7B1;LegalReferences;1
+SECTION 7B1E;LegalReferences;1
+SECTION 7B1EI;LegalReferences;1
+SECTION 7B2;LegalReferences;5
+SECTION 7B2C;LegalReferences;2
+SECTION 7B3B;LegalReferences;1
+SECTION 7B3EII;LegalReferences;1
+SECTION 7C;LegalReferences;3
+SECTION 7C1;LegalReferences;1
+SECTION 7C1A;LegalReferences;1
+SECTION 7C2 12 USC 1867C2;LegalReferences;1
+SECTION 7D3;LegalReferences;1
+SECTION 7E;LegalReferences;1
+SECTION 7E1;LegalReferences;1
+SECTION 7H10 OF THE FOOD AND NUTRITION ACT OF 2008 7 USC 2016H10;LegalReferences;1
+SECTION 7J;LegalReferences;2
+SECTION 8 12 USC 1466A;LegalReferences;1
+SECTION 8 OF THE UNITED STATES HOUSING ACT OF 1937 42 USC 1437F;LegalReferences;1
+SECTION 803 15 USC 1692A;LegalReferences;1
+SECTION 804C;LegalReferences;1
+SECTION 805A;LegalReferences;11
+SECTION 805A2;LegalReferences;1
+SECTION 806E;LegalReferences;1
+SECTION 814 15 USC 1692L;LegalReferences;1
+SECTION 8336D2 OR 8414B1;LegalReferences;2
+SECTION 8706B1A;LegalReferences;2
+SECTION 89013 OF TITLE 5 UNITED STATES CODE;LegalReferences;1
+SECTION 8905B1A;LegalReferences;1
+SECTION 8A;LegalReferences;9
+SECTION 8B;LegalReferences;1
+SECTION 8B3;LegalReferences;1
+SECTION 8C;LegalReferences;1
+SECTION 8C5 12 USC 2607C5;LegalReferences;1
+SECTION 8D 12 USC 2607D;LegalReferences;1
+SECTION 8E;LegalReferences;3
+SECTION 8G OF THE INSPECTOR GENERAL ACT OF 1978 5 USC APP;LegalReferences;1
+SECTION 8GE OF THE INSPECTOR GENERAL ACT OF 1978 5 USC APP;LegalReferences;1
+SECTION 8L OF THE INSPECTOR GENERAL ACT OF 1978 5 USC APP;LegalReferences;1
+SECTION 8N;LegalReferences;1
+SECTION 8T;LegalReferences;1
+SECTION 8T 12 USC 1818T;LegalReferences;1
+SECTION 8V;LegalReferences;1
+SECTION 8Y1;LegalReferences;1
+SECTION 9 12 USC 1467;LegalReferences;1
+SECTION 9 15 USC 78I;LegalReferences;1
+SECTION 902B 15 USC 1693B;LegalReferences;1
+SECTION 903 15 USC 1693A;LegalReferences;1
+SECTION 904 15 USC 1693B;LegalReferences;1
+SECTION 904A2;LegalReferences;1
+SECTION 904C 15 USC 1693BC;LegalReferences;1
+SECTION 906A;LegalReferences;1
+SECTION 908A1;LegalReferences;1
+SECTION 914;LegalReferences;1
+SECTION 915A2A;LegalReferences;1
+SECTION 916D 15 USC 1693M;LegalReferences;1
+SECTION 918;LegalReferences;2
+SECTION 918 15 USC 1693O;LegalReferences;1
+SECTION 922A;LegalReferences;1
+SECTION 936;LegalReferences;1
+SECTION 939D;LegalReferences;1
+SECTION 939D OF HR 4173 111TH CONGRESS;LegalReferences;1
+SECTION 941;LegalReferences;1
+SECTION 981A1;LegalReferences;1
+SECTION 982A3;LegalReferences;1
+SECTION 9A;LegalReferences;2
+SECTION 9A1;LegalReferences;1
+SECTION 9A2;LegalReferences;2
+SECTION 9B;LegalReferences;1
+SECTION 9B4B;LegalReferences;1
+SECTION 9D1;LegalReferences;1
+SECTION 9E 42 USC 1437GE;LegalReferences;2
+SECTIONS 1;LegalReferences;1
+SECTIONS 10;LegalReferences;1
+SECTIONS 1022;LegalReferences;1
+SECTIONS 1024;LegalReferences;9
+SECTIONS 104;LegalReferences;1
+SECTIONS 1044;LegalReferences;1
+SECTIONS 105I;LegalReferences;1
+SECTIONS 1081;LegalReferences;1
+SECTIONS 110;LegalReferences;1
+SECTIONS 116D AND 502BB OF THE FOREIGN ASSISTANCE ACT OF 1961 22 USC 2151ND AND 2304B;LegalReferences;1
+SECTIONS 125 AND 129 OF THE TRUTH IN LENDING ACT;LegalReferences;1
+SECTIONS 128F;LegalReferences;1
+SECTIONS 129;LegalReferences;3
+SECTIONS 1471;LegalReferences;1
+SECTIONS 17;LegalReferences;1
+SECTIONS 2023 AND 810B2A OF THE NATIVE AMERICAN HOUSING AND SELF-DETERMINATION ACT OF 1996 25 USC 41323 4229B2A;LegalReferences;2
+SECTIONS 204D;LegalReferences;1
+SECTIONS 206;LegalReferences;1
+SECTIONS 21B AND 21C OF THE SECURITIES EXCHANGE ACT OF 1934;LegalReferences;1
+SECTIONS 23;LegalReferences;1
+SECTIONS 233B2 AND 258B OF THE CRANSTON-GONZALEZ NATIONAL AFFORDABLE HOUSING ACT 42 USC 12773B2 12808B;LegalReferences;1
+SECTIONS 2A1;LegalReferences;1
+SECTIONS 2A13;LegalReferences;1
+SECTIONS 2H2;LegalReferences;1
+SECTIONS 3;LegalReferences;1
+SECTIONS 301 THROUGH 326;LegalReferences;2
+SECTIONS 302B6;LegalReferences;1
+SECTIONS 303;LegalReferences;1
+SECTIONS 312B;LegalReferences;1
+SECTIONS 3C;LegalReferences;1
+SECTIONS 3C 101C 105 AND 107C;LegalReferences;1
+SECTIONS 3D;LegalReferences;1
+SECTIONS 3Q;LegalReferences;1
+SECTIONS 4;LegalReferences;3
+SECTIONS 401A;LegalReferences;1
+SECTIONS 403;LegalReferences;1
+SECTIONS 404;LegalReferences;1
+SECTIONS 408;LegalReferences;1
+SECTIONS 422B6 423B7 424C4 442B6 AND 443B6 OF THE CRANSTON-GONZALEZ NATIONAL AFFORDABLE HOUSING ACT 42 USC 12872B6 12873B7 12874C4 12892B6 AND 12893B6;LegalReferences;1
+SECTIONS 4A;LegalReferences;1
+SECTIONS 4L;LegalReferences;1
+SECTIONS 5;LegalReferences;3
+SECTIONS 5 AND 18A1B OF THE FEDERAL TRADE COMMISSION ACT;LegalReferences;1
+SECTIONS 502;LegalReferences;1
+SECTIONS 5136CI OF THE REVISED STATUTES OF THE UNITED STATES;LegalReferences;1
+SECTIONS 547;LegalReferences;1
+SECTIONS 556;LegalReferences;1
+SECTIONS 5713 AND 575103 D OF TITLE 49 CODE OF FEDERAL REGULATIONS;LegalReferences;1
+SECTIONS 5C1;LegalReferences;1
+SECTIONS 6;LegalReferences;1
+SECTIONS 615E;LegalReferences;2
+SECTIONS 615E 15 USC 1681ME;LegalReferences;1
+SECTIONS 721C;LegalReferences;1
+SECTIONS 741;LegalReferences;1
+SECTIONS 8706B;LegalReferences;2
+SECTIONS 9;LegalReferences;1
+SECTIONS 905;LegalReferences;1
+SECTIONS 916;LegalReferences;1
+SECTIONS 919;LegalReferences;1
+SECTIONS 919A2D AND 919A3 OF THE ELECTRONIC FUND TRANSFER ACT;LegalReferences;1
+SECTIONS 920;LegalReferences;2
+SECTIONS 921;LegalReferences;1
+SECURITIES AND EXCHANGE ACT OF 1934;LegalReferences;2
+SECURITIES EXCHANGE ACT;LegalReferences;1
+SECURITIES INVESTOR PROTECTION ACT 15 USC 78AAA ET SEQ;LegalReferences;1
+SECURITIES INVESTOR PROTECTION ACT OF 1970 15 USC 78FFF2C;LegalReferences;1
+SECURITIES REFORM ACT OF 2010;LegalReferences;3
+STUDY REQUIRED;LegalReferences;59
+SUBCHAPTER I OF CHAPTER 57 OF TITLE 5 UNITED STATES CODE;LegalReferences;1
+SUBCHAPTER II OF CHAPTER 53 OF TITLE 31 UNITED STATES CODE SECTION 21 OF THE FEDERAL DEPOSIT INSURANCE ACT 12 USC 1829B;LegalReferences;1
+SUBCLAUSE II;LegalReferences;17
+SUBCLAUSES I AND III;LegalReferences;3
+SUBPARAGRAPH A OR B;LegalReferences;12
+SUBPARAGRAPHS A THROUGH D;LegalReferences;5
+SUBPARAGRAPHS A THROUGH E;LegalReferences;5
+SUBPARAGRAPHS AVI AND BVI;LegalReferences;1
+SUBPARAGRAPHS B THROUGH D;LegalReferences;1
+SUBPARAGRAPHS B THROUGH E;LegalReferences;3
+SUBPARAGRAPHS C AND G;LegalReferences;1
+SUBPARAGRAPHS E THROUGH G;LegalReferences;1
+SUBSECTION A1;LegalReferences;50
+SUBSECTION A11;LegalReferences;3
+SUBSECTION A2;LegalReferences;26
+SUBSECTION A2E;LegalReferences;1
+SUBSECTION A3;LegalReferences;6
+SUBSECTION A4;LegalReferences;10
+SUBSECTION A55A;LegalReferences;1
+SUBSECTION A6;LegalReferences;3
+SUBSECTION A7;LegalReferences;4
+SUBSECTION A8;LegalReferences;4
+SUBSECTION B;LegalReferences;180
+SUBSECTION B OR C;LegalReferences;1
+SUBSECTION B1;LegalReferences;16
+SUBSECTION B1C;LegalReferences;2
+SUBSECTION B2;LegalReferences;35
+SUBSECTION B3;LegalReferences;8
+SUBSECTION B3A;LegalReferences;1
+SUBSECTION B3B;LegalReferences;7
+SUBSECTION B4;LegalReferences;7
+SUBSECTION B6;LegalReferences;2
+SUBSECTION B9;LegalReferences;1
+SUBSECTION C1;LegalReferences;8
+SUBSECTION C1A;LegalReferences;5
+SUBSECTION C2;LegalReferences;8
+SUBSECTION C2BI;LegalReferences;1
+SUBSECTION C4;LegalReferences;2
+SUBSECTION C7;LegalReferences;1
+SUBSECTION C8;LegalReferences;1
+SUBSECTION C9C;LegalReferences;1
+SUBSECTION D1;LegalReferences;11
+SUBSECTION D1A;LegalReferences;2
+SUBSECTION D1C;LegalReferences;1
+SUBSECTION D2;LegalReferences;4
+SUBSECTION D3;LegalReferences;1
+SUBSECTION D4;LegalReferences;3
+SUBSECTION D5;LegalReferences;3
+SUBSECTION E1;LegalReferences;2
+SUBSECTION E2;LegalReferences;7
+SUBSECTION E5;LegalReferences;1
+SUBSECTION E7;LegalReferences;1
+SUBSECTION F1;LegalReferences;3
+SUBSECTION F2;LegalReferences;4
+SUBSECTION G1;LegalReferences;5
+SUBSECTION G2;LegalReferences;4
+SUBSECTION G3;LegalReferences;3
+SUBSECTION G4;LegalReferences;1
+SUBSECTION G5;LegalReferences;1
+SUBSECTION H1;LegalReferences;3
+SUBSECTION H2;LegalReferences;5
+SUBSECTION H2DI;LegalReferences;1
+SUBSECTION H4;LegalReferences;3
+SUBSECTION H5;LegalReferences;1
+SUBSECTION H6;LegalReferences;1
+SUBSECTION H7;LegalReferences;1
+SUBSECTION H8;LegalReferences;1
+SUBSECTION I1;LegalReferences;1
+SUBSECTION I2;LegalReferences;1
+SUBSECTION J1;LegalReferences;1
+SUBSECTION K;LegalReferences;8
+SUBSECTION K4B;LegalReferences;1
+SUBSECTION K5;LegalReferences;1
+SUBSECTION K6;LegalReferences;1
+SUBSECTION L2;LegalReferences;1
+SUBSECTION L2AI;LegalReferences;1
+SUBSECTION L5;LegalReferences;1
+SUBSECTION N9;LegalReferences;2
+SUBSECTION O1;LegalReferences;4
+SUBSECTION R3;LegalReferences;1
+SUBSECTION R4;LegalReferences;1
+SUBSECTION U;LegalReferences;3
+SUBSECTION W1;LegalReferences;1
+SUBSECTION W3;LegalReferences;1
+SUBSECTIONS;LegalReferences;36
+SUBSECTIONS A AND B;LegalReferences;24
+SUBSECTIONS A AND C3 OF SECTION 237 12 USC 1715Z2;LegalReferences;1
+SUBSECTIONS A AND E;LegalReferences;1
+SUBSECTIONS A OR B;LegalReferences;1
+SUBSECTIONS A THROUGH E;LegalReferences;1
+SUBSECTIONS A THROUGH H;LegalReferences;1
+SUBSECTIONS A1 A2 A7 AND C1;LegalReferences;1
+SUBSECTIONS B AND C;LegalReferences;10
+SUBSECTIONS B AND D;LegalReferences;3
+SUBSECTIONS B C M AND O;LegalReferences;2
+SUBSECTIONS B OR D;LegalReferences;1
+SUBSECTIONS B THROUGH BB;LegalReferences;1
+SUBSECTIONS B THROUGH F;LegalReferences;1
+SUBSECTIONS B THROUGH N;LegalReferences;6
+SUBSECTIONS C AND D;LegalReferences;3
+SUBSECTIONS C THROUGH CC;LegalReferences;1
+SUBSECTIONS C THROUGH G;LegalReferences;2
+SUBSECTIONS D AND E;LegalReferences;3
+SUBSECTIONS D E G AND H;LegalReferences;1
+SUBSECTIONS D THROUGH H;LegalReferences;1
+SUBSECTIONS D2B AND M1 OF SECTION 255 12 USC 1715Z20;LegalReferences;1
+SUBSECTIONS E AND F;LegalReferences;4
+SUBSECTIONS F AND G;LegalReferences;2
+SUBSECTIONS I AND J;LegalReferences;1
+SUBSECTIONS J AND K;LegalReferences;1
+SUBSECTIONS L AND M;LegalReferences;1
+SUBSECTIONS M N O AND P;LegalReferences;1
+SUBSECTIONS N O P AND Q;LegalReferences;1
+SUBSECTIONS W AND X;LegalReferences;1
+SUBSECTIONS X AND Y;LegalReferences;1
+SUBTITLE BS;LegalReferences;1
+SUBTITLES A AND C;LegalReferences;3
+SUBTITLES F AND H;LegalReferences;3
+SUITABILITY IN ANNUITY TRANSACTIONS MODEL REGULATION;LegalReferences;4
+THE ADMINISTRATIVE PROCEDURES ACT;LegalReferences;1
+THE BANK ENTERPRISE ACT OF 1991 12 USC 1834A;LegalReferences;1
+THE BANK HOLDING COMPANY ACT OF 1956 12 USC 1841;LegalReferences;5
+THE BANK HOLDING COMPANY ACT OF 1956 12 USC 1841A;LegalReferences;1
+THE BANK HOLDING COMPANY ACT OF 1956 12 USC 1841A5E;LegalReferences;1
+THE BANK HOLDING COMPANY ACT OF 1956 12 USC 1841A5F;LegalReferences;1
+THE BANK HOLDING COMPANY ACT OF 1956 12 USC 1841B;LegalReferences;1
+THE BANK HOLDING COMPANY ACT OF 1956 12 USC 1841C2;LegalReferences;4
+THE BANK HOLDING COMPANY ACT OF 1956 12 USC 1841C2B;LegalReferences;1
+THE BANK HOLDING COMPANY ACT OF 1956 12 USC 1841C2D;LegalReferences;4
+THE BANK HOLDING COMPANY ACT OF 1956 12 USC 1841C2F;LegalReferences;3
+THE BANK HOLDING COMPANY ACT OF 1956 12 USC 1841C2H;LegalReferences;2
+THE BANK HOLDING COMPANY ACT OF 1956 12 USC 1841O4;LegalReferences;1
+THE BANK HOLDING COMPANY ACT OF 1956 12 USC 1841P;LegalReferences;1
+THE BANK HOLDING COMPANY ACT OF 1956 12 USC 1842C;LegalReferences;1
+THE BANK HOLDING COMPANY ACT OF 1956 12 USC 1842D1A;LegalReferences;1
+THE BANK HOLDING COMPANY ACT OF 1956 12 USC 1843;LegalReferences;4
+THE BANK HOLDING COMPANY ACT OF 1956 12 USC 1843J1;LegalReferences;1
+THE BANK HOLDING COMPANY ACT OF 1956 12 USC 1843J2;LegalReferences;1
+THE BANK HOLDING COMPANY ACT OF 1956 12 USC 1843J2A;LegalReferences;1
+THE BANK HOLDING COMPANY ACT OF 1956 12 USC 1843K;LegalReferences;5
+THE BANK HOLDING COMPANY ACT OF 1956 12 USC 1843K6B;LegalReferences;2
+THE BANK HOLDING COMPANY ACT OF 1956 12 USC 1843L1;LegalReferences;1
+THE BANK HOLDING COMPANY ACT OF 1956 12 USC 1844B;LegalReferences;1
+THE BANK HOLDING COMPANY ACT OF 1956 12 USC 1844C1;LegalReferences;1
+THE BANK HOLDING COMPANY ACT OF 1956 12 USC 1844C2;LegalReferences;1
+THE BANK HOLDING COMPANY ACT OF 1956 12 USC 1844C5;LegalReferences;1
+THE BRETTON WOODS AGREEMENTS ACT 22 USC 286 ET SEQ;LegalReferences;1
+THE CLAYTON ACT 15 USC 18AC8;LegalReferences;2
+THE COMMODITIES EXCHANGE ACT;LegalReferences;2
+THE COMMODITY EXCHANGE ACT 7 USC 1 ET SEQ;LegalReferences;13
+THE COMMODITY EXCHANGE ACT 7 USC 12;LegalReferences;2
+THE COMMODITY EXCHANGE ACT 7 USC 12A7;LegalReferences;1
+THE COMMODITY EXCHANGE ACT 7 USC 21R1;LegalReferences;1
+THE COMMODITY EXCHANGE ACT 7 USC 25A1;LegalReferences;1
+THE COMMODITY EXCHANGE ACT 7 USC 2A1;LegalReferences;4
+THE COMMODITY EXCHANGE ACT 7 USC 2C2;LegalReferences;6
+THE COMMODITY EXCHANGE ACT 7 USC 6C1;LegalReferences;4
+THE COMMODITY EXCHANGE ACT 7 USC 6CA1;LegalReferences;1
+THE COMMODITY EXCHANGE ACT 7 USC 6M3;LegalReferences;2
+THE COMMODITY EXCHANGE ACT 7 USC 7A-1;LegalReferences;2
+THE COMMODITY FUTURES MODERNIZATION ACT OF 2000;LegalReferences;1
+THE COMMUNITY REINVESTMENT ACT OF 1977 12 USC 2901 ET SEQ;LegalReferences;1
+THE COMMUNITY REINVESTMENT ACT OF 1977 12 USC 2903C;LegalReferences;1
+THE DEPOSITORY INSTITUTION MANAGEMENT INTERLOCKS ACT 12 USC 3201 ET SEQ;LegalReferences;1
+THE DEPOSITORY INSTITUTIONS MANAGEMENT INTERLOCKS ACT 12 USC 3201 ET SEQ;LegalReferences;1
+THE EMERGENCY ECONOMIC STABILIZATION ACT OF 2008 12 USC 5225A;LegalReferences;1
+THE EMERGENCY ECONOMIC STABILIZATION ACT OF 2008 12 USC 5231K;LegalReferences;1
+THE EXPEDITED FUNDS AVAILABILITY ACT;LegalReferences;1
+THE EXPEDITED FUNDS AVAILABILITY ACT 12 USC 4006;LegalReferences;1
+THE FAIR DEBT COLLECTION PRACTICES ACT;LegalReferences;1
+THE FAIR DEBT COLLECTION PRACTICES ACT 15 USC 1692 ET SEQ;LegalReferences;2
+THE FALSE CLAIMS ACT;LegalReferences;1
+THE FEDERAL AVIATION ACT OF 1958;LegalReferences;1
+THE FEDERAL CREDIT UNION ACT 12 USC 1752;LegalReferences;5
+THE FEDERAL CREDIT UNION ACT 12 USC 1787K1;LegalReferences;2
+THE FEDERAL CREDIT UNION ACT 12 USC 1787K5;LegalReferences;1
+THE FEDERAL DEPOSIT INSURANCE ACT 12 USC 1813B2;LegalReferences;5
+THE FEDERAL DEPOSIT INSURANCE ACT 12 USC 1813B3;LegalReferences;5
+THE FEDERAL DEPOSIT INSURANCE ACT 12 USC 1813Q1;LegalReferences;2
+THE FEDERAL DEPOSIT INSURANCE ACT 12 USC 1817B1;LegalReferences;1
+THE FEDERAL DEPOSIT INSURANCE ACT 12 USC 1817B2;LegalReferences;2
+THE FEDERAL DEPOSIT INSURANCE ACT 12 USC 1818;LegalReferences;11
+THE FEDERAL DEPOSIT INSURANCE ACT 12 USC 1818B3;LegalReferences;1
+THE FEDERAL DEPOSIT INSURANCE ACT 12 USC 1820B3;LegalReferences;1
+THE FEDERAL DEPOSIT INSURANCE ACT 12 USC 1821A1;LegalReferences;3
+THE FEDERAL DEPOSIT INSURANCE ACT 12 USC 1823;LegalReferences;3
+THE FEDERAL DEPOSIT INSURANCE ACT 12 USC 1828C5;LegalReferences;1
+THE FEDERAL DEPOSIT INSURANCE CORPORATION IMPROVEMENT ACT OF 1991;LegalReferences;5
+THE FEDERAL DEPOSIT INSURANCE CORPORATION IMPROVEMENT ACT OF 1991 12 USC 4401 ET SEQ;LegalReferences;1
+THE FEDERAL DEPOSIT INSURANCE CORPORATION IMPROVEMENT ACT OF 1991 12 USC 4403A;LegalReferences;1
+THE FEDERAL FINANCIAL INSTITUTIONS EXAMINATION COUNCIL ACT OF 1978 12 USC 3310;LegalReferences;1
+THE FEDERAL HOME LOAN BANK ACT 12 USC 1431L2;LegalReferences;1
+THE FEDERAL HOME LOAN MORTGAGE CORPORATION ACT 12 USC 1454A2;LegalReferences;6
+THE FEDERAL HOME LOAN MORTGAGE CORPORATION ACT 12 USC 1455L2;LegalReferences;1
+THE FEDERAL MINE SAFETY AND HEALTH ACT OF 1977 30 USC 817A;LegalReferences;1
+THE FEDERAL NATIONAL MORTGAGE ASSOCIATION CHARTER ACT 12 USC 1719G2;LegalReferences;1
+THE FEDERAL RESERVE ACT 12 USC 248R2;LegalReferences;1
+THE FEDERAL RESERVE ACT 12 USC 371C-1;LegalReferences;1
+THE FEDERAL RESERVE ACT 12 USC 461B7;LegalReferences;1
+THE FEDERAL SENTENCING GUIDELINES;LegalReferences;4
+THE FINANCIAL INSTITUTIONS SUPERVISORY ACT OF 1966;LegalReferences;1
+THE FLOOD DISASTER PROTECTION ACT OF 1973 42 USC 4003A5;LegalReferences;1
+THE FUTURES TRADING ACT OF 1982;LegalReferences;3
+THE HELPING FAMILIES SAVE THEIR HOMES ACT OF 2009;LegalReferences;1
+THE HIGHER EDUCATION ACT OF 1965 20 USC 1018F;LegalReferences;1
+THE HOME OWNERS LOAN ACT;LegalReferences;12
+THE HOME OWNERS LOAN ACT 12 USC 1461 ET SEQ;LegalReferences;4
+THE HOME OWNERS LOAN ACT 12 USC 1464;LegalReferences;5
+THE HOME OWNERS LOAN ACT 12 USC 1468;LegalReferences;2
+THE HOME OWNERS PROTECTION ACT OF 1998 12 USC 4901 ET SEQ;LegalReferences;1
+THE HOMEOWNERS PROTECTION ACT OF 1998;LegalReferences;1
+THE HOUSING ACT OF 1948 12 USC 1701CC;LegalReferences;1
+THE INTERNATIONAL BANKING ACT OF 1978 12 USC 31017;LegalReferences;1
+THE INTERNATIONAL BANKING ACT OF 1978 12 USC 3101B7;LegalReferences;1
+THE INTERNATIONAL BANKING ACT OF 1978 12 USC 3105D3;LegalReferences;1
+THE INTERNATIONAL BANKING ACT OF 1978 12 USC 3105E1;LegalReferences;1
+THE INTERNATIONAL BANKING ACT OF 1978 12 USC 3106A;LegalReferences;3
+THE INTERNATIONAL LENDING SUPERVISION ACT OF 1983 12 USC 3907A1;LegalReferences;1
+THE INTERSTATE LAND SALES FULL DISCLOSURE ACT;LegalReferences;1
+THE INTERSTATE LAND SALES FULL DISCLOSURE ACT 15 USC 1701;LegalReferences;1
+THE INTERSTATE LAND SALES FULL DISCLOSURE ACT 15 USC 1701 ET SEQ;LegalReferences;4
+THE INVESTMENT ADVISERS ACT;LegalReferences;1
+THE INVESTMENT ADVISERS ACT OF 1940;LegalReferences;52
+THE INVESTMENT ADVISERS ACT OF 1940 15 USC 80B-10;LegalReferences;1
+THE INVESTMENT ADVISERS ACT OF 1940 15 USC 80B-3M;LegalReferences;1
+THE INVESTMENT COMPANY ACT OF 1940 15 USC 80A-24F;LegalReferences;2
+THE INVESTMENT COMPANY ACT OF 1940 15 USC 80A-30;LegalReferences;1
+THE LIABILITY RISK RETENTION ACT OF 1986 15 USC 3901A4;LegalReferences;1
+THE NEIGHBORHOOD REINVESTMENT CORPORATION ACT 42 USC 8105C3;LegalReferences;1
+THE OMNIBUS APPROPRIATIONS ACT;LegalReferences;2
+THE PRIVATE FUND INVESTMENT ADVISERS REGISTRATION ACT OF 2010;LegalReferences;4
+THE PRIVATE SECURITIES LITIGATION ACT OF 1995;LegalReferences;1
+THE PUBLIC UTILITY HOLDING COMPANY ACT OF 1935 15 USC 79A ET SEQ;LegalReferences;1
+THE REAL ESTATE SETTLEMENT PROCEDURES ACT;LegalReferences;1
+THE REAL ESTATE SETTLEMENT PROCEDURES ACT OF 1974;LegalReferences;9
+THE REAL ESTATE SETTLEMENT PROCEDURES ACT OF 1974 12 USC 2601 ET SEQ;LegalReferences;5
+THE REAL ESTATE SETTLEMENT PROCEDURES ACT OF 1974 12 USC 2605;LegalReferences;1
+THE REAL ESTATE SETTLEMENT PROCEDURES ACT OF 1974 12 USC 2605E;LegalReferences;1
+THE REAL ESTATE SETTLEMENT PROCEDURES ACT OF 1974 12 USC 2605F;LegalReferences;1
+THE REAL ESTATE SETTLEMENT PROCEDURES ACT OF 1974 12 USC 2605G;LegalReferences;1
+THE REAL ESTATE SETTLEMENT PROCEDURES ACT OF 1974 12 USC 2605I2;LegalReferences;1
+THE SARBANES-OXLEY ACT OF 2002 15 USC 7201A;LegalReferences;2
+THE SARBANES-OXLEY ACT OF 2002 15 USC 7213A;LegalReferences;1
+THE SARBANES-OXLEY ACT OF 2002 15 USC 7214A;LegalReferences;1
+THE SARBANES-OXLEY ACT OF 2002 15 USC 7215B4B;LegalReferences;1
+THE SARBANES-OXLEY ACT OF 2002 15 USC 7215B5;LegalReferences;2
+THE SARBANES-OXLEY ACT OF 2002 15 USC 7215B5A;LegalReferences;1
+THE SARBANES-OXLEY ACT OF 2002 15 USC 7215C6;LegalReferences;1
+THE SARBANES-OXLEY ACT OF 2002 15 USC 7215C7B;LegalReferences;1
+THE SARBANES-OXLEY ACT OF 2002 15 USC 7216A;LegalReferences;1
+THE SARBANES-OXLEY ACT OF 2002 15 USC 7217D3;LegalReferences;1
+THE SARBANES-OXLEY ACT OF 2002 15 USC 7219;LegalReferences;1
+THE SARBANES-OXLEY ACT OF 2002 15 USC 7246;LegalReferences;2
+THE SARBANES-OXLEY ACT OF 2002 15 USC 7246A;LegalReferences;1
+THE SARBANES-OXLEY ACT OF 2002 15 USC 7246B;LegalReferences;2
+THE SARBANES-OXLEY ACT OF 2002 15 USC 7262B;LegalReferences;1
+THE SECURITIES ACT;LegalReferences;1
+THE SECURITIES ACT OF 1933;LegalReferences;22
+THE SECURITIES ACT OF 1933 15 USC 77A ET SEQ;LegalReferences;8
+THE SECURITIES ACT OF 1933 15 USC 77BA;LegalReferences;4
+THE SECURITIES ACT OF 1933 15 USC 77D;LegalReferences;1
+THE SECURITIES ACT OF 1933 15 USC 77E;LegalReferences;1
+THE SECURITIES ACT OF 1933 15 USC 77FB;LegalReferences;7
+THE SECURITIES ACT OF 1933 15 USC 77O;LegalReferences;1
+THE SECURITIES ACT OF 1933 15 USC 77Q;LegalReferences;2
+THE SECURITIES ACT OF 1933 15 USC 77S;LegalReferences;2
+THE SECURITIES ACT OF 1933 15 USC 77VA;LegalReferences;2
+THE SECURITIES EXCHANGE ACT;LegalReferences;3
+THE SECURITIES EXCHANGE ACT OF 1934;LegalReferences;85
+THE SECURITIES EXCHANGE ACT OF 1934 15 USC 73OB;LegalReferences;1
+THE SECURITIES EXCHANGE ACT OF 1934 15 USC 78 ET SEQ;LegalReferences;2
+THE SECURITIES EXCHANGE ACT OF 1934 15 USC 78A ET SEQ;LegalReferences;28
+THE SECURITIES EXCHANGE ACT OF 1934 15 USC 78AA;LegalReferences;2
+THE SECURITIES EXCHANGE ACT OF 1934 15 USC 78AM;LegalReferences;1
+THE SECURITIES EXCHANGE ACT OF 1934 15 USC 78C;LegalReferences;6
+THE SECURITIES EXCHANGE ACT OF 1934 15 USC 78CA;LegalReferences;20
+THE SECURITIES EXCHANGE ACT OF 1934 15 USC 78DD;LegalReferences;1
+THE SECURITIES EXCHANGE ACT OF 1934 15 USC 78EE;LegalReferences;2
+THE SECURITIES EXCHANGE ACT OF 1934 15 USC 78F;LegalReferences;3
+THE SECURITIES EXCHANGE ACT OF 1934 15 USC 78FA;LegalReferences;6
+THE SECURITIES EXCHANGE ACT OF 1934 15 USC 78FB;LegalReferences;1
+THE SECURITIES EXCHANGE ACT OF 1934 15 USC 78I;LegalReferences;2
+THE SECURITIES EXCHANGE ACT OF 1934 15 USC 78IB;LegalReferences;1
+THE SECURITIES EXCHANGE ACT OF 1934 15 USC 78J;LegalReferences;2
+THE SECURITIES EXCHANGE ACT OF 1934 15 USC 78KK;LegalReferences;1
+THE SECURITIES EXCHANGE ACT OF 1934 15 USC 78L;LegalReferences;1
+THE SECURITIES EXCHANGE ACT OF 1934 15 USC 78M;LegalReferences;6
+THE SECURITIES EXCHANGE ACT OF 1934 15 USC 78ME;LegalReferences;1
+THE SECURITIES EXCHANGE ACT OF 1934 15 USC 78MF;LegalReferences;2
+THE SECURITIES EXCHANGE ACT OF 1934 15 USC 78MM;LegalReferences;2
+THE SECURITIES EXCHANGE ACT OF 1934 15 USC 78N;LegalReferences;2
+THE SECURITIES EXCHANGE ACT OF 1934 15 USC 78NA;LegalReferences;1
+THE SECURITIES EXCHANGE ACT OF 1934 15 USC 78NG;LegalReferences;1
+THE SECURITIES EXCHANGE ACT OF 1934 15 USC 78O;LegalReferences;27
+THE SECURITIES EXCHANGE ACT OF 1934 15 USC 78OB;LegalReferences;5
+THE SECURITIES EXCHANGE ACT OF 1934 15 USC 78OD;LegalReferences;2
+THE SECURITIES EXCHANGE ACT OF 1934 15 USC 78P-2;LegalReferences;1
+THE SECURITIES EXCHANGE ACT OF 1934 15 USC 78PA;LegalReferences;1
+THE SECURITIES EXCHANGE ACT OF 1934 15 USC 78Q;LegalReferences;7
+THE SECURITIES EXCHANGE ACT OF 1934 15 USC 78Q-1;LegalReferences;1
+THE SECURITIES EXCHANGE ACT OF 1934 15 USC 78SB;LegalReferences;6
+THE SECURITIES EXCHANGE ACT OF 1934 15 USC 78TA;LegalReferences;1
+THE SECURITIES EXCHANGE ACT OF 1934 15 USC 78TE;LegalReferences;1
+THE SECURITIES EXCHANGE ACT OF 1934 15 USC 78X;LegalReferences;2
+THE SECURITIES EXCHANGE ACT OF 1934 15 USC 78Y;LegalReferences;1
+THE SECURITIES INVESTOR PROTECTION ACT OF 1970;LegalReferences;3
+THE SECURITIES INVESTOR PROTECTION ACT OF 1970 15 USC 78AAA ET SEQ;LegalReferences;18
+THE SECURITIES INVESTOR PROTECTION ACT OF 1970 15 USC 78DDD;LegalReferences;3
+THE SECURITIES INVESTOR PROTECTION ACT OF 1970 15 USC 78JJJ;LegalReferences;2
+THE SECURITIES INVESTOR PROTECTION ACT OF 1970 15 USC 78LLL;LegalReferences;2
+THE SMALL BUSINESS INVESTMENT ACT OF 1958;LegalReferences;3
+THE SMALL BUSINESS INVESTMENT ACT OF 1958 15 USC 662;LegalReferences;1
+THE TERRORISM RISK INSURANCE ACT OF 2002;LegalReferences;1
+THE TRADE ACT OF 1974 19 USC 2171;LegalReferences;1
+THE TRUST INDENTURE ACT OF 1939 15 USC 77AAA ET SEQ;LegalReferences;2
+TITLE 13;LegalReferences;1
+TITLE LXII OF THE REVISED STATUTES OF THE UNITED STATES;LegalReferences;2
+TITLE XI OF THE FINANCIAL INSTITUTIONS REFORM RECOVERY AND ENFORCEMENT ACT OF 1989 12 USC 3331 ET SEQ;LegalReferences;3
+TREASURY REGULATIONS SECTION 11031K1G3;LegalReferences;1
+TREASURY REGULATIONS SECTION 11031K1G4;LegalReferences;1
+TRUTH IN SAVINGS ACT;LegalReferences;1
+TRUTH IN SAVINGS ACT 12 USC 4301 ET SEQ;LegalReferences;2
+UNITED STATES CODE;LegalReferences;167
+UNITED STATES HOUSING ACT OF 1937;LegalReferences;2
+USC 1831OK;LegalReferences;2
+EXCEPT AS;LogicalConnectors;155
+FOR THE PURPOSES;LogicalConnectors;32
+INSOFAR AS;LogicalConnectors;2
+LESS FREQUENTLY THAN;LogicalConnectors;18
+LESS THAN;LogicalConnectors;61
+ON THE GROUNDS THAT;LogicalConnectors;2
+RATIOS;LogicalConnectors;2
+SO FAR AS;LogicalConnectors;1
+SUCH AS;LogicalConnectors;31
+UPWARDS OF;LogicalConnectors;1
+DECREASES;MathematicalOperators;3
+DEDUCTIONS;MathematicalOperators;2
+INCREASES;MathematicalOperators;15
+LESS;MathematicalOperators;21
+MINIMUMS;MathematicalOperators;1
+ADDITIONS;MathematicalOperators;1
+CHAPTERS;Other;1
+ENDS;Other;5
+FILINGS;Other;3
+MEANINGS;Other;19
+PARAGRAPHS;Other;34
+PROVISOS;Other;1
+RULES OF CONSTRUCTION;Other;7
+SECTIONS;Other;35
+SENTENCES;Other;4
+SETS;Other;14
+SUBTITLES;Other;2
+TABLES;Other;1
+TITLES;Other;7
+APPROVALS;RegulatoryOperators;1
+ESTABLISHMENTS;RegulatoryOperators;1
+PERMITS;RegulatoryOperators;5
+WAIVES;RegulatoryOperators;1

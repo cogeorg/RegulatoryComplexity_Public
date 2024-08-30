@@ -75,7 +75,7 @@
 #
 # STEP 6 -- EBA REGULATIONS
 #
-./17_analyze_EBA.py ../310_EBA/ ./results/Master_v1.0.csv ./results/EBA/
+./17_analyze_EBA.py ../310_EBA/ ./results/Master_v2.0.csv ./results/EBA/
 cd results/EBA/ ; rm all_cons-count.csv 2>/dev/null ; cat cons-count_* >> all_cons-count.csv ; cd -
 
 

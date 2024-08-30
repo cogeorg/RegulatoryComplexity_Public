@@ -1,414 +1,424 @@
-C33.txt;CAPITAL REQUIREMENTS;EconomicOperands;1
-C33.txt;FINANCIAL INSTRUMENT;EconomicOperands;1
-C33.txt;PARAGRAPHS 1 AND 3;LegalReferences;1
-C33.txt;FOR THE PURPOSE OF;LogicalConnectors;1
-C33.txt;IN ACCORDANCE WITH;LogicalConnectors;27
-C33.txt;OFF-BALANCE SHEET;EconomicOperands;7
-C33.txt;FINANCIAL ASSETS;EconomicOperands;73
-C33.txt;FOR THE PURPOSES;LogicalConnectors;5
-C33.txt;LOAN COMMITMENT;EconomicOperands;2
-C33.txt;TRADING ACCOUNT;EconomicOperands;2
-C33.txt;COUNTERPARTIES;EconomicOperands;1
-C33.txt;SPECIFICATIONS;EconomicOperands;10
-C33.txt;BALANCE SHEET;EconomicOperands;7
-C33.txt;CENTRAL BANKS;EconomicOperands;8
-C33.txt;COMPREHENSIVE;EconomicOperands;9
-C33.txt;INDEPENDENTLY;EconomicOperands;1
-C33.txt;INTERNATIONAL;EconomicOperands;13
-C33.txt;JURISDICTIONS;EconomicOperands;1
-C33.txt;REGULATION OF;EconomicOperands;4
-C33.txt;IN PARTICULAR;LogicalConnectors;1
-C33.txt;REGARDLESS OF;LogicalConnectors;3
-C33.txt;COUNTERPARTY;EconomicOperands;28
-C33.txt;DISTRIBUTION;EconomicOperands;10
-C33.txt;INSTITUTIONS;EconomicOperands;17
-C33.txt;INSTRUCTIONS;EconomicOperands;21
-C33.txt;JURISDICTION;EconomicOperands;3
-C33.txt;RELATIONSHIP;EconomicOperands;2
-C33.txt;REQUIREMENTS;EconomicOperands;9
-C33.txt;PARAGRAPH 11;LegalReferences;1
-C33.txt;PARAGRAPH 15;LegalReferences;1
-C33.txt;PARAGRAPH 16;LegalReferences;3
-C33.txt;REGULATION D;LegalReferences;1
-C33.txt;EARLIER THAN;LogicalConnectors;1
-C33.txt;GREATER THAN;LogicalConnectors;6
-C33.txt;IMPLEMENTING;RegulatoryOperators;21
-C33.txt;ACCUMULATED;EconomicOperands;18
-C33.txt;ADJUSTMENTS;EconomicOperands;3
-C33.txt;APPLICATION;EconomicOperands;10
-C33.txt;AUTHORITIES;EconomicOperands;19
-C33.txt;CALCULATING;EconomicOperands;2
-C33.txt;CALCULATION;EconomicOperands;1
-C33.txt;COMMITMENTS;EconomicOperands;1
-C33.txt;CONTRACTUAL;EconomicOperands;4
-C33.txt;CREDIT RISK;EconomicOperands;46
-C33.txt;DENOMINATED;EconomicOperands;2
-C33.txt;DERIVATIVES;EconomicOperands;42
-C33.txt;GOVERNMENTS;EconomicOperands;91
-C33.txt;INFORMATION;EconomicOperands;3
-C33.txt;INSTITUTION;EconomicOperands;14
-C33.txt;INSTRUMENTS;EconomicOperands;8
-C33.txt;LIABILITIES;EconomicOperands;2
-C33.txt;TRANSACTION;EconomicOperands;1
-C33.txt;REFERRED TO;FunctionWords;3
-C33.txt;PARAGRAPH 2;LegalReferences;1
-C33.txt;PARAGRAPH 3;LegalReferences;1
-C33.txt;PARAGRAPH 4;LegalReferences;2
-C33.txt;PARAGRAPH 5;LegalReferences;1
-C33.txt;PARAGRAPH 6;LegalReferences;1
-C33.txt;CONSIDERING;LogicalConnectors;4
-C33.txt;IN ADDITION;LogicalConnectors;1
-C33.txt;IN ORDER TO;LogicalConnectors;1
-C33.txt;ACCOUNTING;EconomicOperands;15
-C33.txt;AGGREGATED;EconomicOperands;2
-C33.txt;ALLOCATION;EconomicOperands;1
-C33.txt;CALCULATED;EconomicOperands;1
-C33.txt;CLASSIFIED;EconomicOperands;3
-C33.txt;COMMITMENT;EconomicOperands;1
-C33.txt;COMPLETION;EconomicOperands;1
-C33.txt;CONSIDERED;EconomicOperands;5
-C33.txt;DEFINITION;EconomicOperands;1
-C33.txt;DERIVATIVE;EconomicOperands;42
-C33.txt;DIFFERENCE;EconomicOperands;1
-C33.txt;GOVERNMENT;EconomicOperands;26
-C33.txt;GUARANTEED;EconomicOperands;1
-C33.txt;GUARANTEES;EconomicOperands;2
-C33.txt;INSTRUMENT;EconomicOperands;3
-C33.txt;MITIGATION;EconomicOperands;12
-C33.txt;PORTFOLIOS;EconomicOperands;10
-C33.txt;PRINCIPLES;EconomicOperands;5
-C33.txt;PROVISIONS;EconomicOperands;4
-C33.txt;REGULATION;EconomicOperands;17
-C33.txt;REGULATORY;EconomicOperands;7
-C33.txt;REPURCHASE;EconomicOperands;5
-C33.txt;SECURITIES;EconomicOperands;6
-C33.txt;SEPARATELY;EconomicOperands;1
-C33.txt;TECHNIQUES;EconomicOperands;11
-C33.txt;THRESHOLDS;EconomicOperands;1
-C33.txt;TRANSITION;EconomicOperands;1
-C33.txt;APPLICABLE;FunctionWords;1
-C33.txt;AS FOLLOWS;FunctionWords;1
-C33.txt;MEMORANDUM;LegalReferences;4
-C33.txt;CONCERNING;LogicalConnectors;1
-C33.txt;SUBJECT TO;LogicalConnectors;21
-C33.txt;PARAGRAPHS;Other;15
-C33.txt;DESIGNATED;RegulatoryOperators;8
-C33.txt;DETERMINED;RegulatoryOperators;1
-C33.txt;ACCOUNTED;EconomicOperands;4
-C33.txt;ADDRESSES;EconomicOperands;2
-C33.txt;AGGREGATE;EconomicOperands;11
-C33.txt;ALLOCATED;EconomicOperands;16
-C33.txt;BREAKDOWN;EconomicOperands;15
-C33.txt;CALCULATE;EconomicOperands;1
-C33.txt;COMPONENT;EconomicOperands;1
-C33.txt;CONCLUDED;EconomicOperands;2
-C33.txt;CONTRACTS;EconomicOperands;2
-C33.txt;COUNTRIES;EconomicOperands;1
-C33.txt;EXPOSURES;EconomicOperands;126
-C33.txt;FINANCIAL;EconomicOperands;5
-C33.txt;FRAMEWORK;EconomicOperands;13
-C33.txt;GUARANTEE;EconomicOperands;1
-C33.txt;IMMEDIATE;EconomicOperands;6
-C33.txt;INCIDENCE;EconomicOperands;1
-C33.txt;PORTFOLIO;EconomicOperands;5
-C33.txt;POSITIONS;EconomicOperands;23
-C33.txt;PROVISION;EconomicOperands;1
-C33.txt;REFERENCE;EconomicOperands;15
-C33.txt;REPORTING;EconomicOperands;21
-C33.txt;RESIDENCE;EconomicOperands;2
-C33.txt;VALUATION;EconomicOperands;3
-C33.txt;DIFFERENT;FunctionWords;1
-C33.txt;FOLLOWING;FunctionWords;1
-C33.txt;GENERALLY;FunctionWords;5
-C33.txt;CHAPTER 5;LegalReferences;1
-C33.txt;INCLUDING;LogicalConnectors;3
-C33.txt;LESS THAN;LogicalConnectors;6
-C33.txt;LISTED IN;Other;3
-C33.txt;EXCEPTION;RegulatoryOperators;10
-C33.txt;REQUESTED;RegulatoryOperators;1
-C33.txt;SPECIFIED;RegulatoryOperators;11
-C33.txt;365 DAYS;Attributes;2
-C33.txt;ACCEPTED;EconomicOperands;5
-C33.txt;ACQUIRED;EconomicOperands;2
-C33.txt;APPENDIX;EconomicOperands;1
-C33.txt;APPROACH;EconomicOperands;33
-C33.txt;BORROWED;EconomicOperands;2
-C33.txt;BORROWER;EconomicOperands;1
-C33.txt;CARRYING;EconomicOperands;34
-C33.txt;COMBINED;EconomicOperands;1
-C33.txt;CURRENCY;EconomicOperands;2
-C33.txt;DOMESTIC;EconomicOperands;1
-C33.txt;ECONOMIC;EconomicOperands;2
-C33.txt;ENTITIES;EconomicOperands;19
-C33.txt;EXPECTED;EconomicOperands;3
-C33.txt;EXPOSURE;EconomicOperands;58
-C33.txt;IDENTIFY;EconomicOperands;1
-C33.txt;INCLUDED;EconomicOperands;12
-C33.txt;INDIRECT;EconomicOperands;1
-C33.txt;INFORMED;EconomicOperands;3
-C33.txt;MATCHING;EconomicOperands;1
-C33.txt;MATURITY;EconomicOperands;19
-C33.txt;MEASURED;EconomicOperands;24
-C33.txt;NATIONAL;EconomicOperands;12
-C33.txt;NOTIONAL;EconomicOperands;8
-C33.txt;POSITION;EconomicOperands;8
-C33.txt;POSITIVE;EconomicOperands;12
-C33.txt;REGIONAL;EconomicOperands;19
-C33.txt;REPORTED;EconomicOperands;35
-C33.txt;RESIDUAL;EconomicOperands;14
-C33.txt;STANDARD;EconomicOperands;13
-C33.txt;SPECIFIC;FunctionWords;2
-C33.txt;TITLE II;LegalReferences;4
-C33.txt;TITLE IV;LegalReferences;2
-C33.txt;PROVIDED;LogicalConnectors;1
-C33.txt;NEGATIVE;MathematicalOperators;26
-C33.txt;BASED ON;Other;13
-C33.txt;SECTIONS;Other;1
-C33.txt;SENTENCE;Other;1
-C33.txt;COMPUTED;RegulatoryOperators;1
-C33.txt;30 DAYS;Attributes;2
-C33.txt;90 DAYS;Attributes;2
-C33.txt;PRUDENT;Attributes;3
-C33.txt;AMOUNTS;EconomicOperands;1
-C33.txt;BALANCE;EconomicOperands;1
-C33.txt;BANKING;EconomicOperands;1
-C33.txt;CAPITAL;EconomicOperands;3
-C33.txt;CENTRAL;EconomicOperands;32
-C33.txt;CHANGES;EconomicOperands;12
-C33.txt;CHARGES;EconomicOperands;2
-C33.txt;CLASSES;EconomicOperands;21
-C33.txt;COUNTRY;EconomicOperands;3
-C33.txt;DEFINED;EconomicOperands;13
-C33.txt;EFFECTS;EconomicOperands;12
-C33.txt;HEDGING;EconomicOperands;6
-C33.txt;INCLUDE;EconomicOperands;4
-C33.txt;LENDING;EconomicOperands;2
-C33.txt;QUALIFY;EconomicOperands;2
-C33.txt;REVERSE;EconomicOperands;5
-C33.txt;SETTLED;EconomicOperands;2
-C33.txt;TRADING;EconomicOperands;56
-C33.txt;WRITTEN;EconomicOperands;1
-C33.txt;AGAINST;FunctionWords;2
-C33.txt;BETWEEN;FunctionWords;2
-C33.txt;GENERAL;FunctionWords;68
-C33.txt;RELATED;FunctionWords;6
-C33.txt;THROUGH;FunctionWords;29
-C33.txt;WITHOUT;FunctionWords;6
-C33.txt;DIVIDED;LogicalConnectors;1
-C33.txt;HOWEVER;LogicalConnectors;1
-C33.txt;IN CASE;LogicalConnectors;1
-C33.txt;THAT IS;LogicalConnectors;3
-C33.txt;WHETHER;LogicalConnectors;2
-C33.txt;CHAPTER;Other;4
-C33.txt;MEANING;Other;1
-C33.txt;AMOUNT;EconomicOperands;58
-C33.txt;ASSUME;EconomicOperands;1
-C33.txt;CHARGE;EconomicOperands;1
-C33.txt;CREDIT;EconomicOperands;11
-C33.txt;DIRECT;EconomicOperands;24
-C33.txt;ENTITY;EconomicOperands;1
-C33.txt;EQUITY;EconomicOperands;9
-C33.txt;IMPAIR;EconomicOperands;7
-C33.txt;INCOME;EconomicOperands;9
-C33.txt;LOSSES;EconomicOperands;3
-C33.txt;MARKET;EconomicOperands;18
-C33.txt;METHOD;EconomicOperands;3
-C33.txt;NOTICE;EconomicOperands;2
-C33.txt;OBTAIN;EconomicOperands;1
-C33.txt;PERIOD;EconomicOperands;2
-C33.txt;PROFIT;EconomicOperands;20
-C33.txt;PUBLIC;EconomicOperands;19
-C33.txt;REDUCE;EconomicOperands;1
-C33.txt;REGARD;EconomicOperands;10
-C33.txt;REMAIN;EconomicOperands;1
-C33.txt;SECTOR;EconomicOperands;20
-C33.txt;SERVED;EconomicOperands;1
-C33.txt;VALUES;EconomicOperands;1
-C33.txt;DUE TO;LogicalConnectors;26
-C33.txt;EXCEPT;LogicalConnectors;1
-C33.txt;SECOND;LogicalConnectors;2
-C33.txt;SOLELY;LogicalConnectors;2
-C33.txt;WITHIN;LogicalConnectors;3
-C33.txt;EXCEED;MathematicalOperators;1
-C33.txt;CANNOT;RegulatoryOperators;1
-C33.txt;FIRST;Attributes;1
-C33.txt;ARISE;EconomicOperands;3
-C33.txt;CLASS;EconomicOperands;11
-C33.txt;COVER;EconomicOperands;3
-C33.txt;DRAWN;EconomicOperands;2
-C33.txt;EQUAL;EconomicOperands;6
-C33.txt;FUNDS;EconomicOperands;9
-C33.txt;GROSS;EconomicOperands;6
-C33.txt;ITEMS;EconomicOperands;2
-C33.txt;LOANS;EconomicOperands;4
-C33.txt;LOCAL;EconomicOperands;19
-C33.txt;LOWER;EconomicOperands;2
-C33.txt;POINT;EconomicOperands;14
-C33.txt;SCOPE;EconomicOperands;5
-C33.txt;SELLS;EconomicOperands;2
-C33.txt;SHORT;EconomicOperands;21
-C33.txt;VALUE;EconomicOperands;85
-C33.txt;ABOUT;FunctionWords;2
-C33.txt;ABOVE;FunctionWords;3
-C33.txt;GIVEN;FunctionWords;3
-C33.txt;THEIR;FunctionWords;1
-C33.txt;THERE;FunctionWords;1
-C33.txt;THESE;FunctionWords;7
-C33.txt;THOSE;FunctionWords;6
-C33.txt;UNDER;FunctionWords;37
-C33.txt;WHICH;FunctionWords;30
-C33.txt;WHOSE;FunctionWords;2
-C33.txt;OTHER;LogicalConnectors;39
-C33.txt;WHERE;LogicalConnectors;12
-C33.txt;WHILE;LogicalConnectors;2
-C33.txt;TOTAL;MathematicalOperators;20
-C33.txt;APPLY;Other;10
-C33.txt;BASED;Other;5
-C33.txt;BASIS;Other;3
-C33.txt;TABLE;Other;3
-C33.txt;SHALL;RegulatoryOperators;45
-C33.txt;DAYS;Attributes;7
-C33.txt;BANK;EconomicOperands;1
-C33.txt;BOOK;EconomicOperands;5
-C33.txt;COST;EconomicOperands;10
-C33.txt;DATE;EconomicOperands;20
-C33.txt;DEBT;EconomicOperands;2
-C33.txt;FAIR;EconomicOperands;78
-C33.txt;FORM;EconomicOperands;1
-C33.txt;HELD;EconomicOperands;11
-C33.txt;LATE;EconomicOperands;15
-C33.txt;LOAN;EconomicOperands;2
-C33.txt;LOSS;EconomicOperands;20
-C33.txt;MARK;EconomicOperands;1
-C33.txt;MEET;EconomicOperands;1
-C33.txt;RISK;EconomicOperands;34
-C33.txt;SOLD;EconomicOperands;7
-C33.txt;USED;EconomicOperands;5
-C33.txt;DOWN;FunctionWords;4
-C33.txt;FROM;FunctionWords;24
-C33.txt;HAVE;FunctionWords;2
-C33.txt;MADE;FunctionWords;1
-C33.txt;PART;FunctionWords;26
-C33.txt;SAME;FunctionWords;5
-C33.txt;THAN;FunctionWords;4
-C33.txt;THAT;FunctionWords;33
-C33.txt;THEY;FunctionWords;5
-C33.txt;THIS;FunctionWords;40
-C33.txt;WERE;FunctionWords;1
-C33.txt;WITH;FunctionWords;44
-C33.txt;BOTH;LogicalConnectors;8
-C33.txt;EACH;LogicalConnectors;3
-C33.txt;WHEN;LogicalConnectors;8
-C33.txt;ALSO;LogicalConnectors;1
-C33.txt;MORE;LogicalConnectors;6
-C33.txt;ONLY;LogicalConnectors;5
-C33.txt;OVER;MathematicalOperators;1
-C33.txt;ITEM;Other;5
-C33.txt;125;Attributes;2
-C33.txt;133;Attributes;2
-C33.txt;150;Attributes;1
-C33.txt;TWO;Attributes;1
-C33.txt;AID;EconomicOperands;1
-C33.txt;MAP;EconomicOperands;1
-C33.txt;NET;EconomicOperands;8
-C33.txt;PIN;EconomicOperands;1
-C33.txt;SUM;EconomicOperands;1
-C33.txt;ARE;FunctionWords;41
-C33.txt;CAN;FunctionWords;1
-C33.txt;FOR;FunctionWords;68
-C33.txt;HAS;FunctionWords;4
-C33.txt;HER;FunctionWords;2
-C33.txt;HOW;FunctionWords;3
-C33.txt;OFF;FunctionWords;1
-C33.txt;ONE;FunctionWords;3
-C33.txt;OWN;FunctionWords;9
-C33.txt;THE;FunctionWords;262
+C33.txt;financial instrument;EconomicOperands;1
+C33.txt;capital requirement;EconomicOperands;1
+C33.txt;for the purpose of;LogicalConnectors;1
+C33.txt;in accordance with;LogicalConnectors;27
+C33.txt;off-balance sheet;EconomicOperands;7
+C33.txt;for the purpose;FunctionWords;5
+C33.txt;financial asset;EconomicOperands;73
+C33.txt;loan commitment;EconomicOperands;2
+C33.txt;trading account;EconomicOperands;2
+C33.txt;counterparties;EconomicOperands;1
+C33.txt;the amount of;MathematicalOperators;1
+C33.txt;balance sheet;EconomicOperands;7
+C33.txt;in particular;LogicalConnectors;1
+C33.txt;regardless of;LogicalConnectors;3
+C33.txt;regulation of;EconomicOperands;4
+C33.txt;comprehensive;EconomicOperands;9
+C33.txt;independently;EconomicOperands;1
+C33.txt;international;EconomicOperands;13
+C33.txt;specification;EconomicOperands;10
+C33.txt;central bank;EconomicOperands;8
+C33.txt;earlier than;LogicalConnectors;1
+C33.txt;greater than;LogicalConnectors;6
+C33.txt;paragraph 11;LegalReferences;1
+C33.txt;paragraph 15;LegalReferences;1
+C33.txt;paragraph 16;LegalReferences;3
+C33.txt;regulation d;LegalReferences;1
+C33.txt;counterparty;EconomicOperands;28
+C33.txt;distribution;EconomicOperands;10
+C33.txt;implementing;RegulatoryOperators;21
+C33.txt;institutions;EconomicOperands;17
+C33.txt;jurisdiction;EconomicOperands;4
+C33.txt;relationship;EconomicOperands;2
+C33.txt;requirements;EconomicOperands;9
+C33.txt;in order to;LogicalConnectors;1
+C33.txt;credit risk;EconomicOperands;46
+C33.txt;in addition;LogicalConnectors;1
+C33.txt;paragraph 2;LegalReferences;1
+C33.txt;paragraph 3;LegalReferences;1
+C33.txt;paragraph 4;LegalReferences;2
+C33.txt;paragraph 5;LegalReferences;1
+C33.txt;paragraph 6;LegalReferences;1
+C33.txt;referred to;FunctionWords;3
+C33.txt;accumulated;EconomicOperands;18
+C33.txt;adjustments;EconomicOperands;3
+C33.txt;application;EconomicOperands;10
+C33.txt;authorities;EconomicOperands;19
+C33.txt;calculating;EconomicOperands;2
+C33.txt;calculation;EconomicOperands;1
+C33.txt;considering;LogicalConnectors;4
+C33.txt;contractual;EconomicOperands;4
+C33.txt;denominated;EconomicOperands;2
+C33.txt;derivatives;EconomicOperands;42
+C33.txt;governments;EconomicOperands;91
+C33.txt;information;EconomicOperands;3
+C33.txt;institution;EconomicOperands;14
+C33.txt;instruction;EconomicOperands;21
+C33.txt;instruments;EconomicOperands;8
+C33.txt;liabilities;EconomicOperands;2
+C33.txt;transaction;EconomicOperands;1
+C33.txt;as follows;FunctionWords;1
+C33.txt;subject to;LogicalConnectors;21
+C33.txt;accounting;EconomicOperands;15
+C33.txt;aggregated;EconomicOperands;2
+C33.txt;allocation;EconomicOperands;1
+C33.txt;applicable;FunctionWords;1
+C33.txt;calculated;EconomicOperands;1
+C33.txt;classified;EconomicOperands;3
+C33.txt;commitment;EconomicOperands;2
+C33.txt;completion;EconomicOperands;1
+C33.txt;concerning;LogicalConnectors;1
+C33.txt;considered;EconomicOperands;5
+C33.txt;definition;EconomicOperands;1
+C33.txt;derivative;EconomicOperands;42
+C33.txt;designated;RegulatoryOperators;8
+C33.txt;determined;RegulatoryOperators;1
+C33.txt;difference;EconomicOperands;1
+C33.txt;government;EconomicOperands;26
+C33.txt;guaranteed;EconomicOperands;1
+C33.txt;impairment;EconomicOperands;7
+C33.txt;instrument;EconomicOperands;3
+C33.txt;memorandum;LegalReferences;4
+C33.txt;mitigation;EconomicOperands;12
+C33.txt;principles;EconomicOperands;5
+C33.txt;provisions;EconomicOperands;4
+C33.txt;regulation;EconomicOperands;17
+C33.txt;regulatory;EconomicOperands;7
+C33.txt;repurchase;EconomicOperands;5
+C33.txt;securities;EconomicOperands;6
+C33.txt;separately;EconomicOperands;1
+C33.txt;thresholds;EconomicOperands;1
+C33.txt;transition;EconomicOperands;1
+C33.txt;chapter 5;LegalReferences;1
+C33.txt;listed in;Other;3
+C33.txt;accounted;EconomicOperands;4
+C33.txt;aggregate;EconomicOperands;11
+C33.txt;allocated;EconomicOperands;16
+C33.txt;breakdown;EconomicOperands;15
+C33.txt;calculate;EconomicOperands;1
+C33.txt;component;EconomicOperands;1
+C33.txt;concluded;EconomicOperands;2
+C33.txt;contracts;EconomicOperands;2
+C33.txt;different;FunctionWords;1
+C33.txt;exception;RegulatoryOperators;10
+C33.txt;financial;EconomicOperands;5
+C33.txt;following;FunctionWords;1
+C33.txt;framework;EconomicOperands;13
+C33.txt;generally;FunctionWords;5
+C33.txt;guarantee;EconomicOperands;3
+C33.txt;immediate;EconomicOperands;6
+C33.txt;incidence;EconomicOperands;1
+C33.txt;including;LogicalConnectors;3
+C33.txt;paragraph;LegalReferences;16
+C33.txt;portfolio;EconomicOperands;15
+C33.txt;positions;EconomicOperands;23
+C33.txt;provision;EconomicOperands;1
+C33.txt;reference;EconomicOperands;15
+C33.txt;remaining;EconomicOperands;1
+C33.txt;reporting;EconomicOperands;21
+C33.txt;requested;RegulatoryOperators;1
+C33.txt;residence;EconomicOperands;2
+C33.txt;specified;RegulatoryOperators;11
+C33.txt;technique;EconomicOperands;11
+C33.txt;valuation;EconomicOperands;3
+C33.txt;based on;Other;13
+C33.txt;title ii;LegalReferences;4
+C33.txt;title iv;LegalReferences;2
+C33.txt;accepted;EconomicOperands;5
+C33.txt;acquired;EconomicOperands;2
+C33.txt;appendix;EconomicOperands;1
+C33.txt;approach;EconomicOperands;33
+C33.txt;borrowed;EconomicOperands;2
+C33.txt;borrower;EconomicOperands;1
+C33.txt;carrying;EconomicOperands;34
+C33.txt;combined;EconomicOperands;1
+C33.txt;computed;RegulatoryOperators;1
+C33.txt;currency;EconomicOperands;2
+C33.txt;domestic;EconomicOperands;1
+C33.txt;economic;EconomicOperands;2
+C33.txt;entities;EconomicOperands;19
+C33.txt;expected;EconomicOperands;3
+C33.txt;exposure;EconomicOperands;184
+C33.txt;identify;EconomicOperands;1
+C33.txt;included;EconomicOperands;12
+C33.txt;indirect;EconomicOperands;1
+C33.txt;informed;EconomicOperands;3
+C33.txt;matching;EconomicOperands;1
+C33.txt;maturity;EconomicOperands;19
+C33.txt;measured;EconomicOperands;24
+C33.txt;national;EconomicOperands;12
+C33.txt;negative;MathematicalOperators;26
+C33.txt;notional;EconomicOperands;8
+C33.txt;position;EconomicOperands;8
+C33.txt;positive;EconomicOperands;12
+C33.txt;provided;LogicalConnectors;1
+C33.txt;regional;EconomicOperands;19
+C33.txt;reported;EconomicOperands;35
+C33.txt;residual;EconomicOperands;14
+C33.txt;sentence;Other;1
+C33.txt;specific;FunctionWords;2
+C33.txt;standard;EconomicOperands;13
+C33.txt;weighted;MathematicalOperators;8
+C33.txt;365 day;Attributes;2
+C33.txt;in case;LogicalConnectors;1
+C33.txt;that is;LogicalConnectors;3
+C33.txt;address;EconomicOperands;2
+C33.txt;against;FunctionWords;2
+C33.txt;amounts;EconomicOperands;1
+C33.txt;article;EconomicOperands;42
+C33.txt;assumed;LogicalConnectors;1
+C33.txt;balance;EconomicOperands;1
+C33.txt;banking;EconomicOperands;1
+C33.txt;between;FunctionWords;2
+C33.txt;capital;EconomicOperands;3
+C33.txt;central;EconomicOperands;32
+C33.txt;changes;EconomicOperands;12
+C33.txt;chapter;Other;4
+C33.txt;charges;EconomicOperands;2
+C33.txt;classes;EconomicOperands;21
+C33.txt;country;EconomicOperands;3
+C33.txt;defined;EconomicOperands;13
+C33.txt;divided;LogicalConnectors;1
+C33.txt;general;FunctionWords;68
+C33.txt;hedging;EconomicOperands;6
+C33.txt;however;LogicalConnectors;1
+C33.txt;include;EconomicOperands;4
+C33.txt;lending;EconomicOperands;2
+C33.txt;meaning;Other;1
+C33.txt;prudent;Attributes;3
+C33.txt;qualify;EconomicOperands;2
+C33.txt;related;FunctionWords;6
+C33.txt;reverse;EconomicOperands;5
+C33.txt;section;LegalReferences;1
+C33.txt;settled;EconomicOperands;2
+C33.txt;through;FunctionWords;29
+C33.txt;trading;EconomicOperands;56
+C33.txt;whether;LogicalConnectors;2
+C33.txt;without;FunctionWords;6
+C33.txt;written;EconomicOperands;1
+C33.txt;30 day;Attributes;2
+C33.txt;90 day;Attributes;2
+C33.txt;due to;LogicalConnectors;26
+C33.txt;amount;EconomicOperands;57
+C33.txt;cannot;RegulatoryOperators;1
+C33.txt;charge;EconomicOperands;1
+C33.txt;credit;EconomicOperands;11
+C33.txt;direct;EconomicOperands;24
+C33.txt;effect;EconomicOperands;12
+C33.txt;entity;EconomicOperands;1
+C33.txt;equity;EconomicOperands;9
+C33.txt;exceed;MathematicalOperators;1
+C33.txt;except;LogicalConnectors;1
+C33.txt;income;EconomicOperands;9
+C33.txt;losses;EconomicOperands;3
+C33.txt;market;EconomicOperands;18
+C33.txt;method;EconomicOperands;3
+C33.txt;notice;EconomicOperands;2
+C33.txt;obtain;EconomicOperands;1
+C33.txt;period;EconomicOperands;2
+C33.txt;profit;EconomicOperands;20
+C33.txt;public;EconomicOperands;19
+C33.txt;reduce;EconomicOperands;1
+C33.txt;regard;EconomicOperands;10
+C33.txt;second;LogicalConnectors;2
+C33.txt;sector;EconomicOperands;20
+C33.txt;served;EconomicOperands;1
+C33.txt;solely;LogicalConnectors;2
+C33.txt;within;LogicalConnectors;3
+C33.txt;about;FunctionWords;2
+C33.txt;above;FunctionWords;3
+C33.txt;apply;Other;10
+C33.txt;arise;EconomicOperands;3
+C33.txt;based;Other;5
+C33.txt;basis;Other;3
+C33.txt;class;EconomicOperands;11
+C33.txt;count;EconomicOperands;1
+C33.txt;cover;EconomicOperands;3
+C33.txt;drawn;EconomicOperands;2
+C33.txt;equal;EconomicOperands;6
+C33.txt;first;Attributes;1
+C33.txt;funds;EconomicOperands;9
+C33.txt;given;FunctionWords;3
+C33.txt;gross;EconomicOperands;6
+C33.txt;loans;EconomicOperands;4
+C33.txt;local;EconomicOperands;19
+C33.txt;lower;EconomicOperands;2
+C33.txt;other;LogicalConnectors;39
+C33.txt;point;EconomicOperands;14
+C33.txt;scope;EconomicOperands;5
+C33.txt;shall;RegulatoryOperators;45
+C33.txt;short;EconomicOperands;21
+C33.txt;table;Other;3
+C33.txt;their;FunctionWords;1
+C33.txt;there;FunctionWords;1
+C33.txt;these;FunctionWords;7
+C33.txt;those;FunctionWords;6
+C33.txt;total;MathematicalOperators;20
+C33.txt;under;FunctionWords;37
+C33.txt;value;EconomicOperands;86
+C33.txt;weigh;MathematicalOperators;2
+C33.txt;where;LogicalConnectors;12
+C33.txt;which;FunctionWords;30
+C33.txt;while;LogicalConnectors;2
+C33.txt;whose;FunctionWords;2
+C33.txt;12 a;Other;5
+C33.txt;13 c;Other;1
+C33.txt;25 a;Other;2
+C33.txt;6 th;Attributes;1
+C33.txt;also;LogicalConnectors;1
+C33.txt;bank;EconomicOperands;1
+C33.txt;book;EconomicOperands;5
+C33.txt;both;LogicalConnectors;8
+C33.txt;cost;EconomicOperands;10
+C33.txt;date;EconomicOperands;20
+C33.txt;days;Attributes;7
+C33.txt;debt;EconomicOperands;2
+C33.txt;down;FunctionWords;4
+C33.txt;each;LogicalConnectors;3
+C33.txt;fair;EconomicOperands;78
+C33.txt;form;EconomicOperands;1
+C33.txt;from;FunctionWords;24
+C33.txt;have;FunctionWords;2
+C33.txt;held;EconomicOperands;11
+C33.txt;item;Other;7
+C33.txt;late;EconomicOperands;15
+C33.txt;loan;EconomicOperands;2
+C33.txt;loss;EconomicOperands;20
+C33.txt;made;FunctionWords;1
+C33.txt;mark;EconomicOperands;1
+C33.txt;meet;EconomicOperands;1
+C33.txt;more;LogicalConnectors;6
+C33.txt;only;LogicalConnectors;5
+C33.txt;over;MathematicalOperators;1
+C33.txt;part;FunctionWords;26
+C33.txt;risk;EconomicOperands;34
+C33.txt;same;FunctionWords;5
+C33.txt;sell;EconomicOperands;2
+C33.txt;sold;EconomicOperands;7
+C33.txt;than;FunctionWords;10
+C33.txt;that;FunctionWords;33
+C33.txt;they;FunctionWords;5
+C33.txt;this;FunctionWords;40
+C33.txt;used;EconomicOperands;5
+C33.txt;were;FunctionWords;1
+C33.txt;when;LogicalConnectors;8
+C33.txt;with;FunctionWords;44
+C33.txt;1 a;Other;6
+C33.txt;2 a;Other;2
+C33.txt;3 a;Other;1
+C33.txt;6 a;Other;2
+C33.txt;8 a;Other;3
+C33.txt;2 b;Other;1
+C33.txt;2 c;Other;1
+C33.txt;3 b;Other;2
+C33.txt;3 c;Other;5
+C33.txt;4 c;Other;3
+C33.txt;5 b;Other;1
+C33.txt;5 c;Other;1
+C33.txt;6 c;Other;2
+C33.txt;9 b;Other;2
+C33.txt;c 1;Other;1
+C33.txt;d 1;Other;6
+C33.txt;d 4;Other;1
+C33.txt;f 2;Other;2
 C33.txt;102;LegalReferences;1
-C33.txt;113;LegalReferences;1
-C33.txt;115;LegalReferences;1
 C33.txt;119;LegalReferences;1
 C33.txt;120;LegalReferences;2
+C33.txt;133;Attributes;2
 C33.txt;140;LegalReferences;2
-C33.txt;153;LegalReferences;1
+C33.txt;150;Attributes;1
 C33.txt;301;LegalReferences;1
-C33.txt;AII;LegalReferences;2
-C33.txt;ALL;LogicalConnectors;10
-C33.txt;AND;LogicalConnectors;99
-C33.txt;NON;LogicalConnectors;65
-C33.txt;NOR;LogicalConnectors;1
-C33.txt;NOT;LogicalConnectors;19
-C33.txt;YET;LogicalConnectors;2
+C33.txt;aid;EconomicOperands;1
+C33.txt;aii;LegalReferences;2
+C33.txt;all;LogicalConnectors;10
+C33.txt;and;LogicalConnectors;85
+C33.txt;app;LegalReferences;1
+C33.txt;are;FunctionWords;41
+C33.txt;bad;EconomicOperands;12
+C33.txt;can;FunctionWords;1
+C33.txt;for;FunctionWords;68
+C33.txt;her;FunctionWords;2
+C33.txt;how;FunctionWords;3
+C33.txt;net;EconomicOperands;8
+C33.txt;non;LogicalConnectors;65
+C33.txt;nor;LogicalConnectors;1
+C33.txt;not;LogicalConnectors;19
+C33.txt;off;FunctionWords;1
+C33.txt;one;FunctionWords;3
+C33.txt;own;FunctionWords;9
+C33.txt;pre;EconomicOperands;1
+C33.txt;sum;EconomicOperands;1
+C33.txt;the;FunctionWords;260
+C33.txt;two;Attributes;1
+C33.txt;yet;LogicalConnectors;2
 C33.txt;10;Attributes;11
-C33.txt;12;Attributes;9
-C33.txt;15;Attributes;7
-C33.txt;25;Attributes;2
-C33.txt;35;Attributes;3
-C33.txt;50;Attributes;2
-C33.txt;62;Attributes;1
-C33.txt;EC;EconomicOperands;1
-C33.txt;IT;EconomicOperands;15
-C33.txt;PE;EconomicOperands;3
-C33.txt;AN;FunctionWords;46
-C33.txt;AT;FunctionWords;87
-C33.txt;BE;FunctionWords;46
-C33.txt;BY;FunctionWords;41
-C33.txt;DO;FunctionWords;1
-C33.txt;GO;FunctionWords;3
-C33.txt;IN;FunctionWords;100
-C33.txt;IS;FunctionWords;58
-C33.txt;OF;FunctionWords;208
-C33.txt;ON;FunctionWords;60
-C33.txt;TO;FunctionWords;138
-C33.txt;11;LegalReferences;5
+C33.txt;11;LegalReferences;3
+C33.txt;12;Attributes;3
 C33.txt;13;LegalReferences;2
 C33.txt;14;LegalReferences;8
+C33.txt;15;Attributes;8
 C33.txt;16;LegalReferences;6
-C33.txt;19;LegalReferences;9
+C33.txt;18;LegalReferences;1
+C33.txt;19;LegalReferences;8
 C33.txt;22;LegalReferences;2
+C33.txt;25;Attributes;2
 C33.txt;27;LegalReferences;4
 C33.txt;28;LegalReferences;2
-C33.txt;32;LegalReferences;2
-C33.txt;43;LegalReferences;1
-C33.txt;44;LegalReferences;1
+C33.txt;32;LegalReferences;1
+C33.txt;36;LegalReferences;1
 C33.txt;48;LegalReferences;2
-C33.txt;6C;LegalReferences;1
-C33.txt;A7;LegalReferences;2
-C33.txt;AA;LegalReferences;14
-C33.txt;BB;LegalReferences;2
-C33.txt;II;LegalReferences;2
-C33.txt;IV;LegalReferences;4
-C33.txt;NO;LogicalConnectors;5
-C33.txt;AS;LogicalConnectors;49
-C33.txt;IF;LogicalConnectors;27
-C33.txt;OR;LogicalConnectors;100
-C33.txt;1;Attributes;42
-C33.txt;2;Attributes;27
-C33.txt;3;Attributes;39
-C33.txt;4;Attributes;9
-C33.txt;5;Attributes;19
-C33.txt;6;Attributes;9
-C33.txt;7;Attributes;20
-C33.txt;8;Attributes;14
-C33.txt;9;Attributes;9
-C33.txt;A;FunctionWords;128
-C33.txt;I;FunctionWords;114
-C33.txt;B;LegalReferences;55
-C33.txt;C;LegalReferences;132
-C33.txt;D;LegalReferences;60
-C33.txt;E;LegalReferences;206
-C33.txt;F;LegalReferences;1
-C33.txt;H;LegalReferences;17
-C33.txt;K;LegalReferences;8
-C33.txt;L;LegalReferences;84
-C33.txt;M;LegalReferences;77
-C33.txt;N;LegalReferences;88
-C33.txt;O;LegalReferences;56
-C33.txt;P;LegalReferences;33
-C33.txt;Q;LegalReferences;1
-C33.txt;R;LegalReferences;187
-C33.txt;T;LegalReferences;119
-C33.txt;U;LegalReferences;60
-C33.txt;V;LegalReferences;27
-C33.txt;X;LegalReferences;27
-C33.txt;Y;LegalReferences;58
-C33.txt;Z;LegalReferences;2
+C33.txt;50;Attributes;2
+C33.txt;aa;LegalReferences;16
+C33.txt;an;FunctionWords;43
+C33.txt;as;LogicalConnectors;53
+C33.txt;at;FunctionWords;87
+C33.txt;be;FunctionWords;46
+C33.txt;by;FunctionWords;41
+C33.txt;do;FunctionWords;1
+C33.txt;ec;EconomicOperands;1
+C33.txt;et;Other;5
+C33.txt;go;FunctionWords;3
+C33.txt;if;LogicalConnectors;27
+C33.txt;ii;LegalReferences;2
+C33.txt;in;FunctionWords;100
+C33.txt;is;FunctionWords;58
+C33.txt;it;EconomicOperands;15
+C33.txt;iv;LegalReferences;4
+C33.txt;le;MathematicalOperators;7
+C33.txt;no;LogicalConnectors;5
+C33.txt;of;FunctionWords;205
+C33.txt;on;FunctionWords;60
+C33.txt;or;LogicalConnectors;100
+C33.txt;pe;EconomicOperands;3
+C33.txt;to;FunctionWords;138
+C33.txt;1;Attributes;40
+C33.txt;2;Attributes;24
+C33.txt;3;Attributes;37
+C33.txt;4;Attributes;8
+C33.txt;5;Attributes;21
+C33.txt;6;Attributes;5
+C33.txt;7;Attributes;22
+C33.txt;8;Attributes;10
+C33.txt;9;Attributes;8
+C33.txt;a;FunctionWords;69
+C33.txt;b;LegalReferences;41
+C33.txt;c;LegalReferences;77
+C33.txt;d;LegalReferences;47
+C33.txt;e;LegalReferences;136
+C33.txt;f;LegalReferences;1
+C33.txt;h;LegalReferences;11
+C33.txt;i;FunctionWords;63
+C33.txt;k;LegalReferences;8
+C33.txt;l;LegalReferences;41
+C33.txt;m;LegalReferences;71
+C33.txt;n;LegalReferences;99
+C33.txt;o;LegalReferences;58
+C33.txt;p;LegalReferences;32
+C33.txt;q;LegalReferences;1
+C33.txt;r;LegalReferences;145
+C33.txt;t;LegalReferences;57
+C33.txt;u;LegalReferences;60
+C33.txt;v;LegalReferences;27
+C33.txt;x;LegalReferences;27
+C33.txt;y;LegalReferences;58
+C33.txt;z;LegalReferences;2

@@ -1,291 +1,291 @@
-C69.txt;IN ACCORDANCE WITH;LogicalConnectors;2
-C69.txt;OFF-BALANCE SHEET;EconomicOperands;2
-C69.txt;COMMERCIAL PAPER;EconomicOperands;1
-C69.txt;FOR THE PURPOSES;LogicalConnectors;4
-C69.txt;RETAIL CUSTOMER;EconomicOperands;1
-C69.txt;IN THE CASE OF;LogicalConnectors;1
-C69.txt;BALANCE SHEET;EconomicOperands;1
-C69.txt;INTEREST RATE;EconomicOperands;1
-C69.txt;IN WHICH CASE;LogicalConnectors;1
-C69.txt;INSTITUTIONS;EconomicOperands;7
-C69.txt;INSTRUCTIONS;EconomicOperands;2
-C69.txt;REPRESENTING;EconomicOperands;1
-C69.txt;GREATER THAN;LogicalConnectors;17
-C69.txt;SUBSEQUENTLY;LogicalConnectors;1
-C69.txt;APPROPRIATE;Attributes;3
-C69.txt;SIGNIFICANT;Attributes;1
-C69.txt;CALCULATING;EconomicOperands;1
-C69.txt;CALCULATION;EconomicOperands;1
-C69.txt;COMMITMENTS;EconomicOperands;1
-C69.txt;DETERMINING;EconomicOperands;1
-C69.txt;EVALUATIONS;EconomicOperands;1
-C69.txt;INFORMATION;EconomicOperands;1
-C69.txt;INSTITUTION;EconomicOperands;7
-C69.txt;LIABILITIES;EconomicOperands;2
-C69.txt;OUTSTANDING;EconomicOperands;1
-C69.txt;TRANSACTION;EconomicOperands;3
-C69.txt;RELATING TO;FunctionWords;1
-C69.txt;COMPARED TO;LogicalConnectors;1
-C69.txt;CALCULATED;EconomicOperands;1
-C69.txt;CATEGORIES;EconomicOperands;1
-C69.txt;COMMITMENT;EconomicOperands;1
-C69.txt;CONSIDERED;EconomicOperands;1
-C69.txt;CONSIST OF;EconomicOperands;1
-C69.txt;CURRENCIES;EconomicOperands;2
-C69.txt;DISCRETION;EconomicOperands;1
-C69.txt;EVALUATION;EconomicOperands;1
-C69.txt;EXPERIENCE;EconomicOperands;1
-C69.txt;HISTORICAL;EconomicOperands;1
-C69.txt;MATURITIES;EconomicOperands;1
-C69.txt;RECEIVABLE;EconomicOperands;1
-C69.txt;REFERENCES;EconomicOperands;1
-C69.txt;REGULATION;EconomicOperands;1
-C69.txt;SECURITIES;EconomicOperands;6
-C69.txt;SETTLEMENT;EconomicOperands;1
-C69.txt;APPLICABLE;FunctionWords;3
-C69.txt;AS FOLLOWS;FunctionWords;1
-C69.txt;CONCERNING;LogicalConnectors;1
-C69.txt;LATER THAN;LogicalConnectors;2
-C69.txt;ADDITIONAL;MathematicalOperators;1
-C69.txt;BENCHMARK;EconomicOperands;3
-C69.txt;CALCULATE;EconomicOperands;1
-C69.txt;DEPOSITOR;EconomicOperands;1
-C69.txt;ISSUANCES;EconomicOperands;1
-C69.txt;LIABILITY;EconomicOperands;3
-C69.txt;REFERENCE;EconomicOperands;1
-C69.txt;REFLECTED;EconomicOperands;1
-C69.txt;REPORTING;EconomicOperands;10
-C69.txt;REPRESENT;EconomicOperands;1
-C69.txt;UNSECURED;EconomicOperands;8
-C69.txt;WHOLESALE;EconomicOperands;4
-C69.txt;FOLLOWING;FunctionWords;3
-C69.txt;PRECEDING;FunctionWords;1
-C69.txt;INCLUDING;LogicalConnectors;4
-C69.txt;LESS THAN;LogicalConnectors;17
-C69.txt;INCREASES;MathematicalOperators;1
-C69.txt;LISTED IN;Other;1
-C69.txt;DETERMINE;RegulatoryOperators;1
-C69.txt;10 YEARS;Attributes;3
-C69.txt;6 MONTHS;Attributes;5
-C69.txt;ONE YEAR;Attributes;2
-C69.txt;RELEVANT;Attributes;2
-C69.txt;APPLYING;EconomicOperands;1
-C69.txt;BUSINESS;EconomicOperands;2
-C69.txt;CARRYING;EconomicOperands;1
-C69.txt;CURRENCY;EconomicOperands;6
-C69.txt;DELEGATE;EconomicOperands;1
-C69.txt;DEPOSITS;EconomicOperands;4
-C69.txt;DISCOUNT;EconomicOperands;1
-C69.txt;FACILITY;EconomicOperands;2
-C69.txt;ISSUANCE;EconomicOperands;2
-C69.txt;MATCHING;EconomicOperands;1
-C69.txt;MATURITY;EconomicOperands;6
-C69.txt;MULTIPLE;EconomicOperands;1
-C69.txt;OBTAINED;EconomicOperands;10
-C69.txt;OPTIONAL;EconomicOperands;1
-C69.txt;ORIGINAL;EconomicOperands;6
-C69.txt;POSITIVE;EconomicOperands;1
-C69.txt;REPORTED;EconomicOperands;16
-C69.txt;SETTLING;EconomicOperands;1
-C69.txt;SPECIFIC;FunctionWords;1
-C69.txt;ANYTHING;LogicalConnectors;1
-C69.txt;EQUAL TO;LogicalConnectors;17
-C69.txt;PREVIOUS;LogicalConnectors;2
-C69.txt;PROVIDED;LogicalConnectors;1
-C69.txt;INCREASE;MathematicalOperators;1
-C69.txt;NEGATIVE;MathematicalOperators;1
-C69.txt;2 YEARS;Attributes;5
-C69.txt;5 YEARS;Attributes;5
-C69.txt;ALREADY;Attributes;1
-C69.txt;ACCOUNT;EconomicOperands;1
-C69.txt;AMOUNTS;EconomicOperands;2
-C69.txt;COVERED;EconomicOperands;4
-C69.txt;DEFINED;EconomicOperands;1
-C69.txt;DEPOSIT;EconomicOperands;3
-C69.txt;FUNDING;EconomicOperands;37
-C69.txt;INCLUDE;EconomicOperands;1
-C69.txt;INITIAL;EconomicOperands;1
-C69.txt;LENGTHS;EconomicOperands;5
-C69.txt;PAYABLE;EconomicOperands;4
-C69.txt;PREMIUM;EconomicOperands;1
-C69.txt;PROVIDE;EconomicOperands;1
-C69.txt;SECURED;EconomicOperands;4
-C69.txt;TREATED;EconomicOperands;1
-C69.txt;BETWEEN;FunctionWords;1
-C69.txt;PRESENT;FunctionWords;1
-C69.txt;RELATED;FunctionWords;1
-C69.txt;VARIOUS;FunctionWords;4
-C69.txt;WITHOUT;FunctionWords;1
-C69.txt;SECTION;LegalReferences;1
-C69.txt;NOTHING;LogicalConnectors;1
-C69.txt;IN CASE;LogicalConnectors;2
-C69.txt;SIMILAR;LogicalConnectors;1
-C69.txt;THAT IS;LogicalConnectors;1
-C69.txt;AVERAGE;MathematicalOperators;10
-C69.txt;ACTUAL;EconomicOperands;2
-C69.txt;AMOUNT;EconomicOperands;5
-C69.txt;ASSETS;EconomicOperands;1
-C69.txt;BACKED;EconomicOperands;5
-C69.txt;CAUSED;EconomicOperands;1
-C69.txt;ISSUED;EconomicOperands;1
-C69.txt;MONTHS;EconomicOperands;6
-C69.txt;PERIOD;EconomicOperands;11
-C69.txt;PLACED;EconomicOperands;1
-C69.txt;POINTS;EconomicOperands;2
-C69.txt;PRICES;EconomicOperands;5
-C69.txt;REPORT;EconomicOperands;3
-C69.txt;RETAIL;EconomicOperands;4
-C69.txt;SENIOR;EconomicOperands;4
-C69.txt;SPREAD;EconomicOperands;29
-C69.txt;TAKING;EconomicOperands;2
-C69.txt;VOLUME;EconomicOperands;21
-C69.txt;ACROSS;FunctionWords;1
-C69.txt;BEYOND;FunctionWords;1
-C69.txt;DURING;FunctionWords;2
-C69.txt;AS FOR;LogicalConnectors;1
-C69.txt;SOLELY;LogicalConnectors;1
-C69.txt;CANNOT;RegulatoryOperators;1
-C69.txt;ASSET;EconomicOperands;5
-C69.txt;BONDS;EconomicOperands;3
-C69.txt;CLOSE;EconomicOperands;2
-C69.txt;DRAWN;EconomicOperands;3
-C69.txt;FUNDS;EconomicOperands;1
-C69.txt;INDEX;EconomicOperands;3
-C69.txt;ISSUE;EconomicOperands;1
-C69.txt;ITEMS;EconomicOperands;1
-C69.txt;LEGAL;EconomicOperands;1
-C69.txt;LOANS;EconomicOperands;1
-C69.txt;MONTH;EconomicOperands;7
-C69.txt;PRICE;EconomicOperands;1
-C69.txt;TRADE;EconomicOperands;1
-C69.txt;USAGE;EconomicOperands;1
-C69.txt;WEEKS;EconomicOperands;1
-C69.txt;ABOUT;FunctionWords;1
-C69.txt;ABOVE;FunctionWords;1
-C69.txt;THERE;FunctionWords;3
-C69.txt;UNDER;FunctionWords;2
-C69.txt;WHICH;FunctionWords;19
-C69.txt;OTHER;LogicalConnectors;1
-C69.txt;WHERE;LogicalConnectors;6
-C69.txt;AFTER;LogicalConnectors;1
-C69.txt;STILL;LogicalConnectors;3
-C69.txt;MINUS;MathematicalOperators;1
-C69.txt;TOTAL;MathematicalOperators;18
-C69.txt;BASIS;Other;4
-C69.txt;SHALL;RegulatoryOperators;25
-C69.txt;BOND;EconomicOperands;1
-C69.txt;COST;EconomicOperands;1
-C69.txt;DATE;EconomicOperands;3
-C69.txt;FEES;EconomicOperands;1
-C69.txt;FIRM;EconomicOperands;1
-C69.txt;LATE;EconomicOperands;2
-C69.txt;PAID;EconomicOperands;2
-C69.txt;RATE;EconomicOperands;3
-C69.txt;RING;EconomicOperands;2
-C69.txt;SIGN;EconomicOperands;1
-C69.txt;SWAP;EconomicOperands;5
-C69.txt;TIME;EconomicOperands;6
-C69.txt;YEAR;EconomicOperands;5
-C69.txt;BEEN;FunctionWords;1
-C69.txt;DOWN;FunctionWords;4
-C69.txt;FROM;FunctionWords;1
-C69.txt;HAVE;FunctionWords;2
-C69.txt;INTO;FunctionWords;1
-C69.txt;THAN;FunctionWords;1
-C69.txt;THAT;FunctionWords;4
-C69.txt;THEY;FunctionWords;4
-C69.txt;THIS;FunctionWords;1
-C69.txt;WERE;FunctionWords;2
-C69.txt;WITH;FunctionWords;3
-C69.txt;EACH;LogicalConnectors;1
-C69.txt;ALSO;LogicalConnectors;1
-C69.txt;ONLY;LogicalConnectors;4
-C69.txt;THUS;LogicalConnectors;1
-C69.txt;OVER;MathematicalOperators;9
-C69.txt;ITEM;Other;9
-C69.txt;LEFT;Other;2
-C69.txt;TERM;Other;2
-C69.txt;100;Attributes;3
+C69.txt;in accordance with;LogicalConnectors;2
+C69.txt;off-balance sheet;EconomicOperands;2
+C69.txt;commercial paper;EconomicOperands;1
+C69.txt;for the purpose;FunctionWords;4
+C69.txt;retail customer;EconomicOperands;1
+C69.txt;in the case of;LogicalConnectors;1
+C69.txt;the end of the;MathematicalOperators;6
+C69.txt;in which case;LogicalConnectors;1
+C69.txt;the amount of;MathematicalOperators;1
+C69.txt;balance sheet;EconomicOperands;1
+C69.txt;interest rate;EconomicOperands;1
+C69.txt;greater than;LogicalConnectors;17
+C69.txt;institutions;EconomicOperands;7
+C69.txt;representing;EconomicOperands;1
+C69.txt;subsequently;LogicalConnectors;1
+C69.txt;compared to;LogicalConnectors;1
+C69.txt;relating to;FunctionWords;1
+C69.txt;appropriate;Attributes;3
+C69.txt;calculating;EconomicOperands;1
+C69.txt;calculation;EconomicOperands;1
+C69.txt;determining;EconomicOperands;1
+C69.txt;information;EconomicOperands;1
+C69.txt;institution;EconomicOperands;7
+C69.txt;instruction;EconomicOperands;2
+C69.txt;liabilities;EconomicOperands;2
+C69.txt;outstanding;EconomicOperands;1
+C69.txt;significant;Attributes;1
+C69.txt;transaction;EconomicOperands;3
+C69.txt;on the day;LogicalConnectors;2
+C69.txt;as follows;FunctionWords;1
+C69.txt;consist of;EconomicOperands;1
+C69.txt;later than;LogicalConnectors;2
+C69.txt;additional;MathematicalOperators;1
+C69.txt;applicable;FunctionWords;3
+C69.txt;calculated;EconomicOperands;1
+C69.txt;commitment;EconomicOperands;2
+C69.txt;concerning;LogicalConnectors;1
+C69.txt;considered;EconomicOperands;1
+C69.txt;discretion;EconomicOperands;1
+C69.txt;evaluation;EconomicOperands;2
+C69.txt;experience;EconomicOperands;1
+C69.txt;historical;EconomicOperands;1
+C69.txt;receivable;EconomicOperands;1
+C69.txt;references;EconomicOperands;1
+C69.txt;regulation;EconomicOperands;1
+C69.txt;securities;EconomicOperands;6
+C69.txt;settlement;EconomicOperands;1
+C69.txt;listed in;Other;1
+C69.txt;benchmark;EconomicOperands;3
+C69.txt;calculate;EconomicOperands;1
+C69.txt;depositor;EconomicOperands;1
+C69.txt;determine;RegulatoryOperators;1
+C69.txt;following;FunctionWords;3
+C69.txt;including;LogicalConnectors;4
+C69.txt;liability;EconomicOperands;3
+C69.txt;preceding;FunctionWords;1
+C69.txt;reference;EconomicOperands;1
+C69.txt;reflected;EconomicOperands;1
+C69.txt;reporting;EconomicOperands;10
+C69.txt;represent;EconomicOperands;1
+C69.txt;unsecured;EconomicOperands;8
+C69.txt;wholesale;EconomicOperands;4
+C69.txt;equal to;LogicalConnectors;17
+C69.txt;one year;Attributes;2
+C69.txt;anything;LogicalConnectors;1
+C69.txt;applying;EconomicOperands;1
+C69.txt;business;EconomicOperands;2
+C69.txt;carrying;EconomicOperands;1
+C69.txt;currency;EconomicOperands;6
+C69.txt;delegate;EconomicOperands;1
+C69.txt;deposits;EconomicOperands;4
+C69.txt;discount;EconomicOperands;1
+C69.txt;facility;EconomicOperands;2
+C69.txt;increase;MathematicalOperators;2
+C69.txt;issuance;EconomicOperands;3
+C69.txt;matching;EconomicOperands;1
+C69.txt;maturity;EconomicOperands;6
+C69.txt;multiple;EconomicOperands;1
+C69.txt;negative;MathematicalOperators;1
+C69.txt;obtained;EconomicOperands;10
+C69.txt;optional;EconomicOperands;1
+C69.txt;original;EconomicOperands;6
+C69.txt;positive;EconomicOperands;1
+C69.txt;previous;LogicalConnectors;2
+C69.txt;provided;LogicalConnectors;1
+C69.txt;relevant;Attributes;2
+C69.txt;reported;EconomicOperands;16
+C69.txt;settling;EconomicOperands;1
+C69.txt;specific;FunctionWords;1
+C69.txt;weighted;MathematicalOperators;8
+C69.txt;10 year;Attributes;3
+C69.txt;6 month;Attributes;5
+C69.txt;in case;LogicalConnectors;2
+C69.txt;that is;LogicalConnectors;1
+C69.txt;account;EconomicOperands;1
+C69.txt;already;Attributes;1
+C69.txt;amounts;EconomicOperands;2
+C69.txt;article;EconomicOperands;1
+C69.txt;average;MathematicalOperators;10
+C69.txt;between;FunctionWords;1
+C69.txt;covered;EconomicOperands;4
+C69.txt;defined;EconomicOperands;1
+C69.txt;deposit;EconomicOperands;3
+C69.txt;funding;EconomicOperands;37
+C69.txt;include;EconomicOperands;1
+C69.txt;initial;EconomicOperands;1
+C69.txt;nothing;LogicalConnectors;1
+C69.txt;payable;EconomicOperands;4
+C69.txt;premium;EconomicOperands;1
+C69.txt;present;FunctionWords;1
+C69.txt;provide;EconomicOperands;1
+C69.txt;related;FunctionWords;1
+C69.txt;section;LegalReferences;1
+C69.txt;secured;EconomicOperands;4
+C69.txt;similar;LogicalConnectors;1
+C69.txt;treated;EconomicOperands;1
+C69.txt;various;FunctionWords;4
+C69.txt;without;FunctionWords;1
+C69.txt;2 year;Attributes;5
+C69.txt;5 year;Attributes;5
+C69.txt;as for;LogicalConnectors;1
+C69.txt;across;FunctionWords;1
+C69.txt;actual;EconomicOperands;2
+C69.txt;amount;EconomicOperands;4
+C69.txt;assets;EconomicOperands;1
+C69.txt;backed;EconomicOperands;5
+C69.txt;beyond;FunctionWords;1
+C69.txt;cannot;RegulatoryOperators;1
+C69.txt;caused;EconomicOperands;1
+C69.txt;during;FunctionWords;2
+C69.txt;issued;EconomicOperands;1
+C69.txt;length;EconomicOperands;5
+C69.txt;period;EconomicOperands;11
+C69.txt;placed;EconomicOperands;1
+C69.txt;points;EconomicOperands;2
+C69.txt;report;EconomicOperands;3
+C69.txt;retail;EconomicOperands;4
+C69.txt;senior;EconomicOperands;4
+C69.txt;solely;LogicalConnectors;1
+C69.txt;spread;EconomicOperands;29
+C69.txt;taking;EconomicOperands;2
+C69.txt;volume;EconomicOperands;21
+C69.txt;about;FunctionWords;1
+C69.txt;above;FunctionWords;1
+C69.txt;after;LogicalConnectors;1
+C69.txt;asset;EconomicOperands;5
+C69.txt;basis;Other;4
+C69.txt;close;EconomicOperands;2
+C69.txt;drawn;EconomicOperands;3
+C69.txt;funds;EconomicOperands;1
+C69.txt;index;EconomicOperands;3
+C69.txt;issue;EconomicOperands;1
+C69.txt;legal;EconomicOperands;1
+C69.txt;loans;EconomicOperands;1
+C69.txt;minus;MathematicalOperators;1
+C69.txt;month;EconomicOperands;13
+C69.txt;other;LogicalConnectors;1
+C69.txt;price;EconomicOperands;6
+C69.txt;shall;RegulatoryOperators;25
+C69.txt;still;LogicalConnectors;3
+C69.txt;there;FunctionWords;3
+C69.txt;total;MathematicalOperators;18
+C69.txt;trade;EconomicOperands;1
+C69.txt;under;FunctionWords;2
+C69.txt;usage;EconomicOperands;1
+C69.txt;where;LogicalConnectors;6
+C69.txt;which;FunctionWords;19
+C69.txt;10 a;Other;4
+C69.txt;also;LogicalConnectors;1
+C69.txt;been;FunctionWords;1
+C69.txt;bond;EconomicOperands;4
+C69.txt;cost;EconomicOperands;1
+C69.txt;date;EconomicOperands;3
+C69.txt;down;FunctionWords;4
+C69.txt;each;LogicalConnectors;1
+C69.txt;fees;EconomicOperands;1
+C69.txt;firm;EconomicOperands;1
+C69.txt;from;FunctionWords;1
+C69.txt;hand;EconomicOperands;1
+C69.txt;have;FunctionWords;2
+C69.txt;into;FunctionWords;1
+C69.txt;item;Other;10
+C69.txt;late;EconomicOperands;2
+C69.txt;left;Other;2
+C69.txt;only;LogicalConnectors;4
+C69.txt;over;MathematicalOperators;9
+C69.txt;paid;EconomicOperands;2
+C69.txt;rate;EconomicOperands;3
+C69.txt;ring;EconomicOperands;2
+C69.txt;sign;EconomicOperands;1
+C69.txt;swap;EconomicOperands;5
+C69.txt;term;Other;2
+C69.txt;than;FunctionWords;18
+C69.txt;that;FunctionWords;4
+C69.txt;they;FunctionWords;4
+C69.txt;this;FunctionWords;1
+C69.txt;thus;LogicalConnectors;1
+C69.txt;time;EconomicOperands;6
+C69.txt;week;EconomicOperands;6
+C69.txt;were;FunctionWords;2
+C69.txt;with;FunctionWords;3
+C69.txt;year;EconomicOperands;5
+C69.txt;1 b;Other;1
+C69.txt;d 1;Other;10
+C69.txt;100;Attributes;1
+C69.txt;110;LegalReferences;1
+C69.txt;120;LegalReferences;1
+C69.txt;140;LegalReferences;1
 C69.txt;150;Attributes;3
-C69.txt;TWO;Attributes;1
-C69.txt;DAY;EconomicOperands;2
-C69.txt;LED;EconomicOperands;3
-C69.txt;NEW;EconomicOperands;5
-C69.txt;SEC;EconomicOperands;2
-C69.txt;DID;FunctionWords;1
-C69.txt;FOR;FunctionWords;15
-C69.txt;HAS;FunctionWords;3
-C69.txt;MAY;FunctionWords;1
-C69.txt;ONE;FunctionWords;1
-C69.txt;OWN;FunctionWords;1
-C69.txt;PER;FunctionWords;1
-C69.txt;THE;FunctionWords;106
-C69.txt;VIA;FunctionWords;1
-C69.txt;110;LegalReferences;3
-C69.txt;120;LegalReferences;3
-C69.txt;130;LegalReferences;3
-C69.txt;140;LegalReferences;3
-C69.txt;ALL;LogicalConnectors;4
-C69.txt;ANY;LogicalConnectors;3
-C69.txt;AND;LogicalConnectors;56
-C69.txt;BUT;LogicalConnectors;1
-C69.txt;NOR;LogicalConnectors;1
-C69.txt;NOT;LogicalConnectors;3
-C69.txt;END;Other;7
-C69.txt;10;Attributes;7
+C69.txt;180;Attributes;1
+C69.txt;all;LogicalConnectors;4
+C69.txt;and;LogicalConnectors;43
+C69.txt;any;LogicalConnectors;3
+C69.txt;but;LogicalConnectors;1
+C69.txt;did;FunctionWords;1
+C69.txt;end;Other;1
+C69.txt;for;FunctionWords;15
+C69.txt;led;EconomicOperands;3
+C69.txt;may;FunctionWords;1
+C69.txt;new;EconomicOperands;5
+C69.txt;nor;LogicalConnectors;1
+C69.txt;not;LogicalConnectors;3
+C69.txt;one;FunctionWords;1
+C69.txt;own;FunctionWords;1
+C69.txt;per;FunctionWords;1
+C69.txt;sec;EconomicOperands;2
+C69.txt;the;FunctionWords;91
+C69.txt;two;Attributes;1
+C69.txt;via;FunctionWords;1
+C69.txt;way;EconomicOperands;1
+C69.txt;10;Attributes;5
 C69.txt;12;Attributes;1
-C69.txt;20;Attributes;6
-C69.txt;30;Attributes;6
-C69.txt;50;Attributes;6
-C69.txt;CP;EconomicOperands;3
-C69.txt;IT;EconomicOperands;3
-C69.txt;PE;EconomicOperands;2
-C69.txt;AN;FunctionWords;3
-C69.txt;AT;FunctionWords;9
-C69.txt;BE;FunctionWords;23
-C69.txt;BY;FunctionWords;6
-C69.txt;HE;FunctionWords;1
-C69.txt;IN;FunctionWords;41
-C69.txt;IS;FunctionWords;6
-C69.txt;OF;FunctionWords;73
-C69.txt;ON;FunctionWords;6
-C69.txt;TO;FunctionWords;8
-C69.txt;11;LegalReferences;1
-C69.txt;13;LegalReferences;1
-C69.txt;16;LegalReferences;3
+C69.txt;13;LegalReferences;4
+C69.txt;16;LegalReferences;1
 C69.txt;17;LegalReferences;3
-C69.txt;18;LegalReferences;3
+C69.txt;20;Attributes;8
+C69.txt;30;Attributes;6
 C69.txt;38;LegalReferences;1
-C69.txt;40;LegalReferences;6
-C69.txt;NO;LogicalConnectors;4
-C69.txt;AS;LogicalConnectors;4
-C69.txt;IF;LogicalConnectors;1
-C69.txt;OR;LogicalConnectors;25
-C69.txt;1;Attributes;26
+C69.txt;40;LegalReferences;8
+C69.txt;50;Attributes;6
+C69.txt;60;Attributes;8
+C69.txt;90;Attributes;3
+C69.txt;ab;Other;3
+C69.txt;an;FunctionWords;11
+C69.txt;as;LogicalConnectors;7
+C69.txt;at;FunctionWords;11
+C69.txt;be;FunctionWords;22
+C69.txt;by;FunctionWords;5
+C69.txt;cp;EconomicOperands;3
+C69.txt;et;Other;5
+C69.txt;go;FunctionWords;1
+C69.txt;he;FunctionWords;1
+C69.txt;if;LogicalConnectors;1
+C69.txt;in;FunctionWords;41
+C69.txt;is;FunctionWords;6
+C69.txt;it;EconomicOperands;4
+C69.txt;le;MathematicalOperators;17
+C69.txt;no;LogicalConnectors;4
+C69.txt;of;FunctionWords;66
+C69.txt;on;FunctionWords;4
+C69.txt;or;LogicalConnectors;25
+C69.txt;pe;EconomicOperands;2
+C69.txt;to;FunctionWords;8
+C69.txt;1;Attributes;29
 C69.txt;2;Attributes;1
 C69.txt;3;Attributes;7
 C69.txt;4;Attributes;1
 C69.txt;5;Attributes;1
-C69.txt;6;Attributes;8
+C69.txt;6;Attributes;2
 C69.txt;7;Attributes;13
-C69.txt;8;Attributes;5
-C69.txt;9;Attributes;9
-C69.txt;A;FunctionWords;22
-C69.txt;I;FunctionWords;27
-C69.txt;B;LegalReferences;8
-C69.txt;C;LegalReferences;38
-C69.txt;D;LegalReferences;18
-C69.txt;E;LegalReferences;58
-C69.txt;F;LegalReferences;1
-C69.txt;H;LegalReferences;19
-C69.txt;K;LegalReferences;8
-C69.txt;L;LegalReferences;35
-C69.txt;M;LegalReferences;29
-C69.txt;N;LegalReferences;37
-C69.txt;O;LegalReferences;30
-C69.txt;P;LegalReferences;3
-C69.txt;R;LegalReferences;23
-C69.txt;T;LegalReferences;30
-C69.txt;U;LegalReferences;32
-C69.txt;X;LegalReferences;1
-C69.txt;Y;LegalReferences;3
+C69.txt;8;Attributes;7
+C69.txt;9;Attributes;6
+C69.txt;a;FunctionWords;17
+C69.txt;b;LegalReferences;6
+C69.txt;c;LegalReferences;42
+C69.txt;d;LegalReferences;12
+C69.txt;e;LegalReferences;34
+C69.txt;f;LegalReferences;1
+C69.txt;h;LegalReferences;13
+C69.txt;i;FunctionWords;22
+C69.txt;k;LegalReferences;3
+C69.txt;l;LegalReferences;34
+C69.txt;m;LegalReferences;30
+C69.txt;n;LegalReferences;43
+C69.txt;o;LegalReferences;30
+C69.txt;p;LegalReferences;3
+C69.txt;r;LegalReferences;28
+C69.txt;t;LegalReferences;16
+C69.txt;u;LegalReferences;35
+C69.txt;x;LegalReferences;1
+C69.txt;y;LegalReferences;3

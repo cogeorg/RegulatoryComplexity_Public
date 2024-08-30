@@ -1,0 +1,401 @@
+F04+07.txt;financial instrument;EconomicOperands;1
+F04+07.txt;accounting standard;EconomicOperands;1
+F04+07.txt;in accordance with;LogicalConnectors;2
+F04+07.txt;creditworthiness;EconomicOperands;1
+F04+07.txt;for the purpose;FunctionWords;2
+F04+07.txt;associated with;FunctionWords;3
+F04+07.txt;financial asset;EconomicOperands;113
+F04+07.txt;collateralized;EconomicOperands;8
+F04+07.txt;the amount of;MathematicalOperators;1
+F04+07.txt;the number of;MathematicalOperators;1
+F04+07.txt;interest rate;EconomicOperands;1
+F04+07.txt;comprehensive;EconomicOperands;9
+F04+07.txt;corresponding;EconomicOperands;2
+F04+07.txt;derecognition;EconomicOperands;4
+F04+07.txt;significantly;Attributes;1
+F04+07.txt;central bank;EconomicOperands;60
+F04+07.txt;paragraph 10;LegalReferences;1
+F04+07.txt;counterparty;EconomicOperands;5
+F04+07.txt;incorporated;EconomicOperands;1
+F04+07.txt;institutions;EconomicOperands;83
+F04+07.txt;modification;EconomicOperands;1
+F04+07.txt;requirements;EconomicOperands;1
+F04+07.txt;respectively;LogicalConnectors;1
+F04+07.txt;subordinated;EconomicOperands;5
+F04+07.txt;credit card;EconomicOperands;4
+F04+07.txt;credit risk;EconomicOperands;94
+F04+07.txt;paragraph 7;LegalReferences;2
+F04+07.txt;paragraph 8;LegalReferences;2
+F04+07.txt;paragraph 9;LegalReferences;1
+F04+07.txt;accumulated;EconomicOperands;86
+F04+07.txt;adjustments;EconomicOperands;20
+F04+07.txt;application;EconomicOperands;1
+F04+07.txt;appropriate;Attributes;1
+F04+07.txt;calculation;EconomicOperands;1
+F04+07.txt;contractual;EconomicOperands;1
+F04+07.txt;corporation;EconomicOperands;160
+F04+07.txt;derivatives;EconomicOperands;4
+F04+07.txt;enforcement;EconomicOperands;1
+F04+07.txt;expectation;EconomicOperands;1
+F04+07.txt;governments;EconomicOperands;60
+F04+07.txt;information;EconomicOperands;2
+F04+07.txt;institution;EconomicOperands;4
+F04+07.txt;instruments;EconomicOperands;46
+F04+07.txt;limitations;RegulatoryOperators;1
+F04+07.txt;measurement;EconomicOperands;2
+F04+07.txt;recognition;EconomicOperands;38
+F04+07.txt;significant;Attributes;49
+F04+07.txt;as well as;LogicalConnectors;5
+F04+07.txt;because of;LogicalConnectors;1
+F04+07.txt;relates to;LogicalConnectors;1
+F04+07.txt;subject to;LogicalConnectors;20
+F04+07.txt;accounting;EconomicOperands;10
+F04+07.txt;activities;EconomicOperands;1
+F04+07.txt;applicable;FunctionWords;2
+F04+07.txt;associated;EconomicOperands;3
+F04+07.txt;calculated;EconomicOperands;1
+F04+07.txt;classified;EconomicOperands;1
+F04+07.txt;collateral;EconomicOperands;4
+F04+07.txt;collecting;EconomicOperands;1
+F04+07.txt;conditions;EconomicOperands;1
+F04+07.txt;considered;EconomicOperands;3
+F04+07.txt;constitute;EconomicOperands;3
+F04+07.txt;cumulative;EconomicOperands;2
+F04+07.txt;definition;EconomicOperands;1
+F04+07.txt;derivative;EconomicOperands;11
+F04+07.txt;designated;RegulatoryOperators;4
+F04+07.txt;determined;RegulatoryOperators;1
+F04+07.txt;enterprise;EconomicOperands;18
+F04+07.txt;identified;FunctionWords;1
+F04+07.txt;impairment;EconomicOperands;62
+F04+07.txt;individual;EconomicOperands;1
+F04+07.txt;instrument;EconomicOperands;12
+F04+07.txt;originated;EconomicOperands;33
+F04+07.txt;performing;EconomicOperands;9
+F04+07.txt;previously;LogicalConnectors;1
+F04+07.txt;reasonable;Attributes;1
+F04+07.txt;receivable;EconomicOperands;8
+F04+07.txt;recognized;EconomicOperands;1
+F04+07.txt;references;EconomicOperands;77
+F04+07.txt;reflecting;EconomicOperands;2
+F04+07.txt;repurchase;EconomicOperands;4
+F04+07.txt;securities;EconomicOperands;33
+F04+07.txt;separately;EconomicOperands;6
+F04+07.txt;subsequent;FunctionWords;1
+F04+07.txt;successive;EconomicOperands;1
+F04+07.txt;according;LogicalConnectors;1
+F04+07.txt;affecting;EconomicOperands;12
+F04+07.txt;allocated;EconomicOperands;1
+F04+07.txt;allowance;EconomicOperands;28
+F04+07.txt;breakdown;EconomicOperands;3
+F04+07.txt;described;Other;1
+F04+07.txt;directive;EconomicOperands;7
+F04+07.txt;effective;Other;1
+F04+07.txt;exceeding;LogicalConnectors;1
+F04+07.txt;financial;EconomicOperands;160
+F04+07.txt;following;FunctionWords;1
+F04+07.txt;household;EconomicOperands;30
+F04+07.txt;including;LogicalConnectors;2
+F04+07.txt;increased;MathematicalOperators;1
+F04+07.txt;performed;EconomicOperands;1
+F04+07.txt;portfolio;EconomicOperands;3
+F04+07.txt;principal;EconomicOperands;2
+F04+07.txt;purchased;EconomicOperands;33
+F04+07.txt;recovered;EconomicOperands;1
+F04+07.txt;reduction;EconomicOperands;6
+F04+07.txt;reference;EconomicOperands;2
+F04+07.txt;reporting;EconomicOperands;2
+F04+07.txt;situation;EconomicOperands;1
+F04+07.txt;specified;RegulatoryOperators;1
+F04+07.txt;therefore;LogicalConnectors;1
+F04+07.txt;valuation;EconomicOperands;1
+F04+07.txt;variation;EconomicOperands;2
+F04+07.txt;based on;Other;46
+F04+07.txt;accounts;EconomicOperands;1
+F04+07.txt;addition;MathematicalOperators;1
+F04+07.txt;adjusted;EconomicOperands;1
+F04+07.txt;advances;EconomicOperands;42
+F04+07.txt;appendix;EconomicOperands;3
+F04+07.txt;approach;EconomicOperands;2
+F04+07.txt;carrying;EconomicOperands;87
+F04+07.txt;contract;EconomicOperands;2
+F04+07.txt;covering;EconomicOperands;1
+F04+07.txt;directly;Attributes;1
+F04+07.txt;entirety;EconomicOperands;2
+F04+07.txt;estimate;EconomicOperands;1
+F04+07.txt;expected;EconomicOperands;4
+F04+07.txt;exposure;EconomicOperands;10
+F04+07.txt;included;EconomicOperands;1
+F04+07.txt;increase;MathematicalOperators;49
+F04+07.txt;interest;EconomicOperands;2
+F04+07.txt;lifetime;EconomicOperands;2
+F04+07.txt;measured;EconomicOperands;18
+F04+07.txt;moderate;EconomicOperands;3
+F04+07.txt;national;EconomicOperands;65
+F04+07.txt;negative;MathematicalOperators;22
+F04+07.txt;occurred;EconomicOperands;1
+F04+07.txt;positive;EconomicOperands;3
+F04+07.txt;property;EconomicOperands;4
+F04+07.txt;purchase;EconomicOperands;4
+F04+07.txt;recovery;EconomicOperands;1
+F04+07.txt;reported;EconomicOperands;20
+F04+07.txt;required;RegulatoryOperators;1
+F04+07.txt;reversal;EconomicOperands;2
+F04+07.txt;specific;FunctionWords;7
+F04+07.txt;in case;LogicalConnectors;3
+F04+07.txt;of debt;EconomicOperands;3
+F04+07.txt;account;EconomicOperands;6
+F04+07.txt;accrued;EconomicOperands;1
+F04+07.txt;against;FunctionWords;1
+F04+07.txt;amounts;EconomicOperands;5
+F04+07.txt;applied;EconomicOperands;1
+F04+07.txt;article;EconomicOperands;2
+F04+07.txt;banking;EconomicOperands;8
+F04+07.txt;because;LogicalConnectors;1
+F04+07.txt;changes;EconomicOperands;15
+F04+07.txt;current;FunctionWords;4
+F04+07.txt;defined;EconomicOperands;4
+F04+07.txt;depends;EconomicOperands;1
+F04+07.txt;explain;EconomicOperands;1
+F04+07.txt;finance;EconomicOperands;8
+F04+07.txt;further;LogicalConnectors;1
+F04+07.txt;general;FunctionWords;75
+F04+07.txt;include;EconomicOperands;7
+F04+07.txt;induced;EconomicOperands;17
+F04+07.txt;initial;EconomicOperands;54
+F04+07.txt;lending;EconomicOperands;4
+F04+07.txt;meaning;Other;2
+F04+07.txt;outside;FunctionWords;1
+F04+07.txt;partial;EconomicOperands;19
+F04+07.txt;pending;FunctionWords;1
+F04+07.txt;portion;EconomicOperands;2
+F04+07.txt;product;EconomicOperands;4
+F04+07.txt;project;EconomicOperands;4
+F04+07.txt;qualify;EconomicOperands;3
+F04+07.txt;reduces;EconomicOperands;2
+F04+07.txt;reverse;EconomicOperands;4
+F04+07.txt;statute;Other;1
+F04+07.txt;through;FunctionWords;22
+F04+07.txt;trading;EconomicOperands;25
+F04+07.txt;whether;LogicalConnectors;2
+F04+07.txt;without;FunctionWords;24
+F04+07.txt;written;EconomicOperands;3
+F04+07.txt;30 day;Attributes;30
+F04+07.txt;90 day;Attributes;34
+F04+07.txt;due to;LogicalConnectors;14
+F04+07.txt;part i;LegalReferences;22
+F04+07.txt;adding;MathematicalOperators;1
+F04+07.txt;affect;EconomicOperands;1
+F04+07.txt;amount;EconomicOperands;94
+F04+07.txt;assets;EconomicOperands;121
+F04+07.txt;assume;EconomicOperands;1
+F04+07.txt;caused;EconomicOperands;1
+F04+07.txt;change;EconomicOperands;2
+F04+07.txt;credit;EconomicOperands;177
+F04+07.txt;demand;EconomicOperands;4
+F04+07.txt;direct;EconomicOperands;2
+F04+07.txt;either;LogicalConnectors;3
+F04+07.txt;entire;LogicalConnectors;1
+F04+07.txt;equity;EconomicOperands;25
+F04+07.txt;except;LogicalConnectors;1
+F04+07.txt;impact;EconomicOperands;1
+F04+07.txt;impair;EconomicOperands;109
+F04+07.txt;income;EconomicOperands;9
+F04+07.txt;issuer;EconomicOperands;2
+F04+07.txt;leases;EconomicOperands;4
+F04+07.txt;losses;EconomicOperands;8
+F04+07.txt;market;EconomicOperands;9
+F04+07.txt;medium;EconomicOperands;18
+F04+07.txt;method;EconomicOperands;11
+F04+07.txt;nation;EconomicOperands;4
+F04+07.txt;notice;EconomicOperands;4
+F04+07.txt;period;EconomicOperands;1
+F04+07.txt;profit;EconomicOperands;11
+F04+07.txt;relate;EconomicOperands;1
+F04+07.txt;report;EconomicOperands;3
+F04+07.txt;result;EconomicOperands;1
+F04+07.txt;rights;EconomicOperands;1
+F04+07.txt;sector;EconomicOperands;3
+F04+07.txt;single;EconomicOperands;1
+F04+07.txt;status;EconomicOperands;1
+F04+07.txt;unpaid;EconomicOperands;1
+F04+07.txt;within;LogicalConnectors;3
+F04+07.txt;asset;EconomicOperands;3
+F04+07.txt;based;Other;8
+F04+07.txt;basis;Other;1
+F04+07.txt;cause;EconomicOperands;1
+F04+07.txt;deter;EconomicOperands;1
+F04+07.txt;event;EconomicOperands;4
+F04+07.txt;given;FunctionWords;3
+F04+07.txt;gross;EconomicOperands;22
+F04+07.txt;house;EconomicOperands;4
+F04+07.txt;lease;EconomicOperands;2
+F04+07.txt;level;EconomicOperands;1
+F04+07.txt;loans;EconomicOperands;62
+F04+07.txt;other;LogicalConnectors;105
+F04+07.txt;ratio;LogicalConnectors;1
+F04+07.txt;right;EconomicOperands;1
+F04+07.txt;shall;RegulatoryOperators;41
+F04+07.txt;short;EconomicOperands;4
+F04+07.txt;since;LogicalConnectors;53
+F04+07.txt;small;EconomicOperands;18
+F04+07.txt;stage;EconomicOperands;79
+F04+07.txt;taken;Other;1
+F04+07.txt;their;FunctionWords;6
+F04+07.txt;these;FunctionWords;1
+F04+07.txt;those;FunctionWords;4
+F04+07.txt;total;MathematicalOperators;24
+F04+07.txt;trade;EconomicOperands;6
+F04+07.txt;under;FunctionWords;34
+F04+07.txt;until;LogicalConnectors;3
+F04+07.txt;using;EconomicOperands;1
+F04+07.txt;value;EconomicOperands;62
+F04+07.txt;where;LogicalConnectors;14
+F04+07.txt;which;FunctionWords;133
+F04+07.txt;while;LogicalConnectors;1
+F04+07.txt;4 th;Other;1
+F04+07.txt;able;EconomicOperands;4
+F04+07.txt;also;LogicalConnectors;1
+F04+07.txt;been;FunctionWords;5
+F04+07.txt;both;LogicalConnectors;1
+F04+07.txt;call;EconomicOperands;4
+F04+07.txt;cash;EconomicOperands;2
+F04+07.txt;come;EconomicOperands;1
+F04+07.txt;cost;EconomicOperands;18
+F04+07.txt;date;EconomicOperands;5
+F04+07.txt;days;Attributes;1
+F04+07.txt;debt;EconomicOperands;52
+F04+07.txt;down;FunctionWords;3
+F04+07.txt;each;LogicalConnectors;3
+F04+07.txt;fair;EconomicOperands;41
+F04+07.txt;fall;EconomicOperands;1
+F04+07.txt;fees;EconomicOperands;1
+F04+07.txt;flow;EconomicOperands;2
+F04+07.txt;from;FunctionWords;3
+F04+07.txt;gain;EconomicOperands;1
+F04+07.txt;give;FunctionWords;1
+F04+07.txt;have;FunctionWords;6
+F04+07.txt;held;EconomicOperands;4
+F04+07.txt;into;FunctionWords;2
+F04+07.txt;late;EconomicOperands;9
+F04+07.txt;lead;EconomicOperands;1
+F04+07.txt;loss;EconomicOperands;13
+F04+07.txt;made;FunctionWords;1
+F04+07.txt;mean;Other;1
+F04+07.txt;only;LogicalConnectors;3
+F04+07.txt;paid;EconomicOperands;1
+F04+07.txt;part;FunctionWords;767
+F04+07.txt;past;FunctionWords;20
+F04+07.txt;risk;EconomicOperands;19
+F04+07.txt;size;EconomicOperands;18
+F04+07.txt;term;Other;4
+F04+07.txt;that;FunctionWords;31
+F04+07.txt;them;FunctionWords;3
+F04+07.txt;they;FunctionWords;7
+F04+07.txt;this;FunctionWords;6
+F04+07.txt;with;FunctionWords;37
+F04+07.txt;2 a;Other;7
+F04+07.txt;3 a;Other;13
+F04+07.txt;4 a;Other;9
+F04+07.txt;5 a;Other;56
+F04+07.txt;8 a;Other;7
+F04+07.txt;9 a;Other;3
+F04+07.txt;2 c;Other;2
+F04+07.txt;4 c;Other;6
+F04+07.txt;4 i;Other;9
+F04+07.txt;5 i;Other;11
+F04+07.txt;a 6;Other;1
+F04+07.txt;a 7;Other;6
+F04+07.txt;100;Attributes;3
+F04+07.txt;119;LegalReferences;3
+F04+07.txt;120;LegalReferences;2
+F04+07.txt;aii;LegalReferences;2
+F04+07.txt;all;LogicalConnectors;3
+F04+07.txt;and;LogicalConnectors;123
+F04+07.txt;any;LogicalConnectors;3
+F04+07.txt;are;FunctionWords;25
+F04+07.txt;bad;EconomicOperands;52
+F04+07.txt;but;LogicalConnectors;28
+F04+07.txt;can;FunctionWords;2
+F04+07.txt;due;Attributes;21
+F04+07.txt;ecb;EconomicOperands;12
+F04+07.txt;fee;EconomicOperands;1
+F04+07.txt;for;FunctionWords;56
+F04+07.txt;ifi;EconomicOperands;2
+F04+07.txt;iii;LegalReferences;2
+F04+07.txt;led;EconomicOperands;2
+F04+07.txt;low;EconomicOperands;11
+F04+07.txt;net;EconomicOperands;4
+F04+07.txt;non;LogicalConnectors;118
+F04+07.txt;not;LogicalConnectors;46
+F04+07.txt;off;FunctionWords;41
+F04+07.txt;sum;EconomicOperands;6
+F04+07.txt;the;FunctionWords;87
+F04+07.txt;use;EconomicOperands;4
+F04+07.txt;via;FunctionWords;2
+F04+07.txt;14;LegalReferences;4
+F04+07.txt;16;LegalReferences;15
+F04+07.txt;28;LegalReferences;8
+F04+07.txt;32;LegalReferences;1
+F04+07.txt;35;Attributes;72
+F04+07.txt;36;LegalReferences;1
+F04+07.txt;42;LegalReferences;3
+F04+07.txt;44;LegalReferences;62
+F04+07.txt;49;LegalReferences;39
+F04+07.txt;68;LegalReferences;1
+F04+07.txt;75;Attributes;1
+F04+07.txt;78;Other;5
+F04+07.txt;aa;LegalReferences;66
+F04+07.txt;an;FunctionWords;699
+F04+07.txt;as;LogicalConnectors;39
+F04+07.txt;at;FunctionWords;73
+F04+07.txt;be;FunctionWords;37
+F04+07.txt;by;FunctionWords;31
+F04+07.txt;do;FunctionWords;2
+F04+07.txt;ec;EconomicOperands;22
+F04+07.txt;et;Other;1
+F04+07.txt;ha;Other;9
+F04+07.txt;if;LogicalConnectors;231
+F04+07.txt;ii;LegalReferences;19
+F04+07.txt;in;FunctionWords;94
+F04+07.txt;is;FunctionWords;24
+F04+07.txt;it;EconomicOperands;60
+F04+07.txt;iv;LegalReferences;3
+F04+07.txt;le;MathematicalOperators;20
+F04+07.txt;no;LogicalConnectors;2
+F04+07.txt;of;FunctionWords;191
+F04+07.txt;on;FunctionWords;57
+F04+07.txt;or;LogicalConnectors;75
+F04+07.txt;to;FunctionWords;13
+F04+07.txt;tr;EconomicOperands;3
+F04+07.txt;up;FunctionWords;1
+F04+07.txt;1;Attributes;82
+F04+07.txt;2;Attributes;87
+F04+07.txt;3;Attributes;74
+F04+07.txt;4;Attributes;30
+F04+07.txt;5;Attributes;27
+F04+07.txt;6;Attributes;4
+F04+07.txt;7;Attributes;183
+F04+07.txt;8;Attributes;38
+F04+07.txt;9;Attributes;48
+F04+07.txt;a;FunctionWords;327
+F04+07.txt;b;LegalReferences;254
+F04+07.txt;c;LegalReferences;223
+F04+07.txt;d;LegalReferences;321
+F04+07.txt;e;LegalReferences;1155
+F04+07.txt;f;LegalReferences;83
+F04+07.txt;h;LegalReferences;32
+F04+07.txt;i;FunctionWords;95
+F04+07.txt;k;LegalReferences;4
+F04+07.txt;l;LegalReferences;39
+F04+07.txt;m;LegalReferences;142
+F04+07.txt;n;LegalReferences;988
+F04+07.txt;o;LegalReferences;115
+F04+07.txt;p;LegalReferences;101
+F04+07.txt;q;LegalReferences;10
+F04+07.txt;r;LegalReferences;500
+F04+07.txt;t;LegalReferences;114
+F04+07.txt;u;LegalReferences;39
+F04+07.txt;v;LegalReferences;775
+F04+07.txt;x;LegalReferences;790
+F04+07.txt;y;LegalReferences;63
