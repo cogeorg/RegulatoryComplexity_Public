@@ -1,9 +1,8 @@
 C07.txt;in conjunction with;FunctionWords;3
-C07.txt;capital requirement;EconomicOperands;4
 C07.txt;for the purpose of;LogicalConnectors;4
 C07.txt;in accordance with;LogicalConnectors;31
 C07.txt;credit protection;EconomicOperands;24
-C07.txt;netting agreement;EconomicOperands;4
+C07.txt;netting agreement;EconomicOperands;1
 C07.txt;off-balance sheet;EconomicOperands;4
 C07.txt;the same meaning;LogicalConnectors;1
 C07.txt;associated with;FunctionWords;10
@@ -13,43 +12,43 @@ C07.txt;in the case of;LogicalConnectors;4
 C07.txt;the end of the;MathematicalOperators;3
 C07.txt;prior approval;RegulatoryOperators;1
 C07.txt;administrative;EconomicOperands;1
+C07.txt;categorisation;EconomicOperands;2
 C07.txt;classification;EconomicOperands;5
 C07.txt;counterparties;EconomicOperands;1
 C07.txt;implementation;EconomicOperands;4
 C07.txt;infrastructure;EconomicOperands;7
-C07.txt;interpretation;EconomicOperands;1
+C07.txt;securitisation;EconomicOperands;5
 C07.txt;the amount of;MathematicalOperators;1
-C07.txt;balance sheet;EconomicOperands;23
+C07.txt;balance sheet;EconomicOperands;18
 C07.txt;in particular;LogicalConnectors;5
 C07.txt;regardless of;LogicalConnectors;1
 C07.txt;applicability;FunctionWords;1
-C07.txt;clarification;EconomicOperands;1
 C07.txt;comprehensive;EconomicOperands;6
 C07.txt;corresponding;EconomicOperands;3
 C07.txt;institutional;EconomicOperands;1
 C07.txt;international;EconomicOperands;2
-C07.txt;qualification;EconomicOperands;1
-C07.txt;central bank;EconomicOperands;5
+C07.txt;organisations;EconomicOperands;2
 C07.txt;consolidated;EconomicOperands;1
 C07.txt;coordination;EconomicOperands;1
-C07.txt;counterparty;EconomicOperands;35
-C07.txt;distribution;EconomicOperands;2
+C07.txt;counterparty;EconomicOperands;39
+C07.txt;distribution;EconomicOperands;1
 C07.txt;establishing;RegulatoryOperators;1
 C07.txt;incorporated;EconomicOperands;1
 C07.txt;individually;EconomicOperands;1
-C07.txt;institutions;EconomicOperands;21
+C07.txt;institutions;EconomicOperands;20
 C07.txt;multilateral;EconomicOperands;2
 C07.txt;periodically;Attributes;2
 C07.txt;relationship;EconomicOperands;1
 C07.txt;representing;EconomicOperands;1
-C07.txt;requirements;EconomicOperands;12
+C07.txt;requirements;EconomicOperands;16
+C07.txt;standardised;EconomicOperands;15
 C07.txt;subsequently;LogicalConnectors;1
 C07.txt;transactions;EconomicOperands;26
 C07.txt;transferable;EconomicOperands;1
 C07.txt;in order to;LogicalConnectors;2
 C07.txt;assigned to;EconomicOperands;24
 C07.txt;consists of;EconomicOperands;1
-C07.txt;credit risk;EconomicOperands;72
+C07.txt;credit risk;EconomicOperands;69
 C07.txt;in addition;LogicalConnectors;1
 C07.txt;paragraph 1;LegalReferences;1
 C07.txt;pursuant to;FunctionWords;1
@@ -67,13 +66,11 @@ C07.txt;contractual;EconomicOperands;7
 C07.txt;corresponds;EconomicOperands;1
 C07.txt;derivatives;EconomicOperands;16
 C07.txt;development;EconomicOperands;2
-C07.txt;distributed;EconomicOperands;1
 C07.txt;explanation;EconomicOperands;1
 C07.txt;governments;EconomicOperands;9
 C07.txt;independent;EconomicOperands;2
 C07.txt;information;EconomicOperands;12
-C07.txt;institution;EconomicOperands;6
-C07.txt;instruction;EconomicOperands;5
+C07.txt;institution;EconomicOperands;7
 C07.txt;instruments;EconomicOperands;2
 C07.txt;investments;EconomicOperands;2
 C07.txt;necessarily;EconomicOperands;1
@@ -82,9 +79,10 @@ C07.txt;potentially;Other;2
 C07.txt;reallocated;EconomicOperands;1
 C07.txt;regulations;EconomicOperands;1
 C07.txt;residential;EconomicOperands;6
+C07.txt;specialised;EconomicOperands;2
 C07.txt;supervisory;EconomicOperands;3
 C07.txt;transaction;EconomicOperands;1
-C07.txt;undertaking;EconomicOperands;12
+C07.txt;undertaking;EconomicOperands;3
 C07.txt;as long as;LogicalConnectors;2
 C07.txt;as well as;LogicalConnectors;4
 C07.txt;as follows;FunctionWords;2
@@ -94,6 +92,7 @@ C07.txt;accounting;EconomicOperands;2
 C07.txt;activities;EconomicOperands;2
 C07.txt;additional;MathematicalOperators;2
 C07.txt;adjustment;EconomicOperands;18
+C07.txt;agreements;EconomicOperands;3
 C07.txt;allocation;EconomicOperands;1
 C07.txt;applicable;FunctionWords;2
 C07.txt;assessment;EconomicOperands;19
@@ -102,7 +101,7 @@ C07.txt;associated;EconomicOperands;1
 C07.txt;background;EconomicOperands;1
 C07.txt;calculated;EconomicOperands;11
 C07.txt;classified;EconomicOperands;6
-C07.txt;collateral;EconomicOperands;28
+C07.txt;collateral;EconomicOperands;27
 C07.txt;commercial;EconomicOperands;6
 C07.txt;comparable;EconomicOperands;1
 C07.txt;concerning;LogicalConnectors;1
@@ -111,18 +110,18 @@ C07.txt;considered;EconomicOperands;6
 C07.txt;consistent;Attributes;2
 C07.txt;constitute;EconomicOperands;1
 C07.txt;containing;EconomicOperands;3
-C07.txt;conversion;EconomicOperands;33
+C07.txt;conversion;EconomicOperands;32
 C07.txt;definition;EconomicOperands;5
 C07.txt;derivative;EconomicOperands;2
 C07.txt;determined;RegulatoryOperators;2
 C07.txt;difference;EconomicOperands;2
-C07.txt;discounted;EconomicOperands;4
+C07.txt;discounted;EconomicOperands;2
 C07.txt;equivalent;LogicalConnectors;1
 C07.txt;explaining;EconomicOperands;1
 C07.txt;explicitly;EconomicOperands;2
 C07.txt;facilities;EconomicOperands;1
 C07.txt;foundation;EconomicOperands;2
-C07.txt;geographic;EconomicOperands;1
+C07.txt;fulfilment;EconomicOperands;1
 C07.txt;government;EconomicOperands;6
 C07.txt;identified;FunctionWords;1
 C07.txt;individual;EconomicOperands;3
@@ -140,7 +139,7 @@ C07.txt;procedures;EconomicOperands;1
 C07.txt;protection;EconomicOperands;4
 C07.txt;provisions;EconomicOperands;15
 C07.txt;prudential;EconomicOperands;1
-C07.txt;receivable;EconomicOperands;1
+C07.txt;recognised;EconomicOperands;1
 C07.txt;reflecting;EconomicOperands;1
 C07.txt;repurchase;EconomicOperands;2
 C07.txt;respective;EconomicOperands;3
@@ -151,7 +150,7 @@ C07.txt;short-term;EconomicOperands;4
 C07.txt;subsequent;FunctionWords;1
 C07.txt;subsidiary;EconomicOperands;2
 C07.txt;supervisor;EconomicOperands;1
-C07.txt;supporting;EconomicOperands;30
+C07.txt;supporting;EconomicOperands;27
 C07.txt;themselves;FunctionWords;2
 C07.txt;underlying;EconomicOperands;2
 C07.txt;volatility;EconomicOperands;13
@@ -171,8 +170,8 @@ C07.txt;calculate;EconomicOperands;6
 C07.txt;competent;EconomicOperands;1
 C07.txt;continued;EconomicOperands;2
 C07.txt;contracts;EconomicOperands;2
-C07.txt;corporate;EconomicOperands;15
-C07.txt;deduction;MathematicalOperators;4
+C07.txt;corporate;EconomicOperands;5
+C07.txt;deduction;MathematicalOperators;3
 C07.txt;defaulted;EconomicOperands;6
 C07.txt;described;Other;1
 C07.txt;different;FunctionWords;8
@@ -184,30 +183,24 @@ C07.txt;financial;EconomicOperands;20
 C07.txt;financing;EconomicOperands;4
 C07.txt;following;FunctionWords;13
 C07.txt;framework;EconomicOperands;1
-C07.txt;guarantee;EconomicOperands;2
 C07.txt;including;LogicalConnectors;2
 C07.txt;indicated;EconomicOperands;1
-C07.txt;intrinsic;EconomicOperands;1
 C07.txt;mortgages;EconomicOperands;18
 C07.txt;necessary;Attributes;2
 C07.txt;nominated;EconomicOperands;5
 C07.txt;otherwise;LogicalConnectors;2
-C07.txt;paragraph;LegalReferences;9
 C07.txt;permanent;EconomicOperands;4
-C07.txt;portfolio;EconomicOperands;1
 C07.txt;positions;EconomicOperands;15
 C07.txt;prejudice;EconomicOperands;4
 C07.txt;presented;EconomicOperands;1
 C07.txt;purchased;EconomicOperands;1
-C07.txt;reduction;EconomicOperands;1
 C07.txt;reporting;EconomicOperands;10
 C07.txt;residence;EconomicOperands;1
 C07.txt;resulting;EconomicOperands;3
 C07.txt;revolving;EconomicOperands;1
 C07.txt;specified;RegulatoryOperators;2
 C07.txt;statement;EconomicOperands;1
-C07.txt;structure;EconomicOperands;6
-C07.txt;technique;EconomicOperands;20
+C07.txt;structure;EconomicOperands;5
 C07.txt;therefore;LogicalConnectors;10
 C07.txt;treatment;EconomicOperands;4
 C07.txt;valuation;EconomicOperands;1
@@ -218,12 +211,11 @@ C07.txt;accounts;EconomicOperands;1
 C07.txt;adjusted;EconomicOperands;23
 C07.txt;advanced;EconomicOperands;2
 C07.txt;applying;EconomicOperands;1
-C07.txt;approach;EconomicOperands;47
-C07.txt;assessed;EconomicOperands;5
+C07.txt;approach;EconomicOperands;43
+C07.txt;assessed;EconomicOperands;3
 C07.txt;assigned;RegulatoryOperators;4
 C07.txt;business;EconomicOperands;5
 C07.txt;category;EconomicOperands;1
-C07.txt;classify;EconomicOperands;1
 C07.txt;comments;EconomicOperands;1
 C07.txt;contains;EconomicOperands;1
 C07.txt;contract;EconomicOperands;1
@@ -236,8 +228,7 @@ C07.txt;dilution;EconomicOperands;1
 C07.txt;directly;Attributes;2
 C07.txt;eligible;EconomicOperands;5
 C07.txt;entities;EconomicOperands;8
-C07.txt;estimate;EconomicOperands;4
-C07.txt;exposure;EconomicOperands;425
+C07.txt;exposure;EconomicOperands;244
 C07.txt;implicit;EconomicOperands;1
 C07.txt;included;EconomicOperands;11
 C07.txt;includes;EconomicOperands;2
@@ -265,10 +256,7 @@ C07.txt;sentence;Other;3
 C07.txt;separate;EconomicOperands;1
 C07.txt;services;EconomicOperands;2
 C07.txt;specific;FunctionWords;8
-C07.txt;standard;EconomicOperands;15
-C07.txt;weighted;MathematicalOperators;35
-C07.txt;class b;EconomicOperands;1
-C07.txt;class c;EconomicOperands;1
+C07.txt;weighted;MathematicalOperators;27
 C07.txt;in case;LogicalConnectors;4
 C07.txt;in that;LogicalConnectors;2
 C07.txt;that is;LogicalConnectors;5
@@ -279,30 +267,28 @@ C07.txt;already;Attributes;1
 C07.txt;amounts;EconomicOperands;17
 C07.txt;applied;EconomicOperands;7
 C07.txt;arising;EconomicOperands;13
-C07.txt;article;EconomicOperands;169
+C07.txt;article;EconomicOperands;162
 C07.txt;banking;EconomicOperands;5
 C07.txt;between;FunctionWords;1
-C07.txt;central;EconomicOperands;20
+C07.txt;capital;EconomicOperands;4
+C07.txt;central;EconomicOperands;17
 C07.txt;certain;FunctionWords;3
 C07.txt;changes;EconomicOperands;1
-C07.txt;chapter;Other;19
+C07.txt;chapter;Other;15
 C07.txt;classes;EconomicOperands;35
 C07.txt;cleared;EconomicOperands;13
-C07.txt;collect;EconomicOperands;7
+C07.txt;collect;EconomicOperands;1
 C07.txt;council;EconomicOperands;4
 C07.txt;covered;EconomicOperands;7
 C07.txt;default;EconomicOperands;22
 C07.txt;defined;EconomicOperands;8
-C07.txt;deliver;EconomicOperands;6
 C07.txt;derived;EconomicOperands;5
-C07.txt;example;EconomicOperands;2
+C07.txt;example;EconomicOperands;1
 C07.txt;factors;EconomicOperands;42
 C07.txt;finance;EconomicOperands;1
 C07.txt;formula;EconomicOperands;3
-C07.txt;forward;EconomicOperands;2
 C07.txt;further;LogicalConnectors;1
 C07.txt;general;FunctionWords;3
-C07.txt;graphic;EconomicOperands;1
 C07.txt;however;LogicalConnectors;3
 C07.txt;include;EconomicOperands;5
 C07.txt;leasing;EconomicOperands;2
@@ -310,35 +296,28 @@ C07.txt;lending;EconomicOperands;6
 C07.txt;mandate;RegulatoryOperators;6
 C07.txt;meaning;Other;2
 C07.txt;neither;LogicalConnectors;1
-C07.txt;netting;EconomicOperands;22
-C07.txt;network;EconomicOperands;1
+C07.txt;netting;EconomicOperands;25
 C07.txt;obligor;EconomicOperands;3
 C07.txt;operate;EconomicOperands;1
 C07.txt;outcome;EconomicOperands;2
 C07.txt;partial;EconomicOperands;4
-C07.txt;portion;EconomicOperands;1
-C07.txt;present;FunctionWords;1
-C07.txt;process;EconomicOperands;5
+C07.txt;process;EconomicOperands;2
 C07.txt;product;EconomicOperands;8
 C07.txt;provide;EconomicOperands;6
 C07.txt;purpose;EconomicOperands;3
-C07.txt;qualify;EconomicOperands;2
 C07.txt;receive;EconomicOperands;3
 C07.txt;related;FunctionWords;5
 C07.txt;require;RegulatoryOperators;1
 C07.txt;respect;Other;1
-C07.txt;respond;EconomicOperands;2
-C07.txt;section;LegalReferences;2
+C07.txt;section;LegalReferences;1
 C07.txt;secured;EconomicOperands;31
 C07.txt;seventh;Attributes;1
-C07.txt;special;EconomicOperands;2
 C07.txt;specify;EconomicOperands;1
 C07.txt;subject;EconomicOperands;1
 C07.txt;support;EconomicOperands;1
 C07.txt;systems;EconomicOperands;1
-C07.txt;testing;EconomicOperands;1
 C07.txt;thereof;FunctionWords;1
-C07.txt;through;FunctionWords;20
+C07.txt;through;FunctionWords;19
 C07.txt;trading;EconomicOperands;7
 C07.txt;treated;EconomicOperands;2
 C07.txt;whether;LogicalConnectors;1
@@ -355,21 +334,20 @@ C07.txt;assets;EconomicOperands;5
 C07.txt;assign;EconomicOperands;1
 C07.txt;before;LogicalConnectors;3
 C07.txt;caused;EconomicOperands;1
-C07.txt;credit;EconomicOperands;36
+C07.txt;credit;EconomicOperands;39
 C07.txt;decide;EconomicOperands;1
-C07.txt;detail;EconomicOperands;1
-C07.txt;effect;EconomicOperands;19
+C07.txt;effect;EconomicOperands;4
 C07.txt;either;LogicalConnectors;1
 C07.txt;ensure;RegulatoryOperators;3
 C07.txt;entity;EconomicOperands;1
 C07.txt;equity;EconomicOperands;6
 C07.txt;estate;EconomicOperands;2
-C07.txt;europe;EconomicOperands;2
 C07.txt;except;LogicalConnectors;1
 C07.txt;exists;EconomicOperands;1
 C07.txt;factor;EconomicOperands;21
 C07.txt;follow;EconomicOperands;1
-C07.txt;funded;EconomicOperands;24
+C07.txt;fulfil;EconomicOperands;2
+C07.txt;funded;EconomicOperands;16
 C07.txt;having;FunctionWords;1
 C07.txt;impact;EconomicOperands;4
 C07.txt;issued;EconomicOperands;2
@@ -379,7 +357,7 @@ C07.txt;linked;EconomicOperands;5
 C07.txt;losses;EconomicOperands;1
 C07.txt;margin;EconomicOperands;2
 C07.txt;master;EconomicOperands;1
-C07.txt;method;EconomicOperands;15
+C07.txt;method;EconomicOperands;13
 C07.txt;models;EconomicOperands;2
 C07.txt;others;EconomicOperands;2
 C07.txt;parent;EconomicOperands;2
@@ -388,7 +366,6 @@ C07.txt;public;EconomicOperands;5
 C07.txt;reduce;EconomicOperands;1
 C07.txt;refers;EconomicOperands;1
 C07.txt;report;EconomicOperands;2
-C07.txt;result;EconomicOperands;1
 C07.txt;retail;EconomicOperands;18
 C07.txt;scheme;EconomicOperands;1
 C07.txt;second;LogicalConnectors;3
@@ -396,53 +373,46 @@ C07.txt;sector;EconomicOperands;4
 C07.txt;simple;EconomicOperands;7
 C07.txt;single;EconomicOperands;1
 C07.txt;status;EconomicOperands;1
-C07.txt;taking;EconomicOperands;8
+C07.txt;taking;EconomicOperands;7
 C07.txt;unless;LogicalConnectors;1
 C07.txt;within;LogicalConnectors;9
-C07.txt;129 c;Other;2
-C07.txt;501 a;Other;2
 C07.txt;about;FunctionWords;2
 C07.txt;above;FunctionWords;1
-C07.txt;after;LogicalConnectors;14
+C07.txt;after;LogicalConnectors;13
 C07.txt;among;FunctionWords;4
 C07.txt;apply;Other;6
 C07.txt;asset;EconomicOperands;1
-C07.txt;banks;EconomicOperands;2
+C07.txt;banks;EconomicOperands;7
 C07.txt;based;Other;6
 C07.txt;being;FunctionWords;10
 C07.txt;below;FunctionWords;6
 C07.txt;break;EconomicOperands;1
-C07.txt;check;EconomicOperands;1
-C07.txt;class;EconomicOperands;51
+C07.txt;class;EconomicOperands;53
 C07.txt;clear;EconomicOperands;1
 C07.txt;could;FunctionWords;1
-C07.txt;count;EconomicOperands;4
-C07.txt;cover;EconomicOperands;3
+C07.txt;cover;EconomicOperands;2
 C07.txt;cross;EconomicOperands;7
 C07.txt;first;Attributes;6
 C07.txt;fully;EconomicOperands;11
 C07.txt;funds;EconomicOperands;8
 C07.txt;given;FunctionWords;1
-C07.txt;grade;EconomicOperands;1
-C07.txt;group;EconomicOperands;6
+C07.txt;group;EconomicOperands;5
 C07.txt;imply;LogicalConnectors;1
-C07.txt;joint;EconomicOperands;6
-C07.txt;lease;EconomicOperands;4
+C07.txt;joint;EconomicOperands;1
+C07.txt;lease;EconomicOperands;3
 C07.txt;level;EconomicOperands;1
 C07.txt;local;EconomicOperands;4
 C07.txt;might;FunctionWords;1
 C07.txt;order;EconomicOperands;1
 C07.txt;other;LogicalConnectors;28
-C07.txt;party;EconomicOperands;4
 C07.txt;point;EconomicOperands;48
-C07.txt;prior;EconomicOperands;9
-C07.txt;rated;EconomicOperands;3
+C07.txt;prior;EconomicOperands;4
+C07.txt;rated;EconomicOperands;2
 C07.txt;ratio;LogicalConnectors;1
 C07.txt;refer;EconomicOperands;1
 C07.txt;rules;EconomicOperands;1
 C07.txt;scope;EconomicOperands;7
 C07.txt;shall;RegulatoryOperators;90
-C07.txt;share;EconomicOperands;5
 C07.txt;since;LogicalConnectors;1
 C07.txt;taken;Other;1
 C07.txt;their;FunctionWords;7
@@ -451,36 +421,26 @@ C07.txt;these;FunctionWords;4
 C07.txt;those;FunctionWords;5
 C07.txt;title;LegalReferences;1
 C07.txt;total;MathematicalOperators;33
-C07.txt;treat;EconomicOperands;1
 C07.txt;under;FunctionWords;23
 C07.txt;units;EconomicOperands;5
 C07.txt;using;EconomicOperands;1
-C07.txt;value;EconomicOperands;77
-C07.txt;weigh;MathematicalOperators;27
+C07.txt;value;EconomicOperands;65
 C07.txt;where;LogicalConnectors;8
 C07.txt;which;FunctionWords;94
 C07.txt;worth;EconomicOperands;1
 C07.txt;would;FunctionWords;4
-C07.txt;11 a;Other;1
-C07.txt;13 a;Other;1
-C07.txt;13 c;Other;5
-C07.txt;4 th;Other;2
-C07.txt;6 th;Attributes;1
-C07.txt;78 c;Other;1
 C07.txt;1472;LegalReferences;10
-C07.txt;able;EconomicOperands;23
 C07.txt;also;LogicalConnectors;17
-C07.txt;back;EconomicOperands;5
+C07.txt;back;EconomicOperands;4
 C07.txt;been;FunctionWords;3
-C07.txt;bond;EconomicOperands;8
 C07.txt;book;EconomicOperands;12
-C07.txt;case;EconomicOperands;8
+C07.txt;case;EconomicOperands;7
 C07.txt;cash;EconomicOperands;5
 C07.txt;data;EconomicOperands;1
 C07.txt;down;FunctionWords;10
 C07.txt;each;LogicalConnectors;9
 C07.txt;fall;EconomicOperands;4
-C07.txt;flow;EconomicOperands;18
+C07.txt;flow;EconomicOperands;1
 C07.txt;form;EconomicOperands;7
 C07.txt;free;EconomicOperands;6
 C07.txt;from;FunctionWords;33
@@ -488,9 +448,7 @@ C07.txt;hand;EconomicOperands;1
 C07.txt;have;FunctionWords;1
 C07.txt;high;EconomicOperands;5
 C07.txt;into;FunctionWords;15
-C07.txt;item;Other;34
-C07.txt;join;EconomicOperands;1
-C07.txt;late;EconomicOperands;26
+C07.txt;item;Other;4
 C07.txt;laws;EconomicOperands;1
 C07.txt;line;EconomicOperands;4
 C07.txt;loan;EconomicOperands;1
@@ -498,22 +456,17 @@ C07.txt;long;EconomicOperands;8
 C07.txt;loss;EconomicOperands;2
 C07.txt;made;FunctionWords;1
 C07.txt;make;FunctionWords;1
-C07.txt;mark;EconomicOperands;1
-C07.txt;mean;Other;1
-C07.txt;meet;EconomicOperands;3
+C07.txt;meet;EconomicOperands;2
 C07.txt;most;FunctionWords;2
 C07.txt;must;FunctionWords;2
 C07.txt;need;EconomicOperands;1
-C07.txt;note;EconomicOperands;4
+C07.txt;note;EconomicOperands;1
 C07.txt;only;LogicalConnectors;12
-C07.txt;over;MathematicalOperators;2
 C07.txt;part;FunctionWords;23
 C07.txt;past;FunctionWords;1
-C07.txt;pool;EconomicOperands;1
-C07.txt;post;EconomicOperands;3
+C07.txt;post;EconomicOperands;2
 C07.txt;real;EconomicOperands;2
-C07.txt;rise;Other;1
-C07.txt;risk;EconomicOperands;76
+C07.txt;risk;EconomicOperands;67
 C07.txt;same;FunctionWords;3
 C07.txt;some;FunctionWords;1
 C07.txt;step;EconomicOperands;5
@@ -525,181 +478,124 @@ C07.txt;then;LogicalConnectors;2
 C07.txt;they;FunctionWords;13
 C07.txt;this;FunctionWords;27
 C07.txt;time;EconomicOperands;1
-C07.txt;type;EconomicOperands;8
+C07.txt;type;EconomicOperands;2
 C07.txt;used;EconomicOperands;13
-C07.txt;view;EconomicOperands;2
 C07.txt;were;FunctionWords;5
 C07.txt;when;LogicalConnectors;2
 C07.txt;will;FunctionWords;1
 C07.txt;with;FunctionWords;34
 C07.txt;work;EconomicOperands;1
-C07.txt;1 a;Other;6
-C07.txt;2 a;Other;5
-C07.txt;3 a;Other;3
-C07.txt;4 a;Other;10
-C07.txt;5 a;Other;2
-C07.txt;6 a;Other;2
-C07.txt;9 a;Other;1
-C07.txt;1 f;Other;1
-C07.txt;2 c;Other;48
-C07.txt;3 c;Other;10
-C07.txt;4 c;Other;5
-C07.txt;5 c;Other;4
-C07.txt;5 i;Other;1
-C07.txt;6 c;Other;8
-C07.txt;a 1;Other;1
-C07.txt;b 2;Other;1
-C07.txt;b 3;Other;1
-C07.txt;b 4;Other;1
-C07.txt;b 6;Other;1
-C07.txt;d 1;Other;5
-C07.txt;d 4;Other;1
-C07.txt;e 1;Other;1
-C07.txt;f 1;Other;10
-C07.txt;100;Attributes;12
+C07.txt;1 a;Other;1
+C07.txt;2 a;Other;1
+C07.txt;a 2;Other;1
+C07.txt;100;Attributes;16
+C07.txt;105;LegalReferences;1
 C07.txt;110;LegalReferences;1
-C07.txt;113;LegalReferences;1
-C07.txt;129;LegalReferences;1
+C07.txt;113;LegalReferences;6
+C07.txt;125;Attributes;2
+C07.txt;129;LegalReferences;2
 C07.txt;133;Attributes;2
-C07.txt;150;Attributes;5
-C07.txt;152;LegalReferences;1
-C07.txt;154;LegalReferences;2
+C07.txt;150;Attributes;8
+C07.txt;203;LegalReferences;1
 C07.txt;204;LegalReferences;1
-C07.txt;211;LegalReferences;1
-C07.txt;301;LegalReferences;2
-C07.txt;323;LegalReferences;1
-C07.txt;501;LegalReferences;6
+C07.txt;501;LegalReferences;4
 C07.txt;941;LegalReferences;2
-C07.txt;aid;EconomicOperands;6
-C07.txt;aig;EconomicOperands;2
-C07.txt;all;LogicalConnectors;15
-C07.txt;and;LogicalConnectors;115
+C07.txt;all;LogicalConnectors;13
+C07.txt;and;LogicalConnectors;146
 C07.txt;any;LogicalConnectors;4
-C07.txt;app;LegalReferences;1
 C07.txt;are;FunctionWords;33
 C07.txt;but;LogicalConnectors;4
 C07.txt;can;FunctionWords;1
-C07.txt;crm;EconomicOperands;24
-C07.txt;doe;EconomicOperands;13
+C07.txt;crm;EconomicOperands;23
 C07.txt;due;Attributes;1
 C07.txt;etc;FunctionWords;1
 C07.txt;for;FunctionWords;73
-C07.txt;her;FunctionWords;4
 C07.txt;how;FunctionWords;1
 C07.txt;iii;LegalReferences;3
 C07.txt;may;FunctionWords;3
 C07.txt;net;EconomicOperands;11
 C07.txt;non;LogicalConnectors;5
 C07.txt;nor;LogicalConnectors;1
-C07.txt;not;LogicalConnectors;30
-C07.txt;off;FunctionWords;9
-C07.txt;omo;EconomicOperands;1
-C07.txt;one;FunctionWords;10
-C07.txt;out;EconomicOperands;9
+C07.txt;not;LogicalConnectors;29
+C07.txt;off;FunctionWords;5
+C07.txt;one;FunctionWords;9
 C07.txt;own;FunctionWords;11
-C07.txt;per;FunctionWords;4
-C07.txt;pre;EconomicOperands;26
-C07.txt;sec;EconomicOperands;8
-C07.txt;seq;LegalReferences;7
-C07.txt;set;Other;22
+C07.txt;per;FunctionWords;1
+C07.txt;pre;EconomicOperands;25
+C07.txt;sec;EconomicOperands;3
+C07.txt;set;Other;4
 C07.txt;sum;EconomicOperands;2
-C07.txt;the;FunctionWords;404
+C07.txt;the;FunctionWords;406
 C07.txt;two;Attributes;1
-C07.txt;use;EconomicOperands;11
+C07.txt;use;EconomicOperands;9
 C07.txt;via;FunctionWords;2
-C07.txt;war;EconomicOperands;1
 C07.txt;way;EconomicOperands;1
 C07.txt;10;Attributes;4
-C07.txt;11;LegalReferences;40
-C07.txt;12;Attributes;14
-C07.txt;13;LegalReferences;16
-C07.txt;14;LegalReferences;2
-C07.txt;15;Attributes;3
-C07.txt;18;LegalReferences;3
-C07.txt;19;LegalReferences;6
-C07.txt;20;Attributes;12
-C07.txt;22;LegalReferences;13
-C07.txt;23;Attributes;9
+C07.txt;13;LegalReferences;2
+C07.txt;16;LegalReferences;1
+C07.txt;20;Attributes;9
 C07.txt;24;LegalReferences;2
-C07.txt;25;Attributes;8
-C07.txt;27;LegalReferences;4
-C07.txt;29;LegalReferences;3
-C07.txt;30;Attributes;5
-C07.txt;31;Attributes;2
-C07.txt;32;LegalReferences;3
+C07.txt;31;Attributes;1
+C07.txt;32;LegalReferences;1
 C07.txt;35;Attributes;4
-C07.txt;36;LegalReferences;1
 C07.txt;41;LegalReferences;6
-C07.txt;43;LegalReferences;1
 C07.txt;45;Attributes;1
 C07.txt;46;LegalReferences;1
-C07.txt;47;LegalReferences;7
+C07.txt;47;LegalReferences;1
 C07.txt;48;LegalReferences;1
-C07.txt;49;LegalReferences;4
-C07.txt;50;Attributes;13
+C07.txt;49;LegalReferences;1
+C07.txt;50;Attributes;9
 C07.txt;51;LegalReferences;1
 C07.txt;53;LegalReferences;1
+C07.txt;54;LegalReferences;1
 C07.txt;60;Attributes;1
 C07.txt;62;Attributes;1
-C07.txt;65;Attributes;3
+C07.txt;65;Attributes;4
 C07.txt;68;LegalReferences;1
 C07.txt;75;Attributes;5
 C07.txt;ab;Other;1
-C07.txt;an;FunctionWords;45
-C07.txt;as;LogicalConnectors;54
-C07.txt;at;FunctionWords;31
-C07.txt;be;FunctionWords;93
+C07.txt;an;FunctionWords;24
+C07.txt;as;LogicalConnectors;45
+C07.txt;at;FunctionWords;10
+C07.txt;be;FunctionWords;91
 C07.txt;by;FunctionWords;60
-C07.txt;cc;LegalReferences;24
 C07.txt;do;FunctionWords;2
-C07.txt;ec;EconomicOperands;14
-C07.txt;go;FunctionWords;3
-C07.txt;he;FunctionWords;2
-C07.txt;if;LogicalConnectors;17
+C07.txt;he;FunctionWords;1
+C07.txt;if;LogicalConnectors;16
 C07.txt;ii;LegalReferences;3
-C07.txt;in;FunctionWords;195
-C07.txt;is;FunctionWords;82
-C07.txt;it;EconomicOperands;70
-C07.txt;iv;LegalReferences;8
-C07.txt;le;MathematicalOperators;3
-C07.txt;no;LogicalConnectors;13
-C07.txt;of;FunctionWords;358
-C07.txt;on;FunctionWords;99
-C07.txt;or;LogicalConnectors;47
-C07.txt;pe;EconomicOperands;3
+C07.txt;in;FunctionWords;167
+C07.txt;is;FunctionWords;38
+C07.txt;it;EconomicOperands;18
+C07.txt;iv;LegalReferences;1
+C07.txt;no;LogicalConnectors;10
+C07.txt;of;FunctionWords;368
+C07.txt;on;FunctionWords;56
+C07.txt;or;LogicalConnectors;39
 C07.txt;to;FunctionWords;131
-C07.txt;tr;EconomicOperands;15
-C07.txt;us;EconomicOperands;5
-C07.txt;vi;EconomicOperands;3
-C07.txt;1;Attributes;48
-C07.txt;2;Attributes;43
-C07.txt;3;Attributes;29
-C07.txt;4;Attributes;13
-C07.txt;5;Attributes;26
-C07.txt;6;Attributes;22
-C07.txt;7;Attributes;34
-C07.txt;8;Attributes;19
-C07.txt;9;Attributes;15
-C07.txt;a;FunctionWords;178
-C07.txt;b;LegalReferences;83
-C07.txt;c;LegalReferences;192
-C07.txt;d;LegalReferences;84
-C07.txt;e;LegalReferences;297
-C07.txt;f;LegalReferences;41
-C07.txt;h;LegalReferences;43
-C07.txt;i;FunctionWords;171
-C07.txt;j;LegalReferences;8
-C07.txt;k;LegalReferences;13
-C07.txt;l;LegalReferences;69
-C07.txt;m;LegalReferences;133
-C07.txt;n;LegalReferences;118
-C07.txt;o;LegalReferences;101
-C07.txt;p;LegalReferences;55
-C07.txt;q;LegalReferences;15
-C07.txt;r;LegalReferences;518
-C07.txt;t;LegalReferences;177
-C07.txt;u;LegalReferences;104
-C07.txt;v;LegalReferences;46
-C07.txt;x;LegalReferences;7
-C07.txt;y;LegalReferences;27
-C07.txt;z;LegalReferences;1
+C07.txt;1;Attributes;27
+C07.txt;2;Attributes;19
+C07.txt;3;Attributes;7
+C07.txt;4;Attributes;15
+C07.txt;5;Attributes;10
+C07.txt;6;Attributes;12
+C07.txt;7;Attributes;7
+C07.txt;8;Attributes;3
+C07.txt;9;Attributes;1
+C07.txt;a;FunctionWords;87
+C07.txt;b;LegalReferences;11
+C07.txt;c;LegalReferences;18
+C07.txt;d;LegalReferences;8
+C07.txt;e;LegalReferences;18
+C07.txt;f;LegalReferences;9
+C07.txt;h;LegalReferences;2
+C07.txt;i;FunctionWords;14
+C07.txt;j;LegalReferences;4
+C07.txt;k;LegalReferences;1
+C07.txt;l;LegalReferences;5
+C07.txt;m;LegalReferences;3
+C07.txt;n;LegalReferences;4
+C07.txt;o;LegalReferences;3
+C07.txt;p;LegalReferences;3
+C07.txt;q;LegalReferences;2
+C07.txt;t;LegalReferences;17
+C07.txt;v;LegalReferences;1

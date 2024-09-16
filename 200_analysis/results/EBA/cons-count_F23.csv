@@ -1,20 +1,15 @@
 F23.txt;in accordance with;LogicalConnectors;1
-F23.txt;for the purpose;FunctionWords;1
 F23.txt;associated with;FunctionWords;1
-F23.txt;financial asset;EconomicOperands;1
 F23.txt;classification;EconomicOperands;1
 F23.txt;the number of;MathematicalOperators;2
-F23.txt;central bank;EconomicOperands;1
-F23.txt;paragraph 23;LegalReferences;3
 F23.txt;counterparty;EconomicOperands;1
+F23.txt;nonfinancial;EconomicOperands;7
 F23.txt;respectively;LogicalConnectors;1
 F23.txt;credit risk;EconomicOperands;25
 F23.txt;in addition;LogicalConnectors;1
-F23.txt;paragraph 3;LegalReferences;1
 F23.txt;accordingly;LogicalConnectors;1
 F23.txt;accumulated;EconomicOperands;75
 F23.txt;contractual;EconomicOperands;1
-F23.txt;corporation;EconomicOperands;142
 F23.txt;denominator;LogicalConnectors;1
 F23.txt;determining;EconomicOperands;1
 F23.txt;forbearance;EconomicOperands;235
@@ -30,14 +25,13 @@ F23.txt;consist of;EconomicOperands;1
 F23.txt;additional;MathematicalOperators;8
 F23.txt;applicable;FunctionWords;1
 F23.txt;classified;EconomicOperands;2
-F23.txt;collateral;EconomicOperands;197
+F23.txt;collateral;EconomicOperands;61
 F23.txt;commercial;EconomicOperands;253
 F23.txt;conditions;EconomicOperands;1
 F23.txt;considered;EconomicOperands;24
 F23.txt;determined;RegulatoryOperators;1
-F23.txt;enterprise;EconomicOperands;11
 F23.txt;guaranteed;EconomicOperands;1
-F23.txt;impairment;EconomicOperands;27
+F23.txt;impairment;EconomicOperands;24
 F23.txt;instrument;EconomicOperands;1
 F23.txt;litigation;EconomicOperands;24
 F23.txt;memorandum;LegalReferences;7
@@ -50,15 +44,14 @@ F23.txt;more than;LogicalConnectors;1
 F23.txt;breakdown;EconomicOperands;2
 F23.txt;confirmed;EconomicOperands;1
 F23.txt;excluding;LogicalConnectors;1
-F23.txt;financial;EconomicOperands;248
+F23.txt;financial;EconomicOperands;242
 F23.txt;following;FunctionWords;1
-F23.txt;guarantee;EconomicOperands;51
-F23.txt;household;EconomicOperands;112
+F23.txt;guarantee;EconomicOperands;24
 F23.txt;indicated;EconomicOperands;1
 F23.txt;intention;EconomicOperands;1
 F23.txt;judiciary;EconomicOperands;2
 F23.txt;numerator;LogicalConnectors;1
-F23.txt;paragraph;LegalReferences;3
+F23.txt;paragraph;LegalReferences;5
 F23.txt;partially;EconomicOperands;2
 F23.txt;reporting;EconomicOperands;1
 F23.txt;typically;FunctionWords;1
@@ -72,7 +65,7 @@ F23.txt;commence;EconomicOperands;1
 F23.txt;contract;EconomicOperands;2
 F23.txt;coverage;EconomicOperands;9
 F23.txt;deposits;EconomicOperands;1
-F23.txt;exposure;EconomicOperands;246
+F23.txt;exposure;EconomicOperands;7
 F23.txt;included;EconomicOperands;1
 F23.txt;measures;EconomicOperands;235
 F23.txt;multiple;EconomicOperands;1
@@ -82,11 +75,11 @@ F23.txt;notified;EconomicOperands;3
 F23.txt;occurred;EconomicOperands;1
 F23.txt;previous;LogicalConnectors;1
 F23.txt;property;EconomicOperands;151
+F23.txt;purposes;EconomicOperands;1
 F23.txt;received;EconomicOperands;36
 F23.txt;reported;EconomicOperands;5
 F23.txt;specific;FunctionWords;1
 F23.txt;unlikely;EconomicOperands;47
-F23.txt;180 day;Attributes;94
 F23.txt;account;EconomicOperands;1
 F23.txt;advance;EconomicOperands;2
 F23.txt;against;FunctionWords;3
@@ -95,6 +88,7 @@ F23.txt;balance;EconomicOperands;1
 F23.txt;banking;EconomicOperands;1
 F23.txt;because;LogicalConnectors;1
 F23.txt;between;FunctionWords;1
+F23.txt;central;EconomicOperands;1
 F23.txt;certain;FunctionWords;1
 F23.txt;changes;EconomicOperands;27
 F23.txt;defined;EconomicOperands;6
@@ -105,7 +99,6 @@ F23.txt;neither;LogicalConnectors;1
 F23.txt;partial;EconomicOperands;12
 F23.txt;payment;EconomicOperands;1
 F23.txt;pledged;EconomicOperands;2
-F23.txt;present;FunctionWords;1
 F23.txt;product;EconomicOperands;1
 F23.txt;purpose;EconomicOperands;1
 F23.txt;reflect;EconomicOperands;1
@@ -113,21 +106,16 @@ F23.txt;related;FunctionWords;3
 F23.txt;secured;EconomicOperands;1
 F23.txt;trading;EconomicOperands;2
 F23.txt;without;FunctionWords;16
-F23.txt;2 year;Attributes;94
-F23.txt;30 day;Attributes;47
-F23.txt;5 year;Attributes;94
-F23.txt;7 year;Attributes;94
-F23.txt;90 day;Attributes;208
-F23.txt;as for;LogicalConnectors;2
 F23.txt;due to;LogicalConnectors;27
 F23.txt;action;EconomicOperands;3
 F23.txt;amount;EconomicOperands;106
+F23.txt;assets;EconomicOperands;1
 F23.txt;breach;EconomicOperands;1
 F23.txt;credit;EconomicOperands;1
 F23.txt;debtor;EconomicOperands;6
 F23.txt;demand;EconomicOperands;1
 F23.txt;estate;EconomicOperands;239
-F23.txt;formal;EconomicOperands;3
+F23.txt;formal;EconomicOperands;2
 F23.txt;higher;LogicalConnectors;105
 F23.txt;medium;EconomicOperands;14
 F23.txt;number;EconomicOperands;27
@@ -135,9 +123,9 @@ F23.txt;period;EconomicOperands;1
 F23.txt;refers;EconomicOperands;1
 F23.txt;status;EconomicOperands;34
 F23.txt;system;EconomicOperands;1
-F23.txt;toward;FunctionWords;1
 F23.txt;unless;LogicalConnectors;1
 F23.txt;within;LogicalConnectors;1
+F23.txt;banks;EconomicOperands;1
 F23.txt;being;FunctionWords;1
 F23.txt;court;EconomicOperands;1
 F23.txt;enter;EconomicOperands;4
@@ -147,7 +135,7 @@ F23.txt;limit;RegulatoryOperators;1
 F23.txt;loans;EconomicOperands;604
 F23.txt;lower;EconomicOperands;70
 F23.txt;other;LogicalConnectors;240
-F23.txt;ratio;LogicalConnectors;14
+F23.txt;ratio;LogicalConnectors;12
 F23.txt;shall;RegulatoryOperators;14
 F23.txt;small;EconomicOperands;14
 F23.txt;taken;Other;2
@@ -155,17 +143,13 @@ F23.txt;terms;Other;1
 F23.txt;value;EconomicOperands;29
 F23.txt;where;LogicalConnectors;5
 F23.txt;which;FunctionWords;1053
-F23.txt;years;EconomicOperands;47
-F23.txt;19 a;Other;9
-F23.txt;22 a;Other;7
-F23.txt;25 a;Other;45
-F23.txt;able;EconomicOperands;151
+F23.txt;years;EconomicOperands;329
 F23.txt;also;LogicalConnectors;1
 F23.txt;been;FunctionWords;6
 F23.txt;both;LogicalConnectors;1
-F23.txt;case;EconomicOperands;2
 F23.txt;cash;EconomicOperands;1
 F23.txt;cost;EconomicOperands;28
+F23.txt;days;Attributes;349
 F23.txt;debt;EconomicOperands;1
 F23.txt;down;FunctionWords;1
 F23.txt;fair;EconomicOperands;27
@@ -175,16 +159,13 @@ F23.txt;have;FunctionWords;1
 F23.txt;held;EconomicOperands;3
 F23.txt;into;FunctionWords;1
 F23.txt;item;Other;7
-F23.txt;late;EconomicOperands;1
 F23.txt;loan;EconomicOperands;4
 F23.txt;paid;EconomicOperands;1
 F23.txt;part;FunctionWords;2925
 F23.txt;past;FunctionWords;490
 F23.txt;real;EconomicOperands;239
-F23.txt;rise;Other;4
 F23.txt;risk;EconomicOperands;2
 F23.txt;sale;EconomicOperands;1
-F23.txt;size;EconomicOperands;14
 F23.txt;take;FunctionWords;1
 F23.txt;than;FunctionWords;413
 F23.txt;that;FunctionWords;76
@@ -195,104 +176,57 @@ F23.txt;were;FunctionWords;1
 F23.txt;will;FunctionWords;1
 F23.txt;with;FunctionWords;349
 F23.txt;year;EconomicOperands;47
-F23.txt;1 a;Other;8
-F23.txt;2 a;Other;202
-F23.txt;3 a;Other;80
-F23.txt;4 a;Other;3
-F23.txt;5 a;Other;63
-F23.txt;6 a;Other;507
-F23.txt;9 a;Other;94
-F23.txt;a 3;Other;20
 F23.txt;100;Attributes;70
-F23.txt;321;LegalReferences;14
-F23.txt;322;LegalReferences;15
-F23.txt;323;LegalReferences;15
-F23.txt;324;LegalReferences;8
-F23.txt;325;LegalReferences;106
-F23.txt;all;LogicalConnectors;2
-F23.txt;and;LogicalConnectors;259
-F23.txt;app;LegalReferences;9
+F23.txt;180;Attributes;94
+F23.txt;321;LegalReferences;19
+F23.txt;322;LegalReferences;22
+F23.txt;323;LegalReferences;18
+F23.txt;324;LegalReferences;7
+F23.txt;325;LegalReferences;124
+F23.txt;and;LogicalConnectors;260
 F23.txt;are;FunctionWords;49
 F23.txt;bad;EconomicOperands;81
 F23.txt;but;LogicalConnectors;1
 F23.txt;can;FunctionWords;26
 F23.txt;cap;EconomicOperands;1
 F23.txt;due;Attributes;490
-F23.txt;for;FunctionWords;6
+F23.txt;for;FunctionWords;7
 F23.txt;law;EconomicOperands;1
 F23.txt;met;FunctionWords;1
-F23.txt;non;LogicalConnectors;352
+F23.txt;non;LogicalConnectors;345
 F23.txt;nor;LogicalConnectors;1
 F23.txt;not;LogicalConnectors;48
-F23.txt;off;FunctionWords;12
 F23.txt;pay;EconomicOperands;47
 F23.txt;pre;EconomicOperands;17
-F23.txt;seq;LegalReferences;1
 F23.txt;sum;EconomicOperands;1
-F23.txt;the;FunctionWords;60
+F23.txt;the;FunctionWords;61
 F23.txt;way;EconomicOperands;2
 F23.txt;yet;LogicalConnectors;1
-F23.txt;13;LegalReferences;148
-F23.txt;16;LegalReferences;148
-F23.txt;17;LegalReferences;48
-F23.txt;19;LegalReferences;62
-F23.txt;20;Attributes;1
-F23.txt;22;LegalReferences;692
-F23.txt;23;Attributes;1747
-F23.txt;25;Attributes;592
-F23.txt;27;LegalReferences;21
+F23.txt;23;Attributes;4
+F23.txt;30;Attributes;47
 F23.txt;31;Attributes;1
-F23.txt;32;LegalReferences;68
-F23.txt;39;LegalReferences;470
 F23.txt;42;LegalReferences;40
-F23.txt;44;LegalReferences;180
 F23.txt;60;Attributes;35
-F23.txt;62;Attributes;74
-F23.txt;90;Attributes;8
-F23.txt;aa;LegalReferences;162
-F23.txt;an;FunctionWords;1736
-F23.txt;as;LogicalConnectors;16
-F23.txt;at;FunctionWords;219
+F23.txt;90;Attributes;216
+F23.txt;an;FunctionWords;14
+F23.txt;as;LogicalConnectors;11
+F23.txt;at;FunctionWords;31
 F23.txt;be;FunctionWords;36
 F23.txt;by;FunctionWords;142
-F23.txt;if;LogicalConnectors;83
-F23.txt;in;FunctionWords;67
-F23.txt;is;FunctionWords;151
-F23.txt;it;EconomicOperands;25
-F23.txt;ix;LegalReferences;341
-F23.txt;le;MathematicalOperators;81
+F23.txt;if;LogicalConnectors;2
+F23.txt;in;FunctionWords;66
+F23.txt;is;FunctionWords;1
 F23.txt;no;LogicalConnectors;1
 F23.txt;of;FunctionWords;1121
-F23.txt;on;FunctionWords;144
-F23.txt;or;LogicalConnectors;367
+F23.txt;on;FunctionWords;36
+F23.txt;or;LogicalConnectors;161
 F23.txt;to;FunctionWords;303
-F23.txt;tr;EconomicOperands;1
-F23.txt;1;Attributes;392
-F23.txt;2;Attributes;1334
-F23.txt;3;Attributes;124
-F23.txt;4;Attributes;44
-F23.txt;5;Attributes;751
-F23.txt;6;Attributes;951
-F23.txt;7;Attributes;318
-F23.txt;8;Attributes;262
-F23.txt;9;Attributes;475
-F23.txt;a;FunctionWords;908
-F23.txt;b;LegalReferences;82
-F23.txt;c;LegalReferences;554
-F23.txt;d;LegalReferences;177
-F23.txt;e;LegalReferences;4326
-F23.txt;f;LegalReferences;311
-F23.txt;h;LegalReferences;6
-F23.txt;i;FunctionWords;359
-F23.txt;k;LegalReferences;1
-F23.txt;l;LegalReferences;202
-F23.txt;m;LegalReferences;1064
-F23.txt;n;LegalReferences;4070
-F23.txt;o;LegalReferences;235
-F23.txt;p;LegalReferences;344
-F23.txt;r;LegalReferences;521
-F23.txt;t;LegalReferences;325
-F23.txt;u;LegalReferences;10
-F23.txt;v;LegalReferences;2998
-F23.txt;x;LegalReferences;2891
-F23.txt;y;LegalReferences;4
+F23.txt;1;Attributes;294
+F23.txt;2;Attributes;934
+F23.txt;5;Attributes;94
+F23.txt;7;Attributes;94
+F23.txt;a;FunctionWords;333
+F23.txt;e;LegalReferences;347
+F23.txt;f;LegalReferences;157
+F23.txt;l;LegalReferences;82
+F23.txt;v;LegalReferences;2739

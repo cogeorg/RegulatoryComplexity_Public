@@ -75,9 +75,28 @@
 #
 # STEP 6 -- EBA REGULATIONS
 #
-./17_analyze_EBA.py ../310_EBA/ ./results/Master_v2.0.csv ./results/EBA/
-cd results/EBA/ ; rm all_cons-count.csv 2>/dev/null ; cat cons-count_* >> all_cons-count.csv ; cd -
+# ./17_analyze_EBA.py ../310_EBA/ ./results/Master_v2.0-BE.csv ./results/EBA/
+# cd results/EBA/ ; rm all_cons-count.csv 2>/dev/null ; cat cons-count_* >> all_cons-count.csv ; cd -
 
+
+#
+# STEP 7 -- REPLICATION NGRAMS
+#
+NGRAMDIR="/Users/pierregeorg/Git/RegulatoryComplexity_Public/310_EBA-ngrams"
+
+# once the 10-gram is removed, there are no other n-grams until n=7 so use this to make the loop below easier
+INFILENAME="Annex5_textonly-11.txt"
+NGRAMFILENAME="ngrams_remove-7.csv"
+OUTFILENAME="Annex5_textonly-7.txt"
+# ./19_find_ngrams.py 1 $NGRAMDIR/$INFILENAME $NGRAMDIR/$NGRAMFILENAME $NGRAMDIR/$OUTFILENAME
+
+for i in 4 ; do
+    INFILENAME="Annex5_textonly-$((i+1)).txt"
+    NGRAMFILENAME="ngrams_remove-$i.csv"
+    OUTFILENAME="Annex5_textonly-$i.txt"
+    
+    ./19_find_ngrams.py 1 $NGRAMDIR/$INFILENAME $NGRAMDIR/$NGRAMFILENAME $NGRAMDIR/$OUTFILENAME
+done
 
 #
 # OUTDATED -- ANALYZE AGENCY FEEDBACK LETTERS

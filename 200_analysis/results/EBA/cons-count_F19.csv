@@ -2,38 +2,28 @@ F19.txt;for the purpose of;LogicalConnectors;3
 F19.txt;in accordance with;LogicalConnectors;14
 F19.txt;off-balance sheet;EconomicOperands;2
 F19.txt;the same meaning;LogicalConnectors;1
-F19.txt;for the purpose;FunctionWords;3
-F19.txt;financial asset;EconomicOperands;3
+F19.txt;financial asset;EconomicOperands;1
 F19.txt;irrespective of;LogicalConnectors;1
-F19.txt;loan commitment;EconomicOperands;11
 F19.txt;the end of the;MathematicalOperators;1
 F19.txt;classification;EconomicOperands;2
 F19.txt;recommendation;EconomicOperands;1
 F19.txt;the amount of;MathematicalOperators;3
-F19.txt;balance sheet;EconomicOperands;1
 F19.txt;regardless of;LogicalConnectors;2
 F19.txt;systemic risk;EconomicOperands;1
 F19.txt;circumstances;EconomicOperands;1
 F19.txt;comprehensive;EconomicOperands;8
 F19.txt;derecognition;EconomicOperands;1
 F19.txt;modifications;EconomicOperands;29
-F19.txt;central bank;EconomicOperands;57
-F19.txt;paragraph 11;LegalReferences;1
 F19.txt;paragraph 15;LegalReferences;1
 F19.txt;paragraph 16;LegalReferences;1
-F19.txt;paragraph 23;LegalReferences;1
 F19.txt;experiencing;EconomicOperands;1
 F19.txt;institutions;EconomicOperands;48
 F19.txt;modification;EconomicOperands;3
 F19.txt;credit risk;EconomicOperands;38
 F19.txt;in addition;LogicalConnectors;1
-F19.txt;paragraph 2;LegalReferences;4
-F19.txt;paragraph 3;LegalReferences;1
 F19.txt;referred to;FunctionWords;2
 F19.txt;accumulated;EconomicOperands;92
 F19.txt;application;EconomicOperands;2
-F19.txt;corporation;EconomicOperands;96
-F19.txt;discontinue;EconomicOperands;1
 F19.txt;forbearance;EconomicOperands;240
 F19.txt;governments;EconomicOperands;48
 F19.txt;information;EconomicOperands;2
@@ -53,18 +43,17 @@ F19.txt;accounting;EconomicOperands;3
 F19.txt;additional;MathematicalOperators;1
 F19.txt;applicable;FunctionWords;2
 F19.txt;calculated;EconomicOperands;1
-F19.txt;classified;EconomicOperands;30
-F19.txt;collateral;EconomicOperands;100
+F19.txt;classified;EconomicOperands;6
+F19.txt;collateral;EconomicOperands;76
 F19.txt;commercial;EconomicOperands;24
 F19.txt;conditions;EconomicOperands;61
 F19.txt;considered;EconomicOperands;25
 F19.txt;designated;RegulatoryOperators;1
 F19.txt;discretion;EconomicOperands;1
-F19.txt;enterprise;EconomicOperands;24
 F19.txt;identified;FunctionWords;4
 F19.txt;impairment;EconomicOperands;71
 F19.txt;originated;EconomicOperands;1
-F19.txt;performing;EconomicOperands;179
+F19.txt;performing;EconomicOperands;161
 F19.txt;provisions;EconomicOperands;56
 F19.txt;rebuttable;EconomicOperands;1
 F19.txt;references;EconomicOperands;108
@@ -79,15 +68,13 @@ F19.txt;deduction;MathematicalOperators;1
 F19.txt;defaulted;EconomicOperands;10
 F19.txt;executing;EconomicOperands;1
 F19.txt;extension;EconomicOperands;3
-F19.txt;financial;EconomicOperands;154
+F19.txt;financial;EconomicOperands;138
 F19.txt;following;FunctionWords;3
 F19.txt;framework;EconomicOperands;2
-F19.txt;guarantee;EconomicOperands;76
-F19.txt;household;EconomicOperands;24
+F19.txt;guarantee;EconomicOperands;18
 F19.txt;incidence;EconomicOperands;1
 F19.txt;including;LogicalConnectors;4
-F19.txt;paragraph;LegalReferences;4
-F19.txt;portfolio;EconomicOperands;1
+F19.txt;paragraph;LegalReferences;7
 F19.txt;purchased;EconomicOperands;1
 F19.txt;qualifies;EconomicOperands;1
 F19.txt;quarterly;Attributes;1
@@ -101,13 +88,12 @@ F19.txt;assessed;EconomicOperands;2
 F19.txt;balances;EconomicOperands;9
 F19.txt;carrying;EconomicOperands;40
 F19.txt;category;EconomicOperands;8
-F19.txt;conclude;EconomicOperands;1
 F19.txt;continue;EconomicOperands;2
 F19.txt;contract;EconomicOperands;3
 F19.txt;criteria;EconomicOperands;3
 F19.txt;deposits;EconomicOperands;9
 F19.txt;exercise;EconomicOperands;1
-F19.txt;exposure;EconomicOperands;276
+F19.txt;exposure;EconomicOperands;16
 F19.txt;extended;EconomicOperands;2
 F19.txt;included;EconomicOperands;3
 F19.txt;measures;EconomicOperands;199
@@ -117,18 +103,20 @@ F19.txt;negative;MathematicalOperators;37
 F19.txt;occurred;EconomicOperands;1
 F19.txt;property;EconomicOperands;48
 F19.txt;provided;LogicalConnectors;2
+F19.txt;purposes;EconomicOperands;3
 F19.txt;received;EconomicOperands;112
 F19.txt;relevant;Attributes;1
 F19.txt;reported;EconomicOperands;11
 F19.txt;separate;EconomicOperands;1
 F19.txt;troubled;EconomicOperands;1
-F19.txt;of debt;EconomicOperands;1
+F19.txt;of debt;EconomicOperands;2
 F19.txt;that is;LogicalConnectors;1
 F19.txt;amounts;EconomicOperands;2
 F19.txt;applied;EconomicOperands;5
 F19.txt;applies;FunctionWords;1
 F19.txt;article;EconomicOperands;11
 F19.txt;becomes;EconomicOperands;1
+F19.txt;central;EconomicOperands;57
 F19.txt;changes;EconomicOperands;37
 F19.txt;clauses;EconomicOperands;3
 F19.txt;closing;EconomicOperands;1
@@ -146,7 +134,6 @@ F19.txt;measure;EconomicOperands;2
 F19.txt;obligor;EconomicOperands;1
 F19.txt;partial;EconomicOperands;1
 F19.txt;payment;EconomicOperands;1
-F19.txt;pending;FunctionWords;1
 F19.txt;related;FunctionWords;2
 F19.txt;respect;Other;2
 F19.txt;several;FunctionWords;1
@@ -154,11 +141,9 @@ F19.txt;through;FunctionWords;34
 F19.txt;trading;EconomicOperands;17
 F19.txt;treated;EconomicOperands;4
 F19.txt;whether;LogicalConnectors;1
-F19.txt;30 day;Attributes;1
-F19.txt;as for;LogicalConnectors;7
 F19.txt;due to;LogicalConnectors;38
 F19.txt;amount;EconomicOperands;98
-F19.txt;assets;EconomicOperands;4
+F19.txt;assets;EconomicOperands;6
 F19.txt;become;EconomicOperands;1
 F19.txt;change;EconomicOperands;2
 F19.txt;comply;RegulatoryOperators;1
@@ -169,25 +154,21 @@ F19.txt;enable;EconomicOperands;1
 F19.txt;ensure;RegulatoryOperators;1
 F19.txt;equity;EconomicOperands;16
 F19.txt;estate;EconomicOperands;1
-F19.txt;europe;EconomicOperands;1
 F19.txt;groups;EconomicOperands;1
 F19.txt;impact;EconomicOperands;2
-F19.txt;impair;EconomicOperands;22
 F19.txt;income;EconomicOperands;8
 F19.txt;larger;LogicalConnectors;1
 F19.txt;medium;EconomicOperands;24
 F19.txt;period;EconomicOperands;1
 F19.txt;profit;EconomicOperands;9
-F19.txt;regard;EconomicOperands;1
 F19.txt;status;EconomicOperands;1
 F19.txt;unable;EconomicOperands;1
 F19.txt;unless;LogicalConnectors;1
 F19.txt;within;LogicalConnectors;2
 F19.txt;after;LogicalConnectors;1
-F19.txt;banks;EconomicOperands;1
+F19.txt;banks;EconomicOperands;58
 F19.txt;basis;Other;1
 F19.txt;board;EconomicOperands;1
-F19.txt;borne;FunctionWords;47
 F19.txt;given;FunctionWords;10
 F19.txt;gross;EconomicOperands;39
 F19.txt;level;EconomicOperands;1
@@ -213,9 +194,6 @@ F19.txt;until;LogicalConnectors;2
 F19.txt;value;EconomicOperands;54
 F19.txt;where;LogicalConnectors;13
 F19.txt;which;FunctionWords;221
-F19.txt;4 th;Other;1
-F19.txt;78 c;Other;2
-F19.txt;able;EconomicOperands;49
 F19.txt;also;LogicalConnectors;4
 F19.txt;been;FunctionWords;7
 F19.txt;both;LogicalConnectors;2
@@ -223,31 +201,27 @@ F19.txt;cash;EconomicOperands;11
 F19.txt;cost;EconomicOperands;16
 F19.txt;data;EconomicOperands;1
 F19.txt;date;EconomicOperands;3
-F19.txt;debt;EconomicOperands;79
+F19.txt;days;Attributes;1
+F19.txt;debt;EconomicOperands;77
 F19.txt;down;FunctionWords;1
 F19.txt;fair;EconomicOperands;54
-F19.txt;flow;EconomicOperands;2
 F19.txt;from;FunctionWords;21
 F19.txt;have;FunctionWords;7
 F19.txt;held;EconomicOperands;19
 F19.txt;into;FunctionWords;1
-F19.txt;late;EconomicOperands;7
-F19.txt;lead;EconomicOperands;1
+F19.txt;loan;EconomicOperands;11
 F19.txt;loss;EconomicOperands;9
 F19.txt;made;FunctionWords;2
-F19.txt;mean;Other;3
+F19.txt;mean;Other;2
 F19.txt;meet;EconomicOperands;2
 F19.txt;most;FunctionWords;1
-F19.txt;once;FunctionWords;3
 F19.txt;only;LogicalConnectors;1
 F19.txt;paid;EconomicOperands;1
 F19.txt;part;FunctionWords;1265
 F19.txt;past;FunctionWords;2
 F19.txt;pool;EconomicOperands;1
 F19.txt;real;EconomicOperands;1
-F19.txt;rise;Other;3
 F19.txt;sale;EconomicOperands;10
-F19.txt;size;EconomicOperands;24
 F19.txt;than;FunctionWords;8
 F19.txt;that;FunctionWords;33
 F19.txt;they;FunctionWords;1
@@ -255,116 +229,63 @@ F19.txt;this;FunctionWords;14
 F19.txt;used;EconomicOperands;1
 F19.txt;were;FunctionWords;4
 F19.txt;with;FunctionWords;243
-F19.txt;1 a;Other;163
-F19.txt;2 a;Other;32
-F19.txt;3 a;Other;5
-F19.txt;5 a;Other;18
-F19.txt;6 a;Other;2
-F19.txt;8 a;Other;126
-F19.txt;9 a;Other;20
-F19.txt;2 c;Other;1
-F19.txt;3 c;Other;29
-F19.txt;4 c;Other;1
-F19.txt;6 c;Other;112
-F19.txt;6 f;Other;2
-F19.txt;a 2;Other;36
-F19.txt;a 7;Other;27
-F19.txt;b 2;Other;27
-F19.txt;d 1;Other;2
 F19.txt;105;LegalReferences;8
+F19.txt;106;LegalReferences;1
+F19.txt;110;LegalReferences;1
 F19.txt;113;LegalReferences;12
-F19.txt;aid;EconomicOperands;1
+F19.txt;215;LegalReferences;1
 F19.txt;all;LogicalConnectors;4
-F19.txt;and;LogicalConnectors;206
+F19.txt;and;LogicalConnectors;212
 F19.txt;any;LogicalConnectors;2
-F19.txt;app;LegalReferences;1
 F19.txt;are;FunctionWords;15
 F19.txt;bad;EconomicOperands;41
 F19.txt;can;FunctionWords;18
 F19.txt;due;Attributes;2
-F19.txt;for;FunctionWords;87
-F19.txt;gap;EconomicOperands;1
-F19.txt;ifi;EconomicOperands;27
+F19.txt;for;FunctionWords;52
 F19.txt;iii;LegalReferences;1
 F19.txt;led;EconomicOperands;1
 F19.txt;may;FunctionWords;1
 F19.txt;met;FunctionWords;5
 F19.txt;new;EconomicOperands;4
-F19.txt;non;LogicalConnectors;180
+F19.txt;non;LogicalConnectors;162
 F19.txt;not;LogicalConnectors;14
 F19.txt;out;EconomicOperands;3
-F19.txt;per;FunctionWords;18
-F19.txt;sum;EconomicOperands;25
-F19.txt;the;FunctionWords;100
+F19.txt;sum;EconomicOperands;1
+F19.txt;the;FunctionWords;104
 F19.txt;use;EconomicOperands;1
-F19.txt;10;Attributes;2
-F19.txt;11;LegalReferences;36
-F19.txt;13;LegalReferences;5
+F19.txt;11;LegalReferences;1
 F19.txt;14;LegalReferences;1
-F19.txt;15;Attributes;1
-F19.txt;17;LegalReferences;28
 F19.txt;18;LegalReferences;1
 F19.txt;19;LegalReferences;10
-F19.txt;20;Attributes;54
-F19.txt;22;LegalReferences;4
-F19.txt;23;Attributes;100
-F19.txt;24;LegalReferences;238
-F19.txt;25;Attributes;171
+F19.txt;30;Attributes;1
 F19.txt;31;Attributes;2
-F19.txt;44;LegalReferences;72
-F19.txt;45;Attributes;1
-F19.txt;47;LegalReferences;252
-F19.txt;49;LegalReferences;13
-F19.txt;60;Attributes;3
-F19.txt;62;Attributes;1
-F19.txt;65;Attributes;55
-F19.txt;68;LegalReferences;28
-F19.txt;aa;LegalReferences;73
-F19.txt;an;FunctionWords;893
-F19.txt;as;LogicalConnectors;29
-F19.txt;at;FunctionWords;161
-F19.txt;be;FunctionWords;76
+F19.txt;an;FunctionWords;1
+F19.txt;as;LogicalConnectors;28
+F19.txt;at;FunctionWords;49
+F19.txt;be;FunctionWords;54
 F19.txt;by;FunctionWords;50
 F19.txt;do;FunctionWords;1
-F19.txt;ec;EconomicOperands;1
-F19.txt;et;Other;27
-F19.txt;if;LogicalConnectors;81
-F19.txt;in;FunctionWords;173
-F19.txt;is;FunctionWords;64
-F19.txt;it;EconomicOperands;1
+F19.txt;in;FunctionWords;115
+F19.txt;is;FunctionWords;7
 F19.txt;iv;LegalReferences;1
-F19.txt;le;MathematicalOperators;60
-F19.txt;no;LogicalConnectors;38
-F19.txt;of;FunctionWords;336
-F19.txt;on;FunctionWords;185
-F19.txt;or;LogicalConnectors;87
+F19.txt;of;FunctionWords;335
+F19.txt;on;FunctionWords;80
+F19.txt;or;LogicalConnectors;76
 F19.txt;to;FunctionWords;40
-F19.txt;tr;EconomicOperands;8
-F19.txt;1;Attributes;182
-F19.txt;2;Attributes;939
-F19.txt;3;Attributes;74
-F19.txt;4;Attributes;166
-F19.txt;5;Attributes;32
-F19.txt;6;Attributes;455
-F19.txt;7;Attributes;255
-F19.txt;8;Attributes;103
-F19.txt;9;Attributes;96
-F19.txt;a;FunctionWords;763
-F19.txt;b;LegalReferences;423
-F19.txt;c;LegalReferences;407
-F19.txt;d;LegalReferences;247
-F19.txt;e;LegalReferences;1559
-F19.txt;f;LegalReferences;66
-F19.txt;h;LegalReferences;7
-F19.txt;i;FunctionWords;322
-F19.txt;j;LegalReferences;1
-F19.txt;l;LegalReferences;195
-F19.txt;m;LegalReferences;287
-F19.txt;n;LegalReferences;1675
-F19.txt;o;LegalReferences;212
-F19.txt;p;LegalReferences;170
-F19.txt;r;LegalReferences;1090
-F19.txt;t;LegalReferences;418
-F19.txt;u;LegalReferences;20
-F19.txt;v;LegalReferences;1263
-F19.txt;x;LegalReferences;1232
+F19.txt;1;Attributes;229
+F19.txt;2;Attributes;491
+F19.txt;3;Attributes;13
+F19.txt;5;Attributes;2
+F19.txt;7;Attributes;27
+F19.txt;8;Attributes;1
+F19.txt;9;Attributes;18
+F19.txt;a;FunctionWords;327
+F19.txt;b;LegalReferences;138
+F19.txt;c;LegalReferences;98
+F19.txt;d;LegalReferences;60
+F19.txt;e;LegalReferences;72
+F19.txt;f;LegalReferences;36
+F19.txt;i;FunctionWords;12
+F19.txt;l;LegalReferences;39
+F19.txt;p;LegalReferences;1
+F19.txt;v;LegalReferences;1214

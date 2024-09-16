@@ -1,45 +1,34 @@
-F17.txt;financial statement;EconomicOperands;1
 F17.txt;off-balance sheet;EconomicOperands;5
 F17.txt;retained earnings;EconomicOperands;2
 F17.txt;attributable to;FunctionWords;2
-F17.txt;financial asset;EconomicOperands;15
-F17.txt;loan commitment;EconomicOperands;4
-F17.txt;trading account;EconomicOperands;1
 F17.txt;balance sheet;EconomicOperands;2
 F17.txt;interest rate;EconomicOperands;4
-F17.txt;joint venture;EconomicOperands;4
 F17.txt;comprehensive;EconomicOperands;4
 F17.txt;consolidation;EconomicOperands;23
-F17.txt;central bank;EconomicOperands;4
 F17.txt;consolidated;EconomicOperands;1
 F17.txt;institutions;EconomicOperands;1
+F17.txt;nonfinancial;EconomicOperands;1
 F17.txt;subsidiaries;EconomicOperands;5
 F17.txt;accumulated;EconomicOperands;2
 F17.txt;controlling;EconomicOperands;2
-F17.txt;corporation;EconomicOperands;1
 F17.txt;derivatives;EconomicOperands;10
 F17.txt;instruments;EconomicOperands;14
 F17.txt;investments;EconomicOperands;3
-F17.txt;liabilities;EconomicOperands;45
+F17.txt;liabilities;EconomicOperands;40
 F17.txt;reinsurance;EconomicOperands;9
-F17.txt;undertaking;EconomicOperands;1
 F17.txt;as well as;LogicalConnectors;2
-F17.txt;accounting;EconomicOperands;46
+F17.txt;accounting;EconomicOperands;47
 F17.txt;classified;EconomicOperands;2
-F17.txt;commitment;EconomicOperands;4
 F17.txt;derivative;EconomicOperands;5
 F17.txt;designated;RegulatoryOperators;4
-F17.txt;difference;EconomicOperands;1
-F17.txt;evaluation;EconomicOperands;2
 F17.txt;provisions;EconomicOperands;2
 F17.txt;references;EconomicOperands;24
 F17.txt;securities;EconomicOperands;23
-F17.txt;associate;EconomicOperands;4
+F17.txt;statements;EconomicOperands;1
 F17.txt;contracts;EconomicOperands;8
 F17.txt;directive;EconomicOperands;22
 F17.txt;dividends;EconomicOperands;2
-F17.txt;financial;EconomicOperands;21
-F17.txt;guarantee;EconomicOperands;4
+F17.txt;financial;EconomicOperands;36
 F17.txt;including;LogicalConnectors;1
 F17.txt;insurance;EconomicOperands;9
 F17.txt;interests;EconomicOperands;4
@@ -53,13 +42,12 @@ F17.txt;balances;EconomicOperands;4
 F17.txt;carrying;EconomicOperands;14
 F17.txt;deferred;EconomicOperands;4
 F17.txt;deposits;EconomicOperands;12
-F17.txt;exposure;EconomicOperands;5
 F17.txt;included;EconomicOperands;2
 F17.txt;measured;EconomicOperands;6
 F17.txt;minority;EconomicOperands;2
 F17.txt;national;EconomicOperands;18
 F17.txt;prepared;EconomicOperands;1
-F17.txt;tangible;EconomicOperands;6
+F17.txt;tangible;EconomicOperands;2
 F17.txt;treasury;EconomicOperands;2
 F17.txt;that is;LogicalConnectors;1
 F17.txt;account;EconomicOperands;1
@@ -67,19 +55,17 @@ F17.txt;amounts;EconomicOperands;1
 F17.txt;article;EconomicOperands;5
 F17.txt;between;FunctionWords;3
 F17.txt;capital;EconomicOperands;6
+F17.txt;central;EconomicOperands;4
 F17.txt;changes;EconomicOperands;4
 F17.txt;current;FunctionWords;6
-F17.txt;haircut;EconomicOperands;2
 F17.txt;include;EconomicOperands;4
 F17.txt;interim;EconomicOperands;2
 F17.txt;premium;EconomicOperands;2
 F17.txt;related;FunctionWords;1
-F17.txt;reserve;EconomicOperands;5
 F17.txt;through;FunctionWords;9
-F17.txt;trading;EconomicOperands;14
-F17.txt;part i;LegalReferences;6
+F17.txt;trading;EconomicOperands;15
 F17.txt;amount;EconomicOperands;16
-F17.txt;assets;EconomicOperands;36
+F17.txt;assets;EconomicOperands;45
 F17.txt;demand;EconomicOperands;6
 F17.txt;equity;EconomicOperands;24
 F17.txt;groups;EconomicOperands;4
@@ -88,156 +74,105 @@ F17.txt;issued;EconomicOperands;12
 F17.txt;method;EconomicOperands;3
 F17.txt;parent;EconomicOperands;2
 F17.txt;profit;EconomicOperands;9
+F17.txt;banks;EconomicOperands;4
 F17.txt;based;Other;2
 F17.txt;ceded;EconomicOperands;1
 F17.txt;first;Attributes;1
 F17.txt;fully;EconomicOperands;1
 F17.txt;given;FunctionWords;8
-F17.txt;hedge;EconomicOperands;12
+F17.txt;hedge;EconomicOperands;8
+F17.txt;joint;EconomicOperands;4
 F17.txt;loans;EconomicOperands;15
 F17.txt;other;LogicalConnectors;33
-F17.txt;owner;EconomicOperands;2
 F17.txt;scope;EconomicOperands;21
 F17.txt;shall;RegulatoryOperators;5
-F17.txt;share;EconomicOperands;6
+F17.txt;share;EconomicOperands;4
 F17.txt;short;EconomicOperands;3
 F17.txt;their;FunctionWords;1
 F17.txt;total;MathematicalOperators;8
 F17.txt;under;FunctionWords;9
 F17.txt;using;EconomicOperands;2
-F17.txt;value;EconomicOperands;19
-F17.txt;12 a;Other;1
-F17.txt;10 c;Other;1
-F17.txt;13 c;Other;1
-F17.txt;14 a;Other;2
-F17.txt;19 a;Other;1
-F17.txt;22 a;Other;1
-F17.txt;1106;LegalReferences;3
-F17.txt;1124;LegalReferences;2
+F17.txt;value;EconomicOperands;17
 F17.txt;cash;EconomicOperands;8
 F17.txt;cost;EconomicOperands;6
 F17.txt;debt;EconomicOperands;23
 F17.txt;fair;EconomicOperands;17
-F17.txt;good;EconomicOperands;2
 F17.txt;hand;EconomicOperands;2
 F17.txt;held;EconomicOperands;8
-F17.txt;item;Other;5
-F17.txt;late;EconomicOperands;1
+F17.txt;item;Other;1
+F17.txt;loan;EconomicOperands;4
 F17.txt;loss;EconomicOperands;9
-F17.txt;part;FunctionWords;177
+F17.txt;part;FunctionWords;182
 F17.txt;risk;EconomicOperands;4
 F17.txt;sale;EconomicOperands;4
 F17.txt;same;FunctionWords;1
 F17.txt;than;FunctionWords;2
 F17.txt;that;FunctionWords;1
 F17.txt;this;FunctionWords;1
-F17.txt;will;FunctionWords;2
-F17.txt;1 a;Other;1
-F17.txt;2 a;Other;4
-F17.txt;3 a;Other;18
-F17.txt;4 a;Other;5
-F17.txt;6 a;Other;5
-F17.txt;9 a;Other;5
-F17.txt;2 b;Other;1
-F17.txt;3 c;Other;1
-F17.txt;4 i;Other;6
-F17.txt;5 c;Other;1
-F17.txt;5 i;Other;3
-F17.txt;9 b;Other;1
-F17.txt;a 4;Other;2
-F17.txt;a 6;Other;4
-F17.txt;g 3;Other;2
-F17.txt;100;Attributes;3
 F17.txt;105;LegalReferences;6
-F17.txt;108;LegalReferences;3
-F17.txt;113;LegalReferences;5
-F17.txt;115;LegalReferences;4
+F17.txt;113;LegalReferences;3
+F17.txt;115;LegalReferences;3
 F17.txt;209;LegalReferences;3
 F17.txt;210;Attributes;4
-F17.txt;211;LegalReferences;2
+F17.txt;211;LegalReferences;1
 F17.txt;212;LegalReferences;1
 F17.txt;aii;LegalReferences;2
 F17.txt;all;LogicalConnectors;1
-F17.txt;and;LogicalConnectors;45
+F17.txt;and;LogicalConnectors;43
 F17.txt;any;LogicalConnectors;1
 F17.txt;are;FunctionWords;2
-F17.txt;bad;EconomicOperands;30
+F17.txt;bad;EconomicOperands;32
 F17.txt;ecb;EconomicOperands;17
-F17.txt;end;Other;1
 F17.txt;for;FunctionWords;11
-F17.txt;ifi;EconomicOperands;2
-F17.txt;iii;LegalReferences;3
-F17.txt;non;LogicalConnectors;17
+F17.txt;iii;LegalReferences;2
+F17.txt;non;LogicalConnectors;16
 F17.txt;not;LogicalConnectors;1
 F17.txt;tax;EconomicOperands;12
 F17.txt;the;FunctionWords;15
-F17.txt;10;Attributes;3
-F17.txt;11;LegalReferences;18
-F17.txt;12;Attributes;4
-F17.txt;13;LegalReferences;4
+F17.txt;10;Attributes;2
+F17.txt;12;Attributes;1
+F17.txt;14;LegalReferences;2
 F17.txt;16;LegalReferences;1
-F17.txt;17;LegalReferences;5
+F17.txt;17;LegalReferences;3
+F17.txt;18;LegalReferences;1
 F17.txt;19;LegalReferences;3
-F17.txt;20;Attributes;4
-F17.txt;22;LegalReferences;3
-F17.txt;23;Attributes;2
-F17.txt;24;LegalReferences;2
-F17.txt;27;LegalReferences;2
+F17.txt;22;LegalReferences;4
+F17.txt;27;LegalReferences;1
 F17.txt;28;LegalReferences;8
-F17.txt;32;LegalReferences;3
+F17.txt;32;LegalReferences;4
 F17.txt;35;Attributes;1
 F17.txt;36;LegalReferences;2
 F17.txt;39;LegalReferences;6
-F17.txt;41;LegalReferences;22
-F17.txt;42;LegalReferences;1
-F17.txt;46;LegalReferences;1
-F17.txt;47;LegalReferences;1
-F17.txt;49;LegalReferences;3
-F17.txt;aa;LegalReferences;20
-F17.txt;ab;Other;3
-F17.txt;an;FunctionWords;140
-F17.txt;as;LogicalConnectors;87
-F17.txt;at;FunctionWords;36
-F17.txt;ec;EconomicOperands;3
-F17.txt;if;LogicalConnectors;73
-F17.txt;ii;LegalReferences;8
-F17.txt;in;FunctionWords;20
-F17.txt;is;FunctionWords;8
-F17.txt;ix;LegalReferences;1
-F17.txt;le;MathematicalOperators;9
-F17.txt;no;LogicalConnectors;3
+F17.txt;41;LegalReferences;7
+F17.txt;as;LogicalConnectors;6
+F17.txt;at;FunctionWords;22
+F17.txt;if;LogicalConnectors;1
+F17.txt;ii;LegalReferences;5
+F17.txt;in;FunctionWords;12
 F17.txt;of;FunctionWords;33
-F17.txt;on;FunctionWords;10
-F17.txt;or;LogicalConnectors;15
+F17.txt;on;FunctionWords;4
+F17.txt;or;LogicalConnectors;9
 F17.txt;to;FunctionWords;2
-F17.txt;vi;EconomicOperands;2
-F17.txt;1;Attributes;16
-F17.txt;2;Attributes;26
-F17.txt;3;Attributes;32
-F17.txt;4;Attributes;25
-F17.txt;5;Attributes;10
-F17.txt;6;Attributes;22
-F17.txt;7;Attributes;16
-F17.txt;8;Attributes;30
-F17.txt;9;Attributes;25
-F17.txt;a;FunctionWords;110
-F17.txt;b;LegalReferences;31
-F17.txt;c;LegalReferences;56
-F17.txt;d;LegalReferences;27
-F17.txt;e;LegalReferences;208
-F17.txt;f;LegalReferences;14
+F17.txt;1;Attributes;5
+F17.txt;2;Attributes;20
+F17.txt;3;Attributes;3
+F17.txt;4;Attributes;21
+F17.txt;5;Attributes;8
+F17.txt;6;Attributes;15
+F17.txt;8;Attributes;3
+F17.txt;9;Attributes;12
+F17.txt;a;FunctionWords;15
+F17.txt;b;LegalReferences;4
+F17.txt;c;LegalReferences;6
+F17.txt;e;LegalReferences;8
+F17.txt;f;LegalReferences;5
 F17.txt;h;LegalReferences;2
-F17.txt;i;FunctionWords;121
+F17.txt;i;FunctionWords;11
 F17.txt;j;LegalReferences;2
-F17.txt;l;LegalReferences;24
-F17.txt;m;LegalReferences;19
-F17.txt;n;LegalReferences;229
-F17.txt;o;LegalReferences;21
-F17.txt;p;LegalReferences;36
+F17.txt;l;LegalReferences;10
+F17.txt;n;LegalReferences;8
+F17.txt;o;LegalReferences;8
+F17.txt;p;LegalReferences;2
 F17.txt;q;LegalReferences;2
-F17.txt;r;LegalReferences;224
-F17.txt;t;LegalReferences;67
-F17.txt;u;LegalReferences;2
+F17.txt;r;LegalReferences;2
 F17.txt;v;LegalReferences;141
-F17.txt;x;LegalReferences;174
-F17.txt;y;LegalReferences;2

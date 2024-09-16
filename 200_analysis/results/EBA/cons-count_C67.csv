@@ -1,5 +1,4 @@
 C67.txt;asset backed security;EconomicOperands;1
-C67.txt;repurchase agreement;EconomicOperands;1
 C67.txt;in accordance with;LogicalConnectors;1
 C67.txt;in proportion to;LogicalConnectors;2
 C67.txt;commercial paper;EconomicOperands;1
@@ -11,8 +10,8 @@ C67.txt;concentration;EconomicOperands;5
 C67.txt;corresponding;EconomicOperands;2
 C67.txt;incorporation;EconomicOperands;1
 C67.txt;international;EconomicOperands;1
+C67.txt;organisations;EconomicOperands;1
 C67.txt;by virtue of;FunctionWords;1
-C67.txt;central bank;EconomicOperands;1
 C67.txt;greater than;LogicalConnectors;1
 C67.txt;this section;LegalReferences;1
 C67.txt;additionally;LogicalConnectors;1
@@ -20,19 +19,18 @@ C67.txt;consistently;Attributes;1
 C67.txt;counterparty;EconomicOperands;28
 C67.txt;institutions;EconomicOperands;10
 C67.txt;in order to;LogicalConnectors;1
-C67.txt;corporation;EconomicOperands;2
 C67.txt;governments;EconomicOperands;1
 C67.txt;information;EconomicOperands;3
 C67.txt;institution;EconomicOperands;2
-C67.txt;instruction;EconomicOperands;4
 C67.txt;liabilities;EconomicOperands;2
 C67.txt;significant;Attributes;1
-C67.txt;undertaking;EconomicOperands;1
+C67.txt;agreements;EconomicOperands;1
 C67.txt;calculated;EconomicOperands;2
 C67.txt;concerning;LogicalConnectors;2
 C67.txt;identifier;EconomicOperands;2
 C67.txt;references;EconomicOperands;3
 C67.txt;regulation;EconomicOperands;3
+C67.txt;repurchase;EconomicOperands;1
 C67.txt;securities;EconomicOperands;3
 C67.txt;underlying;EconomicOperands;1
 C67.txt;undertaken;EconomicOperands;1
@@ -50,7 +48,6 @@ C67.txt;directive;EconomicOperands;1
 C67.txt;financial;EconomicOperands;5
 C67.txt;following;FunctionWords;1
 C67.txt;framework;EconomicOperands;1
-C67.txt;household;EconomicOperands;1
 C67.txt;including;LogicalConnectors;4
 C67.txt;indicated;EconomicOperands;1
 C67.txt;insurance;EconomicOperands;1
@@ -86,6 +83,7 @@ C67.txt;amounts;EconomicOperands;3
 C67.txt;article;EconomicOperands;4
 C67.txt;average;MathematicalOperators;12
 C67.txt;balance;EconomicOperands;1
+C67.txt;central;EconomicOperands;1
 C67.txt;classes;EconomicOperands;1
 C67.txt;collect;EconomicOperands;1
 C67.txt;company;EconomicOperands;2
@@ -100,7 +98,6 @@ C67.txt;general;FunctionWords;1
 C67.txt;highest;MathematicalOperators;1
 C67.txt;largest;LogicalConnectors;5
 C67.txt;natural;EconomicOperands;1
-C67.txt;portion;EconomicOperands;2
 C67.txt;product;EconomicOperands;7
 C67.txt;secured;EconomicOperands;1
 C67.txt;several;FunctionWords;1
@@ -110,9 +107,7 @@ C67.txt;if not;LogicalConnectors;1
 C67.txt;across;FunctionWords;2
 C67.txt;amount;EconomicOperands;7
 C67.txt;backed;EconomicOperands;1
-C67.txt;client;EconomicOperands;6
 C67.txt;credit;EconomicOperands;1
-C67.txt;ending;EconomicOperands;1
 C67.txt;entity;EconomicOperands;3
 C67.txt;groups;EconomicOperands;3
 C67.txt;holder;EconomicOperands;3
@@ -128,11 +123,10 @@ C67.txt;about;FunctionWords;1
 C67.txt;above;FunctionWords;2
 C67.txt;apply;Other;1
 C67.txt;asset;EconomicOperands;1
+C67.txt;banks;EconomicOperands;1
 C67.txt;basis;Other;2
-C67.txt;count;EconomicOperands;1
 C67.txt;equal;EconomicOperands;1
-C67.txt;group;EconomicOperands;5
-C67.txt;inter;EconomicOperands;1
+C67.txt;group;EconomicOperands;4
 C67.txt;legal;EconomicOperands;5
 C67.txt;mixed;EconomicOperands;1
 C67.txt;money;EconomicOperands;1
@@ -141,56 +135,44 @@ C67.txt;other;LogicalConnectors;6
 C67.txt;point;EconomicOperands;2
 C67.txt;shall;RegulatoryOperators;33
 C67.txt;there;FunctionWords;1
-C67.txt;total;MathematicalOperators;10
+C67.txt;total;MathematicalOperators;9
 C67.txt;under;FunctionWords;1
 C67.txt;using;EconomicOperands;1
 C67.txt;value;EconomicOperands;1
 C67.txt;where;LogicalConnectors;6
 C67.txt;which;FunctionWords;6
-C67.txt;10 a;Other;2
-C67.txt;15 a;Other;1
-C67.txt;bank;EconomicOperands;2
+C67.txt;bank;EconomicOperands;1
 C67.txt;best;EconomicOperands;1
 C67.txt;bond;EconomicOperands;1
-C67.txt;code;EconomicOperands;24
+C67.txt;code;EconomicOperands;22
 C67.txt;date;EconomicOperands;1
 C67.txt;days;Attributes;4
 C67.txt;each;LogicalConnectors;6
 C67.txt;from;FunctionWords;17
 C67.txt;full;EconomicOperands;1
 C67.txt;have;FunctionWords;2
-C67.txt;item;Other;3
-C67.txt;late;EconomicOperands;3
-C67.txt;long;EconomicOperands;1
+C67.txt;item;Other;2
 C67.txt;most;FunctionWords;1
 C67.txt;name;EconomicOperands;6
 C67.txt;once;FunctionWords;1
 C67.txt;only;LogicalConnectors;1
-C67.txt;part;FunctionWords;1
 C67.txt;role;EconomicOperands;1
 C67.txt;size;EconomicOperands;5
-C67.txt;stat;EconomicOperands;1
 C67.txt;that;FunctionWords;7
 C67.txt;they;FunctionWords;1
 C67.txt;this;FunctionWords;1
 C67.txt;time;EconomicOperands;1
-C67.txt;type;EconomicOperands;11
+C67.txt;type;EconomicOperands;10
 C67.txt;used;EconomicOperands;2
 C67.txt;when;LogicalConnectors;1
 C67.txt;with;FunctionWords;2
-C67.txt;2 a;Other;1
-C67.txt;6 f;Other;1
-C67.txt;e 1;Other;2
-C67.txt;f 1;Other;1
 C67.txt;100;Attributes;1
 C67.txt;110;LegalReferences;2
 C67.txt;120;LegalReferences;1
-C67.txt;129;LegalReferences;1
-C67.txt;all;LogicalConnectors;2
+C67.txt;all;LogicalConnectors;3
 C67.txt;and;LogicalConnectors;10
 C67.txt;any;LogicalConnectors;1
-C67.txt;doe;EconomicOperands;1
-C67.txt;for;FunctionWords;12
+C67.txt;for;FunctionWords;13
 C67.txt;iii;LegalReferences;1
 C67.txt;law;EconomicOperands;1
 C67.txt;may;FunctionWords;2
@@ -199,68 +181,37 @@ C67.txt;not;LogicalConnectors;1
 C67.txt;one;FunctionWords;3
 C67.txt;per;FunctionWords;1
 C67.txt;ten;Attributes;2
-C67.txt;the;FunctionWords;74
-C67.txt;way;EconomicOperands;2
-C67.txt;10;Attributes;7
-C67.txt;15;Attributes;2
-C67.txt;16;LegalReferences;2
-C67.txt;17;LegalReferences;2
-C67.txt;20;Attributes;2
-C67.txt;24;LegalReferences;1
-C67.txt;30;Attributes;3
+C67.txt;the;FunctionWords;76
 C67.txt;39;LegalReferences;1
-C67.txt;40;LegalReferences;3
 C67.txt;41;LegalReferences;2
-C67.txt;50;Attributes;3
-C67.txt;60;Attributes;6
 C67.txt;65;Attributes;1
-C67.txt;75;Attributes;3
-C67.txt;90;Attributes;1
-C67.txt;ab;Other;2
-C67.txt;an;FunctionWords;3
-C67.txt;as;LogicalConnectors;13
-C67.txt;at;FunctionWords;2
-C67.txt;be;FunctionWords;27
+C67.txt;an;FunctionWords;2
+C67.txt;as;LogicalConnectors;10
+C67.txt;at;FunctionWords;1
+C67.txt;be;FunctionWords;26
 C67.txt;by;FunctionWords;4
-C67.txt;cp;EconomicOperands;1
-C67.txt;do;FunctionWords;1
-C67.txt;ec;EconomicOperands;2
-C67.txt;ha;Other;1
-C67.txt;ii;LegalReferences;2
-C67.txt;in;FunctionWords;36
-C67.txt;is;FunctionWords;9
-C67.txt;it;EconomicOperands;6
+C67.txt;ii;LegalReferences;1
+C67.txt;in;FunctionWords;33
+C67.txt;is;FunctionWords;6
+C67.txt;it;EconomicOperands;2
 C67.txt;iv;LegalReferences;1
-C67.txt;le;MathematicalOperators;5
 C67.txt;no;LogicalConnectors;6
 C67.txt;of;FunctionWords;58
-C67.txt;on;FunctionWords;5
-C67.txt;or;LogicalConnectors;11
-C67.txt;to;FunctionWords;9
-C67.txt;tr;EconomicOperands;1
+C67.txt;on;FunctionWords;3
+C67.txt;or;LogicalConnectors;9
+C67.txt;to;FunctionWords;7
 C67.txt;vi;EconomicOperands;1
-C67.txt;1;Attributes;5
+C67.txt;1;Attributes;8
 C67.txt;2;Attributes;3
 C67.txt;3;Attributes;1
-C67.txt;4;Attributes;2
-C67.txt;5;Attributes;6
-C67.txt;7;Attributes;8
-C67.txt;8;Attributes;7
-C67.txt;9;Attributes;3
-C67.txt;a;FunctionWords;17
-C67.txt;b;LegalReferences;2
-C67.txt;c;LegalReferences;23
-C67.txt;d;LegalReferences;5
-C67.txt;e;LegalReferences;22
-C67.txt;f;LegalReferences;6
-C67.txt;h;LegalReferences;3
-C67.txt;i;FunctionWords;13
-C67.txt;l;LegalReferences;27
-C67.txt;m;LegalReferences;21
-C67.txt;n;LegalReferences;21
-C67.txt;o;LegalReferences;27
-C67.txt;p;LegalReferences;12
-C67.txt;r;LegalReferences;11
-C67.txt;t;LegalReferences;6
-C67.txt;u;LegalReferences;25
-C67.txt;v;LegalReferences;2
+C67.txt;4;Attributes;1
+C67.txt;5;Attributes;2
+C67.txt;6;Attributes;1
+C67.txt;7;Attributes;1
+C67.txt;8;Attributes;1
+C67.txt;a;FunctionWords;14
+C67.txt;c;LegalReferences;3
+C67.txt;e;LegalReferences;1
+C67.txt;i;FunctionWords;1
+C67.txt;l;LegalReferences;3
+C67.txt;v;LegalReferences;1

@@ -12,6 +12,7 @@ insheet using all_cons-count.csv, delimiter(";") nonames clear
 	rename v11 name_entity
 	rename v3 category
 	rename v4 occurrence
+	rename v2 key 
 	
 	gen one = 1
 	bysort name_entity category: egen unique_count = total(one)
@@ -19,7 +20,7 @@ insheet using all_cons-count.csv, delimiter(";") nonames clear
 	order name_entity category occurrence
 	destring occurrence, replace
 
-	drop v2
+	drop key
 	bysort name_entity category: egen foo = sum(occurrence)
 	rename foo tot_occurence
 	keep name_entity category tot_occurence unique_count
@@ -30,7 +31,18 @@ insheet using all_cons-count.csv, delimiter(";") nonames clear
 	egen id_cat = group(category)
 save tmp.dta, replace
 
+use tmp.dta, clear
+	rename unique_count o_unique_count
+	rename tot_occurence o_tot_occurrence
+
+merge 1:1 name_entity category id_name id_cat using foo2.dta // all_cons-count-old.dta 
+	drop _merge 
+	
+	gen d_unique_count = o_unique_count - unique_count
+	gen d_tot_occurrence = o_tot_occurrence - tot_occurence
+
 // interlude: create mappings
+use tmp.dta, clear
 	keep id_name name_entity
 	duplicates drop
 save id_name_entity.dta, replace
@@ -153,7 +165,7 @@ use EBA_Master.dta, clear
 	}
 
 	foreach var of varlist potential level quantity cyclomatic diversity {
-		reg share length `var' i.share_type#c.`var'
+		reg share length `var' i.share_type##c.`var'
 	}
 	
 	

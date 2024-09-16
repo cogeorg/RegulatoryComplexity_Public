@@ -11,7 +11,6 @@ C26.txt;credit risk;EconomicOperands;1
 C26.txt;referred to;FunctionWords;2
 C26.txt;application;EconomicOperands;2
 C26.txt;institution;EconomicOperands;4
-C26.txt;instruction;EconomicOperands;2
 C26.txt;applicable;FunctionWords;3
 C26.txt;concerning;LogicalConnectors;1
 C26.txt;determined;RegulatoryOperators;1
@@ -25,13 +24,11 @@ C26.txt;expressed;EconomicOperands;1
 C26.txt;following;FunctionWords;2
 C26.txt;paragraph;LegalReferences;1
 C26.txt;absolute;MathematicalOperators;1
-C26.txt;delegate;EconomicOperands;2
 C26.txt;exposure;EconomicOperands;1
 C26.txt;measures;EconomicOperands;2
 C26.txt;national;EconomicOperands;2
 C26.txt;reported;EconomicOperands;8
 C26.txt;required;RegulatoryOperators;1
-C26.txt;restrict;RegulatoryOperators;1
 C26.txt;specific;FunctionWords;1
 C26.txt;stricter;EconomicOperands;1
 C26.txt;in case;LogicalConnectors;1
@@ -39,7 +36,7 @@ C26.txt;account;EconomicOperands;1
 C26.txt;adopted;Other;2
 C26.txt;another;FunctionWords;1
 C26.txt;applies;FunctionWords;1
-C26.txt;article;EconomicOperands;22
+C26.txt;article;EconomicOperands;20
 C26.txt;capital;EconomicOperands;7
 C26.txt;exceeds;LogicalConnectors;1
 C26.txt;million;Attributes;4
@@ -67,20 +64,13 @@ C26.txt;these;FunctionWords;1
 C26.txt;third;Attributes;2
 C26.txt;value;EconomicOperands;1
 C26.txt;which;FunctionWords;3
-C26.txt;10 a;Other;2
 C26.txt;into;FunctionWords;1
-C26.txt;late;EconomicOperands;2
 C26.txt;more;LogicalConnectors;1
 C26.txt;than;FunctionWords;2
 C26.txt;that;FunctionWords;3
 C26.txt;this;FunctionWords;3
-C26.txt;1 a;Other;1
-C26.txt;4 c;Other;1
-C26.txt;d 4;Other;1
-C26.txt;e 2;Other;1
 C26.txt;150;Attributes;4
-C26.txt;act;LegalReferences;2
-C26.txt;and;LogicalConnectors;1
+C26.txt;and;LogicalConnectors;4
 C26.txt;are;FunctionWords;2
 C26.txt;for;FunctionWords;3
 C26.txt;may;FunctionWords;1
@@ -88,50 +78,22 @@ C26.txt;non;LogicalConnectors;3
 C26.txt;not;LogicalConnectors;1
 C26.txt;out;EconomicOperands;3
 C26.txt;set;Other;3
-C26.txt;the;FunctionWords;26
-C26.txt;10;Attributes;1
-C26.txt;15;Attributes;2
-C26.txt;20;Attributes;2
-C26.txt;25;Attributes;3
-C26.txt;30;Attributes;1
-C26.txt;39;LegalReferences;10
-C26.txt;40;LegalReferences;1
-C26.txt;45;Attributes;10
-C26.txt;46;LegalReferences;2
-C26.txt;51;LegalReferences;8
-C26.txt;an;FunctionWords;2
-C26.txt;as;LogicalConnectors;5
+C26.txt;the;FunctionWords;27
+C26.txt;15;Attributes;1
+C26.txt;25;Attributes;4
+C26.txt;an;FunctionWords;1
+C26.txt;as;LogicalConnectors;4
 C26.txt;be;FunctionWords;9
 C26.txt;by;FunctionWords;4
 C26.txt;if;LogicalConnectors;4
-C26.txt;ii;LegalReferences;8
 C26.txt;in;FunctionWords;6
 C26.txt;is;FunctionWords;5
-C26.txt;it;EconomicOperands;2
-C26.txt;iv;LegalReferences;1
-C26.txt;le;MathematicalOperators;1
 C26.txt;of;FunctionWords;19
 C26.txt;or;LogicalConnectors;10
 C26.txt;to;FunctionWords;1
-C26.txt;2;Attributes;4
-C26.txt;5;Attributes;4
-C26.txt;6;Attributes;1
-C26.txt;7;Attributes;1
-C26.txt;8;Attributes;6
-C26.txt;9;Attributes;6
+C26.txt;4;Attributes;1
 C26.txt;a;FunctionWords;11
 C26.txt;b;LegalReferences;4
-C26.txt;c;LegalReferences;14
-C26.txt;d;LegalReferences;6
-C26.txt;e;LegalReferences;11
-C26.txt;h;LegalReferences;2
+C26.txt;c;LegalReferences;2
 C26.txt;i;FunctionWords;1
 C26.txt;l;LegalReferences;1
-C26.txt;m;LegalReferences;2
-C26.txt;n;LegalReferences;5
-C26.txt;o;LegalReferences;4
-C26.txt;p;LegalReferences;2
-C26.txt;r;LegalReferences;34
-C26.txt;t;LegalReferences;3
-C26.txt;u;LegalReferences;6
-C26.txt;x;LegalReferences;1

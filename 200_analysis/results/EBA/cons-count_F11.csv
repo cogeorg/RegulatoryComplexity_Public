@@ -1,15 +1,14 @@
-F11.txt;foreign exchange swap;EconomicOperands;1
-F11.txt;financial instrument;EconomicOperands;6
+F11.txt;financial instrument;EconomicOperands;4
 F11.txt;credit default swap;EconomicOperands;6
 F11.txt;accounting standard;EconomicOperands;1
 F11.txt;proprietary trading;EconomicOperands;1
 F11.txt;for the purpose of;LogicalConnectors;1
 F11.txt;in accordance with;LogicalConnectors;11
-F11.txt;commodity contract;EconomicOperands;2
+F11.txt;commodity contract;EconomicOperands;1
 F11.txt;off-balance sheet;EconomicOperands;1
-F11.txt;foreign exchange;EconomicOperands;21
+F11.txt;foreign exchange;EconomicOperands;22
 F11.txt;creditworthiness;EconomicOperands;1
-F11.txt;financial asset;EconomicOperands;31
+F11.txt;financial asset;EconomicOperands;2
 F11.txt;irrespective of;LogicalConnectors;4
 F11.txt;the end of the;MathematicalOperators;1
 F11.txt;in addition to;LogicalConnectors;1
@@ -20,24 +19,19 @@ F11.txt;cross-currency;EconomicOperands;4
 F11.txt;the amount of;MathematicalOperators;1
 F11.txt;the number of;MathematicalOperators;1
 F11.txt;balance sheet;EconomicOperands;5
-F11.txt;currency swap;EconomicOperands;3
 F11.txt;in particular;LogicalConnectors;1
-F11.txt;interest rate;EconomicOperands;49
+F11.txt;interest rate;EconomicOperands;46
 F11.txt;regardless of;LogicalConnectors;2
 F11.txt;comprehensive;EconomicOperands;5
 F11.txt;consideration;EconomicOperands;1
-F11.txt;paragraph 11;LegalReferences;2
-F11.txt;paragraph 12;LegalReferences;1
-F11.txt;paragraph 14;LegalReferences;1
 F11.txt;agricultural;EconomicOperands;1
 F11.txt;constituting;LogicalConnectors;1
-F11.txt;continuation;EconomicOperands;1
 F11.txt;counterparty;EconomicOperands;2
 F11.txt;institutions;EconomicOperands;7
 F11.txt;relationship;EconomicOperands;4
 F11.txt;transactions;EconomicOperands;3
+F11.txt;unfavourable;EconomicOperands;1
 F11.txt;credit risk;EconomicOperands;6
-F11.txt;paragraph 2;LegalReferences;1
 F11.txt;referred to;FunctionWords;1
 F11.txt;accumulated;EconomicOperands;1
 F11.txt;adjustments;EconomicOperands;19
@@ -45,13 +39,11 @@ F11.txt;application;EconomicOperands;1
 F11.txt;appropriate;Attributes;1
 F11.txt;commodities;EconomicOperands;4
 F11.txt;contractual;EconomicOperands;1
-F11.txt;corporation;EconomicOperands;5
 F11.txt;derivatives;EconomicOperands;69
-F11.txt;discontinue;EconomicOperands;5
 F11.txt;implemented;RegulatoryOperators;1
 F11.txt;information;EconomicOperands;1
 F11.txt;institution;EconomicOperands;5
-F11.txt;instruments;EconomicOperands;17
+F11.txt;instruments;EconomicOperands;19
 F11.txt;investments;EconomicOperands;5
 F11.txt;liabilities;EconomicOperands;44
 F11.txt;measurement;EconomicOperands;1
@@ -66,17 +58,16 @@ F11.txt;adjustment;EconomicOperands;1
 F11.txt;agreements;EconomicOperands;1
 F11.txt;allocation;EconomicOperands;2
 F11.txt;applicable;FunctionWords;6
-F11.txt;calculated;EconomicOperands;1
 F11.txt;classified;EconomicOperands;7
-F11.txt;commitment;EconomicOperands;2
 F11.txt;considered;EconomicOperands;3
 F11.txt;constitute;EconomicOperands;1
 F11.txt;contracted;EconomicOperands;1
 F11.txt;cumulative;EconomicOperands;1
 F11.txt;definition;EconomicOperands;4
-F11.txt;derivative;EconomicOperands;34
+F11.txt;derivative;EconomicOperands;33
 F11.txt;designated;RegulatoryOperators;7
 F11.txt;determined;RegulatoryOperators;2
+F11.txt;favourable;EconomicOperands;1
 F11.txt;identified;FunctionWords;1
 F11.txt;influenced;EconomicOperands;1
 F11.txt;instrument;EconomicOperands;4
@@ -87,7 +78,7 @@ F11.txt;particular;FunctionWords;2
 F11.txt;pertaining;EconomicOperands;1
 F11.txt;previously;LogicalConnectors;1
 F11.txt;protection;EconomicOperands;3
-F11.txt;receivable;EconomicOperands;1
+F11.txt;recognised;EconomicOperands;5
 F11.txt;references;EconomicOperands;22
 F11.txt;represents;LogicalConnectors;1
 F11.txt;separately;EconomicOperands;7
@@ -97,33 +88,35 @@ F11.txt;more than;LogicalConnectors;4
 F11.txt;according;LogicalConnectors;4
 F11.txt;allocated;EconomicOperands;2
 F11.txt;available;EconomicOperands;1
-F11.txt;breakdown;EconomicOperands;9
-F11.txt;commodity;EconomicOperands;22
-F11.txt;component;EconomicOperands;3
+F11.txt;breakdown;EconomicOperands;8
+F11.txt;commodity;EconomicOperands;23
+F11.txt;component;EconomicOperands;2
 F11.txt;concluded;EconomicOperands;1
-F11.txt;contracts;EconomicOperands;19
+F11.txt;contracts;EconomicOperands;20
 F11.txt;dedicated;EconomicOperands;2
 F11.txt;determine;RegulatoryOperators;1
 F11.txt;directive;EconomicOperands;4
 F11.txt;effective;Other;3
 F11.txt;exception;RegulatoryOperators;3
 F11.txt;exchanges;EconomicOperands;2
-F11.txt;financial;EconomicOperands;31
+F11.txt;financial;EconomicOperands;62
 F11.txt;following;FunctionWords;7
 F11.txt;framework;EconomicOperands;2
 F11.txt;generally;FunctionWords;1
-F11.txt;guarantee;EconomicOperands;3
+F11.txt;guarantee;EconomicOperands;2
 F11.txt;including;LogicalConnectors;12
 F11.txt;insurance;EconomicOperands;1
 F11.txt;involving;EconomicOperands;5
 F11.txt;liability;EconomicOperands;2
 F11.txt;mandatory;RegulatoryOperators;1
 F11.txt;operation;EconomicOperands;6
-F11.txt;organized;EconomicOperands;37
-F11.txt;portfolio;EconomicOperands;29
+F11.txt;organised;EconomicOperands;3
+F11.txt;paragraph;LegalReferences;5
+F11.txt;portfolio;EconomicOperands;25
 F11.txt;positions;EconomicOperands;6
 F11.txt;primarily;Attributes;1
 F11.txt;principal;EconomicOperands;5
+F11.txt;recognise;EconomicOperands;1
 F11.txt;reference;EconomicOperands;7
 F11.txt;regulated;RegulatoryOperators;1
 F11.txt;remaining;EconomicOperands;6
@@ -146,18 +139,16 @@ F11.txt;clearing;EconomicOperands;2
 F11.txt;concerns;EconomicOperands;1
 F11.txt;contract;EconomicOperands;11
 F11.txt;criteria;EconomicOperands;1
-F11.txt;currency;EconomicOperands;8
-F11.txt;decrease;MathematicalOperators;1
+F11.txt;currency;EconomicOperands;10
 F11.txt;economic;EconomicOperands;6
 F11.txt;eligible;EconomicOperands;1
 F11.txt;estimate;EconomicOperands;1
 F11.txt;exchange;EconomicOperands;7
 F11.txt;exercise;EconomicOperands;1
-F11.txt;exposure;EconomicOperands;12
+F11.txt;exposure;EconomicOperands;11
 F11.txt;forwards;EconomicOperands;1
 F11.txt;included;EconomicOperands;14
-F11.txt;increase;MathematicalOperators;1
-F11.txt;interest;EconomicOperands;3
+F11.txt;interest;EconomicOperands;6
 F11.txt;maturity;EconomicOperands;1
 F11.txt;measured;EconomicOperands;19
 F11.txt;monetary;EconomicOperands;2
@@ -176,10 +167,8 @@ F11.txt;quantity;EconomicOperands;1
 F11.txt;relevant;Attributes;5
 F11.txt;reported;EconomicOperands;40
 F11.txt;required;RegulatoryOperators;1
-F11.txt;restrict;RegulatoryOperators;1
 F11.txt;treasury;EconomicOperands;1
 F11.txt;variable;EconomicOperands;1
-F11.txt;in case;LogicalConnectors;1
 F11.txt;that is;LogicalConnectors;2
 F11.txt;account;EconomicOperands;1
 F11.txt;allowed;RegulatoryOperators;1
@@ -193,7 +182,7 @@ F11.txt;between;FunctionWords;2
 F11.txt;carried;EconomicOperands;12
 F11.txt;central;EconomicOperands;1
 F11.txt;default;EconomicOperands;1
-F11.txt;defined;EconomicOperands;5
+F11.txt;defined;EconomicOperands;3
 F11.txt;elected;EconomicOperands;1
 F11.txt;exclude;EconomicOperands;1
 F11.txt;expense;EconomicOperands;1
@@ -210,7 +199,6 @@ F11.txt;measure;EconomicOperands;1
 F11.txt;netting;EconomicOperands;8
 F11.txt;portion;EconomicOperands;2
 F11.txt;product;EconomicOperands;15
-F11.txt;qualify;EconomicOperands;3
 F11.txt;related;FunctionWords;3
 F11.txt;require;RegulatoryOperators;1
 F11.txt;settled;EconomicOperands;1
@@ -218,16 +206,13 @@ F11.txt;specify;EconomicOperands;1
 F11.txt;thereof;FunctionWords;1
 F11.txt;through;FunctionWords;16
 F11.txt;trading;EconomicOperands;21
-F11.txt;warrant;EconomicOperands;2
 F11.txt;whether;LogicalConnectors;8
-F11.txt;such a;LogicalConnectors;4
 F11.txt;across;FunctionWords;1
 F11.txt;amount;EconomicOperands;67
-F11.txt;assets;EconomicOperands;30
+F11.txt;assets;EconomicOperands;59
 F11.txt;become;EconomicOperands;1
 F11.txt;before;LogicalConnectors;7
 F11.txt;change;EconomicOperands;1
-F11.txt;collar;EconomicOperands;1
 F11.txt;credit;EconomicOperands;36
 F11.txt;either;LogicalConnectors;5
 F11.txt;enters;EconomicOperands;1
@@ -236,9 +221,7 @@ F11.txt;entity;EconomicOperands;3
 F11.txt;equity;EconomicOperands;27
 F11.txt;events;EconomicOperands;1
 F11.txt;except;LogicalConnectors;2
-F11.txt;future;EconomicOperands;3
 F11.txt;gather;EconomicOperands;1
-F11.txt;holder;EconomicOperands;1
 F11.txt;hybrid;EconomicOperands;2
 F11.txt;income;EconomicOperands;6
 F11.txt;linked;EconomicOperands;4
@@ -248,9 +231,9 @@ F11.txt;market;EconomicOperands;59
 F11.txt;method;EconomicOperands;1
 F11.txt;nature;EconomicOperands;2
 F11.txt;number;EconomicOperands;2
-F11.txt;option;EconomicOperands;53
+F11.txt;option;EconomicOperands;10
 F11.txt;payoff;EconomicOperands;1
-F11.txt;payout;EconomicOperands;2
+F11.txt;payout;EconomicOperands;1
 F11.txt;profit;EconomicOperands;13
 F11.txt;rating;EconomicOperands;1
 F11.txt;remain;EconomicOperands;1
@@ -273,15 +256,11 @@ F11.txt;based;Other;2
 F11.txt;basis;Other;3
 F11.txt;being;FunctionWords;1
 F11.txt;below;FunctionWords;1
-F11.txt;buyer;EconomicOperands;1
 F11.txt;costs;EconomicOperands;2
 F11.txt;cover;EconomicOperands;1
-F11.txt;cross;EconomicOperands;1
-F11.txt;floor;EconomicOperands;1
-F11.txt;grade;EconomicOperands;1
 F11.txt;gross;EconomicOperands;3
 F11.txt;group;EconomicOperands;4
-F11.txt;hedge;EconomicOperands;160
+F11.txt;hedge;EconomicOperands;69
 F11.txt;index;EconomicOperands;3
 F11.txt;joint;EconomicOperands;2
 F11.txt;loans;EconomicOperands;1
@@ -290,13 +269,13 @@ F11.txt;order;EconomicOperands;1
 F11.txt;other;LogicalConnectors;77
 F11.txt;place;EconomicOperands;1
 F11.txt;point;EconomicOperands;2
-F11.txt;price;EconomicOperands;10
-F11.txt;rates;EconomicOperands;2
+F11.txt;price;EconomicOperands;9
+F11.txt;rates;EconomicOperands;5
 F11.txt;refer;EconomicOperands;2
-F11.txt;right;EconomicOperands;2
+F11.txt;right;EconomicOperands;1
 F11.txt;rules;EconomicOperands;1
 F11.txt;shall;RegulatoryOperators;86
-F11.txt;swaps;EconomicOperands;7
+F11.txt;swaps;EconomicOperands;11
 F11.txt;taken;Other;1
 F11.txt;terms;Other;1
 F11.txt;their;FunctionWords;5
@@ -306,180 +285,122 @@ F11.txt;those;FunctionWords;12
 F11.txt;total;MathematicalOperators;18
 F11.txt;under;FunctionWords;12
 F11.txt;using;EconomicOperands;1
-F11.txt;value;EconomicOperands;60
+F11.txt;value;EconomicOperands;59
 F11.txt;where;LogicalConnectors;19
 F11.txt;which;FunctionWords;84
 F11.txt;while;LogicalConnectors;2
 F11.txt;whole;FunctionWords;1
-F11.txt;10 a;Other;7
-F11.txt;4 th;Other;1
-F11.txt;6 th;Attributes;2
-F11.txt;able;EconomicOperands;2
 F11.txt;also;LogicalConnectors;3
-F11.txt;bear;EconomicOperands;2
 F11.txt;been;FunctionWords;2
 F11.txt;bill;EconomicOperands;1
-F11.txt;book;EconomicOperands;4
+F11.txt;book;EconomicOperands;1
 F11.txt;caps;EconomicOperands;1
-F11.txt;case;EconomicOperands;2
 F11.txt;cash;EconomicOperands;13
 F11.txt;cost;EconomicOperands;26
 F11.txt;date;EconomicOperands;4
-F11.txt;deal;EconomicOperands;7
-F11.txt;down;FunctionWords;6
+F11.txt;down;FunctionWords;5
 F11.txt;each;LogicalConnectors;3
 F11.txt;face;EconomicOperands;1
 F11.txt;fair;EconomicOperands;51
 F11.txt;firm;EconomicOperands;1
-F11.txt;flow;EconomicOperands;13
+F11.txt;flow;EconomicOperands;12
 F11.txt;from;FunctionWords;1
-F11.txt;gain;EconomicOperands;3
-F11.txt;give;FunctionWords;1
+F11.txt;gain;EconomicOperands;1
 F11.txt;gold;EconomicOperands;17
 F11.txt;have;FunctionWords;6
 F11.txt;held;EconomicOperands;13
 F11.txt;host;EconomicOperands;2
 F11.txt;into;FunctionWords;4
-F11.txt;item;Other;20
+F11.txt;item;Other;3
 F11.txt;keep;EconomicOperands;1
-F11.txt;late;EconomicOperands;17
 F11.txt;lead;EconomicOperands;1
 F11.txt;line;EconomicOperands;2
 F11.txt;link;EconomicOperands;1
-F11.txt;long;EconomicOperands;1
 F11.txt;loss;EconomicOperands;14
 F11.txt;meet;EconomicOperands;5
 F11.txt;more;LogicalConnectors;1
 F11.txt;most;FunctionWords;1
-F11.txt;name;EconomicOperands;2
 F11.txt;only;LogicalConnectors;3
 F11.txt;part;FunctionWords;314
 F11.txt;rate;EconomicOperands;1
 F11.txt;read;Other;1
 F11.txt;risk;EconomicOperands;35
-F11.txt;role;EconomicOperands;1
 F11.txt;sale;EconomicOperands;2
 F11.txt;same;FunctionWords;1
 F11.txt;sold;EconomicOperands;13
 F11.txt;some;FunctionWords;1
+F11.txt;such;FunctionWords;4
 F11.txt;swap;EconomicOperands;7
-F11.txt;take;FunctionWords;1
 F11.txt;than;FunctionWords;2
 F11.txt;that;FunctionWords;21
 F11.txt;they;FunctionWords;7
 F11.txt;this;FunctionWords;10
 F11.txt;thus;LogicalConnectors;1
-F11.txt;type;EconomicOperands;36
+F11.txt;type;EconomicOperands;31
 F11.txt;unit;EconomicOperands;1
 F11.txt;upon;EconomicOperands;1
 F11.txt;used;EconomicOperands;7
 F11.txt;with;FunctionWords;16
-F11.txt;1 a;Other;7
-F11.txt;2 a;Other;1
-F11.txt;3 a;Other;1
-F11.txt;5 a;Other;13
-F11.txt;9 a;Other;5
-F11.txt;a 1;Other;4
-F11.txt;d 1;Other;6
-F11.txt;d 4;Other;4
-F11.txt;g 1;Other;2
 F11.txt;120;LegalReferences;1
 F11.txt;125;Attributes;1
+F11.txt;129;LegalReferences;2
+F11.txt;133;Attributes;1
 F11.txt;140;LegalReferences;1
 F11.txt;141;LegalReferences;1
 F11.txt;150;Attributes;5
 F11.txt;152;LegalReferences;1
-F11.txt;214;LegalReferences;2
-F11.txt;724;LegalReferences;38
-F11.txt;aii;LegalReferences;6
-F11.txt;all;LogicalConnectors;18
-F11.txt;and;LogicalConnectors;69
+F11.txt;aii;LegalReferences;2
+F11.txt;all;LogicalConnectors;20
+F11.txt;and;LogicalConnectors;73
 F11.txt;any;LogicalConnectors;2
 F11.txt;are;FunctionWords;22
-F11.txt;bad;EconomicOperands;21
+F11.txt;bad;EconomicOperands;22
 F11.txt;but;LogicalConnectors;3
 F11.txt;can;FunctionWords;2
-F11.txt;cro;EconomicOperands;25
-F11.txt;doe;EconomicOperands;1
 F11.txt;for;FunctionWords;57
 F11.txt;may;FunctionWords;3
 F11.txt;net;EconomicOperands;24
-F11.txt;non;LogicalConnectors;26
+F11.txt;non;LogicalConnectors;25
 F11.txt;not;LogicalConnectors;19
 F11.txt;one;FunctionWords;8
-F11.txt;our;FunctionWords;2
-F11.txt;out;EconomicOperands;1
-F11.txt;per;FunctionWords;1
-F11.txt;pre;EconomicOperands;4
 F11.txt;sum;EconomicOperands;1
-F11.txt;the;FunctionWords;170
-F11.txt;tip;EconomicOperands;2
+F11.txt;the;FunctionWords;173
 F11.txt;two;Attributes;1
 F11.txt;via;FunctionWords;1
 F11.txt;yet;LogicalConnectors;1
-F11.txt;10;Attributes;3
-F11.txt;11;LegalReferences;4
-F11.txt;12;Attributes;9
-F11.txt;13;LegalReferences;49
-F11.txt;14;LegalReferences;20
-F11.txt;15;Attributes;11
+F11.txt;10;Attributes;10
+F11.txt;11;LegalReferences;9
+F11.txt;27;LegalReferences;1
 F11.txt;32;LegalReferences;1
-F11.txt;36;LegalReferences;2
 F11.txt;39;LegalReferences;3
 F11.txt;41;LegalReferences;2
-F11.txt;42;LegalReferences;4
-F11.txt;44;LegalReferences;4
-F11.txt;aa;LegalReferences;29
-F11.txt;ab;Other;2
-F11.txt;an;FunctionWords;284
-F11.txt;as;LogicalConnectors;49
-F11.txt;at;FunctionWords;63
-F11.txt;be;FunctionWords;85
+F11.txt;an;FunctionWords;11
+F11.txt;as;LogicalConnectors;35
+F11.txt;at;FunctionWords;48
+F11.txt;be;FunctionWords;81
 F11.txt;by;FunctionWords;51
-F11.txt;do;FunctionWords;6
-F11.txt;ec;EconomicOperands;8
-F11.txt;et;Other;1
-F11.txt;go;FunctionWords;5
-F11.txt;if;LogicalConnectors;122
-F11.txt;ii;LegalReferences;2
-F11.txt;in;FunctionWords;93
-F11.txt;is;FunctionWords;56
-F11.txt;it;EconomicOperands;17
-F11.txt;le;MathematicalOperators;8
-F11.txt;no;LogicalConnectors;5
+F11.txt;do;FunctionWords;4
+F11.txt;in;FunctionWords;82
+F11.txt;is;FunctionWords;21
+F11.txt;it;EconomicOperands;6
+F11.txt;no;LogicalConnectors;1
 F11.txt;of;FunctionWords;233
-F11.txt;on;FunctionWords;18
-F11.txt;or;LogicalConnectors;118
+F11.txt;on;FunctionWords;17
+F11.txt;or;LogicalConnectors;90
 F11.txt;to;FunctionWords;58
-F11.txt;tr;EconomicOperands;1
-F11.txt;1;Attributes;30
-F11.txt;2;Attributes;18
-F11.txt;3;Attributes;9
-F11.txt;4;Attributes;10
-F11.txt;5;Attributes;9
-F11.txt;6;Attributes;8
-F11.txt;7;Attributes;16
-F11.txt;8;Attributes;12
-F11.txt;9;Attributes;19
-F11.txt;a;FunctionWords;187
-F11.txt;b;LegalReferences;49
-F11.txt;c;LegalReferences;124
-F11.txt;d;LegalReferences;87
-F11.txt;e;LegalReferences;446
-F11.txt;f;LegalReferences;18
-F11.txt;h;LegalReferences;4
-F11.txt;i;FunctionWords;72
-F11.txt;k;LegalReferences;5
-F11.txt;l;LegalReferences;42
-F11.txt;m;LegalReferences;97
-F11.txt;n;LegalReferences;366
-F11.txt;o;LegalReferences;110
-F11.txt;p;LegalReferences;55
-F11.txt;q;LegalReferences;5
-F11.txt;r;LegalReferences;174
-F11.txt;t;LegalReferences;104
-F11.txt;u;LegalReferences;19
-F11.txt;v;LegalReferences;293
-F11.txt;x;LegalReferences;290
-F11.txt;y;LegalReferences;3
-F11.txt;z;LegalReferences;3
+F11.txt;1;Attributes;1
+F11.txt;2;Attributes;6
+F11.txt;3;Attributes;1
+F11.txt;6;Attributes;1
+F11.txt;7;Attributes;38
+F11.txt;8;Attributes;1
+F11.txt;9;Attributes;8
+F11.txt;a;FunctionWords;107
+F11.txt;b;LegalReferences;25
+F11.txt;c;LegalReferences;22
+F11.txt;d;LegalReferences;18
+F11.txt;e;LegalReferences;18
+F11.txt;f;LegalReferences;15
+F11.txt;h;LegalReferences;2
+F11.txt;l;LegalReferences;5
+F11.txt;v;LegalReferences;287

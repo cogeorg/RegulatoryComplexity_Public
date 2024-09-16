@@ -1,37 +1,37 @@
-C02.txt;capital requirement;EconomicOperands;1
 C02.txt;in accordance with;LogicalConnectors;8
 C02.txt;foreign exchange;EconomicOperands;9
 C02.txt;operational risk;EconomicOperands;2
 C02.txt;associated with;FunctionWords;3
-C02.txt;paragraph 2 a;LegalReferences;4
+C02.txt;securitisations;EconomicOperands;1
+C02.txt;securitisation;EconomicOperands;4
 C02.txt;interest rate;EconomicOperands;2
 C02.txt;contributions;EconomicOperands;2
 C02.txt;international;EconomicOperands;2
-C02.txt;central bank;EconomicOperands;6
+C02.txt;organisations;EconomicOperands;2
 C02.txt;greater than;LogicalConnectors;2
 C02.txt;communicated;EconomicOperands;2
 C02.txt;counterparty;EconomicOperands;2
 C02.txt;institutions;EconomicOperands;15
 C02.txt;multilateral;EconomicOperands;2
-C02.txt;requirements;EconomicOperands;22
+C02.txt;requirements;EconomicOperands;23
 C02.txt;respectively;LogicalConnectors;1
+C02.txt;standardised;EconomicOperands;10
 C02.txt;assigned to;EconomicOperands;1
+C02.txt;paragraph 2;LegalReferences;4
 C02.txt;referred to;FunctionWords;5
 C02.txt;alternative;EconomicOperands;2
 C02.txt;authorities;EconomicOperands;3
 C02.txt;commodities;EconomicOperands;7
 C02.txt;consequence;EconomicOperands;1
-C02.txt;constituent;EconomicOperands;1
 C02.txt;development;EconomicOperands;2
 C02.txt;exclusively;LogicalConnectors;6
 C02.txt;governments;EconomicOperands;8
 C02.txt;immediately;Attributes;1
-C02.txt;instruction;EconomicOperands;8
-C02.txt;instruments;EconomicOperands;11
+C02.txt;instruments;EconomicOperands;10
 C02.txt;investments;EconomicOperands;2
 C02.txt;measurement;EconomicOperands;2
 C02.txt;residential;EconomicOperands;1
-C02.txt;undertaking;EconomicOperands;2
+C02.txt;specialised;EconomicOperands;4
 C02.txt;as follows;FunctionWords;1
 C02.txt;subject to;LogicalConnectors;2
 C02.txt;additional;MathematicalOperators;20
@@ -55,25 +55,23 @@ C02.txt;settlement;EconomicOperands;6
 C02.txt;short-term;EconomicOperands;2
 C02.txt;commodity;EconomicOperands;1
 C02.txt;competent;EconomicOperands;1
-C02.txt;corporate;EconomicOperands;16
+C02.txt;corporate;EconomicOperands;1
 C02.txt;excluding;LogicalConnectors;3
 C02.txt;financial;EconomicOperands;2
 C02.txt;following;FunctionWords;1
 C02.txt;indicator;EconomicOperands;2
 C02.txt;mortgages;EconomicOperands;2
-C02.txt;paragraph;LegalReferences;3
 C02.txt;positions;EconomicOperands;11
 C02.txt;revolving;EconomicOperands;2
 C02.txt;valuation;EconomicOperands;5
 C02.txt;based on;Other;13
 C02.txt;advanced;EconomicOperands;4
-C02.txt;approach;EconomicOperands;20
+C02.txt;approach;EconomicOperands;10
 C02.txt;delivery;EconomicOperands;6
 C02.txt;dilution;EconomicOperands;2
 C02.txt;eligible;EconomicOperands;1
 C02.txt;entities;EconomicOperands;2
-C02.txt;estimate;EconomicOperands;6
-C02.txt;exposure;EconomicOperands;55
+C02.txt;exposure;EconomicOperands;43
 C02.txt;internal;EconomicOperands;4
 C02.txt;invested;EconomicOperands;6
 C02.txt;modified;FunctionWords;2
@@ -87,22 +85,18 @@ C02.txt;relevant;Attributes;1
 C02.txt;reported;EconomicOperands;7
 C02.txt;sentence;Other;2
 C02.txt;specific;FunctionWords;1
-C02.txt;standard;EconomicOperands;10
 C02.txt;stricter;EconomicOperands;14
-C02.txt;subtract;RegulatoryOperators;1
 C02.txt;weighted;MathematicalOperators;3
 C02.txt;amounts;EconomicOperands;11
 C02.txt;applied;EconomicOperands;2
 C02.txt;applies;FunctionWords;1
-C02.txt;article;EconomicOperands;80
+C02.txt;article;EconomicOperands;73
 C02.txt;between;FunctionWords;1
-C02.txt;central;EconomicOperands;6
+C02.txt;capital;EconomicOperands;1
+C02.txt;central;EconomicOperands;12
 C02.txt;classes;EconomicOperands;3
-C02.txt;collect;EconomicOperands;2
-C02.txt;consult;EconomicOperands;2
 C02.txt;covered;EconomicOperands;2
 C02.txt;default;EconomicOperands;4
-C02.txt;deliver;EconomicOperands;2
 C02.txt;element;EconomicOperands;1
 C02.txt;factors;EconomicOperands;3
 C02.txt;imposed;EconomicOperands;1
@@ -110,22 +104,18 @@ C02.txt;include;EconomicOperands;1
 C02.txt;lending;EconomicOperands;4
 C02.txt;markets;EconomicOperands;1
 C02.txt;neither;LogicalConnectors;2
-C02.txt;qualify;EconomicOperands;2
 C02.txt;ratings;EconomicOperands;2
 C02.txt;related;FunctionWords;3
 C02.txt;secured;EconomicOperands;4
-C02.txt;special;EconomicOperands;4
 C02.txt;trading;EconomicOperands;6
 C02.txt;due to;LogicalConnectors;9
 C02.txt;amount;EconomicOperands;42
 C02.txt;assets;EconomicOperands;2
 C02.txt;assign;EconomicOperands;1
-C02.txt;bubble;EconomicOperands;2
 C02.txt;cannot;RegulatoryOperators;1
 C02.txt;claims;EconomicOperands;2
 C02.txt;comply;RegulatoryOperators;4
 C02.txt;credit;EconomicOperands;13
-C02.txt;detail;EconomicOperands;1
 C02.txt;either;LogicalConnectors;3
 C02.txt;equity;EconomicOperands;10
 C02.txt;estate;EconomicOperands;4
@@ -145,19 +135,17 @@ C02.txt;retail;EconomicOperands;12
 C02.txt;second;LogicalConnectors;1
 C02.txt;sector;EconomicOperands;4
 C02.txt;secure;EconomicOperands;2
-C02.txt;target;EconomicOperands;2
 C02.txt;traded;EconomicOperands;4
 C02.txt;after;LogicalConnectors;3
 C02.txt;arise;EconomicOperands;1
 C02.txt;asset;EconomicOperands;2
-C02.txt;banks;EconomicOperands;2
+C02.txt;banks;EconomicOperands;8
 C02.txt;based;Other;2
 C02.txt;basic;EconomicOperands;2
 C02.txt;firms;EconomicOperands;10
 C02.txt;first;Attributes;1
 C02.txt;fixed;EconomicOperands;2
 C02.txt;funds;EconomicOperands;6
-C02.txt;known;Other;1
 C02.txt;large;EconomicOperands;4
 C02.txt;legal;EconomicOperands;7
 C02.txt;level;EconomicOperands;6
@@ -171,13 +159,10 @@ C02.txt;those;FunctionWords;2
 C02.txt;total;MathematicalOperators;21
 C02.txt;under;FunctionWords;14
 C02.txt;value;EconomicOperands;1
-C02.txt;weigh;MathematicalOperators;4
 C02.txt;where;LogicalConnectors;4
 C02.txt;which;FunctionWords;24
-C02.txt;able;EconomicOperands;2
 C02.txt;also;LogicalConnectors;1
 C02.txt;been;FunctionWords;2
-C02.txt;bond;EconomicOperands;2
 C02.txt;book;EconomicOperands;6
 C02.txt;debt;EconomicOperands;4
 C02.txt;down;FunctionWords;5
@@ -185,114 +170,59 @@ C02.txt;free;EconomicOperands;2
 C02.txt;from;FunctionWords;3
 C02.txt;fund;EconomicOperands;2
 C02.txt;have;FunctionWords;1
-C02.txt;head;EconomicOperands;2
 C02.txt;high;EconomicOperands;2
-C02.txt;item;Other;12
-C02.txt;late;EconomicOperands;52
+C02.txt;item;Other;7
 C02.txt;link;EconomicOperands;1
 C02.txt;only;LogicalConnectors;2
-C02.txt;over;MathematicalOperators;2
 C02.txt;real;EconomicOperands;4
-C02.txt;risk;EconomicOperands;64
+C02.txt;risk;EconomicOperands;56
 C02.txt;that;FunctionWords;1
 C02.txt;this;FunctionWords;4
-C02.txt;used;EconomicOperands;6
+C02.txt;used;EconomicOperands;5
 C02.txt;when;LogicalConnectors;6
 C02.txt;with;FunctionWords;7
-C02.txt;2 a;Other;9
-C02.txt;3 a;Other;6
-C02.txt;5 a;Other;1
-C02.txt;6 a;Other;1
-C02.txt;8 a;Other;3
-C02.txt;2 c;Other;7
-C02.txt;3 c;Other;9
-C02.txt;4 c;Other;12
-C02.txt;5 c;Other;2
-C02.txt;6 c;Other;2
-C02.txt;d 4;Other;2
-C02.txt;f 1;Other;1
-C02.txt;f 2;Other;1
-C02.txt;125;Attributes;3
-C02.txt;952;LegalReferences;1
-C02.txt;aid;EconomicOperands;5
-C02.txt;and;LogicalConnectors;37
+C02.txt;100;Attributes;1
+C02.txt;952;LegalReferences;8
+C02.txt;and;LogicalConnectors;61
 C02.txt;are;FunctionWords;10
 C02.txt;cap;EconomicOperands;1
-C02.txt;doe;EconomicOperands;2
 C02.txt;for;FunctionWords;32
-C02.txt;iii;LegalReferences;1
 C02.txt;net;EconomicOperands;3
 C02.txt;non;LogicalConnectors;8
 C02.txt;nor;LogicalConnectors;2
 C02.txt;not;LogicalConnectors;3
-C02.txt;one;FunctionWords;2
+C02.txt;one;FunctionWords;1
 C02.txt;own;FunctionWords;12
-C02.txt;sec;EconomicOperands;7
-C02.txt;set;Other;3
+C02.txt;sec;EconomicOperands;2
+C02.txt;set;Other;1
 C02.txt;the;FunctionWords;69
-C02.txt;11;LegalReferences;1
-C02.txt;12;Attributes;7
-C02.txt;15;Attributes;1
-C02.txt;16;LegalReferences;3
-C02.txt;30;Attributes;4
+C02.txt;12;Attributes;2
+C02.txt;20;Attributes;1
+C02.txt;30;Attributes;1
 C02.txt;32;LegalReferences;2
-C02.txt;35;Attributes;2
-C02.txt;36;LegalReferences;1
-C02.txt;38;LegalReferences;3
-C02.txt;39;LegalReferences;1
-C02.txt;40;LegalReferences;2
-C02.txt;45;Attributes;11
-C02.txt;48;LegalReferences;4
+C02.txt;40;LegalReferences;1
 C02.txt;50;Attributes;1
-C02.txt;62;Attributes;1
-C02.txt;ab;Other;3
-C02.txt;an;FunctionWords;3
-C02.txt;as;LogicalConnectors;10
-C02.txt;at;FunctionWords;14
+C02.txt;an;FunctionWords;1
+C02.txt;as;LogicalConnectors;6
+C02.txt;at;FunctionWords;6
 C02.txt;be;FunctionWords;11
 C02.txt;by;FunctionWords;11
-C02.txt;cc;LegalReferences;4
 C02.txt;if;LogicalConnectors;5
-C02.txt;ii;LegalReferences;2
-C02.txt;in;FunctionWords;43
-C02.txt;is;FunctionWords;31
-C02.txt;it;EconomicOperands;6
-C02.txt;iv;LegalReferences;2
-C02.txt;le;MathematicalOperators;3
-C02.txt;of;FunctionWords;72
-C02.txt;on;FunctionWords;12
-C02.txt;or;LogicalConnectors;16
-C02.txt;pe;EconomicOperands;4
+C02.txt;in;FunctionWords;36
+C02.txt;is;FunctionWords;10
+C02.txt;it;EconomicOperands;1
+C02.txt;of;FunctionWords;74
+C02.txt;on;FunctionWords;5
+C02.txt;or;LogicalConnectors;14
 C02.txt;to;FunctionWords;23
-C02.txt;tr;EconomicOperands;2
-C02.txt;us;EconomicOperands;9
-C02.txt;1;Attributes;12
-C02.txt;2;Attributes;12
-C02.txt;3;Attributes;5
-C02.txt;4;Attributes;2
-C02.txt;5;Attributes;15
-C02.txt;6;Attributes;6
-C02.txt;7;Attributes;8
-C02.txt;8;Attributes;13
-C02.txt;9;Attributes;48
-C02.txt;a;FunctionWords;66
-C02.txt;b;LegalReferences;38
-C02.txt;c;LegalReferences;101
-C02.txt;d;LegalReferences;50
-C02.txt;e;LegalReferences;210
-C02.txt;f;LegalReferences;4
-C02.txt;h;LegalReferences;2
-C02.txt;i;FunctionWords;66
-C02.txt;k;LegalReferences;5
-C02.txt;l;LegalReferences;16
-C02.txt;m;LegalReferences;88
-C02.txt;n;LegalReferences;36
-C02.txt;o;LegalReferences;33
-C02.txt;p;LegalReferences;61
-C02.txt;q;LegalReferences;2
-C02.txt;r;LegalReferences;224
-C02.txt;t;LegalReferences;64
-C02.txt;u;LegalReferences;17
-C02.txt;v;LegalReferences;6
-C02.txt;x;LegalReferences;1
-C02.txt;z;LegalReferences;2
+C02.txt;1;Attributes;6
+C02.txt;2;Attributes;2
+C02.txt;3;Attributes;6
+C02.txt;5;Attributes;5
+C02.txt;7;Attributes;1
+C02.txt;a;FunctionWords;14
+C02.txt;b;LegalReferences;5
+C02.txt;c;LegalReferences;4
+C02.txt;d;LegalReferences;3
+C02.txt;e;LegalReferences;2
+C02.txt;f;LegalReferences;1

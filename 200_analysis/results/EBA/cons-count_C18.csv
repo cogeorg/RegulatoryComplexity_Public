@@ -1,13 +1,15 @@
-C18.txt;capital requirement;EconomicOperands;2
 C18.txt;in accordance with;LogicalConnectors;9
 C18.txt;associated with;FunctionWords;1
+C18.txt;securitisations;EconomicOperands;1
+C18.txt;securitisation;EconomicOperands;4
 C18.txt;applicable to;FunctionWords;1
 C18.txt;interest rate;EconomicOperands;3
 C18.txt;last sentence;EconomicOperands;1
 C18.txt;correspondent;EconomicOperands;1
 C18.txt;corresponding;EconomicOperands;3
-C18.txt;requirements;EconomicOperands;17
+C18.txt;requirements;EconomicOperands;19
 C18.txt;respectively;LogicalConnectors;1
+C18.txt;standardised;EconomicOperands;3
 C18.txt;subparagraph;Other;3
 C18.txt;underwriting;EconomicOperands;1
 C18.txt;assigned to;EconomicOperands;1
@@ -16,7 +18,6 @@ C18.txt;calculation;EconomicOperands;3
 C18.txt;correlation;EconomicOperands;2
 C18.txt;derivatives;EconomicOperands;7
 C18.txt;distinction;MathematicalOperators;2
-C18.txt;instruction;EconomicOperands;1
 C18.txt;instruments;EconomicOperands;16
 C18.txt;liabilities;EconomicOperands;2
 C18.txt;requirement;EconomicOperands;7
@@ -37,22 +38,19 @@ C18.txt;available;EconomicOperands;1
 C18.txt;different;FunctionWords;2
 C18.txt;excluding;LogicalConnectors;1
 C18.txt;following;FunctionWords;1
-C18.txt;paragraph;LegalReferences;3
 C18.txt;portfolio;EconomicOperands;2
 C18.txt;positions;EconomicOperands;36
 C18.txt;reference;EconomicOperands;1
 C18.txt;regarding;LogicalConnectors;2
 C18.txt;reporting;EconomicOperands;1
 C18.txt;treatment;EconomicOperands;1
-C18.txt;12 month;Attributes;1
-C18.txt;24 month;Attributes;2
 C18.txt;title iv;LegalReferences;3
-C18.txt;approach;EconomicOperands;15
+C18.txt;approach;EconomicOperands;14
 C18.txt;category;EconomicOperands;6
 C18.txt;currency;EconomicOperands;1
 C18.txt;duration;EconomicOperands;3
 C18.txt;entities;EconomicOperands;1
-C18.txt;exposure;EconomicOperands;6
+C18.txt;exposure;EconomicOperands;5
 C18.txt;included;EconomicOperands;3
 C18.txt;maturity;EconomicOperands;6
 C18.txt;position;EconomicOperands;7
@@ -61,31 +59,24 @@ C18.txt;reported;EconomicOperands;11
 C18.txt;residual;EconomicOperands;5
 C18.txt;sentence;Other;1
 C18.txt;specific;FunctionWords;6
-C18.txt;standard;EconomicOperands;3
-C18.txt;6 month;Attributes;3
 C18.txt;account;EconomicOperands;1
 C18.txt;amounts;EconomicOperands;2
 C18.txt;applied;EconomicOperands;1
-C18.txt;article;EconomicOperands;28
+C18.txt;article;EconomicOperands;24
 C18.txt;banking;EconomicOperands;1
 C18.txt;between;FunctionWords;2
-C18.txt;capital;EconomicOperands;7
-C18.txt;capture;EconomicOperands;1
+C18.txt;capital;EconomicOperands;9
 C18.txt;chapter;Other;3
 C18.txt;covered;EconomicOperands;1
 C18.txt;default;EconomicOperands;3
 C18.txt;defined;EconomicOperands;1
 C18.txt;general;FunctionWords;5
-C18.txt;pending;FunctionWords;1
 C18.txt;qualify;EconomicOperands;1
 C18.txt;receive;EconomicOperands;1
 C18.txt;related;FunctionWords;2
-C18.txt;require;RegulatoryOperators;4
 C18.txt;special;EconomicOperands;1
 C18.txt;through;FunctionWords;1
 C18.txt;trading;EconomicOperands;7
-C18.txt;warrant;EconomicOperands;1
-C18.txt;written;EconomicOperands;1
 C18.txt;amount;EconomicOperands;5
 C18.txt;assets;EconomicOperands;2
 C18.txt;charge;EconomicOperands;7
@@ -95,8 +86,7 @@ C18.txt;fourth;Attributes;1
 C18.txt;linked;EconomicOperands;1
 C18.txt;market;EconomicOperands;2
 C18.txt;matrix;MathematicalOperators;1
-C18.txt;method;EconomicOperands;3
-C18.txt;option;EconomicOperands;4
+C18.txt;method;EconomicOperands;2
 C18.txt;result;EconomicOperands;1
 C18.txt;second;LogicalConnectors;4
 C18.txt;taking;EconomicOperands;1
@@ -107,9 +97,8 @@ C18.txt;final;EconomicOperands;1
 C18.txt;first;Attributes;2
 C18.txt;funds;EconomicOperands;23
 C18.txt;gross;EconomicOperands;2
-C18.txt;hedge;EconomicOperands;1
 C18.txt;level;EconomicOperands;2
-C18.txt;month;EconomicOperands;2
+C18.txt;month;EconomicOperands;1
 C18.txt;other;LogicalConnectors;4
 C18.txt;point;EconomicOperands;5
 C18.txt;rated;EconomicOperands;3
@@ -122,135 +111,73 @@ C18.txt;these;FunctionWords;2
 C18.txt;third;Attributes;3
 C18.txt;those;FunctionWords;6
 C18.txt;total;MathematicalOperators;13
-C18.txt;under;FunctionWords;7
-C18.txt;weigh;MathematicalOperators;2
+C18.txt;under;FunctionWords;6
 C18.txt;where;LogicalConnectors;2
 C18.txt;which;FunctionWords;3
-C18.txt;years;EconomicOperands;11
-C18.txt;39 c;Other;1
+C18.txt;years;EconomicOperands;10
 C18.txt;also;LogicalConnectors;2
-C18.txt;bond;EconomicOperands;2
 C18.txt;book;EconomicOperands;6
 C18.txt;debt;EconomicOperands;15
 C18.txt;down;FunctionWords;1
 C18.txt;have;FunctionWords;1
 C18.txt;into;FunctionWords;1
-C18.txt;late;EconomicOperands;7
 C18.txt;line;EconomicOperands;1
 C18.txt;list;EconomicOperands;1
 C18.txt;long;EconomicOperands;12
-C18.txt;mark;EconomicOperands;1
 C18.txt;only;LogicalConnectors;3
-C18.txt;part;FunctionWords;4
+C18.txt;part;FunctionWords;3
 C18.txt;plus;FunctionWords;4
-C18.txt;risk;EconomicOperands;30
+C18.txt;risk;EconomicOperands;23
 C18.txt;term;Other;4
 C18.txt;than;FunctionWords;12
 C18.txt;that;FunctionWords;1
 C18.txt;this;FunctionWords;1
-C18.txt;upon;EconomicOperands;11
 C18.txt;used;EconomicOperands;2
 C18.txt;with;FunctionWords;3
-C18.txt;zone;EconomicOperands;9
-C18.txt;2 a;Other;4
-C18.txt;3 a;Other;2
-C18.txt;6 a;Other;2
-C18.txt;9 a;Other;1
-C18.txt;2 c;Other;3
-C18.txt;3 c;Other;4
-C18.txt;4 c;Other;2
-C18.txt;6 c;Other;1
-C18.txt;6 f;Other;2
-C18.txt;a 1;Other;1
-C18.txt;105;LegalReferences;1
-C18.txt;106;LegalReferences;1
-C18.txt;120;LegalReferences;2
-C18.txt;125;Attributes;1
-C18.txt;129;LegalReferences;1
-C18.txt;321;LegalReferences;5
-C18.txt;325;LegalReferences;1
+C18.txt;zone;EconomicOperands;6
+C18.txt;102;LegalReferences;1
+C18.txt;321;LegalReferences;2
 C18.txt;all;LogicalConnectors;7
-C18.txt;and;LogicalConnectors;22
+C18.txt;and;LogicalConnectors;31
 C18.txt;any;LogicalConnectors;1
 C18.txt;are;FunctionWords;4
 C18.txt;but;LogicalConnectors;1
-C18.txt;for;FunctionWords;30
-C18.txt;ifi;EconomicOperands;1
-C18.txt;led;EconomicOperands;1
-C18.txt;net;EconomicOperands;7
+C18.txt;for;FunctionWords;32
+C18.txt;net;EconomicOperands;6
 C18.txt;non;LogicalConnectors;6
 C18.txt;not;LogicalConnectors;2
 C18.txt;one;FunctionWords;1
 C18.txt;out;EconomicOperands;1
 C18.txt;own;FunctionWords;23
 C18.txt;pre;EconomicOperands;1
-C18.txt;sec;EconomicOperands;7
-C18.txt;sum;EconomicOperands;3
+C18.txt;sec;EconomicOperands;2
+C18.txt;sum;EconomicOperands;2
 C18.txt;the;FunctionWords;53
-C18.txt;tip;EconomicOperands;1
-C18.txt;10;Attributes;4
+C18.txt;10;Attributes;5
+C18.txt;12;Attributes;4
 C18.txt;15;Attributes;2
-C18.txt;16;LegalReferences;2
-C18.txt;19;LegalReferences;2
 C18.txt;20;Attributes;4
-C18.txt;27;LegalReferences;2
-C18.txt;28;LegalReferences;5
-C18.txt;29;LegalReferences;1
-C18.txt;31;Attributes;2
-C18.txt;32;LegalReferences;1
-C18.txt;35;Attributes;1
-C18.txt;36;LegalReferences;2
-C18.txt;38;LegalReferences;1
-C18.txt;39;LegalReferences;1
-C18.txt;40;LegalReferences;2
-C18.txt;43;LegalReferences;2
-C18.txt;45;Attributes;1
-C18.txt;47;LegalReferences;1
-C18.txt;60;Attributes;1
-C18.txt;as;LogicalConnectors;2
-C18.txt;at;FunctionWords;6
-C18.txt;be;FunctionWords;17
+C18.txt;24;LegalReferences;2
+C18.txt;be;FunctionWords;16
 C18.txt;by;FunctionWords;10
-C18.txt;ha;Other;1
-C18.txt;in;FunctionWords;30
-C18.txt;is;FunctionWords;11
-C18.txt;it;EconomicOperands;8
-C18.txt;le;MathematicalOperators;11
-C18.txt;no;LogicalConnectors;1
+C18.txt;in;FunctionWords;29
+C18.txt;is;FunctionWords;2
 C18.txt;of;FunctionWords;52
-C18.txt;on;FunctionWords;11
-C18.txt;or;LogicalConnectors;3
+C18.txt;on;FunctionWords;4
+C18.txt;or;LogicalConnectors;1
 C18.txt;to;FunctionWords;15
-C18.txt;tr;EconomicOperands;1
 C18.txt;up;FunctionWords;1
-C18.txt;us;EconomicOperands;1
-C18.txt;1;Attributes;18
+C18.txt;1;Attributes;16
 C18.txt;2;Attributes;12
-C18.txt;3;Attributes;51
-C18.txt;4;Attributes;3
-C18.txt;5;Attributes;4
-C18.txt;6;Attributes;2
-C18.txt;7;Attributes;8
-C18.txt;8;Attributes;1
-C18.txt;9;Attributes;6
-C18.txt;a;FunctionWords;28
-C18.txt;b;LegalReferences;9
-C18.txt;c;LegalReferences;46
-C18.txt;d;LegalReferences;31
-C18.txt;e;LegalReferences;54
-C18.txt;f;LegalReferences;3
-C18.txt;h;LegalReferences;12
-C18.txt;i;FunctionWords;19
-C18.txt;j;LegalReferences;1
-C18.txt;k;LegalReferences;19
-C18.txt;l;LegalReferences;20
-C18.txt;m;LegalReferences;28
-C18.txt;n;LegalReferences;30
-C18.txt;o;LegalReferences;12
-C18.txt;p;LegalReferences;18
-C18.txt;r;LegalReferences;90
-C18.txt;t;LegalReferences;34
-C18.txt;u;LegalReferences;16
-C18.txt;v;LegalReferences;1
-C18.txt;y;LegalReferences;2
-C18.txt;z;LegalReferences;1
+C18.txt;3;Attributes;28
+C18.txt;4;Attributes;4
+C18.txt;5;Attributes;5
+C18.txt;6;Attributes;9
+C18.txt;7;Attributes;6
+C18.txt;8;Attributes;3
+C18.txt;9;Attributes;4
+C18.txt;a;FunctionWords;8
+C18.txt;b;LegalReferences;2
+C18.txt;c;LegalReferences;2
+C18.txt;e;LegalReferences;1
+C18.txt;n;LegalReferences;2

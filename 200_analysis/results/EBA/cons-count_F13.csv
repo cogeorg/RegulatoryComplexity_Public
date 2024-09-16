@@ -1,7 +1,5 @@
-F13.txt;financial instrument;EconomicOperands;2
 F13.txt;in accordance with;LogicalConnectors;4
 F13.txt;associated with;FunctionWords;1
-F13.txt;financial asset;EconomicOperands;4
 F13.txt;irrespective of;LogicalConnectors;2
 F13.txt;the end of the;MathematicalOperators;1
 F13.txt;collateralized;EconomicOperands;4
@@ -9,29 +7,25 @@ F13.txt;counterparties;EconomicOperands;1
 F13.txt;simultaneously;EconomicOperands;1
 F13.txt;the amount of;MathematicalOperators;2
 F13.txt;balance sheet;EconomicOperands;3
-F13.txt;joint venture;EconomicOperands;1
 F13.txt;comprehensive;EconomicOperands;1
 F13.txt;derecognition;EconomicOperands;2
 F13.txt;determination;EconomicOperands;1
 F13.txt;independently;EconomicOperands;1
-F13.txt;paragraph 11;LegalReferences;1
-F13.txt;paragraph 17;LegalReferences;2
 F13.txt;cancellation;EconomicOperands;2
 F13.txt;institutions;EconomicOperands;2
+F13.txt;nonfinancial;EconomicOperands;1
 F13.txt;subsidiaries;EconomicOperands;1
 F13.txt;compared to;LogicalConnectors;1
 F13.txt;referred to;FunctionWords;1
 F13.txt;accumulated;EconomicOperands;12
 F13.txt;commodities;EconomicOperands;1
-F13.txt;corporation;EconomicOperands;6
 F13.txt;definitions;EconomicOperands;1
 F13.txt;derivatives;EconomicOperands;4
 F13.txt;information;EconomicOperands;2
 F13.txt;institution;EconomicOperands;5
-F13.txt;instruments;EconomicOperands;3
+F13.txt;instruments;EconomicOperands;5
 F13.txt;investments;EconomicOperands;1
 F13.txt;liabilities;EconomicOperands;2
-F13.txt;measurement;EconomicOperands;2
 F13.txt;merchandise;EconomicOperands;1
 F13.txt;proceedings;EconomicOperands;2
 F13.txt;recognition;EconomicOperands;8
@@ -43,36 +37,34 @@ F13.txt;allocation;EconomicOperands;1
 F13.txt;applicable;FunctionWords;2
 F13.txt;associated;EconomicOperands;1
 F13.txt;classified;EconomicOperands;1
-F13.txt;collateral;EconomicOperands;60
+F13.txt;collateral;EconomicOperands;51
 F13.txt;commercial;EconomicOperands;16
 F13.txt;considered;EconomicOperands;7
 F13.txt;difference;EconomicOperands;2
-F13.txt;enterprise;EconomicOperands;1
 F13.txt;individual;EconomicOperands;1
 F13.txt;instrument;EconomicOperands;1
 F13.txt;performing;EconomicOperands;3
 F13.txt;possession;EconomicOperands;16
+F13.txt;recognised;EconomicOperands;2
 F13.txt;references;EconomicOperands;12
 F13.txt;securities;EconomicOperands;14
 F13.txt;according;LogicalConnectors;6
 F13.txt;allocated;EconomicOperands;2
-F13.txt;associate;EconomicOperands;1
 F13.txt;beginning;LogicalConnectors;1
 F13.txt;breakdown;EconomicOperands;3
 F13.txt;contracts;EconomicOperands;1
 F13.txt;different;FunctionWords;1
 F13.txt;equipment;EconomicOperands;11
 F13.txt;exception;RegulatoryOperators;1
-F13.txt;financial;EconomicOperands;14
+F13.txt;financial;EconomicOperands;19
 F13.txt;following;FunctionWords;1
-F13.txt;guarantee;EconomicOperands;27
-F13.txt;household;EconomicOperands;2
+F13.txt;guarantee;EconomicOperands;9
 F13.txt;including;LogicalConnectors;2
 F13.txt;inclusion;LogicalConnectors;1
 F13.txt;liability;EconomicOperands;1
 F13.txt;materials;EconomicOperands;1
-F13.txt;paragraph;LegalReferences;1
-F13.txt;portfolio;EconomicOperands;3
+F13.txt;paragraph;LegalReferences;3
+F13.txt;portfolio;EconomicOperands;2
 F13.txt;reference;EconomicOperands;10
 F13.txt;reimburse;EconomicOperands;1
 F13.txt;remaining;EconomicOperands;1
@@ -105,6 +97,7 @@ F13.txt;purchase;EconomicOperands;2
 F13.txt;received;EconomicOperands;9
 F13.txt;reported;EconomicOperands;8
 F13.txt;of debt;EconomicOperands;3
+F13.txt;that is;LogicalConnectors;1
 F13.txt;amounts;EconomicOperands;2
 F13.txt;article;EconomicOperands;1
 F13.txt;backing;EconomicOperands;1
@@ -121,7 +114,6 @@ F13.txt;maximum;MathematicalOperators;7
 F13.txt;offices;EconomicOperands;1
 F13.txt;payment;EconomicOperands;1
 F13.txt;pledged;EconomicOperands;4
-F13.txt;premise;EconomicOperands;1
 F13.txt;purpose;EconomicOperands;1
 F13.txt;qualify;EconomicOperands;1
 F13.txt;quality;EconomicOperands;5
@@ -133,9 +125,9 @@ F13.txt;secured;EconomicOperands;2
 F13.txt;several;FunctionWords;1
 F13.txt;trading;EconomicOperands;3
 F13.txt;whether;LogicalConnectors;3
-F13.txt;as for;LogicalConnectors;1
+F13.txt;as for;LogicalConnectors;3
 F13.txt;amount;EconomicOperands;16
-F13.txt;assets;EconomicOperands;9
+F13.txt;assets;EconomicOperands;13
 F13.txt;before;LogicalConnectors;2
 F13.txt;change;EconomicOperands;2
 F13.txt;credit;EconomicOperands;6
@@ -164,6 +156,7 @@ F13.txt;exist;EconomicOperands;1
 F13.txt;first;Attributes;1
 F13.txt;gross;EconomicOperands;1
 F13.txt;house;EconomicOperands;2
+F13.txt;joint;EconomicOperands;1
 F13.txt;legal;EconomicOperands;3
 F13.txt;level;EconomicOperands;1
 F13.txt;loans;EconomicOperands;29
@@ -177,13 +170,11 @@ F13.txt;terms;Other;1
 F13.txt;their;FunctionWords;1
 F13.txt;third;Attributes;1
 F13.txt;those;FunctionWords;2
-F13.txt;total;MathematicalOperators;4
-F13.txt;trial;EconomicOperands;1
+F13.txt;total;MathematicalOperators;1
 F13.txt;under;FunctionWords;2
 F13.txt;value;EconomicOperands;20
 F13.txt;where;LogicalConnectors;6
 F13.txt;which;FunctionWords;32
-F13.txt;able;EconomicOperands;40
 F13.txt;also;LogicalConnectors;1
 F13.txt;been;FunctionWords;3
 F13.txt;best;EconomicOperands;2
@@ -193,42 +184,33 @@ F13.txt;date;EconomicOperands;10
 F13.txt;debt;EconomicOperands;16
 F13.txt;down;FunctionWords;1
 F13.txt;fair;EconomicOperands;7
-F13.txt;form;EconomicOperands;4
+F13.txt;form;EconomicOperands;3
 F13.txt;from;FunctionWords;5
-F13.txt;gain;EconomicOperands;3
 F13.txt;have;FunctionWords;3
 F13.txt;held;EconomicOperands;12
 F13.txt;item;Other;2
-F13.txt;late;EconomicOperands;6
 F13.txt;loan;EconomicOperands;3
 F13.txt;loss;EconomicOperands;2
 F13.txt;made;FunctionWords;2
 F13.txt;make;FunctionWords;2
 F13.txt;mean;Other;1
-F13.txt;part;FunctionWords;127
-F13.txt;plan;EconomicOperands;10
+F13.txt;part;FunctionWords;126
 F13.txt;real;EconomicOperands;4
-F13.txt;rise;Other;4
 F13.txt;sale;EconomicOperands;4
 F13.txt;semi;EconomicOperands;1
 F13.txt;side;EconomicOperands;2
-F13.txt;size;EconomicOperands;4
 F13.txt;than;FunctionWords;11
-F13.txt;that;FunctionWords;18
+F13.txt;that;FunctionWords;17
 F13.txt;they;FunctionWords;1
 F13.txt;this;FunctionWords;5
 F13.txt;thus;LogicalConnectors;1
 F13.txt;time;EconomicOperands;2
-F13.txt;type;EconomicOperands;6
+F13.txt;type;EconomicOperands;2
 F13.txt;used;EconomicOperands;2
 F13.txt;were;FunctionWords;6
 F13.txt;when;LogicalConnectors;1
 F13.txt;with;FunctionWords;3
-F13.txt;3 a;Other;3
-F13.txt;8 a;Other;4
 F13.txt;180;Attributes;1
-F13.txt;217;LegalReferences;12
-F13.txt;ach;EconomicOperands;1
 F13.txt;all;LogicalConnectors;1
 F13.txt;and;LogicalConnectors;67
 F13.txt;are;FunctionWords;1
@@ -236,80 +218,43 @@ F13.txt;bad;EconomicOperands;5
 F13.txt;but;LogicalConnectors;2
 F13.txt;can;FunctionWords;7
 F13.txt;due;Attributes;1
-F13.txt;for;FunctionWords;22
-F13.txt;iii;LegalReferences;11
-F13.txt;led;EconomicOperands;5
-F13.txt;non;LogicalConnectors;11
+F13.txt;for;FunctionWords;20
+F13.txt;iii;LegalReferences;1
+F13.txt;non;LogicalConnectors;10
 F13.txt;not;LogicalConnectors;5
-F13.txt;one;FunctionWords;3
-F13.txt;sec;EconomicOperands;2
-F13.txt;she;FunctionWords;2
-F13.txt;sum;EconomicOperands;3
+F13.txt;one;FunctionWords;2
+F13.txt;sum;EconomicOperands;1
 F13.txt;the;FunctionWords;89
-F13.txt;way;EconomicOperands;1
 F13.txt;12;Attributes;1
-F13.txt;13;LegalReferences;9
+F13.txt;13;LegalReferences;5
 F13.txt;14;LegalReferences;2
 F13.txt;15;Attributes;2
-F13.txt;17;LegalReferences;18
-F13.txt;18;LegalReferences;1
-F13.txt;22;LegalReferences;6
-F13.txt;23;Attributes;4
-F13.txt;28;LegalReferences;4
-F13.txt;39;LegalReferences;6
+F13.txt;28;LegalReferences;8
 F13.txt;41;LegalReferences;1
-F13.txt;44;LegalReferences;3
-F13.txt;47;LegalReferences;3
-F13.txt;60;Attributes;4
 F13.txt;75;Attributes;1
-F13.txt;aa;LegalReferences;11
-F13.txt;an;FunctionWords;117
-F13.txt;as;LogicalConnectors;14
-F13.txt;at;FunctionWords;28
+F13.txt;as;LogicalConnectors;6
+F13.txt;at;FunctionWords;24
 F13.txt;be;FunctionWords;25
 F13.txt;by;FunctionWords;36
 F13.txt;do;FunctionWords;1
-F13.txt;ec;EconomicOperands;9
-F13.txt;if;LogicalConnectors;39
-F13.txt;ii;LegalReferences;16
-F13.txt;in;FunctionWords;35
-F13.txt;is;FunctionWords;13
-F13.txt;it;EconomicOperands;13
-F13.txt;iv;LegalReferences;11
-F13.txt;ix;LegalReferences;6
-F13.txt;le;MathematicalOperators;4
+F13.txt;ii;LegalReferences;1
+F13.txt;in;FunctionWords;28
+F13.txt;it;EconomicOperands;2
+F13.txt;iv;LegalReferences;1
 F13.txt;of;FunctionWords;74
-F13.txt;on;FunctionWords;12
-F13.txt;or;LogicalConnectors;19
+F13.txt;on;FunctionWords;4
+F13.txt;or;LogicalConnectors;18
 F13.txt;to;FunctionWords;19
-F13.txt;us;EconomicOperands;1
-F13.txt;1;Attributes;8
-F13.txt;2;Attributes;26
-F13.txt;3;Attributes;2
-F13.txt;4;Attributes;6
-F13.txt;5;Attributes;15
-F13.txt;6;Attributes;1
-F13.txt;7;Attributes;4
-F13.txt;8;Attributes;1
-F13.txt;9;Attributes;9
-F13.txt;a;FunctionWords;89
-F13.txt;b;LegalReferences;53
-F13.txt;c;LegalReferences;26
-F13.txt;d;LegalReferences;24
-F13.txt;e;LegalReferences;194
-F13.txt;f;LegalReferences;5
-F13.txt;h;LegalReferences;8
-F13.txt;i;FunctionWords;74
-F13.txt;k;LegalReferences;1
-F13.txt;l;LegalReferences;8
-F13.txt;m;LegalReferences;95
-F13.txt;n;LegalReferences;150
-F13.txt;o;LegalReferences;54
-F13.txt;p;LegalReferences;33
-F13.txt;q;LegalReferences;1
-F13.txt;r;LegalReferences;88
-F13.txt;t;LegalReferences;37
-F13.txt;u;LegalReferences;4
-F13.txt;v;LegalReferences;162
-F13.txt;x;LegalReferences;122
-F13.txt;y;LegalReferences;3
+F13.txt;1;Attributes;6
+F13.txt;2;Attributes;21
+F13.txt;3;Attributes;3
+F13.txt;9;Attributes;1
+F13.txt;a;FunctionWords;55
+F13.txt;b;LegalReferences;14
+F13.txt;c;LegalReferences;5
+F13.txt;d;LegalReferences;3
+F13.txt;e;LegalReferences;3
+F13.txt;f;LegalReferences;3
+F13.txt;i;FunctionWords;2
+F13.txt;l;LegalReferences;3
+F13.txt;v;LegalReferences;121

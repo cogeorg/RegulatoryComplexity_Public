@@ -1,6 +1,6 @@
-C66.txt;retail customer;EconomicOperands;3
+C66.txt;securitisations;EconomicOperands;3
 C66.txt;counterparties;EconomicOperands;9
-C66.txt;central bank;EconomicOperands;27
+C66.txt;central bank;EconomicOperands;18
 C66.txt;greater than;LogicalConnectors;240
 C66.txt;institutions;EconomicOperands;6
 C66.txt;transactions;EconomicOperands;3
@@ -9,15 +9,14 @@ C66.txt;derivatives;EconomicOperands;6
 C66.txt;liabilities;EconomicOperands;9
 C66.txt;operational;EconomicOperands;18
 C66.txt;significant;Attributes;1
-C66.txt;collateral;EconomicOperands;9
+C66.txt;collateral;EconomicOperands;3
 C66.txt;considered;EconomicOperands;3
-C66.txt;facilities;EconomicOperands;24
+C66.txt;facilities;EconomicOperands;19
 C66.txt;government;EconomicOperands;6
 C66.txt;memorandum;LegalReferences;3
-C66.txt;receivable;EconomicOperands;3
 C66.txt;securities;EconomicOperands;9
 C66.txt;committed;EconomicOperands;12
-C66.txt;corporate;EconomicOperands;24
+C66.txt;corporate;EconomicOperands;18
 C66.txt;customers;EconomicOperands;6
 C66.txt;excluding;LogicalConnectors;18
 C66.txt;financial;EconomicOperands;12
@@ -26,7 +25,6 @@ C66.txt;portfolio;EconomicOperands;3
 C66.txt;regulated;RegulatoryOperators;3
 C66.txt;resulting;EconomicOperands;12
 C66.txt;unsecured;EconomicOperands;3
-C66.txt;12 month;Attributes;24
 C66.txt;advances;EconomicOperands;6
 C66.txt;capacity;EconomicOperands;18
 C66.txt;deposits;EconomicOperands;36
@@ -35,29 +33,19 @@ C66.txt;maturity;EconomicOperands;34
 C66.txt;received;EconomicOperands;9
 C66.txt;receiver;EconomicOperands;3
 C66.txt;reported;EconomicOperands;12
-C66.txt;restrict;RegulatoryOperators;3
-C66.txt;withdraw;EconomicOperands;3
-C66.txt;2 month;Attributes;24
-C66.txt;6 month;Attributes;24
-C66.txt;9 month;Attributes;24
 C66.txt;actions;EconomicOperands;3
 C66.txt;capital;EconomicOperands;6
-C66.txt;central;EconomicOperands;6
+C66.txt;central;EconomicOperands;15
 C66.txt;covered;EconomicOperands;42
 C66.txt;granted;LogicalConnectors;3
 C66.txt;initial;EconomicOperands;5
 C66.txt;lending;EconomicOperands;6
-C66.txt;payable;EconomicOperands;3
-C66.txt;reserve;EconomicOperands;3
 C66.txt;secured;EconomicOperands;6
 C66.txt;treated;EconomicOperands;3
-C66.txt;2 year;Attributes;24
-C66.txt;30 day;Attributes;24
-C66.txt;5 year;Attributes;24
 C66.txt;due to;LogicalConnectors;3
 C66.txt;if not;LogicalConnectors;3
 C66.txt;amount;EconomicOperands;6
-C66.txt;assets;EconomicOperands;48
+C66.txt;assets;EconomicOperands;45
 C66.txt;backed;EconomicOperands;3
 C66.txt;change;EconomicOperands;3
 C66.txt;credit;EconomicOperands;9
@@ -65,44 +53,27 @@ C66.txt;issued;EconomicOperands;3
 C66.txt;market;EconomicOperands;6
 C66.txt;monies;EconomicOperands;6
 C66.txt;public;EconomicOperands;18
-C66.txt;retail;EconomicOperands;9
+C66.txt;retail;EconomicOperands;12
 C66.txt;sector;EconomicOperands;18
 C66.txt;stable;EconomicOperands;3
-C66.txt;3 day;Attributes;24
 C66.txt;asset;EconomicOperands;3
-C66.txt;count;EconomicOperands;21
-C66.txt;drawn;EconomicOperands;3
-C66.txt;grade;EconomicOperands;3
-C66.txt;group;EconomicOperands;12
+C66.txt;banks;EconomicOperands;9
 C66.txt;level;EconomicOperands;165
 C66.txt;loans;EconomicOperands;6
-C66.txt;month;EconomicOperands;72
 C66.txt;other;LogicalConnectors;57
 C66.txt;paper;EconomicOperands;3
-C66.txt;share;EconomicOperands;12
 C66.txt;stock;EconomicOperands;5
 C66.txt;swaps;EconomicOperands;6
 C66.txt;those;FunctionWords;6
 C66.txt;total;MathematicalOperators;7
-C66.txt;19 b;Other;3
-C66.txt;able;EconomicOperands;45
+C66.txt;years;EconomicOperands;48
 C66.txt;bank;EconomicOperands;3
-C66.txt;bond;EconomicOperands;63
 C66.txt;code;EconomicOperands;33
-C66.txt;days;Attributes;120
-C66.txt;down;FunctionWords;6
-C66.txt;flow;EconomicOperands;84
+C66.txt;days;Attributes;168
+C66.txt;flow;EconomicOperands;33
 C66.txt;from;FunctionWords;48
-C66.txt;item;Other;36
-C66.txt;late;EconomicOperands;6
-C66.txt;note;EconomicOperands;3
-C66.txt;over;MathematicalOperators;24
-C66.txt;part;FunctionWords;3
-C66.txt;ring;EconomicOperands;15
+C66.txt;item;Other;33
 C66.txt;than;FunctionWords;6
-C66.txt;week;EconomicOperands;72
-C66.txt;2 c;Other;9
-C66.txt;4 c;Other;3
 C66.txt;100;Attributes;14
 C66.txt;110;LegalReferences;14
 C66.txt;120;LegalReferences;14
@@ -113,95 +84,39 @@ C66.txt;210;Attributes;14
 C66.txt;220;LegalReferences;14
 C66.txt;500;Attributes;3
 C66.txt;920;LegalReferences;3
-C66.txt;add;RegulatoryOperators;1
 C66.txt;and;LogicalConnectors;19
 C66.txt;due;Attributes;12
 C66.txt;for;FunctionWords;3
-C66.txt;gap;EconomicOperands;6
+C66.txt;gap;EconomicOperands;3
 C66.txt;net;EconomicOperands;9
 C66.txt;non;LogicalConnectors;27
 C66.txt;not;LogicalConnectors;6
-C66.txt;our;FunctionWords;9
-C66.txt;out;EconomicOperands;27
 C66.txt;own;FunctionWords;3
-C66.txt;sec;EconomicOperands;6
 C66.txt;the;FunctionWords;3
 C66.txt;use;EconomicOperands;3
-C66.txt;via;FunctionWords;9
-C66.txt;10;Attributes;47
+C66.txt;10;Attributes;3
 C66.txt;11;LegalReferences;3
-C66.txt;12;Attributes;3
-C66.txt;13;LegalReferences;17
+C66.txt;12;Attributes;27
+C66.txt;13;LegalReferences;3
 C66.txt;14;LegalReferences;3
-C66.txt;16;LegalReferences;14
-C66.txt;17;LegalReferences;17
+C66.txt;17;LegalReferences;3
 C66.txt;18;LegalReferences;3
-C66.txt;19;LegalReferences;14
-C66.txt;20;Attributes;55
-C66.txt;23;Attributes;3
-C66.txt;24;LegalReferences;3
-C66.txt;25;Attributes;3
-C66.txt;27;LegalReferences;3
-C66.txt;28;LegalReferences;3
-C66.txt;29;LegalReferences;3
-C66.txt;30;Attributes;50
-C66.txt;35;Attributes;3
-C66.txt;36;LegalReferences;3
-C66.txt;38;LegalReferences;12
-C66.txt;39;LegalReferences;12
-C66.txt;40;LegalReferences;38
-C66.txt;45;Attributes;3
-C66.txt;46;LegalReferences;3
-C66.txt;47;LegalReferences;3
-C66.txt;48;LegalReferences;3
-C66.txt;49;LegalReferences;3
-C66.txt;50;Attributes;29
-C66.txt;60;Attributes;35
-C66.txt;68;LegalReferences;3
-C66.txt;78;Other;3
-C66.txt;90;Attributes;32
-C66.txt;ab;Other;12
-C66.txt;an;FunctionWords;21
+C66.txt;19;LegalReferences;3
+C66.txt;30;Attributes;24
 C66.txt;as;LogicalConnectors;9
-C66.txt;at;FunctionWords;18
-C66.txt;be;FunctionWords;6
 C66.txt;by;FunctionWords;9
-C66.txt;ha;Other;9
-C66.txt;in;FunctionWords;75
-C66.txt;is;FunctionWords;9
-C66.txt;it;EconomicOperands;9
-C66.txt;iv;LegalReferences;6
-C66.txt;le;MathematicalOperators;1
+C66.txt;in;FunctionWords;15
 C66.txt;of;FunctionWords;6
-C66.txt;on;FunctionWords;6
 C66.txt;or;LogicalConnectors;9
 C66.txt;to;FunctionWords;231
-C66.txt;tr;EconomicOperands;60
 C66.txt;up;FunctionWords;228
-C66.txt;1;Attributes;150
-C66.txt;2;Attributes;180
-C66.txt;3;Attributes;105
-C66.txt;4;Attributes;69
-C66.txt;5;Attributes;108
+C66.txt;1;Attributes;87
+C66.txt;2;Attributes;108
+C66.txt;3;Attributes;90
+C66.txt;4;Attributes;51
+C66.txt;5;Attributes;105
 C66.txt;6;Attributes;57
-C66.txt;7;Attributes;137
-C66.txt;8;Attributes;53
-C66.txt;9;Attributes;57
-C66.txt;a;FunctionWords;120
-C66.txt;b;LegalReferences;81
-C66.txt;c;LegalReferences;159
-C66.txt;d;LegalReferences;99
-C66.txt;e;LegalReferences;92
-C66.txt;f;LegalReferences;15
-C66.txt;h;LegalReferences;30
-C66.txt;i;FunctionWords;91
-C66.txt;l;LegalReferences;69
-C66.txt;m;LegalReferences;21
-C66.txt;n;LegalReferences;70
-C66.txt;o;LegalReferences;3
-C66.txt;p;LegalReferences;12
-C66.txt;q;LegalReferences;138
-C66.txt;r;LegalReferences;42
-C66.txt;t;LegalReferences;27
-C66.txt;u;LegalReferences;37
-C66.txt;x;LegalReferences;12
+C66.txt;7;Attributes;24
+C66.txt;9;Attributes;24
+C66.txt;c;LegalReferences;1
+C66.txt;l;LegalReferences;33

@@ -14,7 +14,6 @@ C11.txt;commodities;EconomicOperands;4
 C11.txt;derivatives;EconomicOperands;1
 C11.txt;information;EconomicOperands;8
 C11.txt;institution;EconomicOperands;2
-C11.txt;instruction;EconomicOperands;1
 C11.txt;instruments;EconomicOperands;2
 C11.txt;subject to;LogicalConnectors;2
 C11.txt;aggregated;EconomicOperands;8
@@ -50,7 +49,6 @@ C11.txt;actions;EconomicOperands;2
 C11.txt;article;EconomicOperands;19
 C11.txt;between;FunctionWords;14
 C11.txt;current;FunctionWords;2
-C11.txt;deliver;EconomicOperands;1
 C11.txt;derived;EconomicOperands;2
 C11.txt;exposed;EconomicOperands;1
 C11.txt;foreign;EconomicOperands;4
@@ -61,9 +59,6 @@ C11.txt;lending;EconomicOperands;1
 C11.txt;trading;EconomicOperands;12
 C11.txt;whether;LogicalConnectors;1
 C11.txt;working;EconomicOperands;4
-C11.txt;15 day;Attributes;4
-C11.txt;30 day;Attributes;4
-C11.txt;45 day;Attributes;4
 C11.txt;due to;LogicalConnectors;4
 C11.txt;agreed;EconomicOperands;5
 C11.txt;amount;EconomicOperands;4
@@ -80,7 +75,7 @@ C11.txt;could;FunctionWords;2
 C11.txt;dates;EconomicOperands;4
 C11.txt;funds;EconomicOperands;17
 C11.txt;point;EconomicOperands;5
-C11.txt;price;EconomicOperands;15
+C11.txt;price;EconomicOperands;12
 C11.txt;scope;EconomicOperands;1
 C11.txt;shall;RegulatoryOperators;22
 C11.txt;table;Other;5
@@ -90,21 +85,18 @@ C11.txt;total;MathematicalOperators;6
 C11.txt;value;EconomicOperands;2
 C11.txt;where;LogicalConnectors;2
 C11.txt;which;FunctionWords;2
-C11.txt;78 c;Other;13
 C11.txt;book;EconomicOperands;10
 C11.txt;both;LogicalConnectors;1
 C11.txt;date;EconomicOperands;8
-C11.txt;days;Attributes;12
+C11.txt;days;Attributes;24
 C11.txt;debt;EconomicOperands;4
 C11.txt;down;FunctionWords;1
 C11.txt;free;EconomicOperands;1
 C11.txt;from;FunctionWords;2
 C11.txt;gain;EconomicOperands;1
 C11.txt;held;EconomicOperands;1
-C11.txt;late;EconomicOperands;4
 C11.txt;long;EconomicOperands;1
 C11.txt;loss;EconomicOperands;6
-C11.txt;mark;EconomicOperands;1
 C11.txt;more;LogicalConnectors;4
 C11.txt;note;EconomicOperands;2
 C11.txt;only;LogicalConnectors;1
@@ -113,76 +105,47 @@ C11.txt;than;FunctionWords;2
 C11.txt;that;FunctionWords;3
 C11.txt;they;FunctionWords;2
 C11.txt;this;FunctionWords;3
-C11.txt;1 a;Other;4
-C11.txt;3 a;Other;3
-C11.txt;5 a;Other;4
-C11.txt;6 a;Other;4
-C11.txt;4 c;Other;2
 C11.txt;100;Attributes;5
 C11.txt;101;LegalReferences;1
 C11.txt;102;LegalReferences;1
 C11.txt;103;LegalReferences;1
 C11.txt;104;LegalReferences;1
 C11.txt;105;LegalReferences;1
-C11.txt;125;Attributes;1
-C11.txt;aid;EconomicOperands;1
 C11.txt;all;LogicalConnectors;1
-C11.txt;and;LogicalConnectors;8
+C11.txt;and;LogicalConnectors;23
 C11.txt;are;FunctionWords;7
 C11.txt;due;Attributes;12
 C11.txt;for;FunctionWords;25
 C11.txt;non;LogicalConnectors;6
 C11.txt;not;LogicalConnectors;3
 C11.txt;own;FunctionWords;17
-C11.txt;set;Other;4
-C11.txt;sum;EconomicOperands;4
-C11.txt;the;FunctionWords;51
-C11.txt;tip;EconomicOperands;4
-C11.txt;10;Attributes;5
-C11.txt;20;Attributes;2
-C11.txt;30;Attributes;2
+C11.txt;sum;EconomicOperands;2
+C11.txt;the;FunctionWords;50
+C11.txt;12;Attributes;1
+C11.txt;15;Attributes;4
+C11.txt;16;LegalReferences;4
+C11.txt;30;Attributes;4
+C11.txt;31;Attributes;4
+C11.txt;45;Attributes;4
 C11.txt;46;LegalReferences;4
 C11.txt;50;Attributes;4
 C11.txt;75;Attributes;4
-C11.txt;an;FunctionWords;3
+C11.txt;an;FunctionWords;1
 C11.txt;as;LogicalConnectors;7
-C11.txt;at;FunctionWords;14
+C11.txt;at;FunctionWords;10
 C11.txt;be;FunctionWords;5
 C11.txt;by;FunctionWords;7
-C11.txt;go;FunctionWords;4
-C11.txt;ii;LegalReferences;3
-C11.txt;in;FunctionWords;37
-C11.txt;it;EconomicOperands;4
-C11.txt;le;MathematicalOperators;3
+C11.txt;in;FunctionWords;33
 C11.txt;no;LogicalConnectors;2
 C11.txt;of;FunctionWords;15
 C11.txt;on;FunctionWords;2
 C11.txt;or;LogicalConnectors;11
 C11.txt;to;FunctionWords;13
-C11.txt;tr;EconomicOperands;2
 C11.txt;up;FunctionWords;4
-C11.txt;1;Attributes;9
-C11.txt;2;Attributes;5
-C11.txt;3;Attributes;18
+C11.txt;1;Attributes;5
 C11.txt;4;Attributes;4
-C11.txt;5;Attributes;2
-C11.txt;7;Attributes;4
+C11.txt;5;Attributes;7
 C11.txt;8;Attributes;4
-C11.txt;9;Attributes;8
-C11.txt;a;FunctionWords;10
-C11.txt;b;LegalReferences;3
-C11.txt;c;LegalReferences;35
-C11.txt;d;LegalReferences;15
-C11.txt;e;LegalReferences;30
-C11.txt;i;FunctionWords;10
-C11.txt;l;LegalReferences;18
-C11.txt;m;LegalReferences;15
-C11.txt;n;LegalReferences;27
-C11.txt;o;LegalReferences;8
-C11.txt;p;LegalReferences;4
-C11.txt;q;LegalReferences;2
-C11.txt;r;LegalReferences;58
-C11.txt;t;LegalReferences;8
-C11.txt;u;LegalReferences;13
-C11.txt;v;LegalReferences;1
-C11.txt;y;LegalReferences;4
+C11.txt;a;FunctionWords;7
+C11.txt;b;LegalReferences;2
+C11.txt;c;LegalReferences;2

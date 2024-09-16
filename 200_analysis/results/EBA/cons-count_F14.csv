@@ -1,17 +1,13 @@
-F14.txt;financial instrument;EconomicOperands;4
 F14.txt;in accordance with;LogicalConnectors;1
-F14.txt;financial asset;EconomicOperands;11
-F14.txt;trading account;EconomicOperands;1
 F14.txt;the amount of;MathematicalOperators;1
 F14.txt;comprehensive;EconomicOperands;2
 F14.txt;institutions;EconomicOperands;2
 F14.txt;accumulated;EconomicOperands;10
 F14.txt;derivatives;EconomicOperands;10
-F14.txt;instruments;EconomicOperands;12
+F14.txt;instruments;EconomicOperands;16
 F14.txt;liabilities;EconomicOperands;12
-F14.txt;measurement;EconomicOperands;2
 F14.txt;recognition;EconomicOperands;1
-F14.txt;accounting;EconomicOperands;13
+F14.txt;accounting;EconomicOperands;14
 F14.txt;allocation;EconomicOperands;1
 F14.txt;applicable;FunctionWords;2
 F14.txt;derivative;EconomicOperands;2
@@ -21,9 +17,9 @@ F14.txt;securities;EconomicOperands;16
 F14.txt;according;LogicalConnectors;1
 F14.txt;different;FunctionWords;1
 F14.txt;directive;EconomicOperands;10
-F14.txt;financial;EconomicOperands;10
+F14.txt;financial;EconomicOperands;25
 F14.txt;inclusion;LogicalConnectors;1
-F14.txt;positions;EconomicOperands;3
+F14.txt;positions;EconomicOperands;2
 F14.txt;reference;EconomicOperands;1
 F14.txt;reporting;EconomicOperands;1
 F14.txt;statement;EconomicOperands;2
@@ -43,10 +39,9 @@ F14.txt;include;EconomicOperands;2
 F14.txt;initial;EconomicOperands;1
 F14.txt;require;RegulatoryOperators;1
 F14.txt;through;FunctionWords;9
-F14.txt;trading;EconomicOperands;9
+F14.txt;trading;EconomicOperands;10
 F14.txt;as for;LogicalConnectors;1
-F14.txt;part i;LegalReferences;2
-F14.txt;assets;EconomicOperands;5
+F14.txt;assets;EconomicOperands;16
 F14.txt;before;LogicalConnectors;10
 F14.txt;change;EconomicOperands;18
 F14.txt;equity;EconomicOperands;11
@@ -74,80 +69,46 @@ F14.txt;date;EconomicOperands;2
 F14.txt;debt;EconomicOperands;16
 F14.txt;fair;EconomicOperands;45
 F14.txt;from;FunctionWords;3
-F14.txt;gain;EconomicOperands;3
 F14.txt;held;EconomicOperands;4
-F14.txt;late;EconomicOperands;1
 F14.txt;loss;EconomicOperands;8
 F14.txt;made;FunctionWords;1
-F14.txt;part;FunctionWords;79
+F14.txt;part;FunctionWords;81
 F14.txt;that;FunctionWords;1
 F14.txt;this;FunctionWords;1
 F14.txt;thus;LogicalConnectors;1
-F14.txt;1 a;Other;1
-F14.txt;3 a;Other;12
-F14.txt;4 a;Other;1
-F14.txt;9 a;Other;4
-F14.txt;5 i;Other;2
-F14.txt;a 4;Other;3
-F14.txt;a 6;Other;6
-F14.txt;g 1;Other;1
-F14.txt;ach;EconomicOperands;2
-F14.txt;aii;LegalReferences;4
-F14.txt;and;LogicalConnectors;14
+F14.txt;aii;LegalReferences;3
+F14.txt;and;LogicalConnectors;12
 F14.txt;are;FunctionWords;1
 F14.txt;bad;EconomicOperands;7
 F14.txt;ecb;EconomicOperands;11
 F14.txt;for;FunctionWords;13
 F14.txt;non;LogicalConnectors;6
-F14.txt;pre;EconomicOperands;1
-F14.txt;siv;EconomicOperands;1
 F14.txt;the;FunctionWords;21
-F14.txt;12;Attributes;2
-F14.txt;13;LegalReferences;4
-F14.txt;14;LegalReferences;3
-F14.txt;17;LegalReferences;3
-F14.txt;18;LegalReferences;1
+F14.txt;13;LegalReferences;2
+F14.txt;14;LegalReferences;4
+F14.txt;15;Attributes;1
 F14.txt;27;LegalReferences;1
 F14.txt;32;LegalReferences;1
-F14.txt;36;LegalReferences;1
-F14.txt;41;LegalReferences;5
-F14.txt;aa;LegalReferences;13
-F14.txt;an;FunctionWords;70
-F14.txt;as;LogicalConnectors;12
-F14.txt;at;FunctionWords;23
+F14.txt;41;LegalReferences;6
+F14.txt;at;FunctionWords;16
 F14.txt;be;FunctionWords;2
 F14.txt;by;FunctionWords;1
-F14.txt;he;FunctionWords;1
-F14.txt;if;LogicalConnectors;111
 F14.txt;ii;LegalReferences;5
-F14.txt;in;FunctionWords;22
-F14.txt;le;MathematicalOperators;5
+F14.txt;in;FunctionWords;21
 F14.txt;of;FunctionWords;7
-F14.txt;or;LogicalConnectors;14
+F14.txt;or;LogicalConnectors;12
 F14.txt;to;FunctionWords;5
-F14.txt;1;Attributes;28
-F14.txt;2;Attributes;38
-F14.txt;3;Attributes;45
-F14.txt;4;Attributes;3
-F14.txt;5;Attributes;3
-F14.txt;6;Attributes;3
-F14.txt;7;Attributes;11
-F14.txt;8;Attributes;13
-F14.txt;9;Attributes;21
-F14.txt;a;FunctionWords;37
-F14.txt;b;LegalReferences;23
-F14.txt;c;LegalReferences;19
-F14.txt;e;LegalReferences;112
-F14.txt;f;LegalReferences;11
-F14.txt;h;LegalReferences;24
-F14.txt;i;FunctionWords;34
-F14.txt;l;LegalReferences;7
-F14.txt;m;LegalReferences;9
-F14.txt;n;LegalReferences;107
-F14.txt;o;LegalReferences;6
-F14.txt;p;LegalReferences;19
-F14.txt;r;LegalReferences;156
-F14.txt;t;LegalReferences;13
+F14.txt;1;Attributes;20
+F14.txt;2;Attributes;35
+F14.txt;3;Attributes;25
+F14.txt;5;Attributes;4
+F14.txt;6;Attributes;9
+F14.txt;8;Attributes;2
+F14.txt;9;Attributes;11
+F14.txt;a;FunctionWords;4
+F14.txt;b;LegalReferences;8
+F14.txt;e;LegalReferences;4
+F14.txt;h;LegalReferences;2
+F14.txt;i;FunctionWords;2
+F14.txt;l;LegalReferences;5
 F14.txt;v;LegalReferences;70
-F14.txt;x;LegalReferences;84
-F14.txt;y;LegalReferences;14

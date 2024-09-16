@@ -1,27 +1,23 @@
-C40+44+47.txt;derivative transaction;EconomicOperands;1
-C40+44+47.txt;financial statement;EconomicOperands;1
 C40+44+47.txt;for the purpose of;LogicalConnectors;4
 C40+44+47.txt;to the extent that;LogicalConnectors;2
 C40+44+47.txt;in accordance with;LogicalConnectors;129
 C40+44+47.txt;paragraph 2 and 3;LegalReferences;2
 C40+44+47.txt;paragraph 3 and 4;LegalReferences;1
 C40+44+47.txt;credit protection;EconomicOperands;15
-C40+44+47.txt;netting agreement;EconomicOperands;2
+C40+44+47.txt;netting agreement;EconomicOperands;1
 C40+44+47.txt;off-balance sheet;EconomicOperands;18
 C40+44+47.txt;off-balance-sheet;EconomicOperands;5
 C40+44+47.txt;creditworthiness;EconomicOperands;1
 C40+44+47.txt;in the event of;LogicalConnectors;2
-C40+44+47.txt;for the purpose;FunctionWords;3
 C40+44+47.txt;with respect to;LogicalConnectors;2
 C40+44+47.txt;associated with;FunctionWords;4
 C40+44+47.txt;credit exposure;EconomicOperands;4
-C40+44+47.txt;investment bank;EconomicOperands;2
+C40+44+47.txt;securitisations;EconomicOperands;3
 C40+44+47.txt;unconditionally;LogicalConnectors;1
 C40+44+47.txt;in addition to;LogicalConnectors;1
 C40+44+47.txt;in relation to;LogicalConnectors;18
-C40+44+47.txt;paragraph 1 a;LegalReferences;9
-C40+44+47.txt;the amount of;MathematicalOperators;12
-C40+44+47.txt;balance sheet;EconomicOperands;80
+C40+44+47.txt;the amount of;MathematicalOperators;10
+C40+44+47.txt;balance sheet;EconomicOperands;78
 C40+44+47.txt;provided that;LogicalConnectors;10
 C40+44+47.txt;regardless of;LogicalConnectors;1
 C40+44+47.txt;comprehensive;EconomicOperands;2
@@ -30,8 +26,7 @@ C40+44+47.txt;corresponding;EconomicOperands;8
 C40+44+47.txt;derecognition;EconomicOperands;4
 C40+44+47.txt;international;EconomicOperands;1
 C40+44+47.txt;significantly;Attributes;1
-C40+44+47.txt;business day;EconomicOperands;1
-C40+44+47.txt;central bank;EconomicOperands;15
+C40+44+47.txt;central bank;EconomicOperands;13
 C40+44+47.txt;greater than;LogicalConnectors;2
 C40+44+47.txt;additionally;LogicalConnectors;1
 C40+44+47.txt;alternatives;EconomicOperands;2
@@ -46,20 +41,21 @@ C40+44+47.txt;counterparty;EconomicOperands;26
 C40+44+47.txt;economically;EconomicOperands;1
 C40+44+47.txt;guaranteeing;EconomicOperands;7
 C40+44+47.txt;incorporated;EconomicOperands;2
-C40+44+47.txt;institutions;EconomicOperands;140
+C40+44+47.txt;institutions;EconomicOperands;139
 C40+44+47.txt;intermediate;EconomicOperands;8
 C40+44+47.txt;jurisdiction;EconomicOperands;1
+C40+44+47.txt;nonfinancial;EconomicOperands;1
 C40+44+47.txt;representing;EconomicOperands;3
 C40+44+47.txt;requirements;EconomicOperands;13
-C40+44+47.txt;respectively;LogicalConnectors;1
-C40+44+47.txt;transactions;EconomicOperands;43
+C40+44+47.txt;standardised;EconomicOperands;14
+C40+44+47.txt;transactions;EconomicOperands;44
 C40+44+47.txt;transitional;FunctionWords;11
 C40+44+47.txt;on the date;LogicalConnectors;1
 C40+44+47.txt;assigned to;EconomicOperands;5
 C40+44+47.txt;credit risk;EconomicOperands;24
 C40+44+47.txt;for example;LogicalConnectors;2
 C40+44+47.txt;in addition;LogicalConnectors;1
-C40+44+47.txt;paragraph 1;LegalReferences;2
+C40+44+47.txt;paragraph 1;LegalReferences;11
 C40+44+47.txt;paragraph 2;LegalReferences;3
 C40+44+47.txt;paragraph 4;LegalReferences;2
 C40+44+47.txt;paragraph 5;LegalReferences;1
@@ -76,46 +72,47 @@ C40+44+47.txt;calculation;EconomicOperands;9
 C40+44+47.txt;combination;EconomicOperands;1
 C40+44+47.txt;contractual;EconomicOperands;1
 C40+44+47.txt;cooperative;EconomicOperands;1
-C40+44+47.txt;corporation;EconomicOperands;4
 C40+44+47.txt;denominated;EconomicOperands;1
 C40+44+47.txt;derivatives;EconomicOperands;89
 C40+44+47.txt;development;EconomicOperands;73
 C40+44+47.txt;effectively;Other;1
-C40+44+47.txt;governments;EconomicOperands;28
+C40+44+47.txt;governments;EconomicOperands;27
 C40+44+47.txt;incremental;EconomicOperands;1
 C40+44+47.txt;information;EconomicOperands;3
-C40+44+47.txt;institution;EconomicOperands;145
-C40+44+47.txt;instruction;EconomicOperands;30
-C40+44+47.txt;investments;EconomicOperands;16
+C40+44+47.txt;institution;EconomicOperands;146
+C40+44+47.txt;investments;EconomicOperands;13
 C40+44+47.txt;maintenance;EconomicOperands;1
 C40+44+47.txt;non-complex;EconomicOperands;1
 C40+44+47.txt;promotional;EconomicOperands;73
 C40+44+47.txt;recognition;EconomicOperands;9
 C40+44+47.txt;replacement;EconomicOperands;17
 C40+44+47.txt;requirement;EconomicOperands;17
+C40+44+47.txt;securitised;EconomicOperands;3
 C40+44+47.txt;semi-annual;Attributes;1
 C40+44+47.txt;significant;Attributes;3
+C40+44+47.txt;specialised;EconomicOperands;1
 C40+44+47.txt;traditional;EconomicOperands;1
 C40+44+47.txt;transaction;EconomicOperands;2
 C40+44+47.txt;as follows;FunctionWords;5
 C40+44+47.txt;limited to;LogicalConnectors;3
 C40+44+47.txt;subject to;LogicalConnectors;13
-C40+44+47.txt;accounting;EconomicOperands;179
+C40+44+47.txt;accounting;EconomicOperands;178
 C40+44+47.txt;activities;EconomicOperands;1
 C40+44+47.txt;additional;MathematicalOperators;9
 C40+44+47.txt;adjustment;EconomicOperands;2
+C40+44+47.txt;agreements;EconomicOperands;1
 C40+44+47.txt;applicable;FunctionWords;68
 C40+44+47.txt;bankruptcy;EconomicOperands;2
 C40+44+47.txt;calculated;EconomicOperands;9
 C40+44+47.txt;collateral;EconomicOperands;23
 C40+44+47.txt;commercial;EconomicOperands;2
-C40+44+47.txt;commitment;EconomicOperands;20
+C40+44+47.txt;commitment;EconomicOperands;12
 C40+44+47.txt;conditions;EconomicOperands;15
 C40+44+47.txt;considered;EconomicOperands;27
 C40+44+47.txt;constitute;EconomicOperands;11
 C40+44+47.txt;conversion;EconomicOperands;8
 C40+44+47.txt;definition;EconomicOperands;16
-C40+44+47.txt;derivative;EconomicOperands;6
+C40+44+47.txt;derivative;EconomicOperands;7
 C40+44+47.txt;designated;RegulatoryOperators;2
 C40+44+47.txt;determined;RegulatoryOperators;5
 C40+44+47.txt;difference;EconomicOperands;3
@@ -126,6 +123,7 @@ C40+44+47.txt;government;EconomicOperands;20
 C40+44+47.txt;guaranteed;EconomicOperands;4
 C40+44+47.txt;individual;EconomicOperands;8
 C40+44+47.txt;insolvency;EconomicOperands;2
+C40+44+47.txt;investment;EconomicOperands;2
 C40+44+47.txt;management;EconomicOperands;2
 C40+44+47.txt;memorandum;LegalReferences;2
 C40+44+47.txt;mitigation;EconomicOperands;1
@@ -134,8 +132,9 @@ C40+44+47.txt;offsetting;EconomicOperands;5
 C40+44+47.txt;percentage;EconomicOperands;3
 C40+44+47.txt;principles;EconomicOperands;2
 C40+44+47.txt;protection;EconomicOperands;24
-C40+44+47.txt;prudential;EconomicOperands;18
-C40+44+47.txt;receivable;EconomicOperands;18
+C40+44+47.txt;prudential;EconomicOperands;4
+C40+44+47.txt;receivable;EconomicOperands;3
+C40+44+47.txt;recognised;EconomicOperands;14
 C40+44+47.txt;referenced;Other;7
 C40+44+47.txt;references;EconomicOperands;28
 C40+44+47.txt;regulatory;EconomicOperands;2
@@ -144,6 +143,7 @@ C40+44+47.txt;respective;EconomicOperands;1
 C40+44+47.txt;securities;EconomicOperands;15
 C40+44+47.txt;separately;EconomicOperands;1
 C40+44+47.txt;settlement;EconomicOperands;22
+C40+44+47.txt;statements;EconomicOperands;1
 C40+44+47.txt;underlying;EconomicOperands;2
 C40+44+47.txt;close out;EconomicOperands;4
 C40+44+47.txt;listed in;Other;13
@@ -155,7 +155,7 @@ C40+44+47.txt;cancelled;EconomicOperands;1
 C40+44+47.txt;collected;EconomicOperands;1
 C40+44+47.txt;competent;EconomicOperands;41
 C40+44+47.txt;contracts;EconomicOperands;29
-C40+44+47.txt;deduction;MathematicalOperators;6
+C40+44+47.txt;deduction;MathematicalOperators;2
 C40+44+47.txt;deposited;EconomicOperands;3
 C40+44+47.txt;determine;RegulatoryOperators;2
 C40+44+47.txt;exception;RegulatoryOperators;1
@@ -172,7 +172,6 @@ C40+44+47.txt;framework;EconomicOperands;49
 C40+44+47.txt;frequency;EconomicOperands;3
 C40+44+47.txt;generally;FunctionWords;1
 C40+44+47.txt;guarantee;EconomicOperands;11
-C40+44+47.txt;household;EconomicOperands;5
 C40+44+47.txt;identical;Attributes;1
 C40+44+47.txt;including;LogicalConnectors;11
 C40+44+47.txt;indicated;EconomicOperands;4
@@ -180,16 +179,17 @@ C40+44+47.txt;liability;EconomicOperands;1
 C40+44+47.txt;liquidity;EconomicOperands;6
 C40+44+47.txt;operative;EconomicOperands;1
 C40+44+47.txt;otherwise;LogicalConnectors;2
-C40+44+47.txt;paragraph;LegalReferences;39
+C40+44+47.txt;paragraph;LegalReferences;26
 C40+44+47.txt;permitted;RegulatoryOperators;1
 C40+44+47.txt;positions;EconomicOperands;4
-C40+44+47.txt;potential;EconomicOperands;14
+C40+44+47.txt;potential;EconomicOperands;13
 C40+44+47.txt;preceding;FunctionWords;2
 C40+44+47.txt;provision;EconomicOperands;1
 C40+44+47.txt;published;EconomicOperands;1
 C40+44+47.txt;purchased;EconomicOperands;4
 C40+44+47.txt;qualifies;EconomicOperands;1
 C40+44+47.txt;quarterly;Attributes;1
+C40+44+47.txt;recognise;EconomicOperands;2
 C40+44+47.txt;reduction;EconomicOperands;7
 C40+44+47.txt;reference;EconomicOperands;19
 C40+44+47.txt;regarding;LogicalConnectors;1
@@ -216,13 +216,13 @@ C40+44+47.txt;adjusted;EconomicOperands;5
 C40+44+47.txt;admitted;EconomicOperands;2
 C40+44+47.txt;affected;EconomicOperands;10
 C40+44+47.txt;applying;EconomicOperands;1
-C40+44+47.txt;approach;EconomicOperands;19
+C40+44+47.txt;approach;EconomicOperands;18
 C40+44+47.txt;approval;RegulatoryOperators;2
 C40+44+47.txt;assigned;RegulatoryOperators;4
 C40+44+47.txt;assuming;EconomicOperands;26
 C40+44+47.txt;balances;EconomicOperands;3
 C40+44+47.txt;borrower;EconomicOperands;6
-C40+44+47.txt;business;EconomicOperands;1
+C40+44+47.txt;business;EconomicOperands;2
 C40+44+47.txt;calendar;EconomicOperands;1
 C40+44+47.txt;category;EconomicOperands;1
 C40+44+47.txt;classify;EconomicOperands;2
@@ -246,27 +246,28 @@ C40+44+47.txt;entities;EconomicOperands;11
 C40+44+47.txt;excluded;EconomicOperands;32
 C40+44+47.txt;exempted;RegulatoryOperators;36
 C40+44+47.txt;expected;EconomicOperands;1
-C40+44+47.txt;exposure;EconomicOperands;187
+C40+44+47.txt;exposure;EconomicOperands;110
 C40+44+47.txt;guidance;EconomicOperands;4
 C40+44+47.txt;included;EconomicOperands;24
 C40+44+47.txt;includes;EconomicOperands;4
-C40+44+47.txt;increase;MathematicalOperators;1
 C40+44+47.txt;indicate;EconomicOperands;3
 C40+44+47.txt;indirect;EconomicOperands;2
-C40+44+47.txt;leverage;EconomicOperands;70
+C40+44+47.txt;leverage;EconomicOperands;69
 C40+44+47.txt;maturity;EconomicOperands;8
 C40+44+47.txt;measured;EconomicOperands;5
 C40+44+47.txt;multiple;EconomicOperands;1
 C40+44+47.txt;national;EconomicOperands;1
 C40+44+47.txt;negative;MathematicalOperators;8
-C40+44+47.txt;notional;EconomicOperands;37
+C40+44+47.txt;notional;EconomicOperands;36
 C40+44+47.txt;novation;EconomicOperands;1
 C40+44+47.txt;original;EconomicOperands;11
 C40+44+47.txt;positive;EconomicOperands;5
+C40+44+47.txt;pre-loan;EconomicOperands;1
 C40+44+47.txt;provided;LogicalConnectors;13
 C40+44+47.txt;provider;EconomicOperands;1
 C40+44+47.txt;provides;EconomicOperands;7
-C40+44+47.txt;purchase;EconomicOperands;13
+C40+44+47.txt;purchase;EconomicOperands;1
+C40+44+47.txt;purposes;EconomicOperands;3
 C40+44+47.txt;received;EconomicOperands;25
 C40+44+47.txt;receives;EconomicOperands;1
 C40+44+47.txt;regional;EconomicOperands;25
@@ -278,8 +279,6 @@ C40+44+47.txt;security;EconomicOperands;13
 C40+44+47.txt;sentence;Other;1
 C40+44+47.txt;services;EconomicOperands;4
 C40+44+47.txt;specific;FunctionWords;11
-C40+44+47.txt;standard;EconomicOperands;14
-C40+44+47.txt;tangible;EconomicOperands;1
 C40+44+47.txt;transfer;EconomicOperands;3
 C40+44+47.txt;in case;LogicalConnectors;2
 C40+44+47.txt;part ii;LegalReferences;2
@@ -296,71 +295,66 @@ C40+44+47.txt;another;FunctionWords;4
 C40+44+47.txt;applied;EconomicOperands;40
 C40+44+47.txt;applies;FunctionWords;6
 C40+44+47.txt;arising;EconomicOperands;10
-C40+44+47.txt;article;EconomicOperands;304
+C40+44+47.txt;article;EconomicOperands;283
 C40+44+47.txt;average;MathematicalOperators;3
-C40+44+47.txt;balance;EconomicOperands;7
-C40+44+47.txt;banking;EconomicOperands;6
+C40+44+47.txt;balance;EconomicOperands;8
+C40+44+47.txt;banking;EconomicOperands;8
 C40+44+47.txt;benefit;EconomicOperands;2
 C40+44+47.txt;between;FunctionWords;6
 C40+44+47.txt;borrows;EconomicOperands;1
 C40+44+47.txt;capital;EconomicOperands;43
-C40+44+47.txt;central;EconomicOperands;25
+C40+44+47.txt;central;EconomicOperands;27
 C40+44+47.txt;changes;EconomicOperands;2
-C40+44+47.txt;chapter;Other;4
+C40+44+47.txt;chapter;Other;1
 C40+44+47.txt;cleared;EconomicOperands;30
-C40+44+47.txt;collect;EconomicOperands;2
 C40+44+47.txt;company;EconomicOperands;5
 C40+44+47.txt;conduit;EconomicOperands;3
 C40+44+47.txt;credits;EconomicOperands;3
 C40+44+47.txt;decided;EconomicOperands;2
-C40+44+47.txt;default;EconomicOperands;4
+C40+44+47.txt;default;EconomicOperands;2
 C40+44+47.txt;defined;EconomicOperands;11
 C40+44+47.txt;deposit;EconomicOperands;2
 C40+44+47.txt;entered;EconomicOperands;1
 C40+44+47.txt;exclude;EconomicOperands;1
 C40+44+47.txt;factors;EconomicOperands;4
 C40+44+47.txt;funding;EconomicOperands;4
-C40+44+47.txt;further;LogicalConnectors;1
 C40+44+47.txt;general;FunctionWords;8
-C40+44+47.txt;granted;LogicalConnectors;30
+C40+44+47.txt;granted;LogicalConnectors;29
 C40+44+47.txt;grounds;EconomicOperands;1
 C40+44+47.txt;however;LogicalConnectors;1
 C40+44+47.txt;include;EconomicOperands;25
 C40+44+47.txt;initial;EconomicOperands;5
 C40+44+47.txt;lending;EconomicOperands;3
-C40+44+47.txt;measure;EconomicOperands;18
+C40+44+47.txt;measure;EconomicOperands;17
 C40+44+47.txt;mediate;EconomicOperands;1
-C40+44+47.txt;netting;EconomicOperands;45
+C40+44+47.txt;netting;EconomicOperands;46
 C40+44+47.txt;overall;LogicalConnectors;4
-C40+44+47.txt;payable;EconomicOperands;3
 C40+44+47.txt;payment;EconomicOperands;1
 C40+44+47.txt;perform;EconomicOperands;1
-C40+44+47.txt;pledged;EconomicOperands;2
+C40+44+47.txt;pledged;EconomicOperands;1
 C40+44+47.txt;portion;EconomicOperands;4
 C40+44+47.txt;process;EconomicOperands;1
 C40+44+47.txt;product;EconomicOperands;3
 C40+44+47.txt;protect;EconomicOperands;2
 C40+44+47.txt;provide;EconomicOperands;1
 C40+44+47.txt;purpose;EconomicOperands;1
-C40+44+47.txt;qualify;EconomicOperands;5
+C40+44+47.txt;qualify;EconomicOperands;1
 C40+44+47.txt;quarter;Attributes;2
 C40+44+47.txt;reduced;EconomicOperands;7
 C40+44+47.txt;reduces;EconomicOperands;2
 C40+44+47.txt;regular;EconomicOperands;22
 C40+44+47.txt;related;FunctionWords;11
-C40+44+47.txt;reserve;EconomicOperands;2
-C40+44+47.txt;reverse;EconomicOperands;14
+C40+44+47.txt;reserve;EconomicOperands;1
+C40+44+47.txt;reverse;EconomicOperands;4
 C40+44+47.txt;section;LegalReferences;1
 C40+44+47.txt;selling;EconomicOperands;4
 C40+44+47.txt;settled;EconomicOperands;1
 C40+44+47.txt;several;FunctionWords;2
-C40+44+47.txt;special;EconomicOperands;1
 C40+44+47.txt;specify;EconomicOperands;3
 C40+44+47.txt;therein;Other;1
-C40+44+47.txt;through;FunctionWords;25
+C40+44+47.txt;through;FunctionWords;23
 C40+44+47.txt;trading;EconomicOperands;8
 C40+44+47.txt;treated;EconomicOperands;24
-C40+44+47.txt;waiting;EconomicOperands;15
 C40+44+47.txt;waivers;RegulatoryOperators;2
 C40+44+47.txt;whereby;FunctionWords;2
 C40+44+47.txt;whether;LogicalConnectors;3
@@ -372,20 +366,20 @@ C40+44+47.txt;tier 1;EconomicOperands;27
 C40+44+47.txt;action;EconomicOperands;1
 C40+44+47.txt;adjust;EconomicOperands;1
 C40+44+47.txt;agents;EconomicOperands;3
-C40+44+47.txt;amount;EconomicOperands;123
+C40+44+47.txt;amount;EconomicOperands;125
 C40+44+47.txt;annual;EconomicOperands;2
 C40+44+47.txt;assets;EconomicOperands;42
 C40+44+47.txt;buying;EconomicOperands;7
 C40+44+47.txt;cannot;RegulatoryOperators;6
 C40+44+47.txt;chosen;EconomicOperands;1
-C40+44+47.txt;claims;EconomicOperands;38
-C40+44+47.txt;clause;LegalReferences;10
-C40+44+47.txt;client;EconomicOperands;30
+C40+44+47.txt;claims;EconomicOperands;35
+C40+44+47.txt;clause;LegalReferences;9
+C40+44+47.txt;client;EconomicOperands;26
 C40+44+47.txt;comply;RegulatoryOperators;1
 C40+44+47.txt;credit;EconomicOperands;146
 C40+44+47.txt;deduct;LogicalConnectors;4
 C40+44+47.txt;direct;EconomicOperands;2
-C40+44+47.txt;effect;EconomicOperands;45
+C40+44+47.txt;effect;EconomicOperands;23
 C40+44+47.txt;either;LogicalConnectors;5
 C40+44+47.txt;entity;EconomicOperands;14
 C40+44+47.txt;exceed;MathematicalOperators;2
@@ -410,11 +404,9 @@ C40+44+47.txt;medium;EconomicOperands;2
 C40+44+47.txt;member;EconomicOperands;12
 C40+44+47.txt;method;EconomicOperands;12
 C40+44+47.txt;mutual;EconomicOperands;1
-C40+44+47.txt;nation;EconomicOperands;1
 C40+44+47.txt;needed;EconomicOperands;1
 C40+44+47.txt;notice;EconomicOperands;3
-C40+44+47.txt;offset;EconomicOperands;9
-C40+44+47.txt;option;EconomicOperands;1
+C40+44+47.txt;offset;EconomicOperands;11
 C40+44+47.txt;others;EconomicOperands;1
 C40+44+47.txt;period;EconomicOperands;1
 C40+44+47.txt;points;EconomicOperands;11
@@ -426,7 +418,6 @@ C40+44+47.txt;remain;EconomicOperands;2
 C40+44+47.txt;report;EconomicOperands;34
 C40+44+47.txt;retail;EconomicOperands;2
 C40+44+47.txt;sector;EconomicOperands;25
-C40+44+47.txt;senior;EconomicOperands;1
 C40+44+47.txt;solely;LogicalConnectors;1
 C40+44+47.txt;stated;EconomicOperands;1
 C40+44+47.txt;stress;EconomicOperands;2
@@ -436,14 +427,14 @@ C40+44+47.txt;timely;Attributes;2
 C40+44+47.txt;unless;LogicalConnectors;1
 C40+44+47.txt;versus;FunctionWords;1
 C40+44+47.txt;within;LogicalConnectors;1
-C40+44+47.txt;above;FunctionWords;17
+C40+44+47.txt;above;FunctionWords;16
 C40+44+47.txt;added;MathematicalOperators;3
 C40+44+47.txt;after;LogicalConnectors;4
 C40+44+47.txt;agent;EconomicOperands;5
-C40+44+47.txt;among;FunctionWords;1
 C40+44+47.txt;apply;Other;14
 C40+44+47.txt;asset;EconomicOperands;17
 C40+44+47.txt;avoid;EconomicOperands;2
+C40+44+47.txt;banks;EconomicOperands;2
 C40+44+47.txt;basis;Other;4
 C40+44+47.txt;being;FunctionWords;1
 C40+44+47.txt;below;FunctionWords;3
@@ -451,13 +442,9 @@ C40+44+47.txt;claim;EconomicOperands;1
 C40+44+47.txt;close;EconomicOperands;8
 C40+44+47.txt;costs;EconomicOperands;4
 C40+44+47.txt;could;FunctionWords;1
-C40+44+47.txt;count;EconomicOperands;2
-C40+44+47.txt;cover;EconomicOperands;1
 C40+44+47.txt;cross;EconomicOperands;2
 C40+44+47.txt;daily;Attributes;1
 C40+44+47.txt;debit;EconomicOperands;2
-C40+44+47.txt;deter;EconomicOperands;1
-C40+44+47.txt;drawn;EconomicOperands;7
 C40+44+47.txt;elect;EconomicOperands;1
 C40+44+47.txt;event;EconomicOperands;2
 C40+44+47.txt;false;EconomicOperands;2
@@ -466,31 +453,30 @@ C40+44+47.txt;floor;EconomicOperands;5
 C40+44+47.txt;fully;EconomicOperands;8
 C40+44+47.txt;funds;EconomicOperands;13
 C40+44+47.txt;given;FunctionWords;5
-C40+44+47.txt;gross;EconomicOperands;11
-C40+44+47.txt;group;EconomicOperands;2
+C40+44+47.txt;gross;EconomicOperands;7
 C40+44+47.txt;inter;EconomicOperands;1
 C40+44+47.txt;joint;EconomicOperands;2
 C40+44+47.txt;large;EconomicOperands;3
 C40+44+47.txt;legal;EconomicOperands;32
 C40+44+47.txt;level;EconomicOperands;3
-C40+44+47.txt;loans;EconomicOperands;68
+C40+44+47.txt;loans;EconomicOperands;67
 C40+44+47.txt;local;EconomicOperands;25
 C40+44+47.txt;lower;EconomicOperands;6
 C40+44+47.txt;model;EconomicOperands;1
 C40+44+47.txt;month;EconomicOperands;1
 C40+44+47.txt;other;LogicalConnectors;55
 C40+44+47.txt;owner;EconomicOperands;3
-C40+44+47.txt;party;EconomicOperands;5
+C40+44+47.txt;party;EconomicOperands;2
 C40+44+47.txt;point;EconomicOperands;126
 C40+44+47.txt;prior;EconomicOperands;3
-C40+44+47.txt;ratio;LogicalConnectors;72
+C40+44+47.txt;ratio;LogicalConnectors;69
 C40+44+47.txt;refer;EconomicOperands;2
 C40+44+47.txt;right;EconomicOperands;4
 C40+44+47.txt;sales;EconomicOperands;17
 C40+44+47.txt;scope;EconomicOperands;1
 C40+44+47.txt;shall;RegulatoryOperators;227
 C40+44+47.txt;small;EconomicOperands;1
-C40+44+47.txt;state;EconomicOperands;12
+C40+44+47.txt;state;EconomicOperands;11
 C40+44+47.txt;stock;EconomicOperands;2
 C40+44+47.txt;taken;Other;6
 C40+44+47.txt;their;FunctionWords;3
@@ -504,22 +490,14 @@ C40+44+47.txt;trade;EconomicOperands;25
 C40+44+47.txt;under;FunctionWords;61
 C40+44+47.txt;units;EconomicOperands;9
 C40+44+47.txt;until;LogicalConnectors;2
-C40+44+47.txt;using;EconomicOperands;8
-C40+44+47.txt;value;EconomicOperands;197
-C40+44+47.txt;weigh;MathematicalOperators;1
+C40+44+47.txt;using;EconomicOperands;7
+C40+44+47.txt;value;EconomicOperands;159
 C40+44+47.txt;where;LogicalConnectors;59
 C40+44+47.txt;which;FunctionWords;33
 C40+44+47.txt;while;LogicalConnectors;1
 C40+44+47.txt;would;FunctionWords;6
-C40+44+47.txt;12 a;Other;1
-C40+44+47.txt;11 a;Other;4
-C40+44+47.txt;14 a;Other;11
-C40+44+47.txt;18 a;Other;1
-C40+44+47.txt;78 c;Other;1
 C40+44+47.txt;also;LogicalConnectors;53
-C40+44+47.txt;auto;EconomicOperands;1
 C40+44+47.txt;back;EconomicOperands;1
-C40+44+47.txt;bank;EconomicOperands;3
 C40+44+47.txt;base;EconomicOperands;1
 C40+44+47.txt;been;FunctionWords;14
 C40+44+47.txt;book;EconomicOperands;6
@@ -528,37 +506,33 @@ C40+44+47.txt;cash;EconomicOperands;72
 C40+44+47.txt;cost;EconomicOperands;13
 C40+44+47.txt;data;EconomicOperands;2
 C40+44+47.txt;date;EconomicOperands;23
+C40+44+47.txt;days;Attributes;1
 C40+44+47.txt;down;FunctionWords;15
 C40+44+47.txt;each;LogicalConnectors;4
 C40+44+47.txt;fair;EconomicOperands;5
 C40+44+47.txt;form;EconomicOperands;7
 C40+44+47.txt;from;FunctionWords;36
 C40+44+47.txt;full;EconomicOperands;7
-C40+44+47.txt;gain;EconomicOperands;2
 C40+44+47.txt;give;FunctionWords;2
 C40+44+47.txt;have;FunctionWords;33
 C40+44+47.txt;held;EconomicOperands;10
 C40+44+47.txt;high;EconomicOperands;1
 C40+44+47.txt;into;FunctionWords;13
-C40+44+47.txt;item;Other;55
+C40+44+47.txt;item;Other;7
 C40+44+47.txt;just;FunctionWords;6
 C40+44+47.txt;last;EconomicOperands;27
-C40+44+47.txt;late;EconomicOperands;4
 C40+44+47.txt;lent;EconomicOperands;6
-C40+44+47.txt;loan;EconomicOperands;9
+C40+44+47.txt;loan;EconomicOperands;8
 C40+44+47.txt;made;FunctionWords;12
-C40+44+47.txt;meet;EconomicOperands;11
-C40+44+47.txt;more;LogicalConnectors;1
-C40+44+47.txt;name;EconomicOperands;11
-C40+44+47.txt;note;EconomicOperands;3
+C40+44+47.txt;meet;EconomicOperands;10
+C40+44+47.txt;name;EconomicOperands;7
 C40+44+47.txt;only;LogicalConnectors;13
 C40+44+47.txt;over;MathematicalOperators;1
 C40+44+47.txt;paid;EconomicOperands;1
-C40+44+47.txt;part;FunctionWords;31
-C40+44+47.txt;pool;EconomicOperands;24
-C40+44+47.txt;real;EconomicOperands;2
-C40+44+47.txt;rise;Other;3
-C40+44+47.txt;risk;EconomicOperands;17
+C40+44+47.txt;part;FunctionWords;22
+C40+44+47.txt;pool;EconomicOperands;5
+C40+44+47.txt;rise;Other;2
+C40+44+47.txt;risk;EconomicOperands;8
 C40+44+47.txt;sale;EconomicOperands;1
 C40+44+47.txt;same;FunctionWords;12
 C40+44+47.txt;side;EconomicOperands;2
@@ -573,176 +547,111 @@ C40+44+47.txt;they;FunctionWords;16
 C40+44+47.txt;this;FunctionWords;83
 C40+44+47.txt;time;EconomicOperands;3
 C40+44+47.txt;true;EconomicOperands;2
-C40+44+47.txt;type;EconomicOperands;14
+C40+44+47.txt;type;EconomicOperands;12
 C40+44+47.txt;unit;EconomicOperands;30
 C40+44+47.txt;upon;EconomicOperands;2
 C40+44+47.txt;used;EconomicOperands;9
 C40+44+47.txt;were;FunctionWords;3
 C40+44+47.txt;when;LogicalConnectors;11
 C40+44+47.txt;with;FunctionWords;43
-C40+44+47.txt;word;EconomicOperands;2
-C40+44+47.txt;1 a;Other;9
-C40+44+47.txt;2 a;Other;17
-C40+44+47.txt;3 a;Other;3
-C40+44+47.txt;4 a;Other;4
-C40+44+47.txt;5 a;Other;4
-C40+44+47.txt;6 a;Other;2
-C40+44+47.txt;9 a;Other;2
-C40+44+47.txt;2 c;Other;35
-C40+44+47.txt;3 c;Other;14
-C40+44+47.txt;4 c;Other;14
-C40+44+47.txt;5 c;Other;14
-C40+44+47.txt;6 c;Other;10
-C40+44+47.txt;a 1;Other;5
-C40+44+47.txt;a 2;Other;4
-C40+44+47.txt;a 7;Other;1
-C40+44+47.txt;c 1;Other;1
-C40+44+47.txt;d 1;Other;2
-C40+44+47.txt;d 4;Other;8
-C40+44+47.txt;e 1;Other;2
-C40+44+47.txt;e 2;Other;1
-C40+44+47.txt;f 1;Other;2
-C40+44+47.txt;104;LegalReferences;5
-C40+44+47.txt;113;LegalReferences;6
-C40+44+47.txt;921;LegalReferences;7
+C40+44+47.txt;1 f;Other;1
+C40+44+47.txt;100;Attributes;4
+C40+44+47.txt;104;LegalReferences;4
+C40+44+47.txt;921;LegalReferences;2
 C40+44+47.txt;add;RegulatoryOperators;13
-C40+44+47.txt;aid;EconomicOperands;15
 C40+44+47.txt;all;LogicalConnectors;20
-C40+44+47.txt;and;LogicalConnectors;172
-C40+44+47.txt;any;LogicalConnectors;31
-C40+44+47.txt;app;LegalReferences;13
+C40+44+47.txt;and;LogicalConnectors;222
+C40+44+47.txt;any;LogicalConnectors;32
 C40+44+47.txt;are;FunctionWords;55
-C40+44+47.txt;ass;Other;17
 C40+44+47.txt;but;LogicalConnectors;1
 C40+44+47.txt;can;FunctionWords;21
 C40+44+47.txt;crm;EconomicOperands;34
 C40+44+47.txt;day;EconomicOperands;1
 C40+44+47.txt;did;FunctionWords;2
-C40+44+47.txt;doe;EconomicOperands;4
-C40+44+47.txt;ead;EconomicOperands;10
-C40+44+47.txt;end;Other;5
 C40+44+47.txt;etc;FunctionWords;1
 C40+44+47.txt;for;FunctionWords;73
 C40+44+47.txt;had;FunctionWords;2
-C40+44+47.txt;her;FunctionWords;7
-C40+44+47.txt;ifi;EconomicOperands;15
 C40+44+47.txt;iii;LegalReferences;4
-C40+44+47.txt;ill;EconomicOperands;9
-C40+44+47.txt;led;EconomicOperands;15
-C40+44+47.txt;log;EconomicOperands;2
 C40+44+47.txt;low;EconomicOperands;2
 C40+44+47.txt;may;FunctionWords;8
 C40+44+47.txt;met;FunctionWords;9
-C40+44+47.txt;net;EconomicOperands;23
-C40+44+47.txt;non;LogicalConnectors;16
+C40+44+47.txt;net;EconomicOperands;3
+C40+44+47.txt;non;LogicalConnectors;15
 C40+44+47.txt;nor;LogicalConnectors;2
 C40+44+47.txt;not;LogicalConnectors;81
-C40+44+47.txt;off;FunctionWords;10
-C40+44+47.txt;one;FunctionWords;5
-C40+44+47.txt;opm;EconomicOperands;5
+C40+44+47.txt;off;FunctionWords;9
+C40+44+47.txt;one;FunctionWords;1
 C40+44+47.txt;out;EconomicOperands;24
 C40+44+47.txt;own;FunctionWords;13
 C40+44+47.txt;pay;EconomicOperands;5
 C40+44+47.txt;per;FunctionWords;3
-C40+44+47.txt;pin;EconomicOperands;17
-C40+44+47.txt;pre;EconomicOperands;3
-C40+44+47.txt;sec;EconomicOperands;6
-C40+44+47.txt;set;Other;27
-C40+44+47.txt;she;FunctionWords;8
+C40+44+47.txt;pre;EconomicOperands;2
+C40+44+47.txt;set;Other;24
 C40+44+47.txt;sum;EconomicOperands;15
 C40+44+47.txt;tax;EconomicOperands;1
 C40+44+47.txt;ten;Attributes;4
-C40+44+47.txt;the;FunctionWords;819
-C40+44+47.txt;tip;EconomicOperands;8
+C40+44+47.txt;the;FunctionWords;824
 C40+44+47.txt;two;Attributes;5
 C40+44+47.txt;use;EconomicOperands;1
 C40+44+47.txt;via;FunctionWords;4
 C40+44+47.txt;way;EconomicOperands;22
-C40+44+47.txt;10;Attributes;7
-C40+44+47.txt;11;LegalReferences;16
-C40+44+47.txt;16;LegalReferences;9
+C40+44+47.txt;10;Attributes;4
+C40+44+47.txt;15;Attributes;1
+C40+44+47.txt;16;LegalReferences;1
 C40+44+47.txt;17;LegalReferences;1
+C40+44+47.txt;18;LegalReferences;1
 C40+44+47.txt;19;LegalReferences;1
-C40+44+47.txt;20;Attributes;1
+C40+44+47.txt;20;Attributes;6
 C40+44+47.txt;21;LegalReferences;1
-C40+44+47.txt;22;LegalReferences;5
+C40+44+47.txt;22;LegalReferences;1
 C40+44+47.txt;23;Attributes;1
-C40+44+47.txt;24;LegalReferences;1
 C40+44+47.txt;25;Attributes;2
-C40+44+47.txt;27;LegalReferences;13
-C40+44+47.txt;28;LegalReferences;8
-C40+44+47.txt;29;LegalReferences;213
-C40+44+47.txt;30;Attributes;8
+C40+44+47.txt;28;LegalReferences;1
 C40+44+47.txt;32;LegalReferences;2
+C40+44+47.txt;35;Attributes;2
 C40+44+47.txt;36;LegalReferences;2
-C40+44+47.txt;41;LegalReferences;12
-C40+44+47.txt;42;LegalReferences;1
-C40+44+47.txt;44;LegalReferences;1
-C40+44+47.txt;46;LegalReferences;2
-C40+44+47.txt;47;LegalReferences;6
-C40+44+47.txt;48;LegalReferences;4
-C40+44+47.txt;49;LegalReferences;4
+C40+44+47.txt;41;LegalReferences;11
+C40+44+47.txt;47;LegalReferences;2
+C40+44+47.txt;48;LegalReferences;2
+C40+44+47.txt;49;LegalReferences;2
 C40+44+47.txt;50;Attributes;5
 C40+44+47.txt;60;Attributes;2
-C40+44+47.txt;90;Attributes;1
-C40+44+47.txt;ab;Other;1
-C40+44+47.txt;an;FunctionWords;109
-C40+44+47.txt;as;LogicalConnectors;166
-C40+44+47.txt;at;FunctionWords;55
-C40+44+47.txt;be;FunctionWords;169
+C40+44+47.txt;an;FunctionWords;77
+C40+44+47.txt;as;LogicalConnectors;150
+C40+44+47.txt;at;FunctionWords;17
+C40+44+47.txt;be;FunctionWords;172
 C40+44+47.txt;by;FunctionWords;128
-C40+44+47.txt;cc;LegalReferences;69
-C40+44+47.txt;do;FunctionWords;5
-C40+44+47.txt;ec;EconomicOperands;19
-C40+44+47.txt;et;Other;21
-C40+44+47.txt;go;FunctionWords;4
-C40+44+47.txt;ha;Other;11
-C40+44+47.txt;he;FunctionWords;11
-C40+44+47.txt;if;LogicalConnectors;47
-C40+44+47.txt;ii;LegalReferences;46
-C40+44+47.txt;in;FunctionWords;369
-C40+44+47.txt;is;FunctionWords;118
-C40+44+47.txt;it;EconomicOperands;25
-C40+44+47.txt;iv;LegalReferences;11
-C40+44+47.txt;le;MathematicalOperators;24
-C40+44+47.txt;no;LogicalConnectors;91
-C40+44+47.txt;of;FunctionWords;599
-C40+44+47.txt;on;FunctionWords;145
-C40+44+47.txt;or;LogicalConnectors;114
-C40+44+47.txt;so;LogicalConnectors;3
+C40+44+47.txt;do;FunctionWords;3
+C40+44+47.txt;if;LogicalConnectors;43
+C40+44+47.txt;ii;LegalReferences;34
+C40+44+47.txt;in;FunctionWords;266
+C40+44+47.txt;is;FunctionWords;68
+C40+44+47.txt;it;EconomicOperands;8
+C40+44+47.txt;no;LogicalConnectors;56
+C40+44+47.txt;of;FunctionWords;601
+C40+44+47.txt;on;FunctionWords;106
+C40+44+47.txt;or;LogicalConnectors;109
+C40+44+47.txt;so;LogicalConnectors;1
 C40+44+47.txt;to;FunctionWords;145
-C40+44+47.txt;tr;EconomicOperands;8
-C40+44+47.txt;up;FunctionWords;31
-C40+44+47.txt;us;EconomicOperands;2
-C40+44+47.txt;1;Attributes;93
-C40+44+47.txt;2;Attributes;61
-C40+44+47.txt;3;Attributes;21
-C40+44+47.txt;4;Attributes;223
-C40+44+47.txt;5;Attributes;8
-C40+44+47.txt;6;Attributes;18
-C40+44+47.txt;7;Attributes;80
-C40+44+47.txt;8;Attributes;3
-C40+44+47.txt;9;Attributes;57
-C40+44+47.txt;a;FunctionWords;422
-C40+44+47.txt;b;LegalReferences;59
-C40+44+47.txt;c;LegalReferences;418
-C40+44+47.txt;d;LegalReferences;224
-C40+44+47.txt;e;LegalReferences;350
-C40+44+47.txt;f;LegalReferences;99
-C40+44+47.txt;h;LegalReferences;18
-C40+44+47.txt;i;FunctionWords;144
-C40+44+47.txt;j;LegalReferences;5
+C40+44+47.txt;up;FunctionWords;30
+C40+44+47.txt;1;Attributes;26
+C40+44+47.txt;2;Attributes;23
+C40+44+47.txt;3;Attributes;14
+C40+44+47.txt;4;Attributes;18
+C40+44+47.txt;5;Attributes;2
+C40+44+47.txt;6;Attributes;2
+C40+44+47.txt;9;Attributes;2
+C40+44+47.txt;a;FunctionWords;225
+C40+44+47.txt;b;LegalReferences;12
+C40+44+47.txt;c;LegalReferences;30
+C40+44+47.txt;d;LegalReferences;19
+C40+44+47.txt;e;LegalReferences;26
+C40+44+47.txt;f;LegalReferences;3
+C40+44+47.txt;i;FunctionWords;43
+C40+44+47.txt;j;LegalReferences;4
 C40+44+47.txt;k;LegalReferences;3
-C40+44+47.txt;l;LegalReferences;359
-C40+44+47.txt;m;LegalReferences;116
-C40+44+47.txt;n;LegalReferences;201
-C40+44+47.txt;o;LegalReferences;193
-C40+44+47.txt;p;LegalReferences;116
-C40+44+47.txt;q;LegalReferences;15
-C40+44+47.txt;r;LegalReferences;778
-C40+44+47.txt;t;LegalReferences;128
-C40+44+47.txt;u;LegalReferences;96
-C40+44+47.txt;v;LegalReferences;13
-C40+44+47.txt;x;LegalReferences;23
-C40+44+47.txt;y;LegalReferences;19
-C40+44+47.txt;z;LegalReferences;4
+C40+44+47.txt;l;LegalReferences;36
+C40+44+47.txt;m;LegalReferences;1
+C40+44+47.txt;n;LegalReferences;7
+C40+44+47.txt;o;LegalReferences;3
+C40+44+47.txt;p;LegalReferences;3

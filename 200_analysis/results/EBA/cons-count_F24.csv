@@ -2,46 +2,39 @@ F24.txt;to the extent that;LogicalConnectors;1
 F24.txt;in accordance with;LogicalConnectors;7
 F24.txt;in the context of;FunctionWords;11
 F24.txt;attributable to;FunctionWords;4
-F24.txt;financial asset;EconomicOperands;2
 F24.txt;the end of the;MathematicalOperators;7
-F24.txt;classification;EconomicOperands;11
+F24.txt;capitalisation;EconomicOperands;1
 F24.txt;the amount of;MathematicalOperators;2
 F24.txt;interest rate;EconomicOperands;1
 F24.txt;together with;LogicalConnectors;1
 F24.txt;corresponding;EconomicOperands;1
 F24.txt;derecognition;EconomicOperands;3
-F24.txt;central bank;EconomicOperands;2
-F24.txt;paragraph 17;LegalReferences;1
 F24.txt;respectively;LogicalConnectors;1
 F24.txt;credit risk;EconomicOperands;17
 F24.txt;in addition;LogicalConnectors;2
-F24.txt;paragraph 2;LegalReferences;1
-F24.txt;paragraph 7;LegalReferences;1
 F24.txt;accumulated;EconomicOperands;25
 F24.txt;application;EconomicOperands;1
-F24.txt;corporation;EconomicOperands;19
+F24.txt;capitalised;EconomicOperands;1
 F24.txt;institution;EconomicOperands;2
 F24.txt;instruments;EconomicOperands;4
 F24.txt;limitations;RegulatoryOperators;1
-F24.txt;liquidation;EconomicOperands;7
+F24.txt;liquidation;EconomicOperands;2
 F24.txt;recognition;EconomicOperands;1
 F24.txt;residential;EconomicOperands;19
 F24.txt;accounting;EconomicOperands;1
 F24.txt;additional;MathematicalOperators;1
-F24.txt;classified;EconomicOperands;30
+F24.txt;classified;EconomicOperands;19
 F24.txt;collateral;EconomicOperands;19
 F24.txt;commercial;EconomicOperands;23
-F24.txt;continuous;EconomicOperands;2
-F24.txt;equivalent;LogicalConnectors;1
-F24.txt;impairment;EconomicOperands;21
-F24.txt;performing;EconomicOperands;79
+F24.txt;impairment;EconomicOperands;7
+F24.txt;performing;EconomicOperands;73
 F24.txt;pertaining;EconomicOperands;11
 F24.txt;possession;EconomicOperands;9
 F24.txt;previously;LogicalConnectors;3
 F24.txt;references;EconomicOperands;30
 F24.txt;separately;EconomicOperands;5
 F24.txt;more than;LogicalConnectors;3
-F24.txt;allowance;EconomicOperands;4
+F24.txt;allowance;EconomicOperands;1
 F24.txt;breakdown;EconomicOperands;1
 F24.txt;collected;EconomicOperands;1
 F24.txt;disbursed;EconomicOperands;1
@@ -49,11 +42,10 @@ F24.txt;discounts;EconomicOperands;1
 F24.txt;effective;Other;1
 F24.txt;exception;RegulatoryOperators;1
 F24.txt;excluding;LogicalConnectors;3
-F24.txt;financial;EconomicOperands;26
+F24.txt;financial;EconomicOperands;28
 F24.txt;following;FunctionWords;2
-F24.txt;household;EconomicOperands;19
 F24.txt;including;LogicalConnectors;1
-F24.txt;paragraph;LegalReferences;8
+F24.txt;paragraph;LegalReferences;3
 F24.txt;partially;EconomicOperands;1
 F24.txt;portfolio;EconomicOperands;1
 F24.txt;preceding;FunctionWords;4
@@ -64,7 +56,6 @@ F24.txt;reporting;EconomicOperands;4
 F24.txt;represent;EconomicOperands;2
 F24.txt;specified;RegulatoryOperators;2
 F24.txt;transfers;EconomicOperands;9
-F24.txt;24 month;Attributes;4
 F24.txt;based on;Other;11
 F24.txt;accounts;EconomicOperands;1
 F24.txt;advances;EconomicOperands;51
@@ -72,13 +63,13 @@ F24.txt;balances;EconomicOperands;4
 F24.txt;carrying;EconomicOperands;17
 F24.txt;category;EconomicOperands;4
 F24.txt;criteria;EconomicOperands;1
-F24.txt;decrease;MathematicalOperators;6
+F24.txt;decrease;MathematicalOperators;3
 F24.txt;deposits;EconomicOperands;2
 F24.txt;exchange;EconomicOperands;1
 F24.txt;expenses;EconomicOperands;1
-F24.txt;exposure;EconomicOperands;53
+F24.txt;exposure;EconomicOperands;2
 F24.txt;included;EconomicOperands;1
-F24.txt;increase;MathematicalOperators;6
+F24.txt;increase;MathematicalOperators;2
 F24.txt;interest;EconomicOperands;9
 F24.txt;multiple;EconomicOperands;1
 F24.txt;national;EconomicOperands;22
@@ -94,14 +85,13 @@ F24.txt;accrued;EconomicOperands;9
 F24.txt;against;FunctionWords;3
 F24.txt;amounts;EconomicOperands;2
 F24.txt;balance;EconomicOperands;8
-F24.txt;capital;EconomicOperands;2
-F24.txt;capture;EconomicOperands;2
+F24.txt;capture;EconomicOperands;1
+F24.txt;central;EconomicOperands;2
 F24.txt;changes;EconomicOperands;19
 F24.txt;closing;EconomicOperands;6
 F24.txt;contain;EconomicOperands;1
 F24.txt;context;Other;2
 F24.txt;defined;EconomicOperands;3
-F24.txt;forfeit;EconomicOperands;1
 F24.txt;granted;LogicalConnectors;7
 F24.txt;include;EconomicOperands;3
 F24.txt;initial;EconomicOperands;1
@@ -111,15 +101,14 @@ F24.txt;outside;FunctionWords;1
 F24.txt;partial;EconomicOperands;3
 F24.txt;process;EconomicOperands;2
 F24.txt;provide;EconomicOperands;1
-F24.txt;recover;EconomicOperands;11
+F24.txt;recover;EconomicOperands;1
 F24.txt;reflect;EconomicOperands;1
 F24.txt;related;FunctionWords;4
 F24.txt;release;EconomicOperands;2
 F24.txt;trading;EconomicOperands;4
 F24.txt;due to;LogicalConnectors;55
-F24.txt;part i;LegalReferences;3
-F24.txt;such a;LogicalConnectors;2
 F24.txt;amount;EconomicOperands;18
+F24.txt;assets;EconomicOperands;2
 F24.txt;became;EconomicOperands;5
 F24.txt;cannot;RegulatoryOperators;2
 F24.txt;demand;EconomicOperands;2
@@ -131,20 +120,16 @@ F24.txt;linked;EconomicOperands;2
 F24.txt;method;EconomicOperands;1
 F24.txt;others;EconomicOperands;1
 F24.txt;period;EconomicOperands;35
-F24.txt;reason;EconomicOperands;6
+F24.txt;reason;EconomicOperands;1
 F24.txt;regard;EconomicOperands;1
 F24.txt;report;EconomicOperands;1
 F24.txt;rights;EconomicOperands;1
-F24.txt;source;EconomicOperands;4
+F24.txt;source;EconomicOperands;3
 F24.txt;taking;EconomicOperands;9
-F24.txt;after;LogicalConnectors;1
 F24.txt;among;FunctionWords;1
+F24.txt;banks;EconomicOperands;2
 F24.txt;being;FunctionWords;1
-F24.txt;borne;FunctionWords;12
-F24.txt;cause;EconomicOperands;1
-F24.txt;cease;EconomicOperands;3
 F24.txt;costs;EconomicOperands;1
-F24.txt;given;FunctionWords;3
 F24.txt;gross;EconomicOperands;17
 F24.txt;loans;EconomicOperands;108
 F24.txt;other;LogicalConnectors;30
@@ -165,137 +150,78 @@ F24.txt;under;FunctionWords;4
 F24.txt;value;EconomicOperands;19
 F24.txt;where;LogicalConnectors;1
 F24.txt;which;FunctionWords;142
-F24.txt;4 th;Other;1
-F24.txt;able;EconomicOperands;19
 F24.txt;also;LogicalConnectors;1
 F24.txt;been;FunctionWords;3
-F24.txt;book;EconomicOperands;1
 F24.txt;both;LogicalConnectors;1
-F24.txt;case;EconomicOperands;1
 F24.txt;cash;EconomicOperands;4
 F24.txt;date;EconomicOperands;10
 F24.txt;debt;EconomicOperands;2
 F24.txt;down;FunctionWords;3
 F24.txt;fair;EconomicOperands;18
 F24.txt;fees;EconomicOperands;1
-F24.txt;flow;EconomicOperands;82
+F24.txt;flow;EconomicOperands;3
 F24.txt;from;FunctionWords;21
-F24.txt;gain;EconomicOperands;1
 F24.txt;have;FunctionWords;3
 F24.txt;held;EconomicOperands;9
-F24.txt;item;Other;1
 F24.txt;last;EconomicOperands;3
-F24.txt;late;EconomicOperands;15
 F24.txt;loan;EconomicOperands;2
 F24.txt;made;FunctionWords;3
 F24.txt;mean;Other;1
 F24.txt;meet;EconomicOperands;1
 F24.txt;once;FunctionWords;3
 F24.txt;only;LogicalConnectors;1
-F24.txt;part;FunctionWords;359
+F24.txt;part;FunctionWords;362
 F24.txt;past;FunctionWords;4
 F24.txt;real;EconomicOperands;24
-F24.txt;rise;Other;3
 F24.txt;risk;EconomicOperands;9
 F24.txt;sale;EconomicOperands;16
-F24.txt;stat;EconomicOperands;1
-F24.txt;such;FunctionWords;2
+F24.txt;such;FunctionWords;4
 F24.txt;than;FunctionWords;19
 F24.txt;that;FunctionWords;23
 F24.txt;they;FunctionWords;1
 F24.txt;this;FunctionWords;16
-F24.txt;type;EconomicOperands;7
+F24.txt;type;EconomicOperands;6
 F24.txt;used;EconomicOperands;1
 F24.txt;were;FunctionWords;14
 F24.txt;with;FunctionWords;1
 F24.txt;year;EconomicOperands;7
-F24.txt;2 a;Other;11
-F24.txt;9 a;Other;37
-F24.txt;a 3;Other;6
-F24.txt;b 3;Other;3
-F24.txt;g 3;Other;3
 F24.txt;all;LogicalConnectors;1
 F24.txt;and;LogicalConnectors;104
 F24.txt;any;LogicalConnectors;3
 F24.txt;are;FunctionWords;7
 F24.txt;bad;EconomicOperands;11
 F24.txt;due;Attributes;1
-F24.txt;for;FunctionWords;26
-F24.txt;iii;LegalReferences;77
+F24.txt;for;FunctionWords;11
 F24.txt;net;EconomicOperands;11
-F24.txt;non;LogicalConnectors;84
+F24.txt;non;LogicalConnectors;78
 F24.txt;not;LogicalConnectors;6
-F24.txt;off;FunctionWords;25
-F24.txt;out;EconomicOperands;40
-F24.txt;the;FunctionWords;102
-F24.txt;war;EconomicOperands;1
-F24.txt;13;LegalReferences;11
-F24.txt;16;LegalReferences;30
+F24.txt;off;FunctionWords;1
+F24.txt;the;FunctionWords;103
 F24.txt;18;LegalReferences;1
-F24.txt;22;LegalReferences;165
-F24.txt;23;Attributes;155
-F24.txt;24;LegalReferences;3
-F24.txt;28;LegalReferences;3
-F24.txt;29;LegalReferences;15
-F24.txt;30;Attributes;10
-F24.txt;31;Attributes;34
-F24.txt;32;LegalReferences;31
-F24.txt;35;Attributes;3
-F24.txt;36;LegalReferences;1
-F24.txt;38;LegalReferences;2
-F24.txt;39;LegalReferences;136
-F24.txt;40;LegalReferences;2
-F24.txt;44;LegalReferences;60
-F24.txt;60;Attributes;6
-F24.txt;aa;LegalReferences;22
-F24.txt;an;FunctionWords;275
-F24.txt;as;LogicalConnectors;41
-F24.txt;at;FunctionWords;49
-F24.txt;be;FunctionWords;24
+F24.txt;24;LegalReferences;7
+F24.txt;32;LegalReferences;1
+F24.txt;an;FunctionWords;2
+F24.txt;as;LogicalConnectors;40
+F24.txt;at;FunctionWords;12
+F24.txt;be;FunctionWords;21
 F24.txt;by;FunctionWords;24
-F24.txt;cc;LegalReferences;1
-F24.txt;ec;EconomicOperands;5
-F24.txt;go;FunctionWords;1
-F24.txt;if;LogicalConnectors;12
-F24.txt;ii;LegalReferences;35
-F24.txt;in;FunctionWords;79
-F24.txt;is;FunctionWords;26
-F24.txt;it;EconomicOperands;27
-F24.txt;ix;LegalReferences;60
-F24.txt;le;MathematicalOperators;30
+F24.txt;if;LogicalConnectors;1
+F24.txt;ii;LegalReferences;2
+F24.txt;in;FunctionWords;36
+F24.txt;is;FunctionWords;2
+F24.txt;it;EconomicOperands;1
 F24.txt;of;FunctionWords;246
-F24.txt;on;FunctionWords;17
-F24.txt;or;LogicalConnectors;19
+F24.txt;on;FunctionWords;6
+F24.txt;or;LogicalConnectors;18
 F24.txt;to;FunctionWords;54
-F24.txt;tr;EconomicOperands;2
-F24.txt;vi;EconomicOperands;36
-F24.txt;1;Attributes;66
-F24.txt;2;Attributes;107
-F24.txt;3;Attributes;166
-F24.txt;4;Attributes;26
-F24.txt;5;Attributes;1
-F24.txt;6;Attributes;1
-F24.txt;7;Attributes;50
-F24.txt;8;Attributes;30
-F24.txt;9;Attributes;130
-F24.txt;a;FunctionWords;249
-F24.txt;b;LegalReferences;32
-F24.txt;c;LegalReferences;119
-F24.txt;d;LegalReferences;55
-F24.txt;e;LegalReferences;630
-F24.txt;f;LegalReferences;55
-F24.txt;h;LegalReferences;4
-F24.txt;i;FunctionWords;59
-F24.txt;k;LegalReferences;3
-F24.txt;l;LegalReferences;59
-F24.txt;m;LegalReferences;174
-F24.txt;n;LegalReferences;418
-F24.txt;o;LegalReferences;67
-F24.txt;p;LegalReferences;48
-F24.txt;q;LegalReferences;2
-F24.txt;r;LegalReferences;197
-F24.txt;t;LegalReferences;73
-F24.txt;u;LegalReferences;32
-F24.txt;v;LegalReferences;381
-F24.txt;x;LegalReferences;322
-F24.txt;y;LegalReferences;3
+F24.txt;1;Attributes;60
+F24.txt;2;Attributes;144
+F24.txt;a;FunctionWords;47
+F24.txt;b;LegalReferences;12
+F24.txt;c;LegalReferences;6
+F24.txt;d;LegalReferences;1
+F24.txt;e;LegalReferences;30
+F24.txt;f;LegalReferences;30
+F24.txt;i;FunctionWords;2
+F24.txt;l;LegalReferences;14
+F24.txt;v;LegalReferences;317

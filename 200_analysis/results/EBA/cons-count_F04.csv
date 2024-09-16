@@ -1,17 +1,13 @@
-F04.txt;financial instrument;EconomicOperands;1
 F04.txt;in accordance with;LogicalConnectors;1
 F04.txt;creditworthiness;EconomicOperands;1
-F04.txt;for the purpose;FunctionWords;2
 F04.txt;associated with;FunctionWords;3
-F04.txt;financial asset;EconomicOperands;97
+F04.txt;financial asset;EconomicOperands;1
 F04.txt;the amount of;MathematicalOperators;1
 F04.txt;interest rate;EconomicOperands;1
 F04.txt;comprehensive;EconomicOperands;9
 F04.txt;corresponding;EconomicOperands;1
 F04.txt;derecognition;EconomicOperands;4
 F04.txt;significantly;Attributes;1
-F04.txt;central bank;EconomicOperands;52
-F04.txt;paragraph 10;LegalReferences;1
 F04.txt;counterparty;EconomicOperands;5
 F04.txt;incorporated;EconomicOperands;1
 F04.txt;institutions;EconomicOperands;75
@@ -20,22 +16,18 @@ F04.txt;requirements;EconomicOperands;1
 F04.txt;respectively;LogicalConnectors;1
 F04.txt;subordinated;EconomicOperands;5
 F04.txt;credit risk;EconomicOperands;82
-F04.txt;paragraph 7;LegalReferences;2
-F04.txt;paragraph 8;LegalReferences;2
 F04.txt;accumulated;EconomicOperands;86
 F04.txt;adjustments;EconomicOperands;20
 F04.txt;application;EconomicOperands;1
 F04.txt;appropriate;Attributes;1
 F04.txt;calculation;EconomicOperands;1
 F04.txt;contractual;EconomicOperands;1
-F04.txt;corporation;EconomicOperands;144
 F04.txt;derivatives;EconomicOperands;4
 F04.txt;enforcement;EconomicOperands;1
-F04.txt;expectation;EconomicOperands;1
 F04.txt;governments;EconomicOperands;52
 F04.txt;information;EconomicOperands;2
 F04.txt;institution;EconomicOperands;4
-F04.txt;instruments;EconomicOperands;40
+F04.txt;instruments;EconomicOperands;41
 F04.txt;limitations;RegulatoryOperators;1
 F04.txt;measurement;EconomicOperands;2
 F04.txt;recognition;EconomicOperands;26
@@ -49,7 +41,6 @@ F04.txt;activities;EconomicOperands;1
 F04.txt;applicable;FunctionWords;1
 F04.txt;associated;EconomicOperands;3
 F04.txt;calculated;EconomicOperands;1
-F04.txt;classified;EconomicOperands;1
 F04.txt;collecting;EconomicOperands;1
 F04.txt;conditions;EconomicOperands;1
 F04.txt;considered;EconomicOperands;3
@@ -59,16 +50,14 @@ F04.txt;definition;EconomicOperands;1
 F04.txt;derivative;EconomicOperands;11
 F04.txt;designated;RegulatoryOperators;4
 F04.txt;determined;RegulatoryOperators;1
-F04.txt;enterprise;EconomicOperands;18
 F04.txt;identified;FunctionWords;1
-F04.txt;impairment;EconomicOperands;51
+F04.txt;impairment;EconomicOperands;50
 F04.txt;instrument;EconomicOperands;12
 F04.txt;originated;EconomicOperands;25
-F04.txt;performing;EconomicOperands;9
+F04.txt;performing;EconomicOperands;8
 F04.txt;previously;LogicalConnectors;1
 F04.txt;reasonable;Attributes;1
-F04.txt;receivable;EconomicOperands;4
-F04.txt;recognized;EconomicOperands;1
+F04.txt;recognised;EconomicOperands;6
 F04.txt;references;EconomicOperands;65
 F04.txt;reflecting;EconomicOperands;2
 F04.txt;securities;EconomicOperands;29
@@ -76,29 +65,29 @@ F04.txt;separately;EconomicOperands;5
 F04.txt;subsequent;FunctionWords;1
 F04.txt;successive;EconomicOperands;1
 F04.txt;affecting;EconomicOperands;12
-F04.txt;allowance;EconomicOperands;28
+F04.txt;allowance;EconomicOperands;8
 F04.txt;breakdown;EconomicOperands;3
 F04.txt;described;Other;1
 F04.txt;directive;EconomicOperands;7
 F04.txt;effective;Other;1
 F04.txt;exceeding;LogicalConnectors;1
-F04.txt;financial;EconomicOperands;144
+F04.txt;financial;EconomicOperands;241
 F04.txt;following;FunctionWords;1
-F04.txt;household;EconomicOperands;26
 F04.txt;including;LogicalConnectors;2
 F04.txt;increased;MathematicalOperators;1
+F04.txt;paragraph;LegalReferences;5
 F04.txt;performed;EconomicOperands;1
 F04.txt;portfolio;EconomicOperands;1
 F04.txt;principal;EconomicOperands;1
 F04.txt;purchased;EconomicOperands;25
 F04.txt;recovered;EconomicOperands;1
-F04.txt;reduction;EconomicOperands;6
+F04.txt;reduction;EconomicOperands;2
 F04.txt;reference;EconomicOperands;1
 F04.txt;reporting;EconomicOperands;2
 F04.txt;specified;RegulatoryOperators;1
 F04.txt;therefore;LogicalConnectors;1
 F04.txt;valuation;EconomicOperands;1
-F04.txt;variation;EconomicOperands;2
+F04.txt;variation;EconomicOperands;1
 F04.txt;based on;Other;42
 F04.txt;accounts;EconomicOperands;1
 F04.txt;addition;MathematicalOperators;1
@@ -108,12 +97,10 @@ F04.txt;appendix;EconomicOperands;3
 F04.txt;approach;EconomicOperands;2
 F04.txt;carrying;EconomicOperands;71
 F04.txt;contract;EconomicOperands;2
-F04.txt;covering;EconomicOperands;1
 F04.txt;directly;Attributes;1
 F04.txt;entirety;EconomicOperands;2
 F04.txt;estimate;EconomicOperands;1
 F04.txt;expected;EconomicOperands;4
-F04.txt;exposure;EconomicOperands;9
 F04.txt;increase;MathematicalOperators;37
 F04.txt;interest;EconomicOperands;1
 F04.txt;lifetime;EconomicOperands;2
@@ -123,10 +110,10 @@ F04.txt;national;EconomicOperands;57
 F04.txt;negative;MathematicalOperators;22
 F04.txt;occurred;EconomicOperands;1
 F04.txt;positive;EconomicOperands;3
+F04.txt;purposes;EconomicOperands;2
 F04.txt;recovery;EconomicOperands;1
 F04.txt;reported;EconomicOperands;15
 F04.txt;required;RegulatoryOperators;1
-F04.txt;reversal;EconomicOperands;2
 F04.txt;specific;FunctionWords;7
 F04.txt;in case;LogicalConnectors;3
 F04.txt;of debt;EconomicOperands;2
@@ -138,10 +125,10 @@ F04.txt;applied;EconomicOperands;1
 F04.txt;article;EconomicOperands;2
 F04.txt;banking;EconomicOperands;8
 F04.txt;because;LogicalConnectors;1
+F04.txt;central;EconomicOperands;52
 F04.txt;changes;EconomicOperands;15
 F04.txt;defined;EconomicOperands;3
 F04.txt;depends;EconomicOperands;1
-F04.txt;explain;EconomicOperands;1
 F04.txt;further;LogicalConnectors;1
 F04.txt;general;FunctionWords;67
 F04.txt;include;EconomicOperands;7
@@ -150,7 +137,6 @@ F04.txt;initial;EconomicOperands;42
 F04.txt;meaning;Other;2
 F04.txt;outside;FunctionWords;1
 F04.txt;partial;EconomicOperands;19
-F04.txt;pending;FunctionWords;1
 F04.txt;portion;EconomicOperands;2
 F04.txt;qualify;EconomicOperands;2
 F04.txt;reduces;EconomicOperands;2
@@ -161,58 +147,51 @@ F04.txt;whether;LogicalConnectors;2
 F04.txt;without;FunctionWords;18
 F04.txt;written;EconomicOperands;3
 F04.txt;due to;LogicalConnectors;14
-F04.txt;part i;LegalReferences;22
 F04.txt;adding;MathematicalOperators;1
-F04.txt;affect;EconomicOperands;1
 F04.txt;amount;EconomicOperands;77
-F04.txt;assets;EconomicOperands;101
-F04.txt;assume;EconomicOperands;1
+F04.txt;assets;EconomicOperands;197
 F04.txt;caused;EconomicOperands;1
 F04.txt;change;EconomicOperands;2
-F04.txt;credit;EconomicOperands;145
+F04.txt;credit;EconomicOperands;124
 F04.txt;direct;EconomicOperands;2
 F04.txt;either;LogicalConnectors;3
 F04.txt;equity;EconomicOperands;25
 F04.txt;except;LogicalConnectors;1
 F04.txt;impact;EconomicOperands;1
-F04.txt;impair;EconomicOperands;83
 F04.txt;income;EconomicOperands;9
 F04.txt;issuer;EconomicOperands;2
 F04.txt;losses;EconomicOperands;8
 F04.txt;market;EconomicOperands;9
 F04.txt;medium;EconomicOperands;18
-F04.txt;method;EconomicOperands;11
+F04.txt;method;EconomicOperands;7
 F04.txt;period;EconomicOperands;1
 F04.txt;profit;EconomicOperands;11
 F04.txt;relate;EconomicOperands;1
 F04.txt;report;EconomicOperands;3
-F04.txt;result;EconomicOperands;1
 F04.txt;rights;EconomicOperands;1
 F04.txt;sector;EconomicOperands;3
 F04.txt;single;EconomicOperands;1
 F04.txt;within;LogicalConnectors;3
 F04.txt;asset;EconomicOperands;3
+F04.txt;banks;EconomicOperands;52
 F04.txt;based;Other;8
-F04.txt;cause;EconomicOperands;1
-F04.txt;deter;EconomicOperands;1
-F04.txt;event;EconomicOperands;4
-F04.txt;given;FunctionWords;3
+F04.txt;event;EconomicOperands;3
+F04.txt;given;FunctionWords;2
 F04.txt;gross;EconomicOperands;22
 F04.txt;lease;EconomicOperands;2
 F04.txt;level;EconomicOperands;1
 F04.txt;loans;EconomicOperands;30
 F04.txt;other;LogicalConnectors;89
-F04.txt;ratio;LogicalConnectors;1
 F04.txt;right;EconomicOperands;1
 F04.txt;shall;RegulatoryOperators;33
 F04.txt;since;LogicalConnectors;41
 F04.txt;small;EconomicOperands;18
-F04.txt;stage;EconomicOperands;60
+F04.txt;stage;EconomicOperands;56
 F04.txt;taken;Other;1
 F04.txt;their;FunctionWords;4
 F04.txt;these;FunctionWords;1
 F04.txt;those;FunctionWords;4
-F04.txt;total;MathematicalOperators;20
+F04.txt;total;MathematicalOperators;19
 F04.txt;trade;EconomicOperands;2
 F04.txt;under;FunctionWords;31
 F04.txt;until;LogicalConnectors;3
@@ -225,7 +204,6 @@ F04.txt;also;LogicalConnectors;1
 F04.txt;been;FunctionWords;4
 F04.txt;both;LogicalConnectors;1
 F04.txt;cash;EconomicOperands;2
-F04.txt;come;EconomicOperands;1
 F04.txt;cost;EconomicOperands;18
 F04.txt;date;EconomicOperands;3
 F04.txt;debt;EconomicOperands;40
@@ -234,46 +212,27 @@ F04.txt;each;LogicalConnectors;3
 F04.txt;fair;EconomicOperands;41
 F04.txt;fall;EconomicOperands;1
 F04.txt;fees;EconomicOperands;1
-F04.txt;flow;EconomicOperands;2
 F04.txt;from;FunctionWords;3
-F04.txt;gain;EconomicOperands;1
 F04.txt;give;FunctionWords;1
 F04.txt;have;FunctionWords;6
 F04.txt;held;EconomicOperands;4
 F04.txt;into;FunctionWords;2
-F04.txt;late;EconomicOperands;8
-F04.txt;lead;EconomicOperands;1
 F04.txt;loss;EconomicOperands;13
 F04.txt;made;FunctionWords;1
-F04.txt;mean;Other;1
 F04.txt;only;LogicalConnectors;2
-F04.txt;part;FunctionWords;638
+F04.txt;part;FunctionWords;660
 F04.txt;past;FunctionWords;1
 F04.txt;risk;EconomicOperands;19
-F04.txt;size;EconomicOperands;18
 F04.txt;that;FunctionWords;19
 F04.txt;them;FunctionWords;3
 F04.txt;they;FunctionWords;6
 F04.txt;this;FunctionWords;5
 F04.txt;with;FunctionWords;31
-F04.txt;2 a;Other;7
-F04.txt;3 a;Other;13
-F04.txt;4 a;Other;9
-F04.txt;5 a;Other;53
-F04.txt;8 a;Other;7
-F04.txt;9 a;Other;3
-F04.txt;2 c;Other;2
-F04.txt;4 c;Other;6
-F04.txt;4 i;Other;9
-F04.txt;5 i;Other;2
-F04.txt;a 6;Other;1
-F04.txt;a 7;Other;6
+F04.txt;9 a;Other;1
 F04.txt;100;Attributes;3
-F04.txt;119;LegalReferences;3
-F04.txt;120;LegalReferences;2
 F04.txt;aii;LegalReferences;2
-F04.txt;all;LogicalConnectors;3
-F04.txt;and;LogicalConnectors;106
+F04.txt;all;LogicalConnectors;2
+F04.txt;and;LogicalConnectors;103
 F04.txt;any;LogicalConnectors;2
 F04.txt;are;FunctionWords;12
 F04.txt;bad;EconomicOperands;48
@@ -281,80 +240,54 @@ F04.txt;but;LogicalConnectors;19
 F04.txt;can;FunctionWords;2
 F04.txt;due;Attributes;1
 F04.txt;ecb;EconomicOperands;12
-F04.txt;for;FunctionWords;47
-F04.txt;ifi;EconomicOperands;2
+F04.txt;for;FunctionWords;48
 F04.txt;iii;LegalReferences;2
-F04.txt;led;EconomicOperands;2
 F04.txt;low;EconomicOperands;11
 F04.txt;net;EconomicOperands;4
-F04.txt;non;LogicalConnectors;110
+F04.txt;non;LogicalConnectors;109
 F04.txt;not;LogicalConnectors;31
-F04.txt;off;FunctionWords;41
+F04.txt;off;FunctionWords;3
 F04.txt;sum;EconomicOperands;2
-F04.txt;the;FunctionWords;78
+F04.txt;the;FunctionWords;80
 F04.txt;use;EconomicOperands;4
 F04.txt;via;FunctionWords;2
-F04.txt;16;LegalReferences;15
-F04.txt;28;LegalReferences;5
+F04.txt;24;LegalReferences;9
+F04.txt;28;LegalReferences;12
 F04.txt;32;LegalReferences;1
-F04.txt;35;Attributes;72
-F04.txt;36;LegalReferences;1
-F04.txt;42;LegalReferences;3
-F04.txt;44;LegalReferences;54
-F04.txt;49;LegalReferences;36
 F04.txt;68;LegalReferences;1
 F04.txt;75;Attributes;1
 F04.txt;78;Other;1
-F04.txt;aa;LegalReferences;58
-F04.txt;an;FunctionWords;574
-F04.txt;as;LogicalConnectors;34
-F04.txt;at;FunctionWords;68
+F04.txt;an;FunctionWords;3
+F04.txt;as;LogicalConnectors;16
+F04.txt;at;FunctionWords;46
 F04.txt;be;FunctionWords;26
 F04.txt;by;FunctionWords;13
 F04.txt;do;FunctionWords;2
-F04.txt;ec;EconomicOperands;22
-F04.txt;ha;Other;9
-F04.txt;if;LogicalConnectors;218
-F04.txt;ii;LegalReferences;19
-F04.txt;in;FunctionWords;75
-F04.txt;is;FunctionWords;24
-F04.txt;it;EconomicOperands;59
-F04.txt;iv;LegalReferences;3
-F04.txt;le;MathematicalOperators;17
+F04.txt;ii;LegalReferences;1
+F04.txt;in;FunctionWords;74
+F04.txt;is;FunctionWords;8
+F04.txt;it;EconomicOperands;3
+F04.txt;iv;LegalReferences;2
 F04.txt;no;LogicalConnectors;2
 F04.txt;of;FunctionWords;165
-F04.txt;on;FunctionWords;44
-F04.txt;or;LogicalConnectors;62
+F04.txt;on;FunctionWords;25
+F04.txt;or;LogicalConnectors;49
 F04.txt;to;FunctionWords;11
-F04.txt;tr;EconomicOperands;3
 F04.txt;up;FunctionWords;1
-F04.txt;1;Attributes;76
-F04.txt;2;Attributes;81
-F04.txt;3;Attributes;37
-F04.txt;4;Attributes;30
-F04.txt;5;Attributes;22
-F04.txt;6;Attributes;3
-F04.txt;7;Attributes;162
-F04.txt;8;Attributes;21
-F04.txt;9;Attributes;15
-F04.txt;a;FunctionWords;240
-F04.txt;b;LegalReferences;207
-F04.txt;c;LegalReferences;196
-F04.txt;d;LegalReferences;222
-F04.txt;e;LegalReferences;977
-F04.txt;f;LegalReferences;66
-F04.txt;h;LegalReferences;31
-F04.txt;i;FunctionWords;75
-F04.txt;k;LegalReferences;2
-F04.txt;l;LegalReferences;38
-F04.txt;m;LegalReferences;134
-F04.txt;n;LegalReferences;844
-F04.txt;o;LegalReferences;106
-F04.txt;p;LegalReferences;85
-F04.txt;q;LegalReferences;10
-F04.txt;r;LegalReferences;456
-F04.txt;t;LegalReferences;101
-F04.txt;u;LegalReferences;34
+F04.txt;1;Attributes;41
+F04.txt;2;Attributes;31
+F04.txt;3;Attributes;19
+F04.txt;4;Attributes;4
+F04.txt;5;Attributes;12
+F04.txt;6;Attributes;1
+F04.txt;7;Attributes;78
+F04.txt;9;Attributes;12
+F04.txt;a;FunctionWords;73
+F04.txt;b;LegalReferences;96
+F04.txt;c;LegalReferences;98
+F04.txt;d;LegalReferences;80
+F04.txt;e;LegalReferences;74
+F04.txt;f;LegalReferences;33
+F04.txt;h;LegalReferences;6
+F04.txt;l;LegalReferences;3
 F04.txt;v;LegalReferences;643
-F04.txt;x;LegalReferences;662
-F04.txt;y;LegalReferences;7

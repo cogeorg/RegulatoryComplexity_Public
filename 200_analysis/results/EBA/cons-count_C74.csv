@@ -1,13 +1,11 @@
 C74.txt;in accordance with;LogicalConnectors;22
-C74.txt;loan commitment;EconomicOperands;4
-C74.txt;retail customer;EconomicOperands;4
 C74.txt;provided that;LogicalConnectors;4
 C74.txt;corresponding;EconomicOperands;16
 C74.txt;institutional;EconomicOperands;12
-C74.txt;central bank;EconomicOperands;36
+C74.txt;central bank;EconomicOperands;8
 C74.txt;counterparty;EconomicOperands;8
 C74.txt;multilateral;EconomicOperands;4
-C74.txt;requirements;EconomicOperands;60
+C74.txt;requirements;EconomicOperands;52
 C74.txt;restrictions;RegulatoryOperators;4
 C74.txt;transactions;EconomicOperands;20
 C74.txt;referred to;FunctionWords;4
@@ -23,6 +21,7 @@ C74.txt;instruments;EconomicOperands;4
 C74.txt;operational;EconomicOperands;68
 C74.txt;promotional;EconomicOperands;4
 C74.txt;residential;EconomicOperands;8
+C74.txt;specialised;EconomicOperands;4
 C74.txt;subject to;LogicalConnectors;70
 C74.txt;applicable;FunctionWords;14
 C74.txt;classified;EconomicOperands;16
@@ -38,8 +37,7 @@ C74.txt;regulatory;EconomicOperands;4
 C74.txt;securities;EconomicOperands;24
 C74.txt;segregated;EconomicOperands;4
 C74.txt;competent;EconomicOperands;4
-C74.txt;corporate;EconomicOperands;4
-C74.txt;customers;EconomicOperands;44
+C74.txt;customers;EconomicOperands;48
 C74.txt;establish;RegulatoryOperators;8
 C74.txt;excluding;LogicalConnectors;8
 C74.txt;financial;EconomicOperands;48
@@ -55,7 +53,6 @@ C74.txt;balances;EconomicOperands;4
 C74.txt;coverage;EconomicOperands;1
 C74.txt;currency;EconomicOperands;1
 C74.txt;customer;EconomicOperands;4
-C74.txt;delegate;EconomicOperands;4
 C74.txt;deposits;EconomicOperands;20
 C74.txt;entities;EconomicOperands;8
 C74.txt;exempted;RegulatoryOperators;35
@@ -70,10 +67,8 @@ C74.txt;arising;EconomicOperands;4
 C74.txt;article;EconomicOperands;22
 C74.txt;between;FunctionWords;4
 C74.txt;capital;EconomicOperands;4
-C74.txt;capture;EconomicOperands;8
+C74.txt;central;EconomicOperands;28
 C74.txt;covered;EconomicOperands;24
-C74.txt;defined;EconomicOperands;4
-C74.txt;extreme;EconomicOperands;16
 C74.txt;granted;LogicalConnectors;4
 C74.txt;lending;EconomicOperands;8
 C74.txt;members;EconomicOperands;4
@@ -83,11 +78,9 @@ C74.txt;related;FunctionWords;4
 C74.txt;release;EconomicOperands;4
 C74.txt;section;LegalReferences;8
 C74.txt;secured;EconomicOperands;32
-C74.txt;special;EconomicOperands;4
 C74.txt;trading;EconomicOperands;4
-C74.txt;30 day;Attributes;8
 C74.txt;amount;EconomicOperands;7
-C74.txt;assets;EconomicOperands;12
+C74.txt;assets;EconomicOperands;9
 C74.txt;backed;EconomicOperands;16
 C74.txt;credit;EconomicOperands;16
 C74.txt;equity;EconomicOperands;12
@@ -96,20 +89,18 @@ C74.txt;excess;EconomicOperands;4
 C74.txt;higher;LogicalConnectors;4
 C74.txt;margin;EconomicOperands;4
 C74.txt;market;EconomicOperands;18
-C74.txt;metric;EconomicOperands;8
 C74.txt;monies;EconomicOperands;80
 C74.txt;public;EconomicOperands;4
+C74.txt;retail;EconomicOperands;4
 C74.txt;scheme;EconomicOperands;12
 C74.txt;sector;EconomicOperands;4
 C74.txt;waived;EconomicOperands;4
 C74.txt;within;LogicalConnectors;16
 C74.txt;apply;Other;4
-C74.txt;asset;EconomicOperands;32
-C74.txt;banks;EconomicOperands;4
+C74.txt;asset;EconomicOperands;28
+C74.txt;banks;EconomicOperands;32
 C74.txt;being;FunctionWords;16
-C74.txt;count;EconomicOperands;8
 C74.txt;cover;EconomicOperands;8
-C74.txt;drawn;EconomicOperands;4
 C74.txt;group;EconomicOperands;12
 C74.txt;index;EconomicOperands;4
 C74.txt;legal;EconomicOperands;4
@@ -124,89 +115,57 @@ C74.txt;third;Attributes;4
 C74.txt;total;MathematicalOperators;16
 C74.txt;trade;EconomicOperands;4
 C74.txt;value;EconomicOperands;28
-C74.txt;weigh;MathematicalOperators;21
 C74.txt;where;LogicalConnectors;16
 C74.txt;which;FunctionWords;88
 C74.txt;able;EconomicOperands;8
 C74.txt;auto;EconomicOperands;8
-C74.txt;bond;EconomicOperands;24
 C74.txt;date;EconomicOperands;4
-C74.txt;flow;EconomicOperands;189
+C74.txt;days;Attributes;8
 C74.txt;from;FunctionWords;151
 C74.txt;have;FunctionWords;4
 C74.txt;held;EconomicOperands;4
 C74.txt;high;EconomicOperands;24
-C74.txt;item;Other;32
-C74.txt;meet;EconomicOperands;56
-C74.txt;over;MathematicalOperators;4
-C74.txt;rate;EconomicOperands;12
-C74.txt;ring;EconomicOperands;8
+C74.txt;item;Other;28
+C74.txt;loan;EconomicOperands;4
+C74.txt;rate;EconomicOperands;4
 C74.txt;that;FunctionWords;16
 C74.txt;used;EconomicOperands;8
 C74.txt;with;FunctionWords;8
-C74.txt;2 a;Other;4
-C74.txt;2 f;Other;4
-C74.txt;100;Attributes;14
 C74.txt;all;LogicalConnectors;8
-C74.txt;and;LogicalConnectors;20
+C74.txt;and;LogicalConnectors;24
 C74.txt;any;LogicalConnectors;4
 C74.txt;are;FunctionWords;8
 C74.txt;cap;EconomicOperands;105
-C74.txt;doe;EconomicOperands;8
 C74.txt;due;Attributes;80
 C74.txt;end;Other;4
 C74.txt;for;FunctionWords;20
 C74.txt;non;LogicalConnectors;52
 C74.txt;not;LogicalConnectors;28
-C74.txt;out;EconomicOperands;8
-C74.txt;per;FunctionWords;4
 C74.txt;the;FunctionWords;125
 C74.txt;15;Attributes;2
 C74.txt;17;LegalReferences;4
-C74.txt;19;LegalReferences;4
 C74.txt;20;Attributes;1
 C74.txt;25;Attributes;2
-C74.txt;30;Attributes;2
+C74.txt;30;Attributes;10
 C74.txt;35;Attributes;2
 C74.txt;50;Attributes;7
 C74.txt;75;Attributes;35
 C74.txt;90;Attributes;35
 C74.txt;an;FunctionWords;16
 C74.txt;as;LogicalConnectors;32
-C74.txt;at;FunctionWords;12
 C74.txt;by;FunctionWords;24
-C74.txt;do;FunctionWords;4
-C74.txt;in;FunctionWords;213
-C74.txt;is;FunctionWords;52
-C74.txt;iv;LegalReferences;4
-C74.txt;le;MathematicalOperators;4
+C74.txt;in;FunctionWords;28
+C74.txt;is;FunctionWords;48
 C74.txt;no;LogicalConnectors;4
 C74.txt;of;FunctionWords;120
-C74.txt;on;FunctionWords;109
+C74.txt;on;FunctionWords;105
 C74.txt;or;LogicalConnectors;44
 C74.txt;to;FunctionWords;28
-C74.txt;1;Attributes;32
-C74.txt;2;Attributes;48
-C74.txt;3;Attributes;12
+C74.txt;1;Attributes;34
+C74.txt;2;Attributes;8
+C74.txt;3;Attributes;8
 C74.txt;4;Attributes;4
-C74.txt;5;Attributes;1
-C74.txt;6;Attributes;4
-C74.txt;7;Attributes;30
-C74.txt;9;Attributes;42
-C74.txt;a;FunctionWords;76
-C74.txt;b;LegalReferences;48
-C74.txt;c;LegalReferences;21
-C74.txt;d;LegalReferences;96
-C74.txt;e;LegalReferences;68
-C74.txt;h;LegalReferences;8
-C74.txt;i;FunctionWords;132
-C74.txt;l;LegalReferences;120
-C74.txt;m;LegalReferences;16
-C74.txt;n;LegalReferences;52
-C74.txt;o;LegalReferences;32
-C74.txt;q;LegalReferences;52
-C74.txt;r;LegalReferences;44
-C74.txt;t;LegalReferences;21
-C74.txt;u;LegalReferences;72
-C74.txt;x;LegalReferences;8
-C74.txt;y;LegalReferences;24
+C74.txt;9;Attributes;14
+C74.txt;a;FunctionWords;52
+C74.txt;c;LegalReferences;1
+C74.txt;l;LegalReferences;28

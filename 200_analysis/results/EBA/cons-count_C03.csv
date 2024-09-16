@@ -4,18 +4,15 @@ C03.txt;to the extent that;LogicalConnectors;1
 C03.txt;in accordance with;LogicalConnectors;2
 C03.txt;the amount of;MathematicalOperators;4
 C03.txt;to the extent;LogicalConnectors;3
-C03.txt;capital level;EconomicOperands;2
 C03.txt;methodologies;EconomicOperands;1
 C03.txt;communicated;EconomicOperands;11
 C03.txt;requirements;EconomicOperands;10
 C03.txt;transitional;FunctionWords;10
 C03.txt;referred to;FunctionWords;15
 C03.txt;relating to;FunctionWords;4
-C03.txt;stress test;EconomicOperands;1
 C03.txt;application;EconomicOperands;7
 C03.txt;considering;LogicalConnectors;2
 C03.txt;institution;EconomicOperands;8
-C03.txt;instruction;EconomicOperands;1
 C03.txt;requirement;EconomicOperands;11
 C03.txt;supervisory;EconomicOperands;2
 C03.txt;as follows;FunctionWords;9
@@ -49,7 +46,7 @@ C03.txt;specific;FunctionWords;1
 C03.txt;only if;LogicalConnectors;3
 C03.txt;account;EconomicOperands;4
 C03.txt;article;EconomicOperands;27
-C03.txt;capital;EconomicOperands;62
+C03.txt;capital;EconomicOperands;64
 C03.txt;deficit;EconomicOperands;12
 C03.txt;defined;EconomicOperands;3
 C03.txt;legally;EconomicOperands;3
@@ -58,17 +55,20 @@ C03.txt;process;EconomicOperands;1
 C03.txt;reflect;EconomicOperands;2
 C03.txt;section;LegalReferences;3
 C03.txt;surplus;EconomicOperands;13
+C03.txt;testing;EconomicOperands;1
 C03.txt;without;FunctionWords;10
 C03.txt;tier 1;EconomicOperands;12
 C03.txt;amount;EconomicOperands;5
 C03.txt;beyond;FunctionWords;1
 C03.txt;common;FunctionWords;1
+C03.txt;levels;EconomicOperands;2
 C03.txt;review;EconomicOperands;1
+C03.txt;stress;EconomicOperands;1
 C03.txt;taking;EconomicOperands;3
 C03.txt;funds;EconomicOperands;7
 C03.txt;other;LogicalConnectors;1
 C03.txt;point;EconomicOperands;31
-C03.txt;ratio;LogicalConnectors;44
+C03.txt;ratio;LogicalConnectors;41
 C03.txt;shall;RegulatoryOperators;17
 C03.txt;total;MathematicalOperators;15
 C03.txt;where;LogicalConnectors;13
@@ -76,28 +76,24 @@ C03.txt;which;FunctionWords;4
 C03.txt;form;EconomicOperands;6
 C03.txt;held;EconomicOperands;6
 C03.txt;into;FunctionWords;4
-C03.txt;item;Other;9
+C03.txt;item;Other;7
 C03.txt;made;FunctionWords;16
 C03.txt;meet;EconomicOperands;2
 C03.txt;only;LogicalConnectors;9
 C03.txt;part;FunctionWords;4
 C03.txt;risk;EconomicOperands;3
-C03.txt;show;EconomicOperands;4
 C03.txt;take;FunctionWords;1
 C03.txt;then;LogicalConnectors;1
 C03.txt;they;FunctionWords;2
 C03.txt;this;FunctionWords;8
 C03.txt;were;FunctionWords;3
 C03.txt;with;FunctionWords;2
-C03.txt;2 c;Other;8
-C03.txt;3 c;Other;1
-C03.txt;d 1;Other;2
-C03.txt;g 1;Other;2
-C03.txt;104;LegalReferences;5
+C03.txt;9 a;Other;1
+C03.txt;5 c;Other;1
+C03.txt;9 b;Other;1
 C03.txt;921;LegalReferences;8
-C03.txt;and;LogicalConnectors;29
+C03.txt;and;LogicalConnectors;31
 C03.txt;for;FunctionWords;1
-C03.txt;ill;EconomicOperands;5
 C03.txt;met;FunctionWords;2
 C03.txt;own;FunctionWords;7
 C03.txt;per;FunctionWords;2
@@ -105,55 +101,37 @@ C03.txt;set;Other;4
 C03.txt;sum;EconomicOperands;9
 C03.txt;the;FunctionWords;98
 C03.txt;use;EconomicOperands;1
-C03.txt;12;Attributes;3
-C03.txt;13;LegalReferences;5
+C03.txt;13;LegalReferences;6
 C03.txt;14;LegalReferences;6
-C03.txt;15;Attributes;5
-C03.txt;16;LegalReferences;2
+C03.txt;15;Attributes;6
+C03.txt;16;LegalReferences;1
 C03.txt;20;Attributes;1
 C03.txt;21;LegalReferences;1
 C03.txt;22;LegalReferences;1
-C03.txt;23;Attributes;1
-C03.txt;25;Attributes;1
-C03.txt;45;Attributes;3
-C03.txt;47;LegalReferences;3
-C03.txt;an;FunctionWords;3
-C03.txt;as;LogicalConnectors;15
-C03.txt;at;FunctionWords;1
+C03.txt;an;FunctionWords;1
+C03.txt;as;LogicalConnectors;12
 C03.txt;be;FunctionWords;38
 C03.txt;by;FunctionWords;15
-C03.txt;et;Other;28
-C03.txt;if;LogicalConnectors;7
 C03.txt;ii;LegalReferences;22
-C03.txt;in;FunctionWords;36
+C03.txt;in;FunctionWords;35
 C03.txt;is;FunctionWords;17
-C03.txt;it;EconomicOperands;6
+C03.txt;it;EconomicOperands;3
 C03.txt;no;LogicalConnectors;9
 C03.txt;of;FunctionWords;82
 C03.txt;on;FunctionWords;12
 C03.txt;or;LogicalConnectors;7
 C03.txt;to;FunctionWords;31
 C03.txt;up;FunctionWords;16
-C03.txt;1;Attributes;40
-C03.txt;2;Attributes;30
-C03.txt;3;Attributes;7
-C03.txt;4;Attributes;4
-C03.txt;5;Attributes;2
+C03.txt;1;Attributes;2
+C03.txt;2;Attributes;7
+C03.txt;3;Attributes;2
+C03.txt;4;Attributes;5
+C03.txt;5;Attributes;4
 C03.txt;6;Attributes;7
-C03.txt;8;Attributes;8
-C03.txt;9;Attributes;15
-C03.txt;a;FunctionWords;29
-C03.txt;b;LegalReferences;21
-C03.txt;c;LegalReferences;87
-C03.txt;d;LegalReferences;12
-C03.txt;e;LegalReferences;35
-C03.txt;f;LegalReferences;25
-C03.txt;h;LegalReferences;3
-C03.txt;i;FunctionWords;36
-C03.txt;l;LegalReferences;5
-C03.txt;n;LegalReferences;3
-C03.txt;o;LegalReferences;32
-C03.txt;p;LegalReferences;32
-C03.txt;r;LegalReferences;130
-C03.txt;t;LegalReferences;22
-C03.txt;u;LegalReferences;14
+C03.txt;8;Attributes;2
+C03.txt;9;Attributes;5
+C03.txt;a;FunctionWords;8
+C03.txt;b;LegalReferences;4
+C03.txt;c;LegalReferences;6
+C03.txt;e;LegalReferences;3
+C03.txt;i;FunctionWords;30

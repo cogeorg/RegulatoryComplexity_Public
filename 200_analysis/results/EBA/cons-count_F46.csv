@@ -1,31 +1,27 @@
-F46.txt;financial instrument;EconomicOperands;14
 F46.txt;retained earnings;EconomicOperands;5
 F46.txt;the end of the;MathematicalOperators;1
-F46.txt;classification;EconomicOperands;14
-F46.txt;comprehensive;EconomicOperands;16
+F46.txt;comprehensive;EconomicOperands;18
 F46.txt;consolidation;EconomicOperands;3
 F46.txt;derecognition;EconomicOperands;1
 F46.txt;cancellation;EconomicOperands;7
 F46.txt;credit risk;EconomicOperands;1
 F46.txt;accumulated;EconomicOperands;11
-F46.txt;combination;EconomicOperands;7
 F46.txt;corrections;EconomicOperands;7
-F46.txt;instruments;EconomicOperands;20
+F46.txt;instruments;EconomicOperands;34
 F46.txt;liabilities;EconomicOperands;4
 F46.txt;restatement;EconomicOperands;7
 F46.txt;transferred;EconomicOperands;2
 F46.txt;accounting;EconomicOperands;22
 F46.txt;conversion;EconomicOperands;7
 F46.txt;designated;RegulatoryOperators;1
-F46.txt;difference;EconomicOperands;3
-F46.txt;evaluation;EconomicOperands;5
 F46.txt;expiration;EconomicOperands;7
 F46.txt;preference;EconomicOperands;7
 F46.txt;references;EconomicOperands;30
 F46.txt;beginning;LogicalConnectors;1
-F46.txt;component;EconomicOperands;10
+F46.txt;component;EconomicOperands;1
 F46.txt;directive;EconomicOperands;15
 F46.txt;dividends;EconomicOperands;12
+F46.txt;financial;EconomicOperands;14
 F46.txt;including;LogicalConnectors;1
 F46.txt;interests;EconomicOperands;5
 F46.txt;liability;EconomicOperands;14
@@ -61,123 +57,67 @@ F46.txt;include;EconomicOperands;1
 F46.txt;interim;EconomicOperands;5
 F46.txt;opening;EconomicOperands;15
 F46.txt;premium;EconomicOperands;5
-F46.txt;reserve;EconomicOperands;13
 F46.txt;through;FunctionWords;2
 F46.txt;due to;LogicalConnectors;1
-F46.txt;part i;LegalReferences;7
 F46.txt;amount;EconomicOperands;1
 F46.txt;assets;EconomicOperands;6
 F46.txt;before;LogicalConnectors;7
-F46.txt;effect;EconomicOperands;14
 F46.txt;equity;EconomicOperands;93
 F46.txt;errors;EconomicOperands;7
 F46.txt;income;EconomicOperands;18
-F46.txt;issued;EconomicOperands;10
+F46.txt;issued;EconomicOperands;12
 F46.txt;losses;EconomicOperands;1
 F46.txt;parent;EconomicOperands;5
 F46.txt;period;EconomicOperands;16
 F46.txt;profit;EconomicOperands;6
-F46.txt;source;EconomicOperands;18
 F46.txt;within;LogicalConnectors;1
 F46.txt;among;FunctionWords;8
 F46.txt;based;Other;7
 F46.txt;first;Attributes;3
 F46.txt;other;LogicalConnectors;53
-F46.txt;owner;EconomicOperands;5
 F46.txt;shall;RegulatoryOperators;2
-F46.txt;share;EconomicOperands;45
-F46.txt;table;Other;5
+F46.txt;share;EconomicOperands;12
 F46.txt;total;MathematicalOperators;12
 F46.txt;value;EconomicOperands;6
-F46.txt;12 a;Other;3
-F46.txt;10 c;Other;3
-F46.txt;13 c;Other;3
-F46.txt;19 a;Other;3
 F46.txt;both;LogicalConnectors;1
 F46.txt;each;LogicalConnectors;1
 F46.txt;fair;EconomicOperands;6
 F46.txt;from;FunctionWords;21
-F46.txt;gain;EconomicOperands;1
-F46.txt;item;Other;5
 F46.txt;loss;EconomicOperands;6
-F46.txt;part;FunctionWords;24
+F46.txt;part;FunctionWords;31
 F46.txt;sale;EconomicOperands;7
 F46.txt;than;FunctionWords;5
 F46.txt;that;FunctionWords;1
 F46.txt;upon;EconomicOperands;1
 F46.txt;year;EconomicOperands;7
-F46.txt;3 a;Other;5
-F46.txt;4 a;Other;3
-F46.txt;2 b;Other;6
-F46.txt;3 b;Other;3
-F46.txt;6 b;Other;3
-F46.txt;6 c;Other;3
-F46.txt;9 b;Other;3
-F46.txt;106;LegalReferences;10
 F46.txt;all;LogicalConnectors;1
 F46.txt;and;LogicalConnectors;3
 F46.txt;are;FunctionWords;1
-F46.txt;bad;EconomicOperands;18
+F46.txt;bad;EconomicOperands;33
 F46.txt;for;FunctionWords;8
-F46.txt;iii;LegalReferences;107
+F46.txt;iii;LegalReferences;96
 F46.txt;own;FunctionWords;1
-F46.txt;pre;EconomicOperands;2
-F46.txt;siv;EconomicOperands;2
 F46.txt;the;FunctionWords;18
-F46.txt;11;LegalReferences;5
-F46.txt;12;Attributes;9
-F46.txt;14;LegalReferences;3
-F46.txt;17;LegalReferences;1
-F46.txt;18;LegalReferences;8
-F46.txt;19;LegalReferences;5
-F46.txt;23;Attributes;5
-F46.txt;24;LegalReferences;9
+F46.txt;12;Attributes;3
+F46.txt;13;LegalReferences;3
+F46.txt;19;LegalReferences;8
+F46.txt;22;LegalReferences;3
 F46.txt;30;Attributes;1
 F46.txt;46;LegalReferences;3
-F46.txt;54;LegalReferences;10
-F46.txt;62;Attributes;3
-F46.txt;78;Other;5
-F46.txt;aa;LegalReferences;24
-F46.txt;ab;Other;12
-F46.txt;an;FunctionWords;23
-F46.txt;as;LogicalConnectors;259
-F46.txt;at;FunctionWords;21
-F46.txt;ec;EconomicOperands;1
-F46.txt;he;FunctionWords;2
-F46.txt;if;LogicalConnectors;24
-F46.txt;ii;LegalReferences;20
-F46.txt;in;FunctionWords;25
-F46.txt;is;FunctionWords;2
-F46.txt;it;EconomicOperands;12
-F46.txt;le;MathematicalOperators;12
+F46.txt;at;FunctionWords;3
+F46.txt;ii;LegalReferences;7
+F46.txt;in;FunctionWords;18
 F46.txt;of;FunctionWords;117
-F46.txt;on;FunctionWords;2
-F46.txt;or;LogicalConnectors;41
+F46.txt;or;LogicalConnectors;34
 F46.txt;to;FunctionWords;27
-F46.txt;1;Attributes;31
-F46.txt;2;Attributes;6
-F46.txt;3;Attributes;10
-F46.txt;4;Attributes;35
-F46.txt;5;Attributes;5
-F46.txt;6;Attributes;23
-F46.txt;7;Attributes;12
-F46.txt;8;Attributes;8
-F46.txt;9;Attributes;12
-F46.txt;a;FunctionWords;88
-F46.txt;b;LegalReferences;34
-F46.txt;c;LegalReferences;40
-F46.txt;d;LegalReferences;149
-F46.txt;e;LegalReferences;90
-F46.txt;i;FunctionWords;315
-F46.txt;l;LegalReferences;37
-F46.txt;m;LegalReferences;14
-F46.txt;n;LegalReferences;71
-F46.txt;o;LegalReferences;14
-F46.txt;p;LegalReferences;36
+F46.txt;1;Attributes;28
+F46.txt;4;Attributes;18
+F46.txt;6;Attributes;3
+F46.txt;a;FunctionWords;5
+F46.txt;b;LegalReferences;14
+F46.txt;c;LegalReferences;12
+F46.txt;d;LegalReferences;112
+F46.txt;i;FunctionWords;7
+F46.txt;l;LegalReferences;12
 F46.txt;q;LegalReferences;10
-F46.txt;r;LegalReferences;130
-F46.txt;t;LegalReferences;41
-F46.txt;u;LegalReferences;7
 F46.txt;v;LegalReferences;31
-F46.txt;x;LegalReferences;37
-F46.txt;y;LegalReferences;7

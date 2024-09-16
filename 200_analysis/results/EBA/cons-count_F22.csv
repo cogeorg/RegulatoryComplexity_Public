@@ -1,13 +1,8 @@
-F22.txt;financial instrument;EconomicOperands;6
 F22.txt;in accordance with;LogicalConnectors;1
 F22.txt;foreign exchange;EconomicOperands;7
-F22.txt;service provider;EconomicOperands;1
-F22.txt;for the purpose;FunctionWords;1
 F22.txt;attributable to;FunctionWords;3
-F22.txt;financial asset;EconomicOperands;3
 F22.txt;irrespective of;LogicalConnectors;1
-F22.txt;loan commitment;EconomicOperands;7
-F22.txt;payment service;EconomicOperands;15
+F22.txt;loan commitment;EconomicOperands;1
 F22.txt;in relation to;LogicalConnectors;15
 F22.txt;administration;EconomicOperands;1
 F22.txt;administrative;EconomicOperands;7
@@ -19,16 +14,13 @@ F22.txt;regardless of;LogicalConnectors;1
 F22.txt;discretionary;EconomicOperands;4
 F22.txt;international;EconomicOperands;2
 F22.txt;on behalf of;FunctionWords;1
-F22.txt;foreign bank;EconomicOperands;1
 F22.txt;acquisitions;EconomicOperands;1
-F22.txt;amortization;EconomicOperands;1
 F22.txt;counterparty;EconomicOperands;2
 F22.txt;distributing;EconomicOperands;1
 F22.txt;distribution;EconomicOperands;5
 F22.txt;institutions;EconomicOperands;1
 F22.txt;participates;EconomicOperands;1
 F22.txt;transactions;EconomicOperands;10
-F22.txt;credit card;EconomicOperands;3
 F22.txt;referred to;FunctionWords;1
 F22.txt;acquisition;EconomicOperands;4
 F22.txt;arrangement;EconomicOperands;1
@@ -38,13 +30,12 @@ F22.txt;commissions;EconomicOperands;12
 F22.txt;commodities;EconomicOperands;3
 F22.txt;consequence;EconomicOperands;1
 F22.txt;definitions;EconomicOperands;1
-F22.txt;distinguish;EconomicOperands;1
 F22.txt;distributed;EconomicOperands;9
 F22.txt;exclusively;LogicalConnectors;1
 F22.txt;immediately;Attributes;1
 F22.txt;information;EconomicOperands;3
 F22.txt;institution;EconomicOperands;29
-F22.txt;instruments;EconomicOperands;2
+F22.txt;instruments;EconomicOperands;8
 F22.txt;involvement;EconomicOperands;2
 F22.txt;liabilities;EconomicOperands;3
 F22.txt;measurement;EconomicOperands;1
@@ -52,9 +43,8 @@ F22.txt;origination;EconomicOperands;1
 F22.txt;safekeeping;EconomicOperands;1
 F22.txt;surrounding;EconomicOperands;1
 F22.txt;transaction;EconomicOperands;5
-F22.txt;undertaking;EconomicOperands;5
 F22.txt;as well as;LogicalConnectors;2
-F22.txt;debit card;EconomicOperands;5
+F22.txt;debit card;EconomicOperands;1
 F22.txt;accounting;EconomicOperands;2
 F22.txt;activities;EconomicOperands;11
 F22.txt;applicable;FunctionWords;1
@@ -62,7 +52,6 @@ F22.txt;classified;EconomicOperands;1
 F22.txt;collateral;EconomicOperands;1
 F22.txt;commission;EconomicOperands;46
 F22.txt;considered;EconomicOperands;1
-F22.txt;custodians;EconomicOperands;1
 F22.txt;designated;RegulatoryOperators;1
 F22.txt;difference;EconomicOperands;2
 F22.txt;externally;EconomicOperands;3
@@ -72,8 +61,7 @@ F22.txt;investment;EconomicOperands;23
 F22.txt;management;EconomicOperands;17
 F22.txt;originated;EconomicOperands;2
 F22.txt;prudential;EconomicOperands;2
-F22.txt;recognized;EconomicOperands;2
-F22.txt;redemption;EconomicOperands;1
+F22.txt;recognised;EconomicOperands;3
 F22.txt;references;EconomicOperands;12
 F22.txt;regulation;EconomicOperands;2
 F22.txt;securities;EconomicOperands;16
@@ -89,24 +77,24 @@ F22.txt;compiling;EconomicOperands;1
 F22.txt;concerned;EconomicOperands;1
 F22.txt;corporate;EconomicOperands;13
 F22.txt;customers;EconomicOperands;6
-F22.txt;directive;EconomicOperands;5
+F22.txt;directive;EconomicOperands;4
 F22.txt;documents;EconomicOperands;3
 F22.txt;effective;Other;4
 F22.txt;execution;EconomicOperands;1
 F22.txt;fiduciary;EconomicOperands;8
-F22.txt;financial;EconomicOperands;9
+F22.txt;financial;EconomicOperands;18
 F22.txt;following;FunctionWords;3
 F22.txt;functions;EconomicOperands;4
 F22.txt;generated;EconomicOperands;8
-F22.txt;guarantee;EconomicOperands;7
+F22.txt;guarantee;EconomicOperands;1
 F22.txt;including;LogicalConnectors;2
 F22.txt;initially;LogicalConnectors;2
 F22.txt;insurance;EconomicOperands;4
 F22.txt;investors;EconomicOperands;3
 F22.txt;operating;EconomicOperands;1
-F22.txt;portfolio;EconomicOperands;5
+F22.txt;portfolio;EconomicOperands;1
 F22.txt;preparing;EconomicOperands;1
-F22.txt;providers;EconomicOperands;1
+F22.txt;providers;EconomicOperands;2
 F22.txt;providing;EconomicOperands;3
 F22.txt;receiving;EconomicOperands;1
 F22.txt;repealing;RegulatoryOperators;1
@@ -138,24 +126,22 @@ F22.txt;includes;EconomicOperands;1
 F22.txt;intended;EconomicOperands;2
 F22.txt;interest;EconomicOperands;5
 F22.txt;involved;EconomicOperands;6
-F22.txt;issuance;EconomicOperands;6
+F22.txt;issuance;EconomicOperands;3
 F22.txt;managing;EconomicOperands;1
 F22.txt;measured;EconomicOperands;3
 F22.txt;mortgage;EconomicOperands;1
 F22.txt;national;EconomicOperands;8
 F22.txt;payments;EconomicOperands;3
-F22.txt;platform;EconomicOperands;1
 F22.txt;products;EconomicOperands;10
-F22.txt;prospect;EconomicOperands;1
 F22.txt;provided;LogicalConnectors;12
 F22.txt;provides;EconomicOperands;5
-F22.txt;purposes;EconomicOperands;1
+F22.txt;purposes;EconomicOperands;2
 F22.txt;received;EconomicOperands;8
 F22.txt;receives;EconomicOperands;1
 F22.txt;register;EconomicOperands;1
 F22.txt;reported;EconomicOperands;12
 F22.txt;residual;EconomicOperands;1
-F22.txt;services;EconomicOperands;35
+F22.txt;services;EconomicOperands;49
 F22.txt;transfer;EconomicOperands;4
 F22.txt;treasury;EconomicOperands;3
 F22.txt;that is;LogicalConnectors;1
@@ -170,13 +156,12 @@ F22.txt;capital;EconomicOperands;1
 F22.txt;central;EconomicOperands;6
 F22.txt;charged;EconomicOperands;8
 F22.txt;charges;EconomicOperands;1
-F22.txt;collect;EconomicOperands;20
 F22.txt;council;EconomicOperands;2
 F22.txt;current;FunctionWords;11
 F22.txt;custody;EconomicOperands;18
 F22.txt;expense;EconomicOperands;4
 F22.txt;finance;EconomicOperands;14
-F22.txt;foreign;EconomicOperands;1
+F22.txt;foreign;EconomicOperands;2
 F22.txt;granted;LogicalConnectors;3
 F22.txt;holding;EconomicOperands;1
 F22.txt;include;EconomicOperands;23
@@ -187,33 +172,27 @@ F22.txt;mergers;EconomicOperands;1
 F22.txt;mission;EconomicOperands;1
 F22.txt;network;EconomicOperands;2
 F22.txt;outside;FunctionWords;2
-F22.txt;payment;EconomicOperands;3
-F22.txt;pending;FunctionWords;1
+F22.txt;payment;EconomicOperands;18
 F22.txt;pension;EconomicOperands;4
 F22.txt;private;EconomicOperands;1
 F22.txt;process;EconomicOperands;1
 F22.txt;product;EconomicOperands;7
 F22.txt;related;FunctionWords;11
 F22.txt;reports;EconomicOperands;2
-F22.txt;service;EconomicOperands;3
+F22.txt;service;EconomicOperands;4
 F22.txt;through;FunctionWords;5
 F22.txt;trading;EconomicOperands;3
-F22.txt;vehicle;EconomicOperands;3
 F22.txt;whether;LogicalConnectors;2
-F22.txt;part i;LegalReferences;9
-F22.txt;such a;LogicalConnectors;5
+F22.txt;part i;LegalReferences;6
 F22.txt;acting;EconomicOperands;1
 F22.txt;advice;EconomicOperands;3
 F22.txt;amount;EconomicOperands;4
-F22.txt;assets;EconomicOperands;18
-F22.txt;broker;EconomicOperands;1
+F22.txt;assets;EconomicOperands;21
 F22.txt;cannot;RegulatoryOperators;1
 F22.txt;charge;EconomicOperands;1
-F22.txt;client;EconomicOperands;4
-F22.txt;credit;EconomicOperands;5
+F22.txt;credit;EconomicOperands;8
 F22.txt;during;FunctionWords;2
 F22.txt;entity;EconomicOperands;1
-F22.txt;europe;EconomicOperands;2
 F22.txt;except;LogicalConnectors;1
 F22.txt;income;EconomicOperands;44
 F22.txt;issued;EconomicOperands;7
@@ -222,7 +201,6 @@ F22.txt;linked;EconomicOperands;1
 F22.txt;listed;FunctionWords;1
 F22.txt;losses;EconomicOperands;3
 F22.txt;market;EconomicOperands;2
-F22.txt;nation;EconomicOperands;1
 F22.txt;online;EconomicOperands;1
 F22.txt;orders;EconomicOperands;7
 F22.txt;others;EconomicOperands;2
@@ -235,30 +213,26 @@ F22.txt;among;FunctionWords;1
 F22.txt;asset;EconomicOperands;16
 F22.txt;based;Other;3
 F22.txt;basis;Other;4
-F22.txt;cards;EconomicOperands;4
+F22.txt;cards;EconomicOperands;11
 F22.txt;costs;EconomicOperands;5
-F22.txt;debit;EconomicOperands;3
+F22.txt;debit;EconomicOperands;7
 F22.txt;funds;EconomicOperands;4
 F22.txt;given;FunctionWords;8
 F22.txt;group;EconomicOperands;2
-F22.txt;inter;EconomicOperands;1
 F22.txt;issue;EconomicOperands;3
 F22.txt;loans;EconomicOperands;4
-F22.txt;other;LogicalConnectors;56
+F22.txt;other;LogicalConnectors;55
 F22.txt;refer;EconomicOperands;7
 F22.txt;shall;RegulatoryOperators;52
 F22.txt;shown;EconomicOperands;1
-F22.txt;tends;EconomicOperands;1
 F22.txt;their;FunctionWords;2
 F22.txt;those;FunctionWords;8
-F22.txt;trust;EconomicOperands;3
 F22.txt;under;FunctionWords;6
 F22.txt;using;EconomicOperands;3
 F22.txt;value;EconomicOperands;14
 F22.txt;where;LogicalConnectors;7
 F22.txt;which;FunctionWords;13
 F22.txt;also;LogicalConnectors;1
-F22.txt;base;EconomicOperands;1
 F22.txt;both;LogicalConnectors;1
 F22.txt;card;EconomicOperands;3
 F22.txt;cash;EconomicOperands;1
@@ -266,23 +240,21 @@ F22.txt;fair;EconomicOperands;7
 F22.txt;fees;EconomicOperands;19
 F22.txt;form;EconomicOperands;1
 F22.txt;from;FunctionWords;4
-F22.txt;gain;EconomicOperands;3
+F22.txt;gain;EconomicOperands;1
 F22.txt;held;EconomicOperands;1
-F22.txt;item;Other;5
-F22.txt;late;EconomicOperands;1
+F22.txt;item;Other;4
 F22.txt;life;EconomicOperands;1
-F22.txt;loan;EconomicOperands;8
+F22.txt;loan;EconomicOperands;14
 F22.txt;loss;EconomicOperands;7
 F22.txt;made;FunctionWords;1
 F22.txt;name;EconomicOperands;1
-F22.txt;note;EconomicOperands;2
 F22.txt;over;MathematicalOperators;1
-F22.txt;part;FunctionWords;139
-F22.txt;rise;Other;2
+F22.txt;part;FunctionWords;142
 F22.txt;risk;EconomicOperands;1
 F22.txt;same;FunctionWords;1
 F22.txt;sell;EconomicOperands;1
 F22.txt;side;EconomicOperands;2
+F22.txt;such;FunctionWords;5
 F22.txt;than;FunctionWords;2
 F22.txt;that;FunctionWords;8
 F22.txt;they;FunctionWords;1
@@ -290,92 +262,65 @@ F22.txt;this;FunctionWords;6
 F22.txt;type;EconomicOperands;16
 F22.txt;used;EconomicOperands;1
 F22.txt;with;FunctionWords;3
-F22.txt;5 b;Other;3
-F22.txt;5 i;Other;3
-F22.txt;f 2;Other;1
-F22.txt;l 2;Other;3
 F22.txt;110;LegalReferences;1
-F22.txt;act;LegalReferences;1
 F22.txt;all;LogicalConnectors;4
-F22.txt;and;LogicalConnectors;114
+F22.txt;and;LogicalConnectors;113
 F22.txt;any;LogicalConnectors;1
 F22.txt;are;FunctionWords;6
-F22.txt;ask;EconomicOperands;1
 F22.txt;bad;EconomicOperands;7
-F22.txt;bid;EconomicOperands;1
-F22.txt;but;LogicalConnectors;12
+F22.txt;but;LogicalConnectors;11
 F22.txt;buy;EconomicOperands;1
 F22.txt;can;FunctionWords;1
 F22.txt;fee;EconomicOperands;48
-F22.txt;for;FunctionWords;29
-F22.txt;her;FunctionWords;1
+F22.txt;for;FunctionWords;30
 F22.txt;may;FunctionWords;2
 F22.txt;net;EconomicOperands;6
 F22.txt;non;LogicalConnectors;1
-F22.txt;not;LogicalConnectors;18
-F22.txt;out;EconomicOperands;5
+F22.txt;not;LogicalConnectors;19
+F22.txt;out;EconomicOperands;2
 F22.txt;own;FunctionWords;2
-F22.txt;the;FunctionWords;113
+F22.txt;the;FunctionWords;114
 F22.txt;use;EconomicOperands;1
 F22.txt;via;FunctionWords;2
 F22.txt;21;LegalReferences;1
 F22.txt;22;LegalReferences;3
+F22.txt;25;Attributes;1
 F22.txt;27;LegalReferences;3
-F22.txt;28;LegalReferences;49
 F22.txt;35;Attributes;1
 F22.txt;36;LegalReferences;1
 F22.txt;65;Attributes;1
-F22.txt;aa;LegalReferences;8
-F22.txt;an;FunctionWords;150
-F22.txt;as;LogicalConnectors;11
-F22.txt;at;FunctionWords;15
-F22.txt;be;FunctionWords;24
+F22.txt;an;FunctionWords;1
+F22.txt;as;LogicalConnectors;13
+F22.txt;at;FunctionWords;8
+F22.txt;be;FunctionWords;23
 F22.txt;by;FunctionWords;40
-F22.txt;ec;EconomicOperands;8
-F22.txt;he;FunctionWords;1
-F22.txt;if;LogicalConnectors;13
-F22.txt;ii;LegalReferences;5
-F22.txt;in;FunctionWords;26
-F22.txt;is;FunctionWords;10
-F22.txt;it;EconomicOperands;6
-F22.txt;iv;LegalReferences;20
-F22.txt;le;MathematicalOperators;4
-F22.txt;no;LogicalConnectors;3
-F22.txt;of;FunctionWords;71
-F22.txt;on;FunctionWords;19
-F22.txt;or;LogicalConnectors;32
-F22.txt;pe;EconomicOperands;1
+F22.txt;in;FunctionWords;20
+F22.txt;is;FunctionWords;5
+F22.txt;it;EconomicOperands;2
+F22.txt;no;LogicalConnectors;1
+F22.txt;of;FunctionWords;72
+F22.txt;on;FunctionWords;16
+F22.txt;or;LogicalConnectors;27
 F22.txt;to;FunctionWords;35
-F22.txt;tr;EconomicOperands;2
-F22.txt;us;EconomicOperands;1
-F22.txt;1;Attributes;1
-F22.txt;2;Attributes;1
-F22.txt;3;Attributes;3
-F22.txt;4;Attributes;9
-F22.txt;5;Attributes;41
-F22.txt;6;Attributes;1
-F22.txt;7;Attributes;8
-F22.txt;8;Attributes;3
-F22.txt;9;Attributes;10
-F22.txt;a;FunctionWords;44
-F22.txt;b;LegalReferences;16
-F22.txt;c;LegalReferences;34
-F22.txt;d;LegalReferences;22
-F22.txt;e;LegalReferences;231
-F22.txt;f;LegalReferences;20
-F22.txt;h;LegalReferences;9
-F22.txt;i;FunctionWords;20
-F22.txt;j;LegalReferences;20
+F22.txt;5;Attributes;3
+F22.txt;9;Attributes;2
+F22.txt;a;FunctionWords;21
+F22.txt;b;LegalReferences;12
+F22.txt;c;LegalReferences;16
+F22.txt;d;LegalReferences;8
+F22.txt;e;LegalReferences;8
+F22.txt;f;LegalReferences;8
+F22.txt;h;LegalReferences;4
+F22.txt;i;FunctionWords;4
+F22.txt;j;LegalReferences;19
 F22.txt;k;LegalReferences;22
-F22.txt;l;LegalReferences;20
-F22.txt;m;LegalReferences;23
-F22.txt;n;LegalReferences;169
-F22.txt;o;LegalReferences;19
-F22.txt;p;LegalReferences;26
-F22.txt;q;LegalReferences;8
-F22.txt;r;LegalReferences;37
-F22.txt;t;LegalReferences;17
-F22.txt;u;LegalReferences;13
-F22.txt;v;LegalReferences;148
-F22.txt;x;LegalReferences;146
-F22.txt;y;LegalReferences;4
+F22.txt;l;LegalReferences;13
+F22.txt;m;LegalReferences;9
+F22.txt;n;LegalReferences;4
+F22.txt;o;LegalReferences;6
+F22.txt;p;LegalReferences;7
+F22.txt;q;LegalReferences;7
+F22.txt;r;LegalReferences;4
+F22.txt;t;LegalReferences;4
+F22.txt;u;LegalReferences;6
+F22.txt;v;LegalReferences;144

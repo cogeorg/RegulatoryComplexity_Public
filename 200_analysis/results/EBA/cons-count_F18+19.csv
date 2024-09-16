@@ -4,50 +4,39 @@ F18+19.txt;in the context of;FunctionWords;1
 F18+19.txt;with reference to;LogicalConnectors;1
 F18+19.txt;off-balance sheet;EconomicOperands;21
 F18+19.txt;the same meaning;LogicalConnectors;1
-F18+19.txt;for the purpose;FunctionWords;4
-F18+19.txt;financial asset;EconomicOperands;102
+F18+19.txt;financial asset;EconomicOperands;1
 F18+19.txt;irrespective of;LogicalConnectors;1
-F18+19.txt;loan commitment;EconomicOperands;26
 F18+19.txt;the end of the;MathematicalOperators;2
-F18+19.txt;classification;EconomicOperands;8
+F18+19.txt;categorisation;EconomicOperands;2
+F18+19.txt;classification;EconomicOperands;6
 F18+19.txt;recommendation;EconomicOperands;3
 F18+19.txt;the amount of;MathematicalOperators;8
 F18+19.txt;the number of;MathematicalOperators;1
-F18+19.txt;balance sheet;EconomicOperands;3
+F18+19.txt;balance sheet;EconomicOperands;2
 F18+19.txt;regardless of;LogicalConnectors;2
 F18+19.txt;systemic risk;EconomicOperands;1
 F18+19.txt;circumstances;EconomicOperands;1
 F18+19.txt;comprehensive;EconomicOperands;25
 F18+19.txt;derecognition;EconomicOperands;2
 F18+19.txt;modifications;EconomicOperands;29
-F18+19.txt;central bank;EconomicOperands;200
-F18+19.txt;paragraph 11;LegalReferences;2
 F18+19.txt;paragraph 15;LegalReferences;2
 F18+19.txt;paragraph 16;LegalReferences;2
-F18+19.txt;paragraph 17;LegalReferences;1
-F18+19.txt;paragraph 22;LegalReferences;1
-F18+19.txt;paragraph 23;LegalReferences;5
 F18+19.txt;counterparty;EconomicOperands;6
 F18+19.txt;experiencing;EconomicOperands;1
 F18+19.txt;institutions;EconomicOperands;176
 F18+19.txt;modification;EconomicOperands;3
+F18+19.txt;nonfinancial;EconomicOperands;16
 F18+19.txt;respectively;LogicalConnectors;1
-F18+19.txt;section 2 c;LegalReferences;2
 F18+19.txt;credit risk;EconomicOperands;310
 F18+19.txt;in addition;LogicalConnectors;1
 F18+19.txt;paragraph 1;LegalReferences;2
-F18+19.txt;paragraph 2;LegalReferences;7
-F18+19.txt;paragraph 3;LegalReferences;2
-F18+19.txt;paragraph 8;LegalReferences;2
-F18+19.txt;paragraph 9;LegalReferences;2
 F18+19.txt;referred to;FunctionWords;6
 F18+19.txt;accumulated;EconomicOperands;404
 F18+19.txt;application;EconomicOperands;3
 F18+19.txt;calculation;EconomicOperands;1
 F18+19.txt;consecutive;EconomicOperands;1
-F18+19.txt;corporation;EconomicOperands;372
 F18+19.txt;designation;EconomicOperands;3
-F18+19.txt;discontinue;EconomicOperands;3
+F18+19.txt;discontinue;EconomicOperands;2
 F18+19.txt;forbearance;EconomicOperands;266
 F18+19.txt;governments;EconomicOperands;176
 F18+19.txt;information;EconomicOperands;13
@@ -73,11 +62,10 @@ F18+19.txt;accounting;EconomicOperands;13
 F18+19.txt;additional;MathematicalOperators;4
 F18+19.txt;applicable;FunctionWords;8
 F18+19.txt;calculated;EconomicOperands;3
-F18+19.txt;classified;EconomicOperands;46
-F18+19.txt;collateral;EconomicOperands;335
+F18+19.txt;classified;EconomicOperands;18
+F18+19.txt;collateral;EconomicOperands;190
 F18+19.txt;commercial;EconomicOperands;124
 F18+19.txt;commission;EconomicOperands;1
-F18+19.txt;commitment;EconomicOperands;17
 F18+19.txt;comparison;EconomicOperands;1
 F18+19.txt;conditions;EconomicOperands;66
 F18+19.txt;considered;EconomicOperands;60
@@ -86,15 +74,14 @@ F18+19.txt;cumulative;EconomicOperands;2
 F18+19.txt;derivative;EconomicOperands;7
 F18+19.txt;designated;RegulatoryOperators;4
 F18+19.txt;discretion;EconomicOperands;1
-F18+19.txt;enterprise;EconomicOperands;85
 F18+19.txt;identified;FunctionWords;10
-F18+19.txt;impairment;EconomicOperands;276
+F18+19.txt;impairment;EconomicOperands;272
 F18+19.txt;individual;EconomicOperands;3
 F18+19.txt;instrument;EconomicOperands;1
 F18+19.txt;likelihood;EconomicOperands;2
 F18+19.txt;liquidated;EconomicOperands;1
 F18+19.txt;originated;EconomicOperands;89
-F18+19.txt;performing;EconomicOperands;567
+F18+19.txt;performing;EconomicOperands;497
 F18+19.txt;pertaining;EconomicOperands;1
 F18+19.txt;possession;EconomicOperands;1
 F18+19.txt;procedures;EconomicOperands;2
@@ -108,6 +95,7 @@ F18+19.txt;securities;EconomicOperands;69
 F18+19.txt;separately;EconomicOperands;6
 F18+19.txt;listed in;Other;6
 F18+19.txt;more than;LogicalConnectors;5
+F18+19.txt;section 2;LegalReferences;2
 F18+19.txt;allocated;EconomicOperands;2
 F18+19.txt;beginning;LogicalConnectors;3
 F18+19.txt;continued;EconomicOperands;1
@@ -122,17 +110,16 @@ F18+19.txt;excluding;LogicalConnectors;1
 F18+19.txt;executing;EconomicOperands;1
 F18+19.txt;existence;EconomicOperands;1
 F18+19.txt;extension;EconomicOperands;3
-F18+19.txt;financial;EconomicOperands;533
+F18+19.txt;financial;EconomicOperands;572
 F18+19.txt;following;FunctionWords;13
 F18+19.txt;framework;EconomicOperands;7
-F18+19.txt;guarantee;EconomicOperands;189
-F18+19.txt;household;EconomicOperands;111
+F18+19.txt;guarantee;EconomicOperands;45
 F18+19.txt;incidence;EconomicOperands;1
 F18+19.txt;including;LogicalConnectors;10
 F18+19.txt;liability;EconomicOperands;1
-F18+19.txt;paragraph;LegalReferences;11
+F18+19.txt;paragraph;LegalReferences;22
 F18+19.txt;partially;EconomicOperands;2
-F18+19.txt;portfolio;EconomicOperands;6
+F18+19.txt;portfolio;EconomicOperands;3
 F18+19.txt;principal;EconomicOperands;1
 F18+19.txt;purchased;EconomicOperands;90
 F18+19.txt;qualifies;EconomicOperands;1
@@ -142,7 +129,6 @@ F18+19.txt;repayment;EconomicOperands;3
 F18+19.txt;reporting;EconomicOperands;3
 F18+19.txt;resulting;EconomicOperands;2
 F18+19.txt;specified;RegulatoryOperators;1
-F18+19.txt;surrender;EconomicOperands;1
 F18+19.txt;threshold;EconomicOperands;2
 F18+19.txt;unrelated;EconomicOperands;1
 F18+19.txt;voluntary;EconomicOperands;2
@@ -153,32 +139,29 @@ F18+19.txt;one year;Attributes;1
 F18+19.txt;advances;EconomicOperands;83
 F18+19.txt;affected;EconomicOperands;1
 F18+19.txt;appendix;EconomicOperands;62
-F18+19.txt;approach;EconomicOperands;3
+F18+19.txt;approach;EconomicOperands;2
 F18+19.txt;approves;RegulatoryOperators;1
 F18+19.txt;assessed;EconomicOperands;5
 F18+19.txt;balances;EconomicOperands;24
 F18+19.txt;carrying;EconomicOperands;145
 F18+19.txt;category;EconomicOperands;14
-F18+19.txt;commence;EconomicOperands;1
-F18+19.txt;conclude;EconomicOperands;1
 F18+19.txt;consider;EconomicOperands;1
 F18+19.txt;continue;EconomicOperands;3
 F18+19.txt;contract;EconomicOperands;3
 F18+19.txt;criteria;EconomicOperands;9
 F18+19.txt;decrease;MathematicalOperators;2
-F18+19.txt;delegate;EconomicOperands;1
 F18+19.txt;deposits;EconomicOperands;24
 F18+19.txt;disputes;EconomicOperands;1
 F18+19.txt;entities;EconomicOperands;1
 F18+19.txt;excluded;EconomicOperands;1
 F18+19.txt;exercise;EconomicOperands;1
-F18+19.txt;exposure;EconomicOperands;545
+F18+19.txt;exposure;EconomicOperands;42
 F18+19.txt;extended;EconomicOperands;2
 F18+19.txt;granting;RegulatoryOperators;1
 F18+19.txt;included;EconomicOperands;8
 F18+19.txt;increase;MathematicalOperators;130
 F18+19.txt;interest;EconomicOperands;3
-F18+19.txt;material;EconomicOperands;5
+F18+19.txt;material;EconomicOperands;2
 F18+19.txt;measured;EconomicOperands;6
 F18+19.txt;measures;EconomicOperands;225
 F18+19.txt;moderate;EconomicOperands;1
@@ -192,6 +175,7 @@ F18+19.txt;occurred;EconomicOperands;2
 F18+19.txt;original;EconomicOperands;1
 F18+19.txt;property;EconomicOperands;172
 F18+19.txt;provided;LogicalConnectors;4
+F18+19.txt;purposes;EconomicOperands;4
 F18+19.txt;received;EconomicOperands;271
 F18+19.txt;referred;EconomicOperands;1
 F18+19.txt;relevant;Attributes;4
@@ -200,10 +184,9 @@ F18+19.txt;separate;EconomicOperands;4
 F18+19.txt;solvency;EconomicOperands;1
 F18+19.txt;troubled;EconomicOperands;1
 F18+19.txt;unlikely;EconomicOperands;50
-F18+19.txt;180 day;Attributes;100
 F18+19.txt;in case;LogicalConnectors;3
 F18+19.txt;in that;LogicalConnectors;2
-F18+19.txt;of debt;EconomicOperands;2
+F18+19.txt;of debt;EconomicOperands;3
 F18+19.txt;that is;LogicalConnectors;1
 F18+19.txt;account;EconomicOperands;1
 F18+19.txt;accrued;EconomicOperands;1
@@ -215,7 +198,9 @@ F18+19.txt;article;EconomicOperands;26
 F18+19.txt;becomes;EconomicOperands;1
 F18+19.txt;between;FunctionWords;1
 F18+19.txt;ceasing;EconomicOperands;1
+F18+19.txt;central;EconomicOperands;200
 F18+19.txt;changes;EconomicOperands;181
+F18+19.txt;chapter;Other;2
 F18+19.txt;clauses;EconomicOperands;3
 F18+19.txt;closing;EconomicOperands;3
 F18+19.txt;current;FunctionWords;4
@@ -234,7 +219,6 @@ F18+19.txt;obligor;EconomicOperands;2
 F18+19.txt;overall;LogicalConnectors;1
 F18+19.txt;partial;EconomicOperands;4
 F18+19.txt;payment;EconomicOperands;1
-F18+19.txt;pending;FunctionWords;1
 F18+19.txt;present;FunctionWords;2
 F18+19.txt;provide;EconomicOperands;2
 F18+19.txt;reflect;EconomicOperands;2
@@ -248,22 +232,15 @@ F18+19.txt;treated;EconomicOperands;4
 F18+19.txt;whether;LogicalConnectors;1
 F18+19.txt;without;FunctionWords;44
 F18+19.txt;written;EconomicOperands;2
-F18+19.txt;2 year;Attributes;100
-F18+19.txt;30 day;Attributes;74
-F18+19.txt;5 year;Attributes;100
-F18+19.txt;7 year;Attributes;100
-F18+19.txt;90 day;Attributes;151
-F18+19.txt;as for;LogicalConnectors;7
+F18+19.txt;2 year;Attributes;75
+F18+19.txt;5 year;Attributes;75
 F18+19.txt;due to;LogicalConnectors;188
-F18+19.txt;part i;LegalReferences;2
-F18+19.txt;such a;LogicalConnectors;1
 F18+19.txt;amount;EconomicOperands;312
-F18+19.txt;assets;EconomicOperands;11
+F18+19.txt;assets;EconomicOperands;112
 F18+19.txt;become;EconomicOperands;2
-F18+19.txt;breach;EconomicOperands;1
 F18+19.txt;change;EconomicOperands;2
 F18+19.txt;comply;RegulatoryOperators;1
-F18+19.txt;credit;EconomicOperands;467
+F18+19.txt;credit;EconomicOperands;328
 F18+19.txt;debtor;EconomicOperands;17
 F18+19.txt;deemed;RegulatoryOperators;1
 F18+19.txt;demand;EconomicOperands;24
@@ -274,20 +251,16 @@ F18+19.txt;ensure;RegulatoryOperators;1
 F18+19.txt;entire;LogicalConnectors;2
 F18+19.txt;equity;EconomicOperands;51
 F18+19.txt;estate;EconomicOperands;43
-F18+19.txt;europe;EconomicOperands;1
 F18+19.txt;except;LogicalConnectors;3
 F18+19.txt;groups;EconomicOperands;1
 F18+19.txt;higher;LogicalConnectors;90
 F18+19.txt;impact;EconomicOperands;2
-F18+19.txt;impair;EconomicOperands;253
 F18+19.txt;income;EconomicOperands;25
 F18+19.txt;larger;LogicalConnectors;1
-F18+19.txt;medium;EconomicOperands;85
+F18+19.txt;medium;EconomicOperands;78
 F18+19.txt;method;EconomicOperands;2
 F18+19.txt;period;EconomicOperands;5
 F18+19.txt;profit;EconomicOperands;32
-F18+19.txt;reason;EconomicOperands;1
-F18+19.txt;regard;EconomicOperands;1
 F18+19.txt;repaid;EconomicOperands;2
 F18+19.txt;sector;EconomicOperands;4
 F18+19.txt;should;RegulatoryOperators;1
@@ -298,19 +271,17 @@ F18+19.txt;unless;LogicalConnectors;1
 F18+19.txt;within;LogicalConnectors;5
 F18+19.txt;after;LogicalConnectors;2
 F18+19.txt;asset;EconomicOperands;3
-F18+19.txt;banks;EconomicOperands;1
+F18+19.txt;banks;EconomicOperands;201
 F18+19.txt;based;Other;3
 F18+19.txt;basis;Other;6
 F18+19.txt;being;FunctionWords;3
 F18+19.txt;board;EconomicOperands;1
-F18+19.txt;borne;FunctionWords;54
-F18+19.txt;cease;EconomicOperands;4
-F18+19.txt;count;EconomicOperands;1
+F18+19.txt;cease;EconomicOperands;1
 F18+19.txt;found;Other;1
 F18+19.txt;given;FunctionWords;57
 F18+19.txt;gross;EconomicOperands;140
 F18+19.txt;group;EconomicOperands;2
-F18+19.txt;house;EconomicOperands;15
+F18+19.txt;house;EconomicOperands;8
 F18+19.txt;legal;EconomicOperands;2
 F18+19.txt;level;EconomicOperands;1
 F18+19.txt;loans;EconomicOperands;388
@@ -318,12 +289,12 @@ F18+19.txt;other;LogicalConnectors;291
 F18+19.txt;place;EconomicOperands;1
 F18+19.txt;point;EconomicOperands;4
 F18+19.txt;prior;EconomicOperands;21
-F18+19.txt;ratio;LogicalConnectors;102
+F18+19.txt;ratio;LogicalConnectors;94
 F18+19.txt;shall;RegulatoryOperators;109
 F18+19.txt;shown;EconomicOperands;1
 F18+19.txt;since;LogicalConnectors;131
 F18+19.txt;small;EconomicOperands;85
-F18+19.txt;stage;EconomicOperands;175
+F18+19.txt;stage;EconomicOperands;174
 F18+19.txt;still;LogicalConnectors;2
 F18+19.txt;swaps;EconomicOperands;2
 F18+19.txt;taken;Other;1
@@ -332,222 +303,139 @@ F18+19.txt;their;FunctionWords;60
 F18+19.txt;there;FunctionWords;2
 F18+19.txt;those;FunctionWords;8
 F18+19.txt;times;EconomicOperands;1
-F18+19.txt;total;MathematicalOperators;6
+F18+19.txt;total;MathematicalOperators;4
 F18+19.txt;under;FunctionWords;46
 F18+19.txt;until;LogicalConnectors;3
-F18+19.txt;value;EconomicOperands;243
+F18+19.txt;value;EconomicOperands;242
 F18+19.txt;where;LogicalConnectors;26
 F18+19.txt;which;FunctionWords;831
-F18+19.txt;13 c;Other;6
-F18+19.txt;18 a;Other;2
-F18+19.txt;39 c;Other;2
-F18+19.txt;4 th;Other;1
-F18+19.txt;78 c;Other;8
-F18+19.txt;able;EconomicOperands;174
+F18+19.txt;years;EconomicOperands;150
 F18+19.txt;also;LogicalConnectors;5
 F18+19.txt;been;FunctionWords;9
 F18+19.txt;both;LogicalConnectors;5
-F18+19.txt;case;EconomicOperands;2
-F18+19.txt;cash;EconomicOperands;24
+F18+19.txt;cash;EconomicOperands;26
 F18+19.txt;cost;EconomicOperands;50
 F18+19.txt;data;EconomicOperands;3
 F18+19.txt;date;EconomicOperands;4
-F18+19.txt;days;Attributes;2
-F18+19.txt;debt;EconomicOperands;211
+F18+19.txt;days;Attributes;327
+F18+19.txt;debt;EconomicOperands;209
 F18+19.txt;down;FunctionWords;7
 F18+19.txt;each;LogicalConnectors;1
 F18+19.txt;fair;EconomicOperands;241
 F18+19.txt;fees;EconomicOperands;1
-F18+19.txt;flow;EconomicOperands;38
 F18+19.txt;from;FunctionWords;35
 F18+19.txt;full;EconomicOperands;3
 F18+19.txt;have;FunctionWords;12
 F18+19.txt;held;EconomicOperands;60
-F18+19.txt;hold;EconomicOperands;15
 F18+19.txt;into;FunctionWords;4
-F18+19.txt;item;Other;1
-F18+19.txt;late;EconomicOperands;19
-F18+19.txt;lead;EconomicOperands;1
-F18+19.txt;loan;EconomicOperands;2
-F18+19.txt;long;EconomicOperands;1
+F18+19.txt;loan;EconomicOperands;28
 F18+19.txt;loss;EconomicOperands;32
 F18+19.txt;made;FunctionWords;3
-F18+19.txt;mean;Other;4
-F18+19.txt;meet;EconomicOperands;6
+F18+19.txt;mean;Other;3
+F18+19.txt;meet;EconomicOperands;3
 F18+19.txt;most;FunctionWords;1
 F18+19.txt;need;EconomicOperands;1
-F18+19.txt;once;FunctionWords;4
+F18+19.txt;once;FunctionWords;1
 F18+19.txt;only;LogicalConnectors;3
 F18+19.txt;paid;EconomicOperands;2
-F18+19.txt;part;FunctionWords;4506
-F18+19.txt;past;FunctionWords;518
+F18+19.txt;part;FunctionWords;4507
+F18+19.txt;past;FunctionWords;497
 F18+19.txt;pool;EconomicOperands;1
 F18+19.txt;real;EconomicOperands;43
-F18+19.txt;rise;Other;7
 F18+19.txt;risk;EconomicOperands;1
 F18+19.txt;sale;EconomicOperands;32
-F18+19.txt;size;EconomicOperands;85
 F18+19.txt;sold;EconomicOperands;1
-F18+19.txt;take;FunctionWords;1
+F18+19.txt;such;FunctionWords;1
 F18+19.txt;than;FunctionWords;194
 F18+19.txt;that;FunctionWords;131
 F18+19.txt;then;LogicalConnectors;1
 F18+19.txt;they;FunctionWords;3
 F18+19.txt;this;FunctionWords;38
 F18+19.txt;time;EconomicOperands;3
-F18+19.txt;type;EconomicOperands;1
 F18+19.txt;upon;EconomicOperands;1
 F18+19.txt;used;EconomicOperands;2
-F18+19.txt;viii;LegalReferences;139
 F18+19.txt;well;Attributes;2
 F18+19.txt;were;FunctionWords;5
 F18+19.txt;with;FunctionWords;444
 F18+19.txt;year;EconomicOperands;103
-F18+19.txt;1 a;Other;217
-F18+19.txt;2 a;Other;45
-F18+19.txt;3 a;Other;48
-F18+19.txt;4 a;Other;20
-F18+19.txt;5 a;Other;67
-F18+19.txt;6 a;Other;183
-F18+19.txt;8 a;Other;466
-F18+19.txt;9 a;Other;290
-F18+19.txt;2 c;Other;1
-F18+19.txt;3 c;Other;33
-F18+19.txt;4 c;Other;2
-F18+19.txt;4 i;Other;6
-F18+19.txt;5 c;Other;7
-F18+19.txt;5 i;Other;21
-F18+19.txt;6 c;Other;129
-F18+19.txt;6 f;Other;2
-F18+19.txt;8 e;Other;1
-F18+19.txt;a 2;Other;151
-F18+19.txt;a 7;Other;27
-F18+19.txt;b 2;Other;171
-F18+19.txt;c 2;Other;20
-F18+19.txt;d 1;Other;4
-F18+19.txt;e 2;Other;1
+F18+19.txt;9 a;Other;1
 F18+19.txt;100;Attributes;60
 F18+19.txt;105;LegalReferences;50
-F18+19.txt;113;LegalReferences;26
-F18+19.txt;115;LegalReferences;14
-F18+19.txt;215;LegalReferences;1
-F18+19.txt;217;LegalReferences;15
+F18+19.txt;106;LegalReferences;2
+F18+19.txt;110;LegalReferences;1
+F18+19.txt;113;LegalReferences;32
+F18+19.txt;115;LegalReferences;20
+F18+19.txt;180;Attributes;100
+F18+19.txt;215;LegalReferences;2
+F18+19.txt;217;LegalReferences;1
 F18+19.txt;220;LegalReferences;1
-F18+19.txt;aid;EconomicOperands;3
 F18+19.txt;all;LogicalConnectors;11
-F18+19.txt;and;LogicalConnectors;628
+F18+19.txt;and;LogicalConnectors;632
 F18+19.txt;any;LogicalConnectors;10
-F18+19.txt;app;LegalReferences;3
 F18+19.txt;are;FunctionWords;86
-F18+19.txt;ass;Other;3
 F18+19.txt;bad;EconomicOperands;129
 F18+19.txt;but;LogicalConnectors;87
 F18+19.txt;can;FunctionWords;46
-F18+19.txt;doe;EconomicOperands;1
-F18+19.txt;due;Attributes;517
-F18+19.txt;for;FunctionWords;207
-F18+19.txt;gap;EconomicOperands;3
-F18+19.txt;ifi;EconomicOperands;29
-F18+19.txt;iii;LegalReferences;9
+F18+19.txt;due;Attributes;497
+F18+19.txt;for;FunctionWords;166
+F18+19.txt;iii;LegalReferences;3
 F18+19.txt;led;EconomicOperands;1
 F18+19.txt;may;FunctionWords;1
 F18+19.txt;met;FunctionWords;9
 F18+19.txt;new;EconomicOperands;4
-F18+19.txt;non;LogicalConnectors;607
+F18+19.txt;non;LogicalConnectors;521
 F18+19.txt;nor;LogicalConnectors;2
 F18+19.txt;not;LogicalConnectors;200
-F18+19.txt;off;FunctionWords;4
+F18+19.txt;off;FunctionWords;2
 F18+19.txt;one;FunctionWords;1
-F18+19.txt;out;EconomicOperands;25
+F18+19.txt;out;EconomicOperands;5
 F18+19.txt;pay;EconomicOperands;50
-F18+19.txt;per;FunctionWords;18
-F18+19.txt;seq;LegalReferences;1
-F18+19.txt;sum;EconomicOperands;75
-F18+19.txt;the;FunctionWords;245
+F18+19.txt;sum;EconomicOperands;5
+F18+19.txt;the;FunctionWords;249
 F18+19.txt;use;EconomicOperands;1
 F18+19.txt;via;FunctionWords;1
-F18+19.txt;vii;LegalReferences;62
-F18+19.txt;10;Attributes;4
-F18+19.txt;11;LegalReferences;111
-F18+19.txt;13;LegalReferences;87
+F18+19.txt;11;LegalReferences;2
 F18+19.txt;14;LegalReferences;1
-F18+19.txt;15;Attributes;1
-F18+19.txt;16;LegalReferences;84
-F18+19.txt;17;LegalReferences;67
-F18+19.txt;18;LegalReferences;10
-F18+19.txt;19;LegalReferences;11
-F18+19.txt;20;Attributes;67
-F18+19.txt;21;LegalReferences;1
-F18+19.txt;22;LegalReferences;534
-F18+19.txt;23;Attributes;2137
-F18+19.txt;24;LegalReferences;250
-F18+19.txt;25;Attributes;207
+F18+19.txt;17;LegalReferences;1
+F18+19.txt;18;LegalReferences;12
+F18+19.txt;19;LegalReferences;10
+F18+19.txt;20;Attributes;1
+F18+19.txt;30;Attributes;74
 F18+19.txt;31;Attributes;2
-F18+19.txt;35;Attributes;210
-F18+19.txt;39;LegalReferences;197
-F18+19.txt;44;LegalReferences;192
-F18+19.txt;45;Attributes;1
-F18+19.txt;47;LegalReferences;290
-F18+19.txt;49;LegalReferences;22
-F18+19.txt;60;Attributes;35
-F18+19.txt;62;Attributes;2
-F18+19.txt;65;Attributes;55
-F18+19.txt;68;LegalReferences;28
-F18+19.txt;90;Attributes;1
-F18+19.txt;aa;LegalReferences;228
-F18+19.txt;an;FunctionWords;3197
-F18+19.txt;as;LogicalConnectors;84
-F18+19.txt;at;FunctionWords;354
-F18+19.txt;be;FunctionWords;210
+F18+19.txt;60;Attributes;30
+F18+19.txt;90;Attributes;152
+F18+19.txt;an;FunctionWords;13
+F18+19.txt;as;LogicalConnectors;78
+F18+19.txt;at;FunctionWords;149
+F18+19.txt;be;FunctionWords;145
 F18+19.txt;by;FunctionWords;188
 F18+19.txt;do;FunctionWords;2
-F18+19.txt;ec;EconomicOperands;4
-F18+19.txt;et;Other;27
-F18+19.txt;go;FunctionWords;6
-F18+19.txt;ha;Other;2
-F18+19.txt;if;LogicalConnectors;659
-F18+19.txt;ii;LegalReferences;4
-F18+19.txt;in;FunctionWords;590
-F18+19.txt;is;FunctionWords;214
-F18+19.txt;it;EconomicOperands;8
-F18+19.txt;iv;LegalReferences;8
-F18+19.txt;ix;LegalReferences;8
-F18+19.txt;le;MathematicalOperators;194
-F18+19.txt;no;LogicalConnectors;116
-F18+19.txt;of;FunctionWords;1068
-F18+19.txt;on;FunctionWords;417
-F18+19.txt;or;LogicalConnectors;502
-F18+19.txt;to;FunctionWords;164
-F18+19.txt;tr;EconomicOperands;26
-F18+19.txt;vi;EconomicOperands;242
-F18+19.txt;xi;LegalReferences;1
-F18+19.txt;1;Attributes;430
-F18+19.txt;2;Attributes;2765
-F18+19.txt;3;Attributes;336
-F18+19.txt;4;Attributes;398
-F18+19.txt;5;Attributes;337
-F18+19.txt;6;Attributes;850
-F18+19.txt;7;Attributes;1107
-F18+19.txt;8;Attributes;550
-F18+19.txt;9;Attributes;458
-F18+19.txt;a;FunctionWords;2023
-F18+19.txt;b;LegalReferences;971
-F18+19.txt;c;LegalReferences;1114
-F18+19.txt;d;LegalReferences;925
-F18+19.txt;e;LegalReferences;5871
-F18+19.txt;f;LegalReferences;269
-F18+19.txt;h;LegalReferences;12
-F18+19.txt;i;FunctionWords;960
-F18+19.txt;j;LegalReferences;1
-F18+19.txt;k;LegalReferences;5
-F18+19.txt;l;LegalReferences;486
-F18+19.txt;m;LegalReferences;1057
-F18+19.txt;n;LegalReferences;6019
-F18+19.txt;o;LegalReferences;521
-F18+19.txt;p;LegalReferences;526
-F18+19.txt;r;LegalReferences;2256
-F18+19.txt;t;LegalReferences;795
-F18+19.txt;u;LegalReferences;82
-F18+19.txt;v;LegalReferences;4604
-F18+19.txt;x;LegalReferences;4478
-F18+19.txt;y;LegalReferences;7
+F18+19.txt;if;LogicalConnectors;1
+F18+19.txt;ii;LegalReferences;3
+F18+19.txt;in;FunctionWords;431
+F18+19.txt;is;FunctionWords;15
+F18+19.txt;it;EconomicOperands;1
+F18+19.txt;iv;LegalReferences;2
+F18+19.txt;of;FunctionWords;1061
+F18+19.txt;on;FunctionWords;204
+F18+19.txt;or;LogicalConnectors;451
+F18+19.txt;to;FunctionWords;163
+F18+19.txt;1;Attributes;466
+F18+19.txt;2;Attributes;1765
+F18+19.txt;3;Attributes;108
+F18+19.txt;4;Attributes;14
+F18+19.txt;5;Attributes;29
+F18+19.txt;7;Attributes;337
+F18+19.txt;8;Attributes;2
+F18+19.txt;9;Attributes;61
+F18+19.txt;a;FunctionWords;1206
+F18+19.txt;b;LegalReferences;602
+F18+19.txt;c;LegalReferences;298
+F18+19.txt;d;LegalReferences;237
+F18+19.txt;e;LegalReferences;257
+F18+19.txt;f;LegalReferences;175
+F18+19.txt;h;LegalReferences;1
+F18+19.txt;i;FunctionWords;75
+F18+19.txt;l;LegalReferences;116
+F18+19.txt;p;LegalReferences;1
+F18+19.txt;v;LegalReferences;4334

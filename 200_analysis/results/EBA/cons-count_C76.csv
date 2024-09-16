@@ -1,5 +1,4 @@
 C76.txt;in accordance with;LogicalConnectors;4
-C76.txt;calculation;EconomicOperands;4
 C76.txt;denominator;LogicalConnectors;2
 C76.txt;requirement;EconomicOperands;1
 C76.txt;subject to;LogicalConnectors;4
@@ -8,13 +7,13 @@ C76.txt;percentage;EconomicOperands;3
 C76.txt;liquidity;EconomicOperands;7
 C76.txt;numerator;LogicalConnectors;2
 C76.txt;reduction;EconomicOperands;3
-C76.txt;adjusted;EconomicOperands;8
+C76.txt;adjusted;EconomicOperands;4
 C76.txt;coverage;EconomicOperands;2
 C76.txt;currency;EconomicOperands;1
 C76.txt;article;EconomicOperands;5
 C76.txt;secured;EconomicOperands;2
 C76.txt;30 day;Attributes;10
-C76.txt;amount;EconomicOperands;5
+C76.txt;amount;EconomicOperands;4
 C76.txt;excess;EconomicOperands;1
 C76.txt;exempt;RegulatoryOperators;2
 C76.txt;asset;EconomicOperands;1
@@ -23,20 +22,18 @@ C76.txt;ratio;LogicalConnectors;2
 C76.txt;total;MathematicalOperators;1
 C76.txt;value;EconomicOperands;7
 C76.txt;cash;EconomicOperands;2
-C76.txt;flow;EconomicOperands;19
 C76.txt;item;Other;3
-C76.txt;4 l;Other;2
-C76.txt;5 c;Other;1
+C76.txt;105;LegalReferences;1
 C76.txt;cap;EconomicOperands;4
 C76.txt;for;FunctionWords;3
-C76.txt;ill;EconomicOperands;2
 C76.txt;net;EconomicOperands;2
-C76.txt;out;EconomicOperands;8
+C76.txt;out;EconomicOperands;1
 C76.txt;set;Other;1
-C76.txt;10;Attributes;5
+C76.txt;10;Attributes;1
 C76.txt;11;LegalReferences;1
-C76.txt;12;Attributes;2
+C76.txt;12;Attributes;1
 C76.txt;13;LegalReferences;1
+C76.txt;14;LegalReferences;1
 C76.txt;15;Attributes;1
 C76.txt;16;LegalReferences;1
 C76.txt;17;LegalReferences;1
@@ -57,29 +54,15 @@ C76.txt;32;LegalReferences;1
 C76.txt;75;Attributes;2
 C76.txt;90;Attributes;2
 C76.txt;as;LogicalConnectors;1
-C76.txt;in;FunctionWords;12
-C76.txt;us;EconomicOperands;1
-C76.txt;1;Attributes;9
-C76.txt;2;Attributes;11
+C76.txt;in;FunctionWords;1
+C76.txt;1;Attributes;1
+C76.txt;2;Attributes;3
 C76.txt;3;Attributes;1
+C76.txt;4;Attributes;1
 C76.txt;5;Attributes;1
-C76.txt;6;Attributes;2
-C76.txt;7;Attributes;4
+C76.txt;6;Attributes;1
+C76.txt;7;Attributes;1
 C76.txt;8;Attributes;1
-C76.txt;9;Attributes;8
-C76.txt;a;FunctionWords;6
-C76.txt;b;LegalReferences;15
-C76.txt;c;LegalReferences;13
-C76.txt;d;LegalReferences;5
-C76.txt;e;LegalReferences;18
-C76.txt;f;LegalReferences;6
-C76.txt;h;LegalReferences;8
-C76.txt;i;FunctionWords;5
-C76.txt;l;LegalReferences;22
-C76.txt;n;LegalReferences;7
-C76.txt;o;LegalReferences;4
-C76.txt;p;LegalReferences;2
-C76.txt;q;LegalReferences;9
-C76.txt;r;LegalReferences;9
-C76.txt;u;LegalReferences;8
-C76.txt;x;LegalReferences;4
+C76.txt;9;Attributes;5
+C76.txt;c;LegalReferences;1
+C76.txt;l;LegalReferences;3

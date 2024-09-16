@@ -1,32 +1,28 @@
-F40.txt;financial statement;EconomicOperands;1
 F40.txt;in accordance with;LogicalConnectors;1
-F40.txt;for the purpose;FunctionWords;1
 F40.txt;holding company;EconomicOperands;11
 F40.txt;identification;EconomicOperands;2
 F40.txt;the amount of;MathematicalOperators;1
 F40.txt;balance sheet;EconomicOperands;2
-F40.txt;joint venture;EconomicOperands;5
+F40.txt;joint venture;EconomicOperands;1
 F40.txt;regardless of;LogicalConnectors;1
 F40.txt;consolidation;EconomicOperands;7
-F40.txt;paragraph 29;LegalReferences;1
 F40.txt;additionally;LogicalConnectors;2
 F40.txt;consistently;Attributes;2
 F40.txt;consolidated;EconomicOperands;3
 F40.txt;counterparty;EconomicOperands;1
 F40.txt;institutions;EconomicOperands;7
+F40.txt;nonfinancial;EconomicOperands;1
 F40.txt;relationship;EconomicOperands;6
 F40.txt;requirements;EconomicOperands;1
 F40.txt;subsidiaries;EconomicOperands;4
-F40.txt;paragraph 4;LegalReferences;2
+F40.txt;paragraph 4;LegalReferences;1
 F40.txt;referred to;FunctionWords;1
 F40.txt;accumulated;EconomicOperands;6
 F40.txt;acquisition;EconomicOperands;6
-F40.txt;corporation;EconomicOperands;2
 F40.txt;information;EconomicOperands;3
 F40.txt;institution;EconomicOperands;6
 F40.txt;instruments;EconomicOperands;4
 F40.txt;investments;EconomicOperands;7
-F40.txt;undertaking;EconomicOperands;2
 F40.txt;as well as;LogicalConnectors;2
 F40.txt;accounting;EconomicOperands;13
 F40.txt;associated;EconomicOperands;2
@@ -38,8 +34,9 @@ F40.txt;instrument;EconomicOperands;8
 F40.txt;investment;EconomicOperands;1
 F40.txt;percentage;EconomicOperands;2
 F40.txt;securities;EconomicOperands;1
+F40.txt;statements;EconomicOperands;1
 F40.txt;subsidiary;EconomicOperands;1
-F40.txt;associate;EconomicOperands;4
+F40.txt;associate;EconomicOperands;1
 F40.txt;available;EconomicOperands;2
 F40.txt;directors;EconomicOperands;1
 F40.txt;financial;EconomicOperands;2
@@ -48,9 +45,9 @@ F40.txt;including;LogicalConnectors;1
 F40.txt;insurance;EconomicOperands;2
 F40.txt;investors;EconomicOperands;1
 F40.txt;ownership;EconomicOperands;2
+F40.txt;paragraph;LegalReferences;2
 F40.txt;principal;EconomicOperands;1
 F40.txt;published;EconomicOperands;3
-F40.txt;quotation;EconomicOperands;3
 F40.txt;reference;EconomicOperands;4
 F40.txt;reporting;EconomicOperands;4
 F40.txt;residence;EconomicOperands;4
@@ -69,6 +66,7 @@ F40.txt;indicate;EconomicOperands;3
 F40.txt;interest;EconomicOperands;6
 F40.txt;national;EconomicOperands;10
 F40.txt;provided;LogicalConnectors;2
+F40.txt;purposes;EconomicOperands;1
 F40.txt;reported;EconomicOperands;14
 F40.txt;security;EconomicOperands;7
 F40.txt;together;FunctionWords;1
@@ -84,10 +82,8 @@ F40.txt;entered;EconomicOperands;1
 F40.txt;include;EconomicOperands;4
 F40.txt;neither;LogicalConnectors;1
 F40.txt;perform;EconomicOperands;1
-F40.txt;portion;EconomicOperands;4
 F40.txt;provide;EconomicOperands;1
 F40.txt;related;FunctionWords;1
-F40.txt;respond;EconomicOperands;1
 F40.txt;section;LegalReferences;1
 F40.txt;similar;LogicalConnectors;1
 F40.txt;without;FunctionWords;1
@@ -98,7 +94,6 @@ F40.txt;assets;EconomicOperands;3
 F40.txt;detail;EconomicOperands;1
 F40.txt;entity;EconomicOperands;15
 F40.txt;equity;EconomicOperands;12
-F40.txt;invest;EconomicOperands;35
 F40.txt;issued;EconomicOperands;1
 F40.txt;method;EconomicOperands;2
 F40.txt;parent;EconomicOperands;2
@@ -106,7 +101,7 @@ F40.txt;profit;EconomicOperands;3
 F40.txt;report;EconomicOperands;4
 F40.txt;rights;EconomicOperands;4
 F40.txt;sector;EconomicOperands;4
-F40.txt;unique;EconomicOperands;6
+F40.txt;unique;EconomicOperands;5
 F40.txt;voting;EconomicOperands;4
 F40.txt;within;LogicalConnectors;3
 F40.txt;apply;Other;1
@@ -116,14 +111,14 @@ F40.txt;entry;EconomicOperands;3
 F40.txt;first;Attributes;1
 F40.txt;fully;EconomicOperands;2
 F40.txt;group;EconomicOperands;20
-F40.txt;joint;EconomicOperands;1
+F40.txt;joint;EconomicOperands;5
 F40.txt;level;EconomicOperands;2
 F40.txt;other;LogicalConnectors;4
 F40.txt;owned;EconomicOperands;1
 F40.txt;price;EconomicOperands;4
 F40.txt;scope;EconomicOperands;4
 F40.txt;shall;RegulatoryOperators;44
-F40.txt;share;EconomicOperands;5
+F40.txt;share;EconomicOperands;3
 F40.txt;there;FunctionWords;3
 F40.txt;those;FunctionWords;2
 F40.txt;total;MathematicalOperators;4
@@ -131,23 +126,17 @@ F40.txt;under;FunctionWords;1
 F40.txt;value;EconomicOperands;5
 F40.txt;where;LogicalConnectors;1
 F40.txt;which;FunctionWords;5
-F40.txt;18 a;Other;2
-F40.txt;6 th;Attributes;1
 F40.txt;body;EconomicOperands;1
-F40.txt;code;EconomicOperands;71
+F40.txt;code;EconomicOperands;69
 F40.txt;cost;EconomicOperands;6
 F40.txt;date;EconomicOperands;9
 F40.txt;each;LogicalConnectors;3
 F40.txt;fair;EconomicOperands;3
 F40.txt;from;FunctionWords;1
 F40.txt;full;EconomicOperands;2
-F40.txt;good;EconomicOperands;5
 F40.txt;have;FunctionWords;2
 F40.txt;held;EconomicOperands;4
-F40.txt;hold;EconomicOperands;1
-F40.txt;item;Other;2
 F40.txt;last;EconomicOperands;1
-F40.txt;late;EconomicOperands;4
 F40.txt;link;EconomicOperands;3
 F40.txt;loss;EconomicOperands;3
 F40.txt;mean;Other;9
@@ -158,7 +147,6 @@ F40.txt;only;LogicalConnectors;1
 F40.txt;paid;EconomicOperands;1
 F40.txt;part;FunctionWords;65
 F40.txt;sale;EconomicOperands;1
-F40.txt;site;EconomicOperands;1
 F40.txt;that;FunctionWords;4
 F40.txt;they;FunctionWords;3
 F40.txt;this;FunctionWords;5
@@ -166,74 +154,55 @@ F40.txt;time;EconomicOperands;2
 F40.txt;type;EconomicOperands;13
 F40.txt;used;EconomicOperands;2
 F40.txt;when;LogicalConnectors;2
-F40.txt;will;FunctionWords;5
 F40.txt;with;FunctionWords;4
-F40.txt;5 a;Other;1
-F40.txt;a 2;Other;4
-F40.txt;b 2;Other;4
-F40.txt;aii;LegalReferences;2
-F40.txt;all;LogicalConnectors;2
+F40.txt;all;LogicalConnectors;1
 F40.txt;and;LogicalConnectors;19
 F40.txt;are;FunctionWords;7
-F40.txt;for;FunctionWords;16
+F40.txt;for;FunctionWords;17
 F40.txt;iii;LegalReferences;3
 F40.txt;may;FunctionWords;2
-F40.txt;non;LogicalConnectors;3
+F40.txt;non;LogicalConnectors;2
 F40.txt;nor;LogicalConnectors;1
 F40.txt;not;LogicalConnectors;1
 F40.txt;own;FunctionWords;1
-F40.txt;the;FunctionWords;97
+F40.txt;the;FunctionWords;99
 F40.txt;two;Attributes;1
-F40.txt;way;EconomicOperands;4
-F40.txt;12;Attributes;12
-F40.txt;19;LegalReferences;1
+F40.txt;12;Attributes;6
+F40.txt;18;LegalReferences;2
+F40.txt;21;LegalReferences;2
 F40.txt;24;LegalReferences;1
-F40.txt;29;LegalReferences;94
 F40.txt;40;LegalReferences;3
-F40.txt;an;FunctionWords;62
+F40.txt;42;LegalReferences;1
+F40.txt;an;FunctionWords;1
 F40.txt;as;LogicalConnectors;12
-F40.txt;at;FunctionWords;3
-F40.txt;bb;LegalReferences;6
+F40.txt;at;FunctionWords;1
 F40.txt;be;FunctionWords;24
 F40.txt;by;FunctionWords;17
 F40.txt;do;FunctionWords;1
-F40.txt;if;LogicalConnectors;21
-F40.txt;in;FunctionWords;16
-F40.txt;is;FunctionWords;3
+F40.txt;in;FunctionWords;14
 F40.txt;it;EconomicOperands;3
-F40.txt;iv;LegalReferences;5
-F40.txt;le;MathematicalOperators;10
+F40.txt;iv;LegalReferences;1
 F40.txt;of;FunctionWords;68
-F40.txt;on;FunctionWords;8
-F40.txt;or;LogicalConnectors;15
+F40.txt;on;FunctionWords;7
+F40.txt;or;LogicalConnectors;14
 F40.txt;to;FunctionWords;6
-F40.txt;1;Attributes;5
-F40.txt;2;Attributes;1
-F40.txt;4;Attributes;1
-F40.txt;5;Attributes;43
-F40.txt;6;Attributes;43
-F40.txt;7;Attributes;15
-F40.txt;8;Attributes;1
-F40.txt;9;Attributes;8
-F40.txt;a;FunctionWords;39
+F40.txt;1;Attributes;1
+F40.txt;5;Attributes;1
+F40.txt;a;FunctionWords;21
 F40.txt;b;LegalReferences;10
-F40.txt;c;LegalReferences;23
-F40.txt;d;LegalReferences;8
-F40.txt;e;LegalReferences;166
-F40.txt;f;LegalReferences;3
-F40.txt;h;LegalReferences;3
-F40.txt;i;FunctionWords;21
-F40.txt;j;LegalReferences;5
-F40.txt;k;LegalReferences;3
-F40.txt;l;LegalReferences;21
-F40.txt;m;LegalReferences;13
-F40.txt;n;LegalReferences;82
-F40.txt;o;LegalReferences;20
-F40.txt;p;LegalReferences;14
-F40.txt;q;LegalReferences;4
-F40.txt;r;LegalReferences;47
-F40.txt;t;LegalReferences;8
-F40.txt;u;LegalReferences;6
+F40.txt;c;LegalReferences;4
+F40.txt;d;LegalReferences;4
+F40.txt;e;LegalReferences;2
+F40.txt;f;LegalReferences;1
+F40.txt;h;LegalReferences;1
+F40.txt;i;FunctionWords;1
+F40.txt;j;LegalReferences;3
+F40.txt;k;LegalReferences;1
+F40.txt;l;LegalReferences;5
+F40.txt;m;LegalReferences;1
+F40.txt;n;LegalReferences;1
+F40.txt;o;LegalReferences;3
+F40.txt;p;LegalReferences;3
+F40.txt;q;LegalReferences;1
+F40.txt;r;LegalReferences;1
 F40.txt;v;LegalReferences;60
-F40.txt;x;LegalReferences;63
-F40.txt;y;LegalReferences;3

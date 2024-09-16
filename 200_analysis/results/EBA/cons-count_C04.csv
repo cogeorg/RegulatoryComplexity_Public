@@ -1,7 +1,6 @@
 C04.txt;systemically important;EconomicOperands;4
-C04.txt;accounting standard;EconomicOperands;6
+C04.txt;accounting standard;EconomicOperands;2
 C04.txt;in accordance with;LogicalConnectors;22
-C04.txt;for the purpose;FunctionWords;8
 C04.txt;associated with;FunctionWords;4
 C04.txt;countercyclical;EconomicOperands;2
 C04.txt;in addition to;LogicalConnectors;1
@@ -14,7 +13,7 @@ C04.txt;systemic risk;EconomicOperands;5
 C04.txt;corresponding;EconomicOperands;1
 C04.txt;profitability;EconomicOperands;23
 C04.txt;implementing;RegulatoryOperators;2
-C04.txt;institutions;EconomicOperands;14
+C04.txt;institutions;EconomicOperands;11
 C04.txt;requirements;EconomicOperands;10
 C04.txt;respectively;LogicalConnectors;1
 C04.txt;transitional;FunctionWords;1
@@ -22,14 +21,13 @@ C04.txt;underwriting;EconomicOperands;6
 C04.txt;credit risk;EconomicOperands;15
 C04.txt;pursuant to;FunctionWords;3
 C04.txt;relating to;FunctionWords;2
-C04.txt;adjustments;EconomicOperands;23
+C04.txt;adjustments;EconomicOperands;22
 C04.txt;alternative;EconomicOperands;2
 C04.txt;application;EconomicOperands;5
 C04.txt;calculating;EconomicOperands;12
 C04.txt;calculation;EconomicOperands;5
 C04.txt;information;EconomicOperands;4
-C04.txt;institution;EconomicOperands;109
-C04.txt;instruction;EconomicOperands;1
+C04.txt;institution;EconomicOperands;112
 C04.txt;instruments;EconomicOperands;43
 C04.txt;investments;EconomicOperands;8
 C04.txt;liabilities;EconomicOperands;18
@@ -37,7 +35,7 @@ C04.txt;requirement;EconomicOperands;2
 C04.txt;significant;Attributes;113
 C04.txt;later than;LogicalConnectors;18
 C04.txt;subject to;LogicalConnectors;12
-C04.txt;accounting;EconomicOperands;3
+C04.txt;accounting;EconomicOperands;7
 C04.txt;additional;MathematicalOperators;11
 C04.txt;adjustment;EconomicOperands;1
 C04.txt;applicable;FunctionWords;6
@@ -47,15 +45,15 @@ C04.txt;classified;EconomicOperands;6
 C04.txt;concerning;LogicalConnectors;1
 C04.txt;conditions;EconomicOperands;1
 C04.txt;conversion;EconomicOperands;2
-C04.txt;difference;EconomicOperands;16
 C04.txt;identified;FunctionWords;3
-C04.txt;investment;EconomicOperands;112
+C04.txt;investment;EconomicOperands;110
 C04.txt;memorandum;LegalReferences;2
 C04.txt;multiplied;LogicalConnectors;2
 C04.txt;offsetting;EconomicOperands;54
 C04.txt;provisions;EconomicOperands;9
 C04.txt;prudential;EconomicOperands;3
 C04.txt;reciprocal;EconomicOperands;12
+C04.txt;recognised;EconomicOperands;1
 C04.txt;regulation;EconomicOperands;2
 C04.txt;respective;EconomicOperands;5
 C04.txt;securities;EconomicOperands;6
@@ -66,9 +64,8 @@ C04.txt;allocated;EconomicOperands;2
 C04.txt;authority;EconomicOperands;7
 C04.txt;calculate;EconomicOperands;3
 C04.txt;competent;EconomicOperands;7
-C04.txt;deduction;MathematicalOperators;14
-C04.txt;defaulted;EconomicOperands;6
-C04.txt;dependent;EconomicOperands;4
+C04.txt;deduction;MathematicalOperators;5
+C04.txt;defaulted;EconomicOperands;5
 C04.txt;exception;RegulatoryOperators;3
 C04.txt;excluding;LogicalConnectors;6
 C04.txt;financial;EconomicOperands;144
@@ -76,15 +73,14 @@ C04.txt;including;LogicalConnectors;3
 C04.txt;inclusion;LogicalConnectors;7
 C04.txt;necessary;Attributes;2
 C04.txt;operation;EconomicOperands;6
-C04.txt;paragraph;LegalReferences;8
 C04.txt;permitted;RegulatoryOperators;36
 C04.txt;positions;EconomicOperands;75
 C04.txt;provision;EconomicOperands;4
-C04.txt;reduction;EconomicOperands;6
 C04.txt;reporting;EconomicOperands;8
 C04.txt;represent;EconomicOperands;5
 C04.txt;requested;RegulatoryOperators;1
 C04.txt;similarly;LogicalConnectors;1
+C04.txt;standards;EconomicOperands;4
 C04.txt;synthetic;EconomicOperands;36
 C04.txt;temporary;EconomicOperands;32
 C04.txt;threshold;EconomicOperands;18
@@ -96,7 +92,6 @@ C04.txt;accounts;EconomicOperands;6
 C04.txt;approach;EconomicOperands;1
 C04.txt;category;EconomicOperands;1
 C04.txt;combined;EconomicOperands;2
-C04.txt;complete;EconomicOperands;1
 C04.txt;contains;EconomicOperands;3
 C04.txt;deducted;MathematicalOperators;14
 C04.txt;deferred;EconomicOperands;46
@@ -106,22 +101,21 @@ C04.txt;eligible;EconomicOperands;17
 C04.txt;entities;EconomicOperands;129
 C04.txt;exempted;RegulatoryOperators;1
 C04.txt;expected;EconomicOperands;14
-C04.txt;exposure;EconomicOperands;55
+C04.txt;exposure;EconomicOperands;35
 C04.txt;included;EconomicOperands;42
 C04.txt;includes;EconomicOperands;1
 C04.txt;indirect;EconomicOperands;42
 C04.txt;maturity;EconomicOperands;54
 C04.txt;obtained;EconomicOperands;8
 C04.txt;original;EconomicOperands;6
-C04.txt;payments;EconomicOperands;3
 C04.txt;position;EconomicOperands;42
 C04.txt;provided;LogicalConnectors;18
+C04.txt;purposes;EconomicOperands;8
 C04.txt;reported;EconomicOperands;43
 C04.txt;required;RegulatoryOperators;1
 C04.txt;residual;EconomicOperands;18
 C04.txt;software;EconomicOperands;1
 C04.txt;specific;FunctionWords;15
-C04.txt;tangible;EconomicOperands;3
 C04.txt;verified;EconomicOperands;2
 C04.txt;weighted;MathematicalOperators;14
 C04.txt;that is;LogicalConnectors;1
@@ -129,7 +123,7 @@ C04.txt;ability;EconomicOperands;2
 C04.txt;account;EconomicOperands;1
 C04.txt;amounts;EconomicOperands;11
 C04.txt;applied;EconomicOperands;3
-C04.txt;article;EconomicOperands;226
+C04.txt;article;EconomicOperands;181
 C04.txt;audited;EconomicOperands;2
 C04.txt;benefit;EconomicOperands;1
 C04.txt;capital;EconomicOperands;155
@@ -137,17 +131,13 @@ C04.txt;created;EconomicOperands;1
 C04.txt;decides;EconomicOperands;1
 C04.txt;defined;EconomicOperands;1
 C04.txt;general;FunctionWords;3
-C04.txt;holding;EconomicOperands;200
 C04.txt;include;EconomicOperands;1
 C04.txt;initial;EconomicOperands;2
 C04.txt;located;EconomicOperands;4
 C04.txt;outside;FunctionWords;2
 C04.txt;pension;EconomicOperands;1
 C04.txt;premium;EconomicOperands;6
-C04.txt;prudent;Attributes;1
-C04.txt;qualify;EconomicOperands;2
 C04.txt;related;FunctionWords;10
-C04.txt;similar;LogicalConnectors;1
 C04.txt;trading;EconomicOperands;6
 C04.txt;treated;EconomicOperands;14
 C04.txt;working;EconomicOperands;6
@@ -160,16 +150,16 @@ C04.txt;amount;EconomicOperands;30
 C04.txt;assets;EconomicOperands;36
 C04.txt;before;LogicalConnectors;6
 C04.txt;common;FunctionWords;3
-C04.txt;deduct;LogicalConnectors;10
 C04.txt;deemed;RegulatoryOperators;2
 C04.txt;direct;EconomicOperands;42
-C04.txt;effect;EconomicOperands;2
+C04.txt;effect;EconomicOperands;1
 C04.txt;either;LogicalConnectors;18
 C04.txt;entity;EconomicOperands;13
 C04.txt;equity;EconomicOperands;6
 C04.txt;exceed;MathematicalOperators;1
 C04.txt;excess;EconomicOperands;7
 C04.txt;factor;EconomicOperands;2
+C04.txt;fulfil;EconomicOperands;5
 C04.txt;future;EconomicOperands;25
 C04.txt;global;EconomicOperands;2
 C04.txt;latest;MathematicalOperators;1
@@ -178,19 +168,15 @@ C04.txt;member;EconomicOperands;5
 C04.txt;needed;EconomicOperands;5
 C04.txt;points;EconomicOperands;1
 C04.txt;profit;EconomicOperands;2
-C04.txt;reason;EconomicOperands;1
 C04.txt;recent;EconomicOperands;1
 C04.txt;reduce;EconomicOperands;3
 C04.txt;report;EconomicOperands;1
-C04.txt;result;EconomicOperands;2
 C04.txt;sector;EconomicOperands;138
 C04.txt;stable;EconomicOperands;1
 C04.txt;taking;EconomicOperands;1
-C04.txt;waived;EconomicOperands;12
+C04.txt;waived;EconomicOperands;11
 C04.txt;waiver;RegulatoryOperators;1
-C04.txt;128 a;Other;4
-C04.txt;129 c;Other;1
-C04.txt;above;FunctionWords;36
+C04.txt;above;FunctionWords;35
 C04.txt;after;LogicalConnectors;2
 C04.txt;arise;EconomicOperands;16
 C04.txt;basis;Other;5
@@ -209,24 +195,18 @@ C04.txt;other;LogicalConnectors;9
 C04.txt;point;EconomicOperands;97
 C04.txt;shall;RegulatoryOperators;50
 C04.txt;share;EconomicOperands;6
-C04.txt;short;EconomicOperands;106
+C04.txt;short;EconomicOperands;102
 C04.txt;state;EconomicOperands;5
 C04.txt;their;FunctionWords;3
 C04.txt;these;FunctionWords;2
 C04.txt;those;FunctionWords;11
 C04.txt;total;MathematicalOperators;15
 C04.txt;under;FunctionWords;6
-C04.txt;value;EconomicOperands;7
+C04.txt;value;EconomicOperands;6
 C04.txt;waive;RegulatoryOperators;6
-C04.txt;weigh;MathematicalOperators;14
 C04.txt;where;LogicalConnectors;116
 C04.txt;which;FunctionWords;31
-C04.txt;12 a;Other;1
-C04.txt;10 a;Other;1
-C04.txt;25 a;Other;1
-C04.txt;78 c;Other;1
 C04.txt;also;LogicalConnectors;6
-C04.txt;back;EconomicOperands;3
 C04.txt;base;EconomicOperands;4
 C04.txt;book;EconomicOperands;6
 C04.txt;date;EconomicOperands;41
@@ -234,23 +214,18 @@ C04.txt;days;Attributes;6
 C04.txt;done;EconomicOperands;2
 C04.txt;down;FunctionWords;2
 C04.txt;fact;EconomicOperands;1
-C04.txt;fall;EconomicOperands;4
 C04.txt;form;EconomicOperands;6
 C04.txt;from;FunctionWords;47
 C04.txt;fund;EconomicOperands;1
-C04.txt;good;EconomicOperands;1
 C04.txt;have;FunctionWords;55
-C04.txt;head;EconomicOperands;2
 C04.txt;held;EconomicOperands;6
 C04.txt;into;FunctionWords;1
-C04.txt;item;Other;36
-C04.txt;late;EconomicOperands;2
+C04.txt;item;Other;30
 C04.txt;long;EconomicOperands;18
 C04.txt;loss;EconomicOperands;7
 C04.txt;most;FunctionWords;1
 C04.txt;note;EconomicOperands;6
 C04.txt;only;LogicalConnectors;11
-C04.txt;over;MathematicalOperators;5
 C04.txt;rate;EconomicOperands;1
 C04.txt;rely;EconomicOperands;21
 C04.txt;risk;EconomicOperands;29
@@ -263,65 +238,42 @@ C04.txt;thus;LogicalConnectors;5
 C04.txt;tier;EconomicOperands;2
 C04.txt;were;FunctionWords;1
 C04.txt;when;LogicalConnectors;5
-C04.txt;will;FunctionWords;1
 C04.txt;with;FunctionWords;1
-C04.txt;1 a;Other;37
-C04.txt;2 a;Other;2
-C04.txt;3 a;Other;5
-C04.txt;4 a;Other;11
-C04.txt;6 a;Other;5
-C04.txt;8 a;Other;28
-C04.txt;9 a;Other;4
-C04.txt;2 c;Other;11
-C04.txt;3 c;Other;1
-C04.txt;4 c;Other;8
-C04.txt;4 i;Other;2
-C04.txt;5 c;Other;23
-C04.txt;6 c;Other;9
-C04.txt;d 1;Other;7
-C04.txt;d 4;Other;19
-C04.txt;e 1;Other;3
-C04.txt;f 2;Other;7
-C04.txt;104;LegalReferences;1
-C04.txt;125;Attributes;2
+C04.txt;110;LegalReferences;1
 C04.txt;129;LegalReferences;1
+C04.txt;133;Attributes;1
 C04.txt;140;LegalReferences;1
-C04.txt;aid;EconomicOperands;2
+C04.txt;602;LegalReferences;2
+C04.txt;604;LegalReferences;1
+C04.txt;704;LegalReferences;1
 C04.txt;all;LogicalConnectors;3
-C04.txt;and;LogicalConnectors;58
+C04.txt;and;LogicalConnectors;161
 C04.txt;any;LogicalConnectors;4
-C04.txt;app;LegalReferences;2
 C04.txt;are;FunctionWords;40
-C04.txt;ass;Other;1
 C04.txt;but;LogicalConnectors;4
 C04.txt;can;FunctionWords;1
 C04.txt;cap;EconomicOperands;7
-C04.txt;cro;EconomicOperands;3
-C04.txt;doe;EconomicOperands;56
-C04.txt;for;FunctionWords;37
-C04.txt;ill;EconomicOperands;4
+C04.txt;for;FunctionWords;45
 C04.txt;may;FunctionWords;8
 C04.txt;met;FunctionWords;1
 C04.txt;net;EconomicOperands;12
-C04.txt;non;LogicalConnectors;9
+C04.txt;non;LogicalConnectors;8
 C04.txt;not;LogicalConnectors;88
 C04.txt;own;FunctionWords;19
 C04.txt;pre;EconomicOperands;2
 C04.txt;sum;EconomicOperands;2
 C04.txt;tax;EconomicOperands;53
-C04.txt;ten;Attributes;1
-C04.txt;the;FunctionWords;468
-C04.txt;tip;EconomicOperands;1
+C04.txt;the;FunctionWords;479
 C04.txt;two;Attributes;1
 C04.txt;way;EconomicOperands;1
-C04.txt;10;Attributes;7
-C04.txt;11;LegalReferences;20
-C04.txt;12;Attributes;22
-C04.txt;13;LegalReferences;7
+C04.txt;10;Attributes;11
+C04.txt;11;LegalReferences;2
+C04.txt;12;Attributes;3
+C04.txt;13;LegalReferences;2
 C04.txt;14;LegalReferences;2
-C04.txt;15;Attributes;14
+C04.txt;15;Attributes;3
 C04.txt;16;LegalReferences;2
-C04.txt;17;LegalReferences;3
+C04.txt;17;LegalReferences;5
 C04.txt;18;LegalReferences;2
 C04.txt;19;LegalReferences;2
 C04.txt;20;Attributes;2
@@ -329,76 +281,53 @@ C04.txt;21;LegalReferences;2
 C04.txt;22;LegalReferences;2
 C04.txt;23;Attributes;3
 C04.txt;24;LegalReferences;2
-C04.txt;25;Attributes;2
+C04.txt;25;Attributes;4
 C04.txt;27;LegalReferences;2
 C04.txt;28;LegalReferences;3
 C04.txt;29;LegalReferences;2
 C04.txt;30;Attributes;2
 C04.txt;31;Attributes;3
 C04.txt;32;LegalReferences;2
-C04.txt;36;LegalReferences;9
-C04.txt;38;LegalReferences;10
-C04.txt;39;LegalReferences;3
-C04.txt;41;LegalReferences;1
-C04.txt;44;LegalReferences;6
-C04.txt;45;Attributes;7
-C04.txt;46;LegalReferences;4
-C04.txt;47;LegalReferences;12
-C04.txt;48;LegalReferences;11
-C04.txt;49;LegalReferences;2
-C04.txt;50;Attributes;6
-C04.txt;60;Attributes;4
-C04.txt;62;Attributes;3
+C04.txt;38;LegalReferences;9
+C04.txt;41;LegalReferences;37
+C04.txt;44;LegalReferences;14
+C04.txt;45;Attributes;25
+C04.txt;46;LegalReferences;3
+C04.txt;47;LegalReferences;3
+C04.txt;48;LegalReferences;1
+C04.txt;49;LegalReferences;8
+C04.txt;60;Attributes;1
+C04.txt;62;Attributes;7
 C04.txt;65;Attributes;3
-C04.txt;68;LegalReferences;2
-C04.txt;an;FunctionWords;18
-C04.txt;as;LogicalConnectors;83
-C04.txt;at;FunctionWords;65
-C04.txt;be;FunctionWords;65
+C04.txt;68;LegalReferences;14
+C04.txt;an;FunctionWords;8
+C04.txt;as;LogicalConnectors;24
+C04.txt;at;FunctionWords;12
+C04.txt;be;FunctionWords;64
 C04.txt;by;FunctionWords;19
 C04.txt;do;FunctionWords;8
-C04.txt;ec;EconomicOperands;1
-C04.txt;et;Other;53
-C04.txt;he;FunctionWords;1
 C04.txt;if;LogicalConnectors;1
 C04.txt;ii;LegalReferences;4
-C04.txt;in;FunctionWords;99
-C04.txt;is;FunctionWords;64
+C04.txt;in;FunctionWords;72
+C04.txt;is;FunctionWords;57
 C04.txt;it;EconomicOperands;12
-C04.txt;iv;LegalReferences;1
-C04.txt;le;MathematicalOperators;10
-C04.txt;no;LogicalConnectors;1
-C04.txt;of;FunctionWords;460
-C04.txt;on;FunctionWords;89
-C04.txt;or;LogicalConnectors;56
+C04.txt;of;FunctionWords;467
+C04.txt;on;FunctionWords;58
+C04.txt;or;LogicalConnectors;50
 C04.txt;to;FunctionWords;62
 C04.txt;up;FunctionWords;3
-C04.txt;vi;EconomicOperands;9
-C04.txt;1;Attributes;127
-C04.txt;2;Attributes;67
-C04.txt;3;Attributes;10
-C04.txt;4;Attributes;83
-C04.txt;5;Attributes;65
-C04.txt;6;Attributes;72
-C04.txt;7;Attributes;18
-C04.txt;8;Attributes;12
-C04.txt;9;Attributes;74
-C04.txt;a;FunctionWords;200
-C04.txt;b;LegalReferences;70
-C04.txt;c;LegalReferences;197
-C04.txt;d;LegalReferences;115
-C04.txt;e;LegalReferences;86
-C04.txt;f;LegalReferences;58
-C04.txt;h;LegalReferences;60
-C04.txt;i;FunctionWords;75
-C04.txt;l;LegalReferences;25
-C04.txt;m;LegalReferences;14
-C04.txt;n;LegalReferences;125
-C04.txt;o;LegalReferences;39
-C04.txt;p;LegalReferences;8
-C04.txt;r;LegalReferences;395
-C04.txt;t;LegalReferences;111
-C04.txt;u;LegalReferences;51
-C04.txt;v;LegalReferences;7
-C04.txt;y;LegalReferences;7
-C04.txt;z;LegalReferences;2
+C04.txt;1;Attributes;5
+C04.txt;2;Attributes;6
+C04.txt;3;Attributes;9
+C04.txt;4;Attributes;9
+C04.txt;5;Attributes;14
+C04.txt;6;Attributes;7
+C04.txt;7;Attributes;2
+C04.txt;8;Attributes;2
+C04.txt;9;Attributes;2
+C04.txt;a;FunctionWords;178
+C04.txt;b;LegalReferences;17
+C04.txt;c;LegalReferences;9
+C04.txt;d;LegalReferences;10
+C04.txt;e;LegalReferences;4
+C04.txt;i;FunctionWords;4

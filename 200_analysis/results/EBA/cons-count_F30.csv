@@ -1,12 +1,8 @@
 F30.txt;off-balance sheet;EconomicOperands;5
-F30.txt;for the purpose;FunctionWords;1
-F30.txt;financial asset;EconomicOperands;3
-F30.txt;loan commitment;EconomicOperands;1
-F30.txt;balance sheet;EconomicOperands;9
-F30.txt;consolidated;EconomicOperands;10
-F30.txt;institutions;EconomicOperands;4
+F30.txt;securitisation;EconomicOperands;4
+F30.txt;balance sheet;EconomicOperands;8
 F30.txt;derivatives;EconomicOperands;4
-F30.txt;institution;EconomicOperands;9
+F30.txt;institution;EconomicOperands;13
 F30.txt;instruments;EconomicOperands;4
 F30.txt;liabilities;EconomicOperands;2
 F30.txt;as well as;LogicalConnectors;1
@@ -14,11 +10,12 @@ F30.txt;activities;EconomicOperands;12
 F30.txt;impairment;EconomicOperands;1
 F30.txt;management;EconomicOperands;4
 F30.txt;performing;EconomicOperands;4
+F30.txt;recognised;EconomicOperands;8
 F30.txt;references;EconomicOperands;9
 F30.txt;securities;EconomicOperands;5
 F30.txt;structured;EconomicOperands;10
 F30.txt;breakdown;EconomicOperands;2
-F30.txt;financial;EconomicOperands;3
+F30.txt;financial;EconomicOperands;8
 F30.txt;interests;EconomicOperands;8
 F30.txt;liquidity;EconomicOperands;5
 F30.txt;reference;EconomicOperands;1
@@ -29,9 +26,9 @@ F30.txt;appendix;EconomicOperands;4
 F30.txt;carrying;EconomicOperands;10
 F30.txt;deposits;EconomicOperands;2
 F30.txt;entities;EconomicOperands;14
-F30.txt;exposure;EconomicOperands;4
 F30.txt;incurred;EconomicOperands;4
 F30.txt;national;EconomicOperands;6
+F30.txt;purposes;EconomicOperands;1
 F30.txt;selected;EconomicOperands;4
 F30.txt;of debt;EconomicOperands;1
 F30.txt;concern;EconomicOperands;1
@@ -40,12 +37,10 @@ F30.txt;granted;LogicalConnectors;1
 F30.txt;include;EconomicOperands;1
 F30.txt;purpose;EconomicOperands;4
 F30.txt;special;EconomicOperands;4
-F30.txt;support;EconomicOperands;4
+F30.txt;support;EconomicOperands;5
 F30.txt;due to;LogicalConnectors;1
-F30.txt;part i;LegalReferences;4
 F30.txt;amount;EconomicOperands;16
-F30.txt;assets;EconomicOperands;1
-F30.txt;commit;EconomicOperands;1
+F30.txt;assets;EconomicOperands;4
 F30.txt;during;FunctionWords;1
 F30.txt;equity;EconomicOperands;6
 F30.txt;issued;EconomicOperands;5
@@ -58,91 +53,49 @@ F30.txt;given;FunctionWords;6
 F30.txt;loans;EconomicOperands;2
 F30.txt;other;LogicalConnectors;5
 F30.txt;shall;RegulatoryOperators;2
-F30.txt;total;MathematicalOperators;2
+F30.txt;total;MathematicalOperators;1
 F30.txt;value;EconomicOperands;2
 F30.txt;which;FunctionWords;9
-F30.txt;12 b;Other;2
 F30.txt;been;FunctionWords;1
 F30.txt;debt;EconomicOperands;4
 F30.txt;fair;EconomicOperands;2
 F30.txt;have;FunctionWords;1
 F30.txt;held;EconomicOperands;1
-F30.txt;loan;EconomicOperands;2
+F30.txt;loan;EconomicOperands;3
 F30.txt;mean;Other;1
-F30.txt;part;FunctionWords;36
+F30.txt;part;FunctionWords;40
 F30.txt;that;FunctionWords;1
 F30.txt;this;FunctionWords;1
-F30.txt;3 a;Other;4
-F30.txt;6 a;Other;4
-F30.txt;9 a;Other;1
-F30.txt;5 i;Other;1
-F30.txt;6 f;Other;1
-F30.txt;a 2;Other;1
+F30.txt;9 a;Other;4
 F30.txt;105;LegalReferences;2
 F30.txt;113;LegalReferences;3
 F30.txt;115;LegalReferences;3
-F30.txt;211;LegalReferences;1
 F30.txt;and;LogicalConnectors;9
 F30.txt;any;LogicalConnectors;1
 F30.txt;are;FunctionWords;1
 F30.txt;bad;EconomicOperands;3
 F30.txt;ecb;EconomicOperands;4
+F30.txt;for;FunctionWords;1
 F30.txt;iii;LegalReferences;1
 F30.txt;non;LogicalConnectors;4
-F30.txt;off;FunctionWords;1
-F30.txt;sec;EconomicOperands;4
 F30.txt;sum;EconomicOperands;1
-F30.txt;the;FunctionWords;30
-F30.txt;11;LegalReferences;3
-F30.txt;12;Attributes;4
-F30.txt;13;LegalReferences;1
-F30.txt;16;LegalReferences;4
-F30.txt;22;LegalReferences;2
-F30.txt;23;Attributes;3
-F30.txt;28;LegalReferences;2
+F30.txt;the;FunctionWords;31
+F30.txt;12;Attributes;6
+F30.txt;22;LegalReferences;1
+F30.txt;25;Attributes;1
 F30.txt;30;Attributes;3
-F30.txt;aa;LegalReferences;6
-F30.txt;ab;Other;6
-F30.txt;an;FunctionWords;39
-F30.txt;as;LogicalConnectors;4
-F30.txt;at;FunctionWords;7
 F30.txt;by;FunctionWords;15
-F30.txt;ec;EconomicOperands;8
-F30.txt;if;LogicalConnectors;23
-F30.txt;ii;LegalReferences;4
-F30.txt;in;FunctionWords;27
-F30.txt;is;FunctionWords;12
-F30.txt;it;EconomicOperands;6
+F30.txt;ii;LegalReferences;2
+F30.txt;in;FunctionWords;19
 F30.txt;iv;LegalReferences;1
-F30.txt;le;MathematicalOperators;5
-F30.txt;no;LogicalConnectors;6
 F30.txt;of;FunctionWords;29
-F30.txt;on;FunctionWords;4
-F30.txt;or;LogicalConnectors;1
 F30.txt;to;FunctionWords;1
-F30.txt;up;FunctionWords;1
-F30.txt;2;Attributes;12
-F30.txt;3;Attributes;4
-F30.txt;4;Attributes;4
+F30.txt;1;Attributes;1
+F30.txt;2;Attributes;6
 F30.txt;5;Attributes;1
-F30.txt;6;Attributes;12
-F30.txt;7;Attributes;6
-F30.txt;8;Attributes;3
-F30.txt;9;Attributes;9
-F30.txt;a;FunctionWords;31
-F30.txt;b;LegalReferences;13
-F30.txt;c;LegalReferences;14
-F30.txt;d;LegalReferences;8
-F30.txt;e;LegalReferences;65
-F30.txt;f;LegalReferences;5
-F30.txt;i;FunctionWords;15
-F30.txt;l;LegalReferences;13
-F30.txt;m;LegalReferences;10
-F30.txt;n;LegalReferences;79
-F30.txt;o;LegalReferences;11
-F30.txt;p;LegalReferences;10
-F30.txt;r;LegalReferences;61
-F30.txt;t;LegalReferences;6
-F30.txt;u;LegalReferences;14
+F30.txt;a;FunctionWords;20
+F30.txt;b;LegalReferences;4
+F30.txt;e;LegalReferences;2
+F30.txt;i;FunctionWords;3
+F30.txt;l;LegalReferences;3
 F30.txt;v;LegalReferences;35
-F30.txt;x;LegalReferences;46

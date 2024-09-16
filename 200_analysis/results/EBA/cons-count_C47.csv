@@ -1,21 +1,19 @@
-C47.txt;derivative transaction;EconomicOperands;1
 C47.txt;in accordance with;LogicalConnectors;97
 C47.txt;paragraph 2 and 3;LegalReferences;2
 C47.txt;paragraph 3 and 4;LegalReferences;1
 C47.txt;credit protection;EconomicOperands;1
-C47.txt;netting agreement;EconomicOperands;2
+C47.txt;netting agreement;EconomicOperands;1
 C47.txt;off-balance sheet;EconomicOperands;14
 C47.txt;off-balance-sheet;EconomicOperands;5
 C47.txt;creditworthiness;EconomicOperands;1
-C47.txt;for the purpose;FunctionWords;3
 C47.txt;associated with;FunctionWords;4
 C47.txt;credit exposure;EconomicOperands;4
+C47.txt;securitisations;EconomicOperands;3
 C47.txt;unconditionally;LogicalConnectors;1
 C47.txt;in addition to;LogicalConnectors;1
 C47.txt;in relation to;LogicalConnectors;1
-C47.txt;paragraph 1 a;LegalReferences;9
-C47.txt;the amount of;MathematicalOperators;12
-C47.txt;balance sheet;EconomicOperands;11
+C47.txt;the amount of;MathematicalOperators;10
+C47.txt;balance sheet;EconomicOperands;10
 C47.txt;provided that;LogicalConnectors;10
 C47.txt;regardless of;LogicalConnectors;1
 C47.txt;comprehensive;EconomicOperands;2
@@ -36,12 +34,13 @@ C47.txt;institutions;EconomicOperands;88
 C47.txt;intermediate;EconomicOperands;8
 C47.txt;representing;EconomicOperands;2
 C47.txt;requirements;EconomicOperands;5
-C47.txt;transactions;EconomicOperands;22
+C47.txt;standardised;EconomicOperands;12
+C47.txt;transactions;EconomicOperands;23
 C47.txt;transitional;FunctionWords;11
 C47.txt;credit risk;EconomicOperands;20
 C47.txt;for example;LogicalConnectors;1
 C47.txt;in addition;LogicalConnectors;1
-C47.txt;paragraph 1;LegalReferences;2
+C47.txt;paragraph 1;LegalReferences;11
 C47.txt;paragraph 2;LegalReferences;3
 C47.txt;paragraph 4;LegalReferences;2
 C47.txt;paragraph 5;LegalReferences;1
@@ -60,12 +59,12 @@ C47.txt;development;EconomicOperands;23
 C47.txt;effectively;Other;1
 C47.txt;governments;EconomicOperands;13
 C47.txt;institution;EconomicOperands;34
-C47.txt;instruction;EconomicOperands;19
 C47.txt;investments;EconomicOperands;3
 C47.txt;promotional;EconomicOperands;31
 C47.txt;recognition;EconomicOperands;9
 C47.txt;replacement;EconomicOperands;17
 C47.txt;requirement;EconomicOperands;13
+C47.txt;securitised;EconomicOperands;3
 C47.txt;significant;Attributes;3
 C47.txt;traditional;EconomicOperands;1
 C47.txt;transaction;EconomicOperands;2
@@ -75,16 +74,17 @@ C47.txt;subject to;LogicalConnectors;7
 C47.txt;accounting;EconomicOperands;45
 C47.txt;additional;MathematicalOperators;8
 C47.txt;adjustment;EconomicOperands;2
+C47.txt;agreements;EconomicOperands;1
 C47.txt;applicable;FunctionWords;36
 C47.txt;calculated;EconomicOperands;8
 C47.txt;collateral;EconomicOperands;15
-C47.txt;commitment;EconomicOperands;20
+C47.txt;commitment;EconomicOperands;12
 C47.txt;conditions;EconomicOperands;13
 C47.txt;considered;EconomicOperands;6
 C47.txt;constitute;EconomicOperands;1
 C47.txt;conversion;EconomicOperands;8
 C47.txt;definition;EconomicOperands;16
-C47.txt;derivative;EconomicOperands;3
+C47.txt;derivative;EconomicOperands;4
 C47.txt;designated;RegulatoryOperators;2
 C47.txt;determined;RegulatoryOperators;5
 C47.txt;difference;EconomicOperands;3
@@ -100,8 +100,7 @@ C47.txt;offsetting;EconomicOperands;4
 C47.txt;percentage;EconomicOperands;3
 C47.txt;principles;EconomicOperands;2
 C47.txt;protection;EconomicOperands;2
-C47.txt;prudential;EconomicOperands;14
-C47.txt;receivable;EconomicOperands;10
+C47.txt;recognised;EconomicOperands;2
 C47.txt;references;EconomicOperands;19
 C47.txt;repurchase;EconomicOperands;1
 C47.txt;respective;EconomicOperands;1
@@ -114,7 +113,7 @@ C47.txt;calculate;EconomicOperands;8
 C47.txt;cancelled;EconomicOperands;1
 C47.txt;competent;EconomicOperands;23
 C47.txt;contracts;EconomicOperands;19
-C47.txt;deduction;MathematicalOperators;5
+C47.txt;deduction;MathematicalOperators;2
 C47.txt;deposited;EconomicOperands;3
 C47.txt;determine;RegulatoryOperators;1
 C47.txt;exception;RegulatoryOperators;1
@@ -133,14 +132,15 @@ C47.txt;including;LogicalConnectors;5
 C47.txt;indicated;EconomicOperands;4
 C47.txt;liquidity;EconomicOperands;6
 C47.txt;operative;EconomicOperands;1
-C47.txt;paragraph;LegalReferences;21
+C47.txt;paragraph;LegalReferences;8
 C47.txt;positions;EconomicOperands;4
-C47.txt;potential;EconomicOperands;14
+C47.txt;potential;EconomicOperands;13
 C47.txt;preceding;FunctionWords;1
 C47.txt;provision;EconomicOperands;1
 C47.txt;purchased;EconomicOperands;4
 C47.txt;qualifies;EconomicOperands;1
 C47.txt;quarterly;Attributes;1
+C47.txt;recognise;EconomicOperands;2
 C47.txt;reduction;EconomicOperands;5
 C47.txt;reference;EconomicOperands;9
 C47.txt;regarding;LogicalConnectors;1
@@ -158,7 +158,7 @@ C47.txt;accounts;EconomicOperands;2
 C47.txt;adjusted;EconomicOperands;1
 C47.txt;affected;EconomicOperands;1
 C47.txt;applying;EconomicOperands;1
-C47.txt;approach;EconomicOperands;17
+C47.txt;approach;EconomicOperands;16
 C47.txt;approval;RegulatoryOperators;2
 C47.txt;assigned;RegulatoryOperators;4
 C47.txt;assuming;EconomicOperands;3
@@ -181,12 +181,11 @@ C47.txt;entities;EconomicOperands;1
 C47.txt;excluded;EconomicOperands;30
 C47.txt;exempted;RegulatoryOperators;33
 C47.txt;expected;EconomicOperands;1
-C47.txt;exposure;EconomicOperands;162
+C47.txt;exposure;EconomicOperands;96
 C47.txt;guidance;EconomicOperands;4
 C47.txt;included;EconomicOperands;22
 C47.txt;includes;EconomicOperands;4
-C47.txt;increase;MathematicalOperators;1
-C47.txt;leverage;EconomicOperands;57
+C47.txt;leverage;EconomicOperands;56
 C47.txt;maturity;EconomicOperands;3
 C47.txt;measured;EconomicOperands;5
 C47.txt;multiple;EconomicOperands;1
@@ -196,9 +195,11 @@ C47.txt;notional;EconomicOperands;4
 C47.txt;novation;EconomicOperands;1
 C47.txt;original;EconomicOperands;10
 C47.txt;positive;EconomicOperands;4
+C47.txt;pre-loan;EconomicOperands;1
 C47.txt;provided;LogicalConnectors;11
 C47.txt;provides;EconomicOperands;5
-C47.txt;purchase;EconomicOperands;13
+C47.txt;purchase;EconomicOperands;1
+C47.txt;purposes;EconomicOperands;3
 C47.txt;received;EconomicOperands;11
 C47.txt;regional;EconomicOperands;13
 C47.txt;reminder;EconomicOperands;8
@@ -209,8 +210,6 @@ C47.txt;security;EconomicOperands;8
 C47.txt;sentence;Other;1
 C47.txt;services;EconomicOperands;4
 C47.txt;specific;FunctionWords;10
-C47.txt;standard;EconomicOperands;12
-C47.txt;tangible;EconomicOperands;1
 C47.txt;transfer;EconomicOperands;3
 C47.txt;in case;LogicalConnectors;2
 C47.txt;part ii;LegalReferences;2
@@ -227,47 +226,44 @@ C47.txt;another;FunctionWords;4
 C47.txt;applied;EconomicOperands;40
 C47.txt;applies;FunctionWords;6
 C47.txt;arising;EconomicOperands;10
-C47.txt;article;EconomicOperands;260
+C47.txt;article;EconomicOperands;239
 C47.txt;banking;EconomicOperands;4
 C47.txt;benefit;EconomicOperands;2
 C47.txt;between;FunctionWords;6
 C47.txt;capital;EconomicOperands;41
 C47.txt;central;EconomicOperands;13
-C47.txt;chapter;Other;4
+C47.txt;chapter;Other;1
 C47.txt;cleared;EconomicOperands;30
-C47.txt;collect;EconomicOperands;1
 C47.txt;credits;EconomicOperands;3
 C47.txt;decided;EconomicOperands;2
 C47.txt;defined;EconomicOperands;5
 C47.txt;entered;EconomicOperands;1
 C47.txt;exclude;EconomicOperands;1
 C47.txt;factors;EconomicOperands;4
-C47.txt;further;LogicalConnectors;1
 C47.txt;general;FunctionWords;6
 C47.txt;granted;LogicalConnectors;18
 C47.txt;grounds;EconomicOperands;1
 C47.txt;however;LogicalConnectors;1
 C47.txt;include;EconomicOperands;19
 C47.txt;initial;EconomicOperands;5
-C47.txt;measure;EconomicOperands;12
+C47.txt;measure;EconomicOperands;11
 C47.txt;mediate;EconomicOperands;1
-C47.txt;netting;EconomicOperands;11
+C47.txt;netting;EconomicOperands;12
 C47.txt;overall;LogicalConnectors;4
-C47.txt;payable;EconomicOperands;3
 C47.txt;payment;EconomicOperands;1
 C47.txt;perform;EconomicOperands;1
-C47.txt;pledged;EconomicOperands;2
+C47.txt;pledged;EconomicOperands;1
 C47.txt;portion;EconomicOperands;4
 C47.txt;process;EconomicOperands;1
 C47.txt;product;EconomicOperands;3
 C47.txt;provide;EconomicOperands;1
-C47.txt;qualify;EconomicOperands;2
+C47.txt;qualify;EconomicOperands;1
 C47.txt;quarter;Attributes;2
 C47.txt;reduced;EconomicOperands;6
 C47.txt;reduces;EconomicOperands;2
 C47.txt;regular;EconomicOperands;22
 C47.txt;related;FunctionWords;9
-C47.txt;reverse;EconomicOperands;3
+C47.txt;reverse;EconomicOperands;2
 C47.txt;section;LegalReferences;1
 C47.txt;settled;EconomicOperands;1
 C47.txt;several;FunctionWords;2
@@ -275,7 +271,6 @@ C47.txt;therein;Other;1
 C47.txt;through;FunctionWords;20
 C47.txt;trading;EconomicOperands;1
 C47.txt;treated;EconomicOperands;6
-C47.txt;waiting;EconomicOperands;15
 C47.txt;waivers;RegulatoryOperators;2
 C47.txt;whereby;FunctionWords;2
 C47.txt;without;FunctionWords;8
@@ -285,15 +280,15 @@ C47.txt;part i;LegalReferences;2
 C47.txt;tier 1;EconomicOperands;25
 C47.txt;adjust;EconomicOperands;1
 C47.txt;agents;EconomicOperands;3
-C47.txt;amount;EconomicOperands;73
+C47.txt;amount;EconomicOperands;75
 C47.txt;assets;EconomicOperands;20
 C47.txt;buying;EconomicOperands;1
 C47.txt;cannot;RegulatoryOperators;6
 C47.txt;claims;EconomicOperands;1
-C47.txt;client;EconomicOperands;30
+C47.txt;client;EconomicOperands;26
 C47.txt;credit;EconomicOperands;57
 C47.txt;deduct;LogicalConnectors;4
-C47.txt;effect;EconomicOperands;26
+C47.txt;effect;EconomicOperands;23
 C47.txt;entity;EconomicOperands;12
 C47.txt;excess;EconomicOperands;3
 C47.txt;export;EconomicOperands;3
@@ -311,7 +306,7 @@ C47.txt;member;EconomicOperands;12
 C47.txt;method;EconomicOperands;11
 C47.txt;needed;EconomicOperands;1
 C47.txt;notice;EconomicOperands;1
-C47.txt;offset;EconomicOperands;9
+C47.txt;offset;EconomicOperands;11
 C47.txt;others;EconomicOperands;1
 C47.txt;points;EconomicOperands;11
 C47.txt;posted;EconomicOperands;2
@@ -328,11 +323,10 @@ C47.txt;target;EconomicOperands;1
 C47.txt;unless;LogicalConnectors;1
 C47.txt;versus;FunctionWords;1
 C47.txt;within;LogicalConnectors;1
-C47.txt;above;FunctionWords;17
+C47.txt;above;FunctionWords;16
 C47.txt;added;MathematicalOperators;3
 C47.txt;after;LogicalConnectors;2
 C47.txt;agent;EconomicOperands;5
-C47.txt;among;FunctionWords;1
 C47.txt;apply;Other;13
 C47.txt;asset;EconomicOperands;9
 C47.txt;avoid;EconomicOperands;2
@@ -341,17 +335,14 @@ C47.txt;being;FunctionWords;1
 C47.txt;claim;EconomicOperands;1
 C47.txt;costs;EconomicOperands;4
 C47.txt;could;FunctionWords;1
-C47.txt;count;EconomicOperands;2
 C47.txt;cross;EconomicOperands;2
 C47.txt;debit;EconomicOperands;2
-C47.txt;deter;EconomicOperands;1
 C47.txt;first;Attributes;1
 C47.txt;floor;EconomicOperands;5
 C47.txt;fully;EconomicOperands;8
 C47.txt;funds;EconomicOperands;9
 C47.txt;given;FunctionWords;2
-C47.txt;gross;EconomicOperands;11
-C47.txt;group;EconomicOperands;2
+C47.txt;gross;EconomicOperands;7
 C47.txt;inter;EconomicOperands;1
 C47.txt;legal;EconomicOperands;19
 C47.txt;level;EconomicOperands;1
@@ -360,14 +351,13 @@ C47.txt;local;EconomicOperands;13
 C47.txt;lower;EconomicOperands;6
 C47.txt;month;EconomicOperands;1
 C47.txt;other;LogicalConnectors;20
-C47.txt;party;EconomicOperands;3
 C47.txt;point;EconomicOperands;106
 C47.txt;prior;EconomicOperands;1
-C47.txt;ratio;LogicalConnectors;59
+C47.txt;ratio;LogicalConnectors;56
 C47.txt;refer;EconomicOperands;1
 C47.txt;sales;EconomicOperands;16
 C47.txt;shall;RegulatoryOperators;143
-C47.txt;state;EconomicOperands;12
+C47.txt;state;EconomicOperands;11
 C47.txt;taken;Other;3
 C47.txt;their;FunctionWords;2
 C47.txt;there;FunctionWords;2
@@ -379,20 +369,13 @@ C47.txt;trade;EconomicOperands;24
 C47.txt;under;FunctionWords;31
 C47.txt;units;EconomicOperands;9
 C47.txt;until;LogicalConnectors;2
-C47.txt;using;EconomicOperands;8
-C47.txt;value;EconomicOperands;95
-C47.txt;weigh;MathematicalOperators;1
+C47.txt;using;EconomicOperands;7
+C47.txt;value;EconomicOperands;69
 C47.txt;where;LogicalConnectors;25
 C47.txt;which;FunctionWords;25
 C47.txt;while;LogicalConnectors;1
 C47.txt;would;FunctionWords;6
-C47.txt;12 a;Other;1
-C47.txt;11 a;Other;4
-C47.txt;14 a;Other;11
-C47.txt;18 a;Other;1
-C47.txt;78 c;Other;1
 C47.txt;also;LogicalConnectors;35
-C47.txt;auto;EconomicOperands;1
 C47.txt;back;EconomicOperands;1
 C47.txt;base;EconomicOperands;1
 C47.txt;been;FunctionWords;9
@@ -408,26 +391,21 @@ C47.txt;fair;EconomicOperands;2
 C47.txt;form;EconomicOperands;7
 C47.txt;from;FunctionWords;30
 C47.txt;full;EconomicOperands;6
-C47.txt;gain;EconomicOperands;2
 C47.txt;have;FunctionWords;13
 C47.txt;held;EconomicOperands;7
 C47.txt;high;EconomicOperands;1
 C47.txt;into;FunctionWords;11
-C47.txt;item;Other;41
+C47.txt;item;Other;6
 C47.txt;last;EconomicOperands;9
-C47.txt;late;EconomicOperands;2
 C47.txt;lent;EconomicOperands;5
-C47.txt;loan;EconomicOperands;9
+C47.txt;loan;EconomicOperands;8
 C47.txt;made;FunctionWords;12
-C47.txt;meet;EconomicOperands;10
-C47.txt;more;LogicalConnectors;1
-C47.txt;name;EconomicOperands;2
+C47.txt;meet;EconomicOperands;9
+C47.txt;name;EconomicOperands;1
 C47.txt;only;LogicalConnectors;9
 C47.txt;paid;EconomicOperands;1
-C47.txt;part;FunctionWords;23
-C47.txt;pool;EconomicOperands;19
-C47.txt;real;EconomicOperands;2
-C47.txt;risk;EconomicOperands;17
+C47.txt;part;FunctionWords;14
+C47.txt;risk;EconomicOperands;8
 C47.txt;same;FunctionWords;1
 C47.txt;sign;EconomicOperands;5
 C47.txt;sold;EconomicOperands;1
@@ -445,163 +423,97 @@ C47.txt;used;EconomicOperands;4
 C47.txt;were;FunctionWords;3
 C47.txt;when;LogicalConnectors;8
 C47.txt;with;FunctionWords;32
-C47.txt;word;EconomicOperands;1
-C47.txt;1 a;Other;9
-C47.txt;2 a;Other;17
-C47.txt;3 a;Other;3
-C47.txt;4 a;Other;4
-C47.txt;5 a;Other;3
-C47.txt;6 a;Other;2
-C47.txt;9 a;Other;2
-C47.txt;2 c;Other;30
-C47.txt;3 c;Other;14
-C47.txt;4 c;Other;12
-C47.txt;5 c;Other;12
-C47.txt;6 c;Other;8
-C47.txt;a 1;Other;5
-C47.txt;a 2;Other;4
-C47.txt;a 7;Other;1
-C47.txt;c 1;Other;1
-C47.txt;d 1;Other;2
-C47.txt;d 4;Other;8
-C47.txt;e 1;Other;2
-C47.txt;e 2;Other;1
-C47.txt;f 1;Other;2
-C47.txt;104;LegalReferences;5
-C47.txt;113;LegalReferences;6
-C47.txt;921;LegalReferences;7
+C47.txt;1 f;Other;1
+C47.txt;100;Attributes;4
+C47.txt;104;LegalReferences;4
+C47.txt;921;LegalReferences;2
 C47.txt;add;RegulatoryOperators;10
-C47.txt;aid;EconomicOperands;15
 C47.txt;all;LogicalConnectors;9
-C47.txt;and;LogicalConnectors;117
-C47.txt;any;LogicalConnectors;13
-C47.txt;app;LegalReferences;4
+C47.txt;and;LogicalConnectors;167
+C47.txt;any;LogicalConnectors;14
 C47.txt;are;FunctionWords;28
-C47.txt;ass;Other;12
 C47.txt;but;LogicalConnectors;1
 C47.txt;can;FunctionWords;19
 C47.txt;crm;EconomicOperands;2
 C47.txt;day;EconomicOperands;1
 C47.txt;did;FunctionWords;1
-C47.txt;doe;EconomicOperands;2
-C47.txt;ead;EconomicOperands;8
-C47.txt;end;Other;3
 C47.txt;etc;FunctionWords;1
-C47.txt;for;FunctionWords;50
+C47.txt;for;FunctionWords;52
 C47.txt;had;FunctionWords;2
-C47.txt;her;FunctionWords;6
-C47.txt;ifi;EconomicOperands;14
 C47.txt;iii;LegalReferences;4
-C47.txt;ill;EconomicOperands;9
-C47.txt;led;EconomicOperands;14
-C47.txt;log;EconomicOperands;2
 C47.txt;low;EconomicOperands;2
 C47.txt;may;FunctionWords;7
 C47.txt;met;FunctionWords;7
-C47.txt;net;EconomicOperands;21
+C47.txt;net;EconomicOperands;1
 C47.txt;non;LogicalConnectors;8
 C47.txt;nor;LogicalConnectors;2
 C47.txt;not;LogicalConnectors;54
-C47.txt;off;FunctionWords;3
-C47.txt;one;FunctionWords;3
-C47.txt;opm;EconomicOperands;3
+C47.txt;off;FunctionWords;2
+C47.txt;one;FunctionWords;1
 C47.txt;out;EconomicOperands;15
 C47.txt;own;FunctionWords;9
 C47.txt;pay;EconomicOperands;5
 C47.txt;per;FunctionWords;3
-C47.txt;pin;EconomicOperands;12
-C47.txt;pre;EconomicOperands;3
-C47.txt;sec;EconomicOperands;6
-C47.txt;set;Other;26
-C47.txt;she;FunctionWords;1
+C47.txt;pre;EconomicOperands;2
+C47.txt;set;Other;24
 C47.txt;sum;EconomicOperands;11
 C47.txt;tax;EconomicOperands;1
 C47.txt;ten;Attributes;4
-C47.txt;the;FunctionWords;494
-C47.txt;tip;EconomicOperands;8
+C47.txt;the;FunctionWords;499
 C47.txt;two;Attributes;4
 C47.txt;use;EconomicOperands;1
 C47.txt;via;FunctionWords;2
 C47.txt;way;EconomicOperands;22
 C47.txt;10;Attributes;4
-C47.txt;11;LegalReferences;16
-C47.txt;16;LegalReferences;9
+C47.txt;15;Attributes;1
+C47.txt;16;LegalReferences;1
 C47.txt;17;LegalReferences;1
+C47.txt;18;LegalReferences;1
 C47.txt;19;LegalReferences;1
-C47.txt;22;LegalReferences;4
-C47.txt;24;LegalReferences;1
+C47.txt;20;Attributes;5
 C47.txt;25;Attributes;2
-C47.txt;27;LegalReferences;13
-C47.txt;28;LegalReferences;7
-C47.txt;29;LegalReferences;179
-C47.txt;30;Attributes;8
 C47.txt;32;LegalReferences;2
+C47.txt;35;Attributes;2
 C47.txt;36;LegalReferences;2
-C47.txt;42;LegalReferences;1
-C47.txt;44;LegalReferences;1
-C47.txt;46;LegalReferences;2
-C47.txt;47;LegalReferences;6
-C47.txt;48;LegalReferences;4
-C47.txt;49;LegalReferences;4
+C47.txt;47;LegalReferences;2
+C47.txt;48;LegalReferences;2
+C47.txt;49;LegalReferences;2
 C47.txt;50;Attributes;5
 C47.txt;60;Attributes;2
-C47.txt;ab;Other;1
-C47.txt;an;FunctionWords;64
-C47.txt;as;LogicalConnectors;125
-C47.txt;at;FunctionWords;44
-C47.txt;be;FunctionWords;123
+C47.txt;an;FunctionWords;40
+C47.txt;as;LogicalConnectors;110
+C47.txt;at;FunctionWords;14
+C47.txt;be;FunctionWords;126
 C47.txt;by;FunctionWords;92
-C47.txt;cc;LegalReferences;61
-C47.txt;do;FunctionWords;3
-C47.txt;ec;EconomicOperands;7
-C47.txt;et;Other;14
-C47.txt;ha;Other;11
-C47.txt;he;FunctionWords;10
-C47.txt;if;LogicalConnectors;42
-C47.txt;ii;LegalReferences;37
-C47.txt;in;FunctionWords;280
-C47.txt;is;FunctionWords;60
-C47.txt;it;EconomicOperands;16
-C47.txt;iv;LegalReferences;11
-C47.txt;le;MathematicalOperators;24
-C47.txt;no;LogicalConnectors;43
-C47.txt;of;FunctionWords;422
-C47.txt;on;FunctionWords;75
-C47.txt;or;LogicalConnectors;61
-C47.txt;so;LogicalConnectors;2
+C47.txt;do;FunctionWords;1
+C47.txt;if;LogicalConnectors;38
+C47.txt;ii;LegalReferences;27
+C47.txt;in;FunctionWords;220
+C47.txt;is;FunctionWords;31
+C47.txt;it;EconomicOperands;7
+C47.txt;no;LogicalConnectors;33
+C47.txt;of;FunctionWords;424
+C47.txt;on;FunctionWords;42
+C47.txt;or;LogicalConnectors;59
 C47.txt;to;FunctionWords;109
-C47.txt;tr;EconomicOperands;6
-C47.txt;up;FunctionWords;31
-C47.txt;us;EconomicOperands;2
-C47.txt;1;Attributes;87
-C47.txt;2;Attributes;43
-C47.txt;3;Attributes;21
-C47.txt;4;Attributes;189
-C47.txt;5;Attributes;6
-C47.txt;6;Attributes;18
-C47.txt;7;Attributes;43
-C47.txt;8;Attributes;3
-C47.txt;9;Attributes;46
-C47.txt;a;FunctionWords;259
-C47.txt;b;LegalReferences;45
-C47.txt;c;LegalReferences;334
-C47.txt;d;LegalReferences;179
-C47.txt;e;LegalReferences;261
-C47.txt;f;LegalReferences;84
-C47.txt;h;LegalReferences;7
-C47.txt;i;FunctionWords;117
+C47.txt;up;FunctionWords;30
+C47.txt;1;Attributes;26
+C47.txt;2;Attributes;23
+C47.txt;3;Attributes;14
+C47.txt;4;Attributes;17
+C47.txt;5;Attributes;2
+C47.txt;9;Attributes;2
+C47.txt;a;FunctionWords;126
+C47.txt;b;LegalReferences;10
+C47.txt;c;LegalReferences;24
+C47.txt;d;LegalReferences;13
+C47.txt;e;LegalReferences;15
+C47.txt;f;LegalReferences;3
+C47.txt;i;FunctionWords;31
 C47.txt;j;LegalReferences;4
 C47.txt;k;LegalReferences;3
-C47.txt;l;LegalReferences;266
-C47.txt;m;LegalReferences;66
-C47.txt;n;LegalReferences;142
-C47.txt;o;LegalReferences;133
-C47.txt;p;LegalReferences;107
-C47.txt;q;LegalReferences;15
-C47.txt;r;LegalReferences;663
-C47.txt;t;LegalReferences;82
-C47.txt;u;LegalReferences;62
-C47.txt;v;LegalReferences;10
-C47.txt;x;LegalReferences;16
-C47.txt;y;LegalReferences;18
-C47.txt;z;LegalReferences;4
+C47.txt;l;LegalReferences;25
+C47.txt;m;LegalReferences;1
+C47.txt;n;LegalReferences;5
+C47.txt;o;LegalReferences;3
+C47.txt;p;LegalReferences;3

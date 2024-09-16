@@ -1,11 +1,9 @@
-F41.txt;financial instrument;EconomicOperands;5
 F41.txt;in accordance with;LogicalConnectors;1
-F41.txt;financial asset;EconomicOperands;7
 F41.txt;institutions;EconomicOperands;1
 F41.txt;credit risk;EconomicOperands;4
 F41.txt;derivatives;EconomicOperands;1
 F41.txt;information;EconomicOperands;2
-F41.txt;instruments;EconomicOperands;4
+F41.txt;instruments;EconomicOperands;9
 F41.txt;liabilities;EconomicOperands;16
 F41.txt;accounting;EconomicOperands;10
 F41.txt;allocation;EconomicOperands;1
@@ -16,7 +14,7 @@ F41.txt;securities;EconomicOperands;11
 F41.txt;contracts;EconomicOperands;3
 F41.txt;different;FunctionWords;1
 F41.txt;directive;EconomicOperands;7
-F41.txt;financial;EconomicOperands;11
+F41.txt;financial;EconomicOperands;23
 F41.txt;portfolio;EconomicOperands;1
 F41.txt;separated;EconomicOperands;1
 F41.txt;based on;Other;3
@@ -37,9 +35,8 @@ F41.txt;include;EconomicOperands;3
 F41.txt;managed;EconomicOperands;5
 F41.txt;through;FunctionWords;8
 F41.txt;trading;EconomicOperands;3
-F41.txt;part i;LegalReferences;2
 F41.txt;amount;EconomicOperands;4
-F41.txt;assets;EconomicOperands;6
+F41.txt;assets;EconomicOperands;13
 F41.txt;credit;EconomicOperands;1
 F41.txt;equity;EconomicOperands;2
 F41.txt;hybrid;EconomicOperands;5
@@ -65,79 +62,43 @@ F41.txt;also;LogicalConnectors;2
 F41.txt;cost;EconomicOperands;10
 F41.txt;debt;EconomicOperands;11
 F41.txt;fair;EconomicOperands;29
-F41.txt;late;EconomicOperands;3
 F41.txt;loss;EconomicOperands;8
-F41.txt;part;FunctionWords;57
+F41.txt;part;FunctionWords;58
 F41.txt;that;FunctionWords;1
 F41.txt;this;FunctionWords;3
 F41.txt;thus;LogicalConnectors;1
-F41.txt;1 a;Other;2
-F41.txt;2 a;Other;1
-F41.txt;3 a;Other;9
-F41.txt;4 a;Other;1
-F41.txt;6 a;Other;1
-F41.txt;4 i;Other;4
-F41.txt;a 6;Other;2
-F41.txt;b 6;Other;1
 F41.txt;301;LegalReferences;1
-F41.txt;and;LogicalConnectors;8
+F41.txt;and;LogicalConnectors;9
 F41.txt;are;FunctionWords;1
 F41.txt;bad;EconomicOperands;6
 F41.txt;ecb;EconomicOperands;9
 F41.txt;for;FunctionWords;5
-F41.txt;ifi;EconomicOperands;1
 F41.txt;non;LogicalConnectors;7
 F41.txt;the;FunctionWords;10
 F41.txt;use;EconomicOperands;4
-F41.txt;11;LegalReferences;1
-F41.txt;12;Attributes;1
-F41.txt;13;LegalReferences;1
+F41.txt;18;LegalReferences;1
 F41.txt;19;LegalReferences;1
 F41.txt;25;Attributes;1
 F41.txt;27;LegalReferences;1
 F41.txt;28;LegalReferences;1
-F41.txt;29;LegalReferences;2
-F41.txt;30;Attributes;1
 F41.txt;35;Attributes;1
-F41.txt;41;LegalReferences;8
-F41.txt;aa;LegalReferences;8
-F41.txt;an;FunctionWords;46
-F41.txt;as;LogicalConnectors;5
-F41.txt;at;FunctionWords;25
+F41.txt;41;LegalReferences;6
+F41.txt;as;LogicalConnectors;1
+F41.txt;at;FunctionWords;20
 F41.txt;be;FunctionWords;2
 F41.txt;by;FunctionWords;1
-F41.txt;if;LogicalConnectors;42
 F41.txt;in;FunctionWords;5
-F41.txt;is;FunctionWords;10
 F41.txt;it;EconomicOperands;1
-F41.txt;le;MathematicalOperators;3
 F41.txt;of;FunctionWords;11
 F41.txt;on;FunctionWords;4
-F41.txt;or;LogicalConnectors;16
-F41.txt;1;Attributes;7
-F41.txt;2;Attributes;16
-F41.txt;3;Attributes;19
-F41.txt;4;Attributes;2
+F41.txt;or;LogicalConnectors;8
+F41.txt;1;Attributes;4
+F41.txt;2;Attributes;12
+F41.txt;3;Attributes;3
 F41.txt;5;Attributes;2
-F41.txt;6;Attributes;7
-F41.txt;7;Attributes;6
-F41.txt;8;Attributes;10
-F41.txt;9;Attributes;11
-F41.txt;a;FunctionWords;31
-F41.txt;b;LegalReferences;10
-F41.txt;c;LegalReferences;13
-F41.txt;d;LegalReferences;10
-F41.txt;e;LegalReferences;87
-F41.txt;f;LegalReferences;8
-F41.txt;h;LegalReferences;16
-F41.txt;i;FunctionWords;18
-F41.txt;l;LegalReferences;4
-F41.txt;m;LegalReferences;18
-F41.txt;n;LegalReferences;78
-F41.txt;o;LegalReferences;3
-F41.txt;p;LegalReferences;14
-F41.txt;r;LegalReferences;69
-F41.txt;t;LegalReferences;18
+F41.txt;6;Attributes;4
+F41.txt;9;Attributes;4
+F41.txt;a;FunctionWords;5
+F41.txt;f;LegalReferences;2
+F41.txt;l;LegalReferences;3
 F41.txt;v;LegalReferences;50
-F41.txt;x;LegalReferences;59
-F41.txt;y;LegalReferences;7

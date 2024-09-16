@@ -1,28 +1,28 @@
 C09.txt;in conjunction with;FunctionWords;1
-C09.txt;capital requirement;EconomicOperands;1
 C09.txt;for the purpose of;LogicalConnectors;1
 C09.txt;in accordance with;LogicalConnectors;28
-C09.txt;for the purpose;FunctionWords;1
 C09.txt;associated with;FunctionWords;5
-C09.txt;credit exposure;EconomicOperands;39
+C09.txt;credit exposure;EconomicOperands;2
 C09.txt;risk management;EconomicOperands;1
 C09.txt;countercyclical;EconomicOperands;29
 C09.txt;with regard to;LogicalConnectors;1
 C09.txt;identification;EconomicOperands;1
 C09.txt;infrastructure;EconomicOperands;2
+C09.txt;securitisation;EconomicOperands;15
 C09.txt;the amount of;MathematicalOperators;1
 C09.txt;regardless of;LogicalConnectors;1
 C09.txt;corresponding;EconomicOperands;3
 C09.txt;international;EconomicOperands;3
+C09.txt;organisations;EconomicOperands;3
 C09.txt;by virtue of;FunctionWords;1
-C09.txt;central bank;EconomicOperands;6
 C09.txt;implementing;RegulatoryOperators;1
 C09.txt;individually;EconomicOperands;1
 C09.txt;institutions;EconomicOperands;12
-C09.txt;jurisdiction;EconomicOperands;7
+C09.txt;jurisdiction;EconomicOperands;4
 C09.txt;multilateral;EconomicOperands;3
 C09.txt;particularly;LogicalConnectors;5
-C09.txt;requirements;EconomicOperands;31
+C09.txt;requirements;EconomicOperands;32
+C09.txt;standardised;EconomicOperands;4
 C09.txt;in order to;LogicalConnectors;1
 C09.txt;assigned to;EconomicOperands;5
 C09.txt;credit risk;EconomicOperands;30
@@ -35,17 +35,16 @@ C09.txt;calculation;EconomicOperands;5
 C09.txt;correlation;EconomicOperands;1
 C09.txt;denominator;LogicalConnectors;1
 C09.txt;derivatives;EconomicOperands;1
-C09.txt;development;EconomicOperands;3
+C09.txt;development;EconomicOperands;2
 C09.txt;governments;EconomicOperands;9
 C09.txt;incremental;EconomicOperands;1
 C09.txt;individuals;EconomicOperands;1
 C09.txt;information;EconomicOperands;15
-C09.txt;institution;EconomicOperands;19
-C09.txt;instruction;EconomicOperands;5
+C09.txt;institution;EconomicOperands;18
 C09.txt;instruments;EconomicOperands;1
 C09.txt;investments;EconomicOperands;3
 C09.txt;qualitative;EconomicOperands;3
-C09.txt;undertaking;EconomicOperands;4
+C09.txt;specialised;EconomicOperands;9
 C09.txt;unregulated;EconomicOperands;1
 C09.txt;as well as;LogicalConnectors;5
 C09.txt;as follows;FunctionWords;1
@@ -67,11 +66,11 @@ C09.txt;definition;EconomicOperands;22
 C09.txt;derivative;EconomicOperands;1
 C09.txt;designated;RegulatoryOperators;7
 C09.txt;determined;RegulatoryOperators;6
-C09.txt;geographic;EconomicOperands;8
 C09.txt;investment;EconomicOperands;1
 C09.txt;memorandum;LegalReferences;2
 C09.txt;originally;Other;1
 C09.txt;percentage;EconomicOperands;3
+C09.txt;recognised;EconomicOperands;1
 C09.txt;regulation;EconomicOperands;10
 C09.txt;regulatory;EconomicOperands;2
 C09.txt;respective;EconomicOperands;3
@@ -79,7 +78,6 @@ C09.txt;securities;EconomicOperands;1
 C09.txt;separately;EconomicOperands;1
 C09.txt;short-term;EconomicOperands;3
 C09.txt;submission;EconomicOperands;2
-C09.txt;supplement;EconomicOperands;1
 C09.txt;supporting;EconomicOperands;24
 C09.txt;chapter 5;LegalReferences;3
 C09.txt;aggregate;EconomicOperands;3
@@ -87,7 +85,6 @@ C09.txt;allocated;EconomicOperands;2
 C09.txt;authority;EconomicOperands;7
 C09.txt;available;EconomicOperands;1
 C09.txt;breakdown;EconomicOperands;7
-C09.txt;corporate;EconomicOperands;10
 C09.txt;defaulted;EconomicOperands;21
 C09.txt;determine;RegulatoryOperators;1
 C09.txt;directive;EconomicOperands;1
@@ -101,11 +98,8 @@ C09.txt;including;LogicalConnectors;1
 C09.txt;inclusion;LogicalConnectors;1
 C09.txt;mortgages;EconomicOperands;3
 C09.txt;numerator;LogicalConnectors;1
-C09.txt;paragraph;LegalReferences;1
-C09.txt;portfolio;EconomicOperands;1
 C09.txt;positions;EconomicOperands;16
 C09.txt;receiving;EconomicOperands;1
-C09.txt;reduction;EconomicOperands;3
 C09.txt;reference;EconomicOperands;4
 C09.txt;regarding;LogicalConnectors;1
 C09.txt;reporting;EconomicOperands;7
@@ -120,15 +114,14 @@ C09.txt;threshold;EconomicOperands;7
 C09.txt;title ii;LegalReferences;5
 C09.txt;title iv;LegalReferences;6
 C09.txt;allocate;EconomicOperands;1
-C09.txt;approach;EconomicOperands;22
+C09.txt;approach;EconomicOperands;21
 C09.txt;belonged;EconomicOperands;1
 C09.txt;defaults;EconomicOperands;12
-C09.txt;delegate;EconomicOperands;5
 C09.txt;eligible;EconomicOperands;1
 C09.txt;entities;EconomicOperands;6
 C09.txt;excluded;EconomicOperands;3
 C09.txt;expected;EconomicOperands;3
-C09.txt;exposure;EconomicOperands;158
+C09.txt;exposure;EconomicOperands;67
 C09.txt;indicate;EconomicOperands;4
 C09.txt;internal;EconomicOperands;5
 C09.txt;location;EconomicOperands;4
@@ -137,6 +130,7 @@ C09.txt;obligors;EconomicOperands;1
 C09.txt;original;EconomicOperands;10
 C09.txt;property;EconomicOperands;8
 C09.txt;provided;LogicalConnectors;1
+C09.txt;purposes;EconomicOperands;1
 C09.txt;question;EconomicOperands;8
 C09.txt;regional;EconomicOperands;3
 C09.txt;relevant;Attributes;38
@@ -144,24 +138,21 @@ C09.txt;reported;EconomicOperands;24
 C09.txt;required;RegulatoryOperators;1
 C09.txt;separate;EconomicOperands;1
 C09.txt;specific;FunctionWords;20
-C09.txt;standard;EconomicOperands;4
-C09.txt;weighted;MathematicalOperators;34
+C09.txt;weighted;MathematicalOperators;30
 C09.txt;against;FunctionWords;2
 C09.txt;amounts;EconomicOperands;1
 C09.txt;applied;EconomicOperands;4
-C09.txt;article;EconomicOperands;84
+C09.txt;article;EconomicOperands;82
 C09.txt;average;MathematicalOperators;5
 C09.txt;banking;EconomicOperands;7
-C09.txt;capital;EconomicOperands;20
-C09.txt;central;EconomicOperands;6
-C09.txt;chapter;Other;8
+C09.txt;capital;EconomicOperands;21
+C09.txt;central;EconomicOperands;12
+C09.txt;chapter;Other;5
 C09.txt;classes;EconomicOperands;3
-C09.txt;collect;EconomicOperands;4
 C09.txt;council;EconomicOperands;1
 C09.txt;country;EconomicOperands;27
 C09.txt;covered;EconomicOperands;3
 C09.txt;default;EconomicOperands;9
-C09.txt;element;EconomicOperands;1
 C09.txt;factors;EconomicOperands;19
 C09.txt;foreign;EconomicOperands;1
 C09.txt;general;FunctionWords;15
@@ -170,32 +161,27 @@ C09.txt;lending;EconomicOperands;9
 C09.txt;located;EconomicOperands;4
 C09.txt;mandate;RegulatoryOperators;3
 C09.txt;obligor;EconomicOperands;11
-C09.txt;process;EconomicOperands;1
 C09.txt;provide;EconomicOperands;1
 C09.txt;purpose;EconomicOperands;1
-C09.txt;qualify;EconomicOperands;3
 C09.txt;secured;EconomicOperands;11
-C09.txt;special;EconomicOperands;9
 C09.txt;subject;EconomicOperands;1
 C09.txt;through;FunctionWords;3
 C09.txt;trading;EconomicOperands;14
-C09.txt;as for;LogicalConnectors;21
+C09.txt;as for;LogicalConnectors;22
 C09.txt;due to;LogicalConnectors;12
 C09.txt;across;FunctionWords;1
-C09.txt;adjust;EconomicOperands;4
+C09.txt;adjust;EconomicOperands;2
 C09.txt;affect;EconomicOperands;1
 C09.txt;amount;EconomicOperands;34
 C09.txt;before;LogicalConnectors;1
 C09.txt;cannot;RegulatoryOperators;1
 C09.txt;change;EconomicOperands;1
 C09.txt;claims;EconomicOperands;3
-C09.txt;credit;EconomicOperands;6
+C09.txt;credit;EconomicOperands;43
 C09.txt;during;FunctionWords;4
-C09.txt;effect;EconomicOperands;1
 C09.txt;either;LogicalConnectors;2
 C09.txt;equity;EconomicOperands;10
 C09.txt;estate;EconomicOperands;3
-C09.txt;europe;EconomicOperands;1
 C09.txt;exceed;MathematicalOperators;2
 C09.txt;factor;EconomicOperands;12
 C09.txt;market;EconomicOperands;5
@@ -211,17 +197,15 @@ C09.txt;relate;EconomicOperands;2
 C09.txt;report;EconomicOperands;1
 C09.txt;retail;EconomicOperands;21
 C09.txt;sector;EconomicOperands;4
-C09.txt;served;EconomicOperands;12
 C09.txt;should;RegulatoryOperators;1
 C09.txt;about;FunctionWords;1
 C09.txt;after;LogicalConnectors;6
 C09.txt;among;FunctionWords;1
 C09.txt;apply;Other;3
-C09.txt;banks;EconomicOperands;3
+C09.txt;banks;EconomicOperands;9
 C09.txt;based;Other;3
 C09.txt;basis;Other;1
 C09.txt;class;EconomicOperands;3
-C09.txt;count;EconomicOperands;8
 C09.txt;funds;EconomicOperands;30
 C09.txt;grade;EconomicOperands;3
 C09.txt;gross;EconomicOperands;1
@@ -231,7 +215,7 @@ C09.txt;month;EconomicOperands;4
 C09.txt;other;LogicalConnectors;13
 C09.txt;point;EconomicOperands;51
 C09.txt;rates;EconomicOperands;6
-C09.txt;ratio;LogicalConnectors;3
+C09.txt;ratio;LogicalConnectors;2
 C09.txt;refer;EconomicOperands;1
 C09.txt;scale;EconomicOperands;1
 C09.txt;shall;RegulatoryOperators;39
@@ -244,23 +228,15 @@ C09.txt;those;FunctionWords;9
 C09.txt;total;MathematicalOperators;23
 C09.txt;under;FunctionWords;15
 C09.txt;value;EconomicOperands;28
-C09.txt;weigh;MathematicalOperators;7
 C09.txt;where;LogicalConnectors;6
 C09.txt;which;FunctionWords;44
 C09.txt;would;FunctionWords;1
-C09.txt;10 c;Other;5
-C09.txt;25 a;Other;1
-C09.txt;39 c;Other;1
-C09.txt;78 c;Other;4
-C09.txt;1002;LegalReferences;1
 C09.txt;1401;LegalReferences;1
 C09.txt;1403;LegalReferences;2
 C09.txt;1404;LegalReferences;13
 C09.txt;1472;LegalReferences;13
-C09.txt;able;EconomicOperands;8
 C09.txt;back;EconomicOperands;3
 C09.txt;been;FunctionWords;6
-C09.txt;bond;EconomicOperands;3
 C09.txt;book;EconomicOperands;20
 C09.txt;data;EconomicOperands;4
 C09.txt;date;EconomicOperands;4
@@ -274,24 +250,21 @@ C09.txt;have;FunctionWords;7
 C09.txt;high;EconomicOperands;5
 C09.txt;home;EconomicOperands;5
 C09.txt;into;FunctionWords;1
-C09.txt;item;Other;6
+C09.txt;item;Other;3
 C09.txt;last;EconomicOperands;4
-C09.txt;late;EconomicOperands;26
 C09.txt;left;Other;1
 C09.txt;line;EconomicOperands;1
 C09.txt;loan;EconomicOperands;1
-C09.txt;long;EconomicOperands;4
+C09.txt;long;EconomicOperands;3
 C09.txt;loss;EconomicOperands;3
-C09.txt;make;FunctionWords;4
-C09.txt;mark;EconomicOperands;1
+C09.txt;make;FunctionWords;2
 C09.txt;more;LogicalConnectors;1
-C09.txt;move;EconomicOperands;1
 C09.txt;only;LogicalConnectors;2
 C09.txt;part;FunctionWords;10
 C09.txt;pool;EconomicOperands;3
 C09.txt;rate;EconomicOperands;19
 C09.txt;real;EconomicOperands;3
-C09.txt;risk;EconomicOperands;40
+C09.txt;risk;EconomicOperands;36
 C09.txt;same;FunctionWords;21
 C09.txt;than;FunctionWords;1
 C09.txt;that;FunctionWords;11
@@ -300,114 +273,74 @@ C09.txt;were;FunctionWords;4
 C09.txt;when;LogicalConnectors;1
 C09.txt;will;FunctionWords;1
 C09.txt;with;FunctionWords;4
-C09.txt;2 a;Other;3
-C09.txt;4 a;Other;2
-C09.txt;8 a;Other;1
-C09.txt;9 a;Other;1
-C09.txt;2 c;Other;19
-C09.txt;3 c;Other;1
-C09.txt;4 c;Other;2
-C09.txt;5 c;Other;3
-C09.txt;6 c;Other;1
-C09.txt;b 2;Other;2
-C09.txt;e 2;Other;1
-C09.txt;f 2;Other;5
-C09.txt;120;LegalReferences;1
-C09.txt;140;LegalReferences;4
-C09.txt;153;LegalReferences;3
-C09.txt;154;LegalReferences;2
+C09.txt;104;LegalReferences;1
+C09.txt;110;LegalReferences;4
+C09.txt;140;LegalReferences;2
 C09.txt;all;LogicalConnectors;12
-C09.txt;and;LogicalConnectors;44
+C09.txt;and;LogicalConnectors;52
 C09.txt;any;LogicalConnectors;1
 C09.txt;are;FunctionWords;14
 C09.txt;but;LogicalConnectors;1
 C09.txt;cap;EconomicOperands;1
 C09.txt;crm;EconomicOperands;1
-C09.txt;doe;EconomicOperands;4
 C09.txt;for;FunctionWords;79
 C09.txt;may;FunctionWords;2
 C09.txt;net;EconomicOperands;2
 C09.txt;new;EconomicOperands;12
 C09.txt;non;LogicalConnectors;7
 C09.txt;not;LogicalConnectors;19
-C09.txt;off;FunctionWords;16
+C09.txt;off;FunctionWords;2
 C09.txt;out;EconomicOperands;1
 C09.txt;own;FunctionWords;34
 C09.txt;pre;EconomicOperands;13
-C09.txt;sec;EconomicOperands;15
 C09.txt;set;Other;9
-C09.txt;she;FunctionWords;4
 C09.txt;sum;EconomicOperands;8
 C09.txt;tax;EconomicOperands;1
-C09.txt;the;FunctionWords;193
+C09.txt;the;FunctionWords;195
 C09.txt;use;EconomicOperands;11
 C09.txt;yet;LogicalConnectors;2
-C09.txt;10;Attributes;3
-C09.txt;11;LegalReferences;21
-C09.txt;13;LegalReferences;7
-C09.txt;14;LegalReferences;2
-C09.txt;16;LegalReferences;1
-C09.txt;17;LegalReferences;1
-C09.txt;18;LegalReferences;5
-C09.txt;20;Attributes;2
-C09.txt;24;LegalReferences;2
-C09.txt;25;Attributes;1
-C09.txt;27;LegalReferences;1
-C09.txt;30;Attributes;1
+C09.txt;24;LegalReferences;1
+C09.txt;25;Attributes;2
 C09.txt;36;LegalReferences;1
-C09.txt;48;LegalReferences;2
+C09.txt;62;Attributes;1
 C09.txt;90;Attributes;1
-C09.txt;an;FunctionWords;8
-C09.txt;as;LogicalConnectors;49
-C09.txt;at;FunctionWords;25
-C09.txt;be;FunctionWords;31
+C09.txt;an;FunctionWords;4
+C09.txt;as;LogicalConnectors;46
+C09.txt;at;FunctionWords;3
+C09.txt;be;FunctionWords;30
 C09.txt;by;FunctionWords;25
-C09.txt;cc;LegalReferences;5
 C09.txt;do;FunctionWords;1
-C09.txt;ec;EconomicOperands;2
-C09.txt;et;Other;4
-C09.txt;he;FunctionWords;1
-C09.txt;if;LogicalConnectors;7
-C09.txt;in;FunctionWords;103
-C09.txt;is;FunctionWords;35
-C09.txt;it;EconomicOperands;40
-C09.txt;iv;LegalReferences;4
-C09.txt;le;MathematicalOperators;1
+C09.txt;if;LogicalConnectors;5
+C09.txt;in;FunctionWords;87
+C09.txt;is;FunctionWords;3
+C09.txt;it;EconomicOperands;5
 C09.txt;no;LogicalConnectors;10
-C09.txt;of;FunctionWords;214
-C09.txt;on;FunctionWords;37
-C09.txt;or;LogicalConnectors;23
-C09.txt;pe;EconomicOperands;1
+C09.txt;of;FunctionWords;219
+C09.txt;on;FunctionWords;12
+C09.txt;or;LogicalConnectors;20
 C09.txt;to;FunctionWords;41
-C09.txt;us;EconomicOperands;1
-C09.txt;1;Attributes;17
-C09.txt;2;Attributes;8
-C09.txt;3;Attributes;14
-C09.txt;4;Attributes;1
-C09.txt;5;Attributes;6
-C09.txt;6;Attributes;4
-C09.txt;7;Attributes;5
-C09.txt;8;Attributes;8
-C09.txt;9;Attributes;6
-C09.txt;a;FunctionWords;47
-C09.txt;b;LegalReferences;76
-C09.txt;c;LegalReferences;117
-C09.txt;d;LegalReferences;70
-C09.txt;e;LegalReferences;203
-C09.txt;f;LegalReferences;66
-C09.txt;h;LegalReferences;14
-C09.txt;i;FunctionWords;68
-C09.txt;j;LegalReferences;5
-C09.txt;k;LegalReferences;5
-C09.txt;l;LegalReferences;52
-C09.txt;m;LegalReferences;98
-C09.txt;n;LegalReferences;58
-C09.txt;o;LegalReferences;86
-C09.txt;p;LegalReferences;34
-C09.txt;q;LegalReferences;2
-C09.txt;r;LegalReferences;308
-C09.txt;t;LegalReferences;70
-C09.txt;u;LegalReferences;78
-C09.txt;v;LegalReferences;8
-C09.txt;x;LegalReferences;3
-C09.txt;y;LegalReferences;5
+C09.txt;1;Attributes;5
+C09.txt;2;Attributes;16
+C09.txt;3;Attributes;5
+C09.txt;4;Attributes;3
+C09.txt;5;Attributes;2
+C09.txt;6;Attributes;2
+C09.txt;8;Attributes;2
+C09.txt;9;Attributes;2
+C09.txt;a;FunctionWords;17
+C09.txt;b;LegalReferences;11
+C09.txt;c;LegalReferences;14
+C09.txt;d;LegalReferences;9
+C09.txt;e;LegalReferences;2
+C09.txt;f;LegalReferences;1
+C09.txt;h;LegalReferences;2
+C09.txt;i;FunctionWords;1
+C09.txt;j;LegalReferences;3
+C09.txt;k;LegalReferences;2
+C09.txt;l;LegalReferences;2
+C09.txt;n;LegalReferences;4
+C09.txt;o;LegalReferences;1
+C09.txt;p;LegalReferences;3
+C09.txt;q;LegalReferences;1
+C09.txt;t;LegalReferences;2
+C09.txt;y;LegalReferences;3

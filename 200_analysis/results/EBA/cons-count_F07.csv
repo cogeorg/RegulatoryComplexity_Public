@@ -1,44 +1,37 @@
-F07.txt;accounting standard;EconomicOperands;1
 F07.txt;in accordance with;LogicalConnectors;1
-F07.txt;financial asset;EconomicOperands;16
 F07.txt;collateralized;EconomicOperands;8
 F07.txt;the number of;MathematicalOperators;1
 F07.txt;corresponding;EconomicOperands;1
-F07.txt;central bank;EconomicOperands;8
 F07.txt;institutions;EconomicOperands;8
 F07.txt;credit card;EconomicOperands;4
 F07.txt;credit risk;EconomicOperands;12
-F07.txt;paragraph 9;LegalReferences;1
-F07.txt;corporation;EconomicOperands;16
 F07.txt;governments;EconomicOperands;8
 F07.txt;instruments;EconomicOperands;6
 F07.txt;recognition;EconomicOperands;12
 F07.txt;significant;Attributes;12
 F07.txt;subject to;LogicalConnectors;9
-F07.txt;accounting;EconomicOperands;2
+F07.txt;accounting;EconomicOperands;3
 F07.txt;applicable;FunctionWords;1
 F07.txt;collateral;EconomicOperands;4
 F07.txt;impairment;EconomicOperands;11
 F07.txt;individual;EconomicOperands;1
 F07.txt;originated;EconomicOperands;8
-F07.txt;receivable;EconomicOperands;4
 F07.txt;references;EconomicOperands;12
 F07.txt;repurchase;EconomicOperands;4
 F07.txt;securities;EconomicOperands;4
 F07.txt;separately;EconomicOperands;1
 F07.txt;according;LogicalConnectors;1
 F07.txt;allocated;EconomicOperands;1
-F07.txt;financial;EconomicOperands;16
-F07.txt;household;EconomicOperands;4
-F07.txt;portfolio;EconomicOperands;2
+F07.txt;financial;EconomicOperands;32
+F07.txt;paragraph;LegalReferences;1
 F07.txt;principal;EconomicOperands;1
 F07.txt;purchased;EconomicOperands;8
 F07.txt;reference;EconomicOperands;1
 F07.txt;situation;EconomicOperands;1
+F07.txt;standards;EconomicOperands;1
 F07.txt;based on;Other;4
 F07.txt;advances;EconomicOperands;12
 F07.txt;carrying;EconomicOperands;16
-F07.txt;exposure;EconomicOperands;1
 F07.txt;included;EconomicOperands;1
 F07.txt;increase;MathematicalOperators;12
 F07.txt;interest;EconomicOperands;1
@@ -49,6 +42,7 @@ F07.txt;reported;EconomicOperands;5
 F07.txt;of debt;EconomicOperands;1
 F07.txt;account;EconomicOperands;4
 F07.txt;amounts;EconomicOperands;1
+F07.txt;central;EconomicOperands;8
 F07.txt;current;FunctionWords;4
 F07.txt;defined;EconomicOperands;1
 F07.txt;finance;EconomicOperands;8
@@ -60,19 +54,16 @@ F07.txt;project;EconomicOperands;4
 F07.txt;qualify;EconomicOperands;1
 F07.txt;reverse;EconomicOperands;4
 F07.txt;without;FunctionWords;6
-F07.txt;30 day;Attributes;30
-F07.txt;90 day;Attributes;34
 F07.txt;amount;EconomicOperands;17
-F07.txt;assets;EconomicOperands;20
-F07.txt;credit;EconomicOperands;32
+F07.txt;assets;EconomicOperands;36
+F07.txt;credit;EconomicOperands;29
 F07.txt;demand;EconomicOperands;4
 F07.txt;entire;LogicalConnectors;1
-F07.txt;impair;EconomicOperands;26
 F07.txt;leases;EconomicOperands;4
-F07.txt;nation;EconomicOperands;4
 F07.txt;notice;EconomicOperands;4
 F07.txt;status;EconomicOperands;1
 F07.txt;unpaid;EconomicOperands;1
+F07.txt;banks;EconomicOperands;8
 F07.txt;basis;Other;1
 F07.txt;house;EconomicOperands;4
 F07.txt;loans;EconomicOperands;32
@@ -80,22 +71,19 @@ F07.txt;other;LogicalConnectors;16
 F07.txt;shall;RegulatoryOperators;8
 F07.txt;short;EconomicOperands;4
 F07.txt;since;LogicalConnectors;12
-F07.txt;stage;EconomicOperands;19
+F07.txt;stage;EconomicOperands;18
 F07.txt;their;FunctionWords;2
 F07.txt;total;MathematicalOperators;4
 F07.txt;trade;EconomicOperands;4
 F07.txt;under;FunctionWords;3
 F07.txt;where;LogicalConnectors;2
 F07.txt;which;FunctionWords;20
-F07.txt;4 th;Other;1
-F07.txt;able;EconomicOperands;4
 F07.txt;been;FunctionWords;1
 F07.txt;call;EconomicOperands;4
 F07.txt;date;EconomicOperands;2
-F07.txt;days;Attributes;1
+F07.txt;days;Attributes;65
 F07.txt;debt;EconomicOperands;12
 F07.txt;down;FunctionWords;1
-F07.txt;late;EconomicOperands;1
 F07.txt;only;LogicalConnectors;1
 F07.txt;paid;EconomicOperands;1
 F07.txt;part;FunctionWords;129
@@ -105,8 +93,6 @@ F07.txt;that;FunctionWords;12
 F07.txt;they;FunctionWords;1
 F07.txt;this;FunctionWords;1
 F07.txt;with;FunctionWords;6
-F07.txt;5 a;Other;3
-F07.txt;5 i;Other;9
 F07.txt;and;LogicalConnectors;17
 F07.txt;any;LogicalConnectors;1
 F07.txt;are;FunctionWords;13
@@ -117,53 +103,30 @@ F07.txt;fee;EconomicOperands;1
 F07.txt;for;FunctionWords;9
 F07.txt;non;LogicalConnectors;8
 F07.txt;not;LogicalConnectors;15
-F07.txt;sum;EconomicOperands;4
-F07.txt;the;FunctionWords;9
-F07.txt;14;LegalReferences;4
+F07.txt;the;FunctionWords;10
 F07.txt;28;LegalReferences;3
-F07.txt;44;LegalReferences;8
-F07.txt;49;LegalReferences;3
-F07.txt;78;Other;4
-F07.txt;aa;LegalReferences;8
-F07.txt;an;FunctionWords;125
-F07.txt;as;LogicalConnectors;5
-F07.txt;at;FunctionWords;5
-F07.txt;be;FunctionWords;11
+F07.txt;30;Attributes;30
+F07.txt;90;Attributes;34
+F07.txt;as;LogicalConnectors;3
+F07.txt;at;FunctionWords;2
+F07.txt;be;FunctionWords;7
 F07.txt;by;FunctionWords;18
-F07.txt;et;Other;1
-F07.txt;if;LogicalConnectors;13
-F07.txt;in;FunctionWords;19
+F07.txt;in;FunctionWords;15
 F07.txt;it;EconomicOperands;1
-F07.txt;le;MathematicalOperators;3
 F07.txt;of;FunctionWords;26
-F07.txt;on;FunctionWords;13
-F07.txt;or;LogicalConnectors;13
+F07.txt;on;FunctionWords;5
+F07.txt;or;LogicalConnectors;9
 F07.txt;to;FunctionWords;2
 F07.txt;1;Attributes;6
 F07.txt;2;Attributes;6
-F07.txt;3;Attributes;37
-F07.txt;5;Attributes;5
-F07.txt;6;Attributes;1
-F07.txt;7;Attributes;21
-F07.txt;8;Attributes;17
-F07.txt;9;Attributes;33
-F07.txt;a;FunctionWords;87
-F07.txt;b;LegalReferences;47
-F07.txt;c;LegalReferences;27
-F07.txt;d;LegalReferences;99
-F07.txt;e;LegalReferences;178
-F07.txt;f;LegalReferences;17
-F07.txt;h;LegalReferences;1
-F07.txt;i;FunctionWords;20
-F07.txt;k;LegalReferences;2
-F07.txt;l;LegalReferences;1
-F07.txt;m;LegalReferences;8
-F07.txt;n;LegalReferences;144
-F07.txt;o;LegalReferences;9
-F07.txt;p;LegalReferences;16
-F07.txt;r;LegalReferences;44
-F07.txt;t;LegalReferences;13
-F07.txt;u;LegalReferences;5
-F07.txt;v;LegalReferences;132
-F07.txt;x;LegalReferences;128
+F07.txt;3;Attributes;36
+F07.txt;7;Attributes;13
+F07.txt;9;Attributes;26
+F07.txt;a;FunctionWords;75
+F07.txt;b;LegalReferences;16
+F07.txt;c;LegalReferences;12
+F07.txt;d;LegalReferences;11
+F07.txt;e;LegalReferences;11
+F07.txt;f;LegalReferences;8
+F07.txt;v;LegalReferences;128
 F07.txt;y;LegalReferences;56

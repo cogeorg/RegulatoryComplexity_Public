@@ -1,7 +1,5 @@
-C29.txt;financial instrument;EconomicOperands;1
 C29.txt;in accordance with;LogicalConnectors;1
 C29.txt;credit protection;EconomicOperands;1
-C29.txt;loan commitment;EconomicOperands;3
 C29.txt;counterparties;EconomicOperands;1
 C29.txt;balance sheet;EconomicOperands;3
 C29.txt;counterparty;EconomicOperands;2
@@ -11,10 +9,8 @@ C29.txt;adjustments;EconomicOperands;1
 C29.txt;application;EconomicOperands;2
 C29.txt;derivatives;EconomicOperands;3
 C29.txt;institution;EconomicOperands;2
-C29.txt;instruction;EconomicOperands;4
-C29.txt;instruments;EconomicOperands;6
+C29.txt;instruments;EconomicOperands;7
 C29.txt;additional;MathematicalOperators;2
-C29.txt;commitment;EconomicOperands;3
 C29.txt;concerning;LogicalConnectors;1
 C29.txt;consistent;Attributes;1
 C29.txt;exemptions;RegulatoryOperators;2
@@ -29,17 +25,15 @@ C29.txt;available;EconomicOperands;1
 C29.txt;belonging;EconomicOperands;2
 C29.txt;connected;EconomicOperands;9
 C29.txt;defaulted;EconomicOperands;1
-C29.txt;financial;EconomicOperands;3
-C29.txt;guarantee;EconomicOperands;3
+C29.txt;financial;EconomicOperands;4
 C29.txt;remaining;EconomicOperands;1
 C29.txt;reporting;EconomicOperands;1
-C29.txt;technique;EconomicOperands;2
 C29.txt;business;EconomicOperands;1
 C29.txt;criteria;EconomicOperands;1
 C29.txt;deducted;MathematicalOperators;1
 C29.txt;eligible;EconomicOperands;2
 C29.txt;exempted;RegulatoryOperators;1
-C29.txt;exposure;EconomicOperands;15
+C29.txt;exposure;EconomicOperands;6
 C29.txt;included;EconomicOperands;1
 C29.txt;indirect;EconomicOperands;1
 C29.txt;national;EconomicOperands;2
@@ -52,14 +46,13 @@ C29.txt;amounts;EconomicOperands;1
 C29.txt;arising;EconomicOperands;1
 C29.txt;capital;EconomicOperands;2
 C29.txt;several;FunctionWords;1
-C29.txt;trading;EconomicOperands;2
 C29.txt;as for;LogicalConnectors;1
 C29.txt;tier 1;EconomicOperands;3
 C29.txt;across;FunctionWords;1
 C29.txt;assets;EconomicOperands;3
 C29.txt;before;LogicalConnectors;1
-C29.txt;client;EconomicOperands;13
-C29.txt;detail;EconomicOperands;2
+C29.txt;client;EconomicOperands;1
+C29.txt;detail;EconomicOperands;1
 C29.txt;direct;EconomicOperands;1
 C29.txt;effect;EconomicOperands;2
 C29.txt;equity;EconomicOperands;3
@@ -83,21 +76,16 @@ C29.txt;value;EconomicOperands;3
 C29.txt;where;LogicalConnectors;5
 C29.txt;which;FunctionWords;3
 C29.txt;whole;FunctionWords;1
-C29.txt;10 a;Other;2
-C29.txt;10 c;Other;1
 C29.txt;book;EconomicOperands;2
 C29.txt;code;EconomicOperands;10
 C29.txt;data;EconomicOperands;1
 C29.txt;debt;EconomicOperands;3
 C29.txt;each;LogicalConnectors;2
 C29.txt;from;FunctionWords;2
-C29.txt;item;Other;4
-C29.txt;late;EconomicOperands;6
-C29.txt;long;EconomicOperands;1
+C29.txt;loan;EconomicOperands;3
 C29.txt;must;FunctionWords;2
 C29.txt;real;EconomicOperands;1
 C29.txt;same;FunctionWords;1
-C29.txt;site;EconomicOperands;2
 C29.txt;than;FunctionWords;1
 C29.txt;that;FunctionWords;1
 C29.txt;they;FunctionWords;1
@@ -105,7 +93,6 @@ C29.txt;this;FunctionWords;1
 C29.txt;time;EconomicOperands;1
 C29.txt;used;EconomicOperands;2
 C29.txt;when;LogicalConnectors;1
-C29.txt;2 a;Other;1
 C29.txt;100;Attributes;1
 C29.txt;110;LegalReferences;1
 C29.txt;120;LegalReferences;1
@@ -115,65 +102,28 @@ C29.txt;180;Attributes;1
 C29.txt;210;Attributes;1
 C29.txt;220;LegalReferences;1
 C29.txt;all;LogicalConnectors;1
-C29.txt;and;LogicalConnectors;7
-C29.txt;are;FunctionWords;3
+C29.txt;and;LogicalConnectors;9
+C29.txt;are;FunctionWords;4
 C29.txt;crm;EconomicOperands;3
 C29.txt;for;FunctionWords;4
-C29.txt;non;LogicalConnectors;2
 C29.txt;off;FunctionWords;3
 C29.txt;the;FunctionWords;24
 C29.txt;way;EconomicOperands;1
-C29.txt;10;Attributes;3
-C29.txt;13;LegalReferences;1
-C29.txt;16;LegalReferences;1
-C29.txt;17;LegalReferences;1
-C29.txt;19;LegalReferences;1
-C29.txt;20;Attributes;6
-C29.txt;23;Attributes;1
-C29.txt;24;LegalReferences;1
-C29.txt;25;Attributes;1
-C29.txt;27;LegalReferences;1
-C29.txt;28;LegalReferences;1
-C29.txt;29;LegalReferences;1
-C29.txt;30;Attributes;5
-C29.txt;35;Attributes;1
-C29.txt;36;LegalReferences;3
-C29.txt;40;LegalReferences;1
-C29.txt;50;Attributes;2
-C29.txt;60;Attributes;2
-C29.txt;90;Attributes;1
 C29.txt;an;FunctionWords;3
 C29.txt;as;LogicalConnectors;1
 C29.txt;at;FunctionWords;2
-C29.txt;be;FunctionWords;10
-C29.txt;et;Other;1
+C29.txt;be;FunctionWords;9
 C29.txt;if;LogicalConnectors;1
 C29.txt;in;FunctionWords;8
 C29.txt;is;FunctionWords;5
-C29.txt;it;EconomicOperands;3
-C29.txt;le;MathematicalOperators;9
+C29.txt;it;EconomicOperands;1
 C29.txt;no;LogicalConnectors;1
 C29.txt;of;FunctionWords;25
-C29.txt;on;FunctionWords;2
 C29.txt;or;LogicalConnectors;1
 C29.txt;to;FunctionWords;11
 C29.txt;1;Attributes;1
-C29.txt;2;Attributes;5
-C29.txt;3;Attributes;8
-C29.txt;7;Attributes;5
-C29.txt;8;Attributes;1
-C29.txt;9;Attributes;3
+C29.txt;3;Attributes;1
+C29.txt;7;Attributes;1
 C29.txt;a;FunctionWords;7
-C29.txt;b;LegalReferences;2
-C29.txt;c;LegalReferences;10
-C29.txt;d;LegalReferences;3
-C29.txt;e;LegalReferences;13
-C29.txt;i;FunctionWords;2
-C29.txt;l;LegalReferences;7
-C29.txt;m;LegalReferences;12
-C29.txt;n;LegalReferences;9
-C29.txt;o;LegalReferences;14
-C29.txt;p;LegalReferences;8
-C29.txt;r;LegalReferences;6
-C29.txt;t;LegalReferences;10
-C29.txt;u;LegalReferences;8
+C29.txt;c;LegalReferences;3
+C29.txt;l;LegalReferences;3

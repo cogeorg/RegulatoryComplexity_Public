@@ -1,17 +1,15 @@
 C32.02.txt;for the purpose of;LogicalConnectors;4
 C32.02.txt;in accordance with;LogicalConnectors;32
 C32.02.txt;foreign exchange;EconomicOperands;6
-C32.02.txt;operational risk;EconomicOperands;9
-C32.02.txt;for the purpose;FunctionWords;1
+C32.02.txt;operational risk;EconomicOperands;11
 C32.02.txt;with respect to;LogicalConnectors;1
 C32.02.txt;risk management;EconomicOperands;1
 C32.02.txt;diversification;EconomicOperands;28
 C32.02.txt;administration;EconomicOperands;1
-C32.02.txt;administrative;EconomicOperands;5
+C32.02.txt;administrative;EconomicOperands;8
 C32.02.txt;applicable to;FunctionWords;1
 C32.02.txt;balance sheet;EconomicOperands;1
 C32.02.txt;in particular;LogicalConnectors;3
-C32.02.txt;interest rate;EconomicOperands;6
 C32.02.txt;regardless of;LogicalConnectors;1
 C32.02.txt;corresponding;EconomicOperands;11
 C32.02.txt;determination;EconomicOperands;1
@@ -27,25 +25,23 @@ C32.02.txt;verification;EconomicOperands;1
 C32.02.txt;referred to;FunctionWords;9
 C32.02.txt;accordingly;LogicalConnectors;1
 C32.02.txt;adjustments;EconomicOperands;13
-C32.02.txt;alternative;EconomicOperands;2
+C32.02.txt;alternative;EconomicOperands;1
 C32.02.txt;appropriate;Attributes;2
-C32.02.txt;approximate;EconomicOperands;2
 C32.02.txt;calculation;EconomicOperands;1
-C32.02.txt;commodities;EconomicOperands;6
+C32.02.txt;commodities;EconomicOperands;5
 C32.02.txt;composition;EconomicOperands;1
 C32.02.txt;computation;EconomicOperands;16
 C32.02.txt;contractual;EconomicOperands;2
 C32.02.txt;description;EconomicOperands;3
 C32.02.txt;determining;EconomicOperands;2
-C32.02.txt;expectation;EconomicOperands;1
 C32.02.txt;explanation;EconomicOperands;4
 C32.02.txt;independent;EconomicOperands;2
 C32.02.txt;information;EconomicOperands;8
 C32.02.txt;institution;EconomicOperands;15
-C32.02.txt;instruction;EconomicOperands;5
 C32.02.txt;instruments;EconomicOperands;2
 C32.02.txt;liabilities;EconomicOperands;36
 C32.02.txt;methodology;EconomicOperands;2
+C32.02.txt;operational;EconomicOperands;1
 C32.02.txt;potentially;Other;1
 C32.02.txt;recognition;EconomicOperands;1
 C32.02.txt;termination;EconomicOperands;12
@@ -69,7 +65,7 @@ C32.02.txt;consistent;Attributes;2
 C32.02.txt;definition;EconomicOperands;1
 C32.02.txt;derivative;EconomicOperands;1
 C32.02.txt;determined;RegulatoryOperators;2
-C32.02.txt;difference;EconomicOperands;13
+C32.02.txt;difference;EconomicOperands;12
 C32.02.txt;equivalent;LogicalConnectors;2
 C32.02.txt;identified;FunctionWords;8
 C32.02.txt;individual;EconomicOperands;4
@@ -104,12 +100,12 @@ C32.02.txt;inception;EconomicOperands;4
 C32.02.txt;inclusion;LogicalConnectors;2
 C32.02.txt;indicated;EconomicOperands;1
 C32.02.txt;investing;EconomicOperands;5
+C32.02.txt;judgement;EconomicOperands;2
 C32.02.txt;otherwise;LogicalConnectors;1
-C32.02.txt;paragraph;LegalReferences;5
 C32.02.txt;parameter;EconomicOperands;1
 C32.02.txt;performed;EconomicOperands;2
 C32.02.txt;plausible;EconomicOperands;2
-C32.02.txt;portfolio;EconomicOperands;17
+C32.02.txt;portfolio;EconomicOperands;5
 C32.02.txt;positions;EconomicOperands;22
 C32.02.txt;potential;EconomicOperands;1
 C32.02.txt;reflected;EconomicOperands;2
@@ -119,11 +115,11 @@ C32.02.txt;technique;EconomicOperands;1
 C32.02.txt;therefore;LogicalConnectors;1
 C32.02.txt;threshold;EconomicOperands;10
 C32.02.txt;treatment;EconomicOperands;1
-C32.02.txt;valuation;EconomicOperands;32
+C32.02.txt;valuation;EconomicOperands;28
 C32.02.txt;at first;LogicalConnectors;1
 C32.02.txt;based on;Other;3
 C32.02.txt;absolute;MathematicalOperators;22
-C32.02.txt;adjusted;EconomicOperands;4
+C32.02.txt;adjusted;EconomicOperands;1
 C32.02.txt;allocate;EconomicOperands;2
 C32.02.txt;approach;EconomicOperands;33
 C32.02.txt;assessed;EconomicOperands;16
@@ -131,28 +127,27 @@ C32.02.txt;benefits;EconomicOperands;10
 C32.02.txt;business;EconomicOperands;2
 C32.02.txt;carrying;EconomicOperands;1
 C32.02.txt;category;EconomicOperands;24
+C32.02.txt;closeout;EconomicOperands;3
 C32.02.txt;compared;EconomicOperands;1
 C32.02.txt;computed;RegulatoryOperators;7
 C32.02.txt;deducted;MathematicalOperators;2
 C32.02.txt;deferral;EconomicOperands;2
-C32.02.txt;delegate;EconomicOperands;64
 C32.02.txt;excluded;EconomicOperands;5
 C32.02.txt;excludes;Other;1
 C32.02.txt;expected;EconomicOperands;1
-C32.02.txt;exposure;EconomicOperands;6
+C32.02.txt;exposure;EconomicOperands;1
 C32.02.txt;generate;EconomicOperands;1
 C32.02.txt;included;EconomicOperands;11
 C32.02.txt;includes;EconomicOperands;6
 C32.02.txt;incurred;EconomicOperands;1
-C32.02.txt;instance;EconomicOperands;1
+C32.02.txt;interest;EconomicOperands;6
 C32.02.txt;internal;EconomicOperands;1
-C32.02.txt;judgment;EconomicOperands;1
 C32.02.txt;matching;EconomicOperands;8
 C32.02.txt;notional;EconomicOperands;5
 C32.02.txt;position;EconomicOperands;10
 C32.02.txt;possible;Attributes;3
 C32.02.txt;provided;LogicalConnectors;3
-C32.02.txt;purposes;EconomicOperands;2
+C32.02.txt;purposes;EconomicOperands;3
 C32.02.txt;received;EconomicOperands;1
 C32.02.txt;relevant;Attributes;12
 C32.02.txt;reported;EconomicOperands;17
@@ -164,16 +159,13 @@ C32.02.txt;account;EconomicOperands;2
 C32.02.txt;amounts;EconomicOperands;9
 C32.02.txt;applied;EconomicOperands;11
 C32.02.txt;arising;EconomicOperands;3
-C32.02.txt;article;EconomicOperands;85
+C32.02.txt;article;EconomicOperands;61
 C32.02.txt;because;LogicalConnectors;1
 C32.02.txt;benefit;EconomicOperands;11
 C32.02.txt;between;FunctionWords;9
-C32.02.txt;capture;EconomicOperands;2
 C32.02.txt;chapter;Other;1
-C32.02.txt;context;Other;1
 C32.02.txt;default;EconomicOperands;1
 C32.02.txt;develop;EconomicOperands;1
-C32.02.txt;explain;EconomicOperands;3
 C32.02.txt;factors;EconomicOperands;3
 C32.02.txt;funding;EconomicOperands;13
 C32.02.txt;general;FunctionWords;1
@@ -190,15 +182,12 @@ C32.02.txt;quarter;Attributes;1
 C32.02.txt;records;EconomicOperands;1
 C32.02.txt;reduced;EconomicOperands;4
 C32.02.txt;reflect;EconomicOperands;12
-C32.02.txt;reserve;EconomicOperands;1
 C32.02.txt;respect;Other;1
-C32.02.txt;respond;EconomicOperands;1
 C32.02.txt;revenue;EconomicOperands;5
 C32.02.txt;setting;EconomicOperands;1
 C32.02.txt;thereof;FunctionWords;1
 C32.02.txt;trading;EconomicOperands;12
 C32.02.txt;treated;EconomicOperands;1
-C32.02.txt;as for;LogicalConnectors;1
 C32.02.txt;due to;LogicalConnectors;1
 C32.02.txt;across;FunctionWords;1
 C32.02.txt;adjust;EconomicOperands;1
@@ -210,7 +199,6 @@ C32.02.txt;chosen;EconomicOperands;1
 C32.02.txt;credit;EconomicOperands;18
 C32.02.txt;differ;EconomicOperands;1
 C32.02.txt;during;FunctionWords;1
-C32.02.txt;earned;EconomicOperands;8
 C32.02.txt;either;LogicalConnectors;1
 C32.02.txt;exceed;MathematicalOperators;1
 C32.02.txt;except;LogicalConnectors;1
@@ -223,12 +211,10 @@ C32.02.txt;market;EconomicOperands;26
 C32.02.txt;method;EconomicOperands;17
 C32.02.txt;models;EconomicOperands;2
 C32.02.txt;normal;EconomicOperands;1
-C32.02.txt;posing;EconomicOperands;1
 C32.02.txt;profit;EconomicOperands;4
 C32.02.txt;reason;EconomicOperands;2
-C32.02.txt;served;EconomicOperands;1
 C32.02.txt;source;EconomicOperands;8
-C32.02.txt;spread;EconomicOperands;11
+C32.02.txt;spread;EconomicOperands;2
 C32.02.txt;system;EconomicOperands;1
 C32.02.txt;taking;EconomicOperands;2
 C32.02.txt;traded;EconomicOperands;1
@@ -238,13 +224,12 @@ C32.02.txt;within;LogicalConnectors;2
 C32.02.txt;about;FunctionWords;1
 C32.02.txt;above;FunctionWords;3
 C32.02.txt;after;LogicalConnectors;4
-C32.02.txt;along;FunctionWords;1
 C32.02.txt;apply;Other;3
 C32.02.txt;based;Other;14
 C32.02.txt;basis;Other;5
 C32.02.txt;being;FunctionWords;1
 C32.02.txt;below;FunctionWords;1
-C32.02.txt;close;EconomicOperands;21
+C32.02.txt;close;EconomicOperands;17
 C32.02.txt;costs;EconomicOperands;37
 C32.02.txt;could;FunctionWords;1
 C32.02.txt;cover;EconomicOperands;1
@@ -253,17 +238,15 @@ C32.02.txt;early;EconomicOperands;12
 C32.02.txt;fully;EconomicOperands;1
 C32.02.txt;funds;EconomicOperands;2
 C32.02.txt;given;FunctionWords;3
-C32.02.txt;input;EconomicOperands;4
-C32.02.txt;judge;EconomicOperands;2
+C32.02.txt;input;EconomicOperands;2
 C32.02.txt;level;EconomicOperands;29
 C32.02.txt;model;EconomicOperands;30
 C32.02.txt;month;EconomicOperands;2
 C32.02.txt;other;LogicalConnectors;4
 C32.02.txt;point;EconomicOperands;15
-C32.02.txt;price;EconomicOperands;28
+C32.02.txt;price;EconomicOperands;26
 C32.02.txt;range;EconomicOperands;3
-C32.02.txt;rated;EconomicOperands;9
-C32.02.txt;ratio;LogicalConnectors;2
+C32.02.txt;rates;EconomicOperands;6
 C32.02.txt;refer;EconomicOperands;1
 C32.02.txt;scope;EconomicOperands;4
 C32.02.txt;shall;RegulatoryOperators;22
@@ -273,26 +256,19 @@ C32.02.txt;terms;Other;1
 C32.02.txt;their;FunctionWords;3
 C32.02.txt;these;FunctionWords;1
 C32.02.txt;those;FunctionWords;2
-C32.02.txt;times;EconomicOperands;1
-C32.02.txt;total;MathematicalOperators;40
-C32.02.txt;trade;EconomicOperands;1
+C32.02.txt;total;MathematicalOperators;39
 C32.02.txt;under;FunctionWords;35
 C32.02.txt;using;EconomicOperands;21
 C32.02.txt;valid;EconomicOperands;1
-C32.02.txt;value;EconomicOperands;110
+C32.02.txt;value;EconomicOperands;64
 C32.02.txt;where;LogicalConnectors;6
 C32.02.txt;which;FunctionWords;44
 C32.02.txt;would;FunctionWords;2
-C32.02.txt;12 a;Other;2
-C32.02.txt;11 a;Other;1
-C32.02.txt;10 c;Other;8
-C32.02.txt;22 a;Other;2
-C32.02.txt;able;EconomicOperands;1
 C32.02.txt;also;LogicalConnectors;4
 C32.02.txt;back;EconomicOperands;10
 C32.02.txt;been;FunctionWords;1
 C32.02.txt;best;EconomicOperands;1
-C32.02.txt;book;EconomicOperands;10
+C32.02.txt;book;EconomicOperands;9
 C32.02.txt;both;LogicalConnectors;1
 C32.02.txt;core;EconomicOperands;9
 C32.02.txt;cost;EconomicOperands;8
@@ -305,38 +281,27 @@ C32.02.txt;fall;EconomicOperands;10
 C32.02.txt;firm;EconomicOperands;1
 C32.02.txt;form;EconomicOperands;1
 C32.02.txt;from;FunctionWords;15
-C32.02.txt;gain;EconomicOperands;2
 C32.02.txt;give;FunctionWords;1
 C32.02.txt;have;FunctionWords;17
 C32.02.txt;held;EconomicOperands;1
 C32.02.txt;into;FunctionWords;3
-C32.02.txt;item;Other;5
+C32.02.txt;item;Other;4
 C32.02.txt;last;EconomicOperands;1
-C32.02.txt;late;EconomicOperands;4
-C32.02.txt;lead;EconomicOperands;3
-C32.02.txt;line;EconomicOperands;2
+C32.02.txt;lead;EconomicOperands;1
 C32.02.txt;made;FunctionWords;1
-C32.02.txt;mark;EconomicOperands;1
 C32.02.txt;mean;Other;1
-C32.02.txt;more;LogicalConnectors;4
 C32.02.txt;most;FunctionWords;1
 C32.02.txt;much;FunctionWords;1
-C32.02.txt;near;FunctionWords;3
-C32.02.txt;once;FunctionWords;7
 C32.02.txt;only;LogicalConnectors;3
-C32.02.txt;over;MathematicalOperators;1
 C32.02.txt;paid;EconomicOperands;1
 C32.02.txt;plus;FunctionWords;1
 C32.02.txt;post;EconomicOperands;4
-C32.02.txt;rate;EconomicOperands;2
-C32.02.txt;real;EconomicOperands;4
 C32.02.txt;rely;EconomicOperands;1
 C32.02.txt;rise;Other;1
-C32.02.txt;risk;EconomicOperands;35
+C32.02.txt;risk;EconomicOperands;31
 C32.02.txt;same;FunctionWords;11
-C32.02.txt;side;EconomicOperands;11
-C32.02.txt;size;EconomicOperands;2
-C32.02.txt;some;FunctionWords;2
+C32.02.txt;size;EconomicOperands;1
+C32.02.txt;some;FunctionWords;1
 C32.02.txt;such;FunctionWords;2
 C32.02.txt;than;FunctionWords;2
 C32.02.txt;that;FunctionWords;36
@@ -344,122 +309,76 @@ C32.02.txt;they;FunctionWords;4
 C32.02.txt;this;FunctionWords;8
 C32.02.txt;thus;LogicalConnectors;7
 C32.02.txt;used;EconomicOperands;7
-C32.02.txt;view;EconomicOperands;1
 C32.02.txt;when;LogicalConnectors;3
 C32.02.txt;will;FunctionWords;1
 C32.02.txt;with;FunctionWords;1
-C32.02.txt;1 a;Other;4
-C32.02.txt;2 a;Other;5
-C32.02.txt;4 a;Other;2
-C32.02.txt;6 a;Other;1
-C32.02.txt;1 f;Other;6
-C32.02.txt;2 f;Other;1
-C32.02.txt;5 c;Other;2
-C32.02.txt;a 1;Other;2
-C32.02.txt;d 1;Other;13
-C32.02.txt;l 2;Other;2
 C32.02.txt;100;Attributes;4
-C32.02.txt;101;LegalReferences;55
+C32.02.txt;101;LegalReferences;60
 C32.02.txt;102;LegalReferences;4
 C32.02.txt;103;LegalReferences;4
-C32.02.txt;105;LegalReferences;10
-C32.02.txt;106;LegalReferences;1
+C32.02.txt;105;LegalReferences;2
+C32.02.txt;106;LegalReferences;2
 C32.02.txt;107;LegalReferences;6
 C32.02.txt;180;Attributes;1
-C32.02.txt;act;LegalReferences;8
-C32.02.txt;aig;EconomicOperands;1
 C32.02.txt;all;LogicalConnectors;4
-C32.02.txt;and;LogicalConnectors;98
-C32.02.txt;any;LogicalConnectors;4
-C32.02.txt;app;LegalReferences;1
-C32.02.txt;are;FunctionWords;28
+C32.02.txt;and;LogicalConnectors;119
+C32.02.txt;are;FunctionWords;29
 C32.02.txt;but;LogicalConnectors;3
 C32.02.txt;can;FunctionWords;10
 C32.02.txt;day;EconomicOperands;7
 C32.02.txt;did;FunctionWords;1
 C32.02.txt;end;Other;3
-C32.02.txt;for;FunctionWords;28
-C32.02.txt;ifi;EconomicOperands;9
-C32.02.txt;iii;LegalReferences;1
+C32.02.txt;for;FunctionWords;37
 C32.02.txt;may;FunctionWords;3
 C32.02.txt;net;EconomicOperands;3
 C32.02.txt;non;LogicalConnectors;2
 C32.02.txt;not;LogicalConnectors;14
 C32.02.txt;one;FunctionWords;2
-C32.02.txt;out;EconomicOperands;26
+C32.02.txt;out;EconomicOperands;23
 C32.02.txt;own;FunctionWords;2
-C32.02.txt;per;FunctionWords;3
-C32.02.txt;pit;EconomicOperands;1
 C32.02.txt;pre;EconomicOperands;8
-C32.02.txt;put;Other;1
-C32.02.txt;set;Other;7
+C32.02.txt;set;Other;6
 C32.02.txt;sum;EconomicOperands;12
 C32.02.txt;the;FunctionWords;215
 C32.02.txt;use;EconomicOperands;1
 C32.02.txt;why;LogicalConnectors;2
-C32.02.txt;10;Attributes;23
-C32.02.txt;11;LegalReferences;4
-C32.02.txt;12;Attributes;2
-C32.02.txt;13;LegalReferences;2
-C32.02.txt;14;LegalReferences;1
+C32.02.txt;10;Attributes;15
+C32.02.txt;11;LegalReferences;2
+C32.02.txt;12;Attributes;4
+C32.02.txt;13;LegalReferences;3
+C32.02.txt;14;LegalReferences;2
 C32.02.txt;15;Attributes;1
-C32.02.txt;16;LegalReferences;3
-C32.02.txt;17;LegalReferences;17
+C32.02.txt;16;LegalReferences;1
+C32.02.txt;17;LegalReferences;11
 C32.02.txt;25;Attributes;4
-C32.02.txt;32;LegalReferences;2
 C32.02.txt;41;LegalReferences;5
 C32.02.txt;42;LegalReferences;4
 C32.02.txt;43;LegalReferences;1
 C32.02.txt;90;Attributes;7
-C32.02.txt;an;FunctionWords;14
-C32.02.txt;as;LogicalConnectors;88
-C32.02.txt;at;FunctionWords;42
+C32.02.txt;an;FunctionWords;6
+C32.02.txt;as;LogicalConnectors;38
+C32.02.txt;at;FunctionWords;11
 C32.02.txt;be;FunctionWords;31
 C32.02.txt;by;FunctionWords;15
 C32.02.txt;do;FunctionWords;2
-C32.02.txt;go;FunctionWords;6
-C32.02.txt;if;LogicalConnectors;3
-C32.02.txt;ii;LegalReferences;1
-C32.02.txt;in;FunctionWords;84
-C32.02.txt;is;FunctionWords;17
-C32.02.txt;it;EconomicOperands;20
-C32.02.txt;iv;LegalReferences;15
-C32.02.txt;le;MathematicalOperators;1
+C32.02.txt;in;FunctionWords;67
+C32.02.txt;is;FunctionWords;6
+C32.02.txt;it;EconomicOperands;2
 C32.02.txt;no;LogicalConnectors;1
 C32.02.txt;of;FunctionWords;225
-C32.02.txt;on;FunctionWords;39
-C32.02.txt;or;LogicalConnectors;43
+C32.02.txt;on;FunctionWords;16
+C32.02.txt;or;LogicalConnectors;35
 C32.02.txt;to;FunctionWords;91
-C32.02.txt;tr;EconomicOperands;7
-C32.02.txt;up;FunctionWords;10
-C32.02.txt;1;Attributes;15
-C32.02.txt;2;Attributes;31
-C32.02.txt;3;Attributes;10
-C32.02.txt;4;Attributes;3
-C32.02.txt;5;Attributes;3
-C32.02.txt;6;Attributes;6
-C32.02.txt;7;Attributes;10
-C32.02.txt;8;Attributes;6
-C32.02.txt;9;Attributes;29
-C32.02.txt;a;FunctionWords;228
-C32.02.txt;b;LegalReferences;20
-C32.02.txt;c;LegalReferences;62
-C32.02.txt;d;LegalReferences;167
-C32.02.txt;e;LegalReferences;206
-C32.02.txt;f;LegalReferences;3
-C32.02.txt;h;LegalReferences;2
-C32.02.txt;i;FunctionWords;59
-C32.02.txt;k;LegalReferences;2
-C32.02.txt;l;LegalReferences;43
-C32.02.txt;m;LegalReferences;39
-C32.02.txt;n;LegalReferences;84
-C32.02.txt;o;LegalReferences;93
-C32.02.txt;p;LegalReferences;26
-C32.02.txt;q;LegalReferences;12
-C32.02.txt;r;LegalReferences;134
-C32.02.txt;t;LegalReferences;41
-C32.02.txt;u;LegalReferences;117
-C32.02.txt;v;LegalReferences;130
-C32.02.txt;x;LegalReferences;14
-C32.02.txt;y;LegalReferences;13
-C32.02.txt;z;LegalReferences;15
+C32.02.txt;1;Attributes;14
+C32.02.txt;2;Attributes;15
+C32.02.txt;3;Attributes;6
+C32.02.txt;9;Attributes;11
+C32.02.txt;a;FunctionWords;23
+C32.02.txt;b;LegalReferences;9
+C32.02.txt;c;LegalReferences;3
+C32.02.txt;d;LegalReferences;12
+C32.02.txt;e;LegalReferences;3
+C32.02.txt;i;FunctionWords;3
+C32.02.txt;l;LegalReferences;4
+C32.02.txt;o;LegalReferences;1
+C32.02.txt;p;LegalReferences;4

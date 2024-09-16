@@ -1,8 +1,6 @@
-F15.txt;repurchase agreement;EconomicOperands;19
 F15.txt;in accordance with;LogicalConnectors;1
 F15.txt;associated with;FunctionWords;3
-F15.txt;financial asset;EconomicOperands;82
-F15.txt;securitizations;EconomicOperands;2
+F15.txt;securitisation;EconomicOperands;2
 F15.txt;to the extent;LogicalConnectors;12
 F15.txt;comprehensive;EconomicOperands;5
 F15.txt;corresponding;EconomicOperands;1
@@ -20,6 +18,7 @@ F15.txt;temporarily;Attributes;2
 F15.txt;transaction;EconomicOperands;1
 F15.txt;transferred;EconomicOperands;42
 F15.txt;accounting;EconomicOperands;23
+F15.txt;agreements;EconomicOperands;19
 F15.txt;associated;EconomicOperands;20
 F15.txt;classified;EconomicOperands;1
 F15.txt;collateral;EconomicOperands;2
@@ -30,20 +29,20 @@ F15.txt;derivative;EconomicOperands;12
 F15.txt;designated;RegulatoryOperators;5
 F15.txt;operations;EconomicOperands;1
 F15.txt;prudential;EconomicOperands;1
-F15.txt;recognized;EconomicOperands;25
+F15.txt;recognised;EconomicOperands;9
 F15.txt;references;EconomicOperands;34
-F15.txt;repurchase;EconomicOperands;2
+F15.txt;repurchase;EconomicOperands;21
 F15.txt;securities;EconomicOperands;43
 F15.txt;according;LogicalConnectors;2
 F15.txt;agreement;EconomicOperands;1
 F15.txt;directive;EconomicOperands;21
-F15.txt;financial;EconomicOperands;3
+F15.txt;financial;EconomicOperands;85
 F15.txt;generated;EconomicOperands;1
 F15.txt;identical;Attributes;1
 F15.txt;involving;EconomicOperands;1
 F15.txt;liability;EconomicOperands;1
 F15.txt;operation;EconomicOperands;1
-F15.txt;portfolio;EconomicOperands;3
+F15.txt;portfolio;EconomicOperands;2
 F15.txt;positions;EconomicOperands;1
 F15.txt;principal;EconomicOperands;14
 F15.txt;servicing;EconomicOperands;8
@@ -65,10 +64,8 @@ F15.txt;received;EconomicOperands;4
 F15.txt;receives;EconomicOperands;1
 F15.txt;reported;EconomicOperands;1
 F15.txt;transfer;EconomicOperands;1
-F15.txt;acquire;EconomicOperands;1
 F15.txt;against;FunctionWords;2
 F15.txt;amounts;EconomicOperands;11
-F15.txt;article;EconomicOperands;1
 F15.txt;because;LogicalConnectors;1
 F15.txt;capital;EconomicOperands;9
 F15.txt;declare;RegulatoryOperators;1
@@ -81,9 +78,9 @@ F15.txt;retains;EconomicOperands;8
 F15.txt;reverse;EconomicOperands;3
 F15.txt;through;FunctionWords;18
 F15.txt;trading;EconomicOperands;25
-F15.txt;part i;LegalReferences;7
+F15.txt;as for;LogicalConnectors;1
 F15.txt;amount;EconomicOperands;43
-F15.txt;assets;EconomicOperands;23
+F15.txt;assets;EconomicOperands;105
 F15.txt;equity;EconomicOperands;36
 F15.txt;future;EconomicOperands;1
 F15.txt;income;EconomicOperands;6
@@ -104,14 +101,12 @@ F15.txt;shall;RegulatoryOperators;9
 F15.txt;still;LogicalConnectors;7
 F15.txt;their;FunctionWords;1
 F15.txt;there;FunctionWords;1
-F15.txt;total;MathematicalOperators;5
-F15.txt;treat;EconomicOperands;1
+F15.txt;total;MathematicalOperators;1
 F15.txt;under;FunctionWords;2
 F15.txt;value;EconomicOperands;21
 F15.txt;where;LogicalConnectors;2
 F15.txt;which;FunctionWords;42
 F15.txt;also;LogicalConnectors;2
-F15.txt;anti;EconomicOperands;7
 F15.txt;back;EconomicOperands;1
 F15.txt;cash;EconomicOperands;4
 F15.txt;cost;EconomicOperands;8
@@ -119,15 +114,11 @@ F15.txt;date;EconomicOperands;1
 F15.txt;debt;EconomicOperands;40
 F15.txt;fair;EconomicOperands;21
 F15.txt;form;EconomicOperands;2
-F15.txt;gain;EconomicOperands;1
 F15.txt;gold;EconomicOperands;1
 F15.txt;held;EconomicOperands;5
 F15.txt;item;Other;1
-F15.txt;late;EconomicOperands;1
-F15.txt;loan;EconomicOperands;1
 F15.txt;loss;EconomicOperands;13
-F15.txt;part;FunctionWords;190
-F15.txt;rely;EconomicOperands;1
+F15.txt;part;FunctionWords;197
 F15.txt;sale;EconomicOperands;1
 F15.txt;same;FunctionWords;1
 F15.txt;side;EconomicOperands;2
@@ -136,91 +127,50 @@ F15.txt;them;FunctionWords;1
 F15.txt;they;FunctionWords;1
 F15.txt;type;EconomicOperands;1
 F15.txt;were;FunctionWords;3
-F15.txt;1 a;Other;10
-F15.txt;3 a;Other;19
-F15.txt;6 a;Other;6
-F15.txt;9 a;Other;17
-F15.txt;4 c;Other;1
-F15.txt;4 i;Other;12
-F15.txt;5 i;Other;4
-F15.txt;a 4;Other;9
-F15.txt;a 6;Other;3
-F15.txt;109;LegalReferences;1
+F15.txt;109;LegalReferences;13
 F15.txt;180;Attributes;1
 F15.txt;aii;LegalReferences;5
 F15.txt;all;LogicalConnectors;1
-F15.txt;and;LogicalConnectors;52
+F15.txt;and;LogicalConnectors;48
 F15.txt;are;FunctionWords;1
 F15.txt;bad;EconomicOperands;21
 F15.txt;but;LogicalConnectors;1
 F15.txt;buy;EconomicOperands;1
 F15.txt;ecb;EconomicOperands;18
-F15.txt;for;FunctionWords;29
+F15.txt;for;FunctionWords;28
 F15.txt;may;FunctionWords;1
 F15.txt;non;LogicalConnectors;29
 F15.txt;not;LogicalConnectors;3
-F15.txt;out;EconomicOperands;8
-F15.txt;sec;EconomicOperands;14
+F15.txt;out;EconomicOperands;1
 F15.txt;the;FunctionWords;51
-F15.txt;10;Attributes;12
-F15.txt;13;LegalReferences;5
 F15.txt;14;LegalReferences;1
 F15.txt;15;Attributes;4
-F15.txt;16;LegalReferences;7
-F15.txt;18;LegalReferences;29
-F15.txt;24;LegalReferences;2
 F15.txt;27;LegalReferences;3
 F15.txt;28;LegalReferences;5
 F15.txt;35;Attributes;3
-F15.txt;41;LegalReferences;7
-F15.txt;42;LegalReferences;62
-F15.txt;46;LegalReferences;10
-F15.txt;aa;LegalReferences;30
-F15.txt;ab;Other;7
-F15.txt;an;FunctionWords;125
-F15.txt;as;LogicalConnectors;25
-F15.txt;at;FunctionWords;65
+F15.txt;an;FunctionWords;1
+F15.txt;at;FunctionWords;31
 F15.txt;be;FunctionWords;4
 F15.txt;by;FunctionWords;3
 F15.txt;do;FunctionWords;2
-F15.txt;ec;EconomicOperands;23
-F15.txt;if;LogicalConnectors;97
-F15.txt;ii;LegalReferences;7
-F15.txt;in;FunctionWords;44
-F15.txt;is;FunctionWords;34
-F15.txt;it;EconomicOperands;40
-F15.txt;le;MathematicalOperators;22
+F15.txt;in;FunctionWords;13
+F15.txt;is;FunctionWords;2
 F15.txt;of;FunctionWords;73
-F15.txt;on;FunctionWords;42
-F15.txt;or;LogicalConnectors;26
+F15.txt;on;FunctionWords;2
+F15.txt;or;LogicalConnectors;16
 F15.txt;so;LogicalConnectors;1
 F15.txt;to;FunctionWords;13
-F15.txt;tr;EconomicOperands;5
-F15.txt;1;Attributes;21
-F15.txt;2;Attributes;33
-F15.txt;3;Attributes;22
-F15.txt;4;Attributes;19
-F15.txt;5;Attributes;18
-F15.txt;7;Attributes;75
-F15.txt;8;Attributes;21
-F15.txt;9;Attributes;16
-F15.txt;a;FunctionWords;102
-F15.txt;b;LegalReferences;28
-F15.txt;c;LegalReferences;52
-F15.txt;d;LegalReferences;111
-F15.txt;e;LegalReferences;300
-F15.txt;f;LegalReferences;43
+F15.txt;1;Attributes;5
+F15.txt;2;Attributes;18
+F15.txt;4;Attributes;3
+F15.txt;5;Attributes;15
+F15.txt;6;Attributes;6
+F15.txt;7;Attributes;56
+F15.txt;9;Attributes;5
+F15.txt;a;FunctionWords;18
+F15.txt;b;LegalReferences;1
+F15.txt;e;LegalReferences;14
+F15.txt;f;LegalReferences;5
 F15.txt;h;LegalReferences;5
-F15.txt;i;FunctionWords;95
-F15.txt;l;LegalReferences;29
-F15.txt;m;LegalReferences;33
-F15.txt;n;LegalReferences;271
-F15.txt;o;LegalReferences;46
-F15.txt;p;LegalReferences;51
-F15.txt;r;LegalReferences;290
-F15.txt;t;LegalReferences;126
-F15.txt;u;LegalReferences;41
+F15.txt;l;LegalReferences;16
 F15.txt;v;LegalReferences;159
-F15.txt;x;LegalReferences;165
-F15.txt;y;LegalReferences;5
-F15.txt;z;LegalReferences;12

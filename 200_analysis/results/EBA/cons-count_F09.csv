@@ -1,35 +1,24 @@
 F09.txt;financial instrument;EconomicOperands;1
-F09.txt;repurchase agreement;EconomicOperands;1
 F09.txt;in accordance with;LogicalConnectors;5
-F09.txt;credit enhancement;EconomicOperands;1
 F09.txt;off-balance sheet;EconomicOperands;31
 F09.txt;self-liquidating;EconomicOperands;1
-F09.txt;financial asset;EconomicOperands;1
-F09.txt;loan commitment;EconomicOperands;27
-F09.txt;standby letter;EconomicOperands;1
 F09.txt;the amount of;MathematicalOperators;1
 F09.txt;balance sheet;EconomicOperands;5
 F09.txt;in particular;LogicalConnectors;1
 F09.txt;regardless of;LogicalConnectors;1
 F09.txt;together with;LogicalConnectors;1
 F09.txt;derecognition;EconomicOperands;2
-F09.txt;central bank;EconomicOperands;24
 F09.txt;committed to;EconomicOperands;2
-F09.txt;paragraph 10;LegalReferences;1
 F09.txt;consistently;Attributes;1
 F09.txt;counterparty;EconomicOperands;2
 F09.txt;institutions;EconomicOperands;27
 F09.txt;requirements;EconomicOperands;3
 F09.txt;transactions;EconomicOperands;1
-F09.txt;underwriting;EconomicOperands;1
 F09.txt;credit risk;EconomicOperands;45
-F09.txt;paragraph 6;LegalReferences;1
 F09.txt;referred to;FunctionWords;3
 F09.txt;accumulated;EconomicOperands;11
 F09.txt;appropriate;Attributes;2
-F09.txt;corporation;EconomicOperands;48
 F09.txt;derivatives;EconomicOperands;6
-F09.txt;endorsement;EconomicOperands;1
 F09.txt;governments;EconomicOperands;24
 F09.txt;information;EconomicOperands;1
 F09.txt;institution;EconomicOperands;4
@@ -44,11 +33,11 @@ F09.txt;significant;Attributes;32
 F09.txt;transaction;EconomicOperands;1
 F09.txt;as well as;LogicalConnectors;2
 F09.txt;subject to;LogicalConnectors;3
-F09.txt;acceptance;EconomicOperands;3
-F09.txt;agreements;EconomicOperands;4
+F09.txt;acceptance;EconomicOperands;2
+F09.txt;agreements;EconomicOperands;5
 F09.txt;classified;EconomicOperands;3
 F09.txt;collateral;EconomicOperands;2
-F09.txt;commitment;EconomicOperands;78
+F09.txt;commitment;EconomicOperands;3
 F09.txt;conditions;EconomicOperands;4
 F09.txt;considered;EconomicOperands;6
 F09.txt;conversion;EconomicOperands;1
@@ -64,14 +53,15 @@ F09.txt;instrument;EconomicOperands;4
 F09.txt;mitigation;EconomicOperands;2
 F09.txt;obligation;EconomicOperands;1
 F09.txt;originated;EconomicOperands;17
-F09.txt;performing;EconomicOperands;28
+F09.txt;performing;EconomicOperands;24
 F09.txt;provisions;EconomicOperands;19
-F09.txt;receivable;EconomicOperands;1
+F09.txt;recognised;EconomicOperands;2
 F09.txt;references;EconomicOperands;28
 F09.txt;represents;LogicalConnectors;1
+F09.txt;repurchase;EconomicOperands;1
 F09.txt;securities;EconomicOperands;2
 F09.txt;separately;EconomicOperands;2
-F09.txt;substitute;EconomicOperands;3
+F09.txt;substitute;EconomicOperands;1
 F09.txt;transferee;EconomicOperands;1
 F09.txt;underlying;EconomicOperands;1
 F09.txt;listed in;Other;3
@@ -80,15 +70,14 @@ F09.txt;allocated;EconomicOperands;1
 F09.txt;allowance;EconomicOperands;1
 F09.txt;character;EconomicOperands;3
 F09.txt;committed;EconomicOperands;1
-F09.txt;component;EconomicOperands;3
+F09.txt;component;EconomicOperands;2
 F09.txt;confirmed;EconomicOperands;1
 F09.txt;contracts;EconomicOperands;5
 F09.txt;dedicated;EconomicOperands;2
 F09.txt;directive;EconomicOperands;1
-F09.txt;financial;EconomicOperands;120
+F09.txt;financial;EconomicOperands;121
 F09.txt;following;FunctionWords;5
-F09.txt;guarantee;EconomicOperands;78
-F09.txt;household;EconomicOperands;24
+F09.txt;guarantee;EconomicOperands;11
 F09.txt;including;LogicalConnectors;3
 F09.txt;paragraph;LegalReferences;2
 F09.txt;provision;EconomicOperands;9
@@ -97,8 +86,7 @@ F09.txt;reimburse;EconomicOperands;1
 F09.txt;remaining;EconomicOperands;1
 F09.txt;reporting;EconomicOperands;1
 F09.txt;revolving;EconomicOperands;1
-F09.txt;specified;RegulatoryOperators;7
-F09.txt;technique;EconomicOperands;1
+F09.txt;specified;RegulatoryOperators;6
 F09.txt;therefore;LogicalConnectors;1
 F09.txt;based on;Other;1
 F09.txt;appendix;EconomicOperands;4
@@ -108,10 +96,9 @@ F09.txt;combined;EconomicOperands;1
 F09.txt;covering;EconomicOperands;1
 F09.txt;criteria;EconomicOperands;4
 F09.txt;deposits;EconomicOperands;1
-F09.txt;document;EconomicOperands;2
 F09.txt;exchange;EconomicOperands;1
 F09.txt;expected;EconomicOperands;4
-F09.txt;exposure;EconomicOperands;10
+F09.txt;exposure;EconomicOperands;2
 F09.txt;identify;EconomicOperands;1
 F09.txt;includes;EconomicOperands;1
 F09.txt;increase;MathematicalOperators;32
@@ -142,6 +129,7 @@ F09.txt;applied;EconomicOperands;1
 F09.txt;article;EconomicOperands;1
 F09.txt;balance;EconomicOperands;2
 F09.txt;because;LogicalConnectors;2
+F09.txt;central;EconomicOperands;24
 F09.txt;changes;EconomicOperands;10
 F09.txt;credits;EconomicOperands;2
 F09.txt;factors;EconomicOperands;1
@@ -158,16 +146,15 @@ F09.txt;portion;EconomicOperands;1
 F09.txt;provide;EconomicOperands;5
 F09.txt;require;RegulatoryOperators;1
 F09.txt;settled;EconomicOperands;1
+F09.txt;standby;EconomicOperands;1
 F09.txt;through;FunctionWords;2
-F09.txt;warrant;EconomicOperands;1
 F09.txt;without;FunctionWords;17
 F09.txt;due to;LogicalConnectors;10
-F09.txt;part i;LegalReferences;8
 F09.txt;agreed;EconomicOperands;1
 F09.txt;amount;EconomicOperands;56
-F09.txt;assets;EconomicOperands;2
+F09.txt;assets;EconomicOperands;3
 F09.txt;before;LogicalConnectors;1
-F09.txt;credit;EconomicOperands;89
+F09.txt;credit;EconomicOperands;74
 F09.txt;debtor;EconomicOperands;1
 F09.txt;deemed;RegulatoryOperators;1
 F09.txt;entity;EconomicOperands;2
@@ -175,7 +162,6 @@ F09.txt;exceed;MathematicalOperators;1
 F09.txt;except;LogicalConnectors;2
 F09.txt;having;FunctionWords;3
 F09.txt;holder;EconomicOperands;1
-F09.txt;impair;EconomicOperands;49
 F09.txt;income;EconomicOperands;1
 F09.txt;incurs;EconomicOperands;1
 F09.txt;issued;EconomicOperands;2
@@ -192,41 +178,32 @@ F09.txt;unable;EconomicOperands;1
 F09.txt;unpaid;EconomicOperands;1
 F09.txt;within;LogicalConnectors;3
 F09.txt;asset;EconomicOperands;1
+F09.txt;banks;EconomicOperands;24
 F09.txt;below;FunctionWords;1
-F09.txt;drawn;EconomicOperands;6
 F09.txt;fails;EconomicOperands;1
 F09.txt;given;FunctionWords;28
 F09.txt;gross;EconomicOperands;1
 F09.txt;other;LogicalConnectors;63
 F09.txt;party;EconomicOperands;1
 F09.txt;price;EconomicOperands;1
-F09.txt;right;EconomicOperands;1
 F09.txt;scope;EconomicOperands;4
 F09.txt;shall;RegulatoryOperators;33
-F09.txt;share;EconomicOperands;1
 F09.txt;since;LogicalConnectors;32
-F09.txt;stage;EconomicOperands;50
+F09.txt;stage;EconomicOperands;48
 F09.txt;terms;Other;4
 F09.txt;these;FunctionWords;1
 F09.txt;those;FunctionWords;8
 F09.txt;total;MathematicalOperators;2
 F09.txt;trade;EconomicOperands;2
 F09.txt;under;FunctionWords;51
-F09.txt;value;EconomicOperands;23
+F09.txt;value;EconomicOperands;22
 F09.txt;where;LogicalConnectors;11
 F09.txt;which;FunctionWords;24
 F09.txt;would;FunctionWords;2
-F09.txt;15 a;Other;1
-F09.txt;18 a;Other;8
-F09.txt;22 a;Other;2
-F09.txt;25 a;Other;4
-F09.txt;able;EconomicOperands;1
 F09.txt;been;FunctionWords;1
 F09.txt;best;EconomicOperands;1
-F09.txt;bill;EconomicOperands;2
-F09.txt;bond;EconomicOperands;2
+F09.txt;bill;EconomicOperands;1
 F09.txt;both;LogicalConnectors;2
-F09.txt;call;EconomicOperands;2
 F09.txt;cash;EconomicOperands;1
 F09.txt;cost;EconomicOperands;1
 F09.txt;date;EconomicOperands;2
@@ -235,12 +212,10 @@ F09.txt;down;FunctionWords;2
 F09.txt;face;EconomicOperands;1
 F09.txt;fair;EconomicOperands;21
 F09.txt;firm;EconomicOperands;1
-F09.txt;good;EconomicOperands;1
 F09.txt;have;FunctionWords;2
 F09.txt;held;EconomicOperands;2
-F09.txt;item;Other;8
-F09.txt;late;EconomicOperands;9
-F09.txt;loan;EconomicOperands;1
+F09.txt;item;Other;1
+F09.txt;loan;EconomicOperands;28
 F09.txt;loss;EconomicOperands;4
 F09.txt;make;FunctionWords;2
 F09.txt;meet;EconomicOperands;6
@@ -249,122 +224,79 @@ F09.txt;note;EconomicOperands;1
 F09.txt;once;FunctionWords;1
 F09.txt;only;LogicalConnectors;2
 F09.txt;paid;EconomicOperands;1
-F09.txt;part;FunctionWords;314
+F09.txt;part;FunctionWords;321
 F09.txt;rate;EconomicOperands;1
-F09.txt;rise;Other;3
 F09.txt;sale;EconomicOperands;2
-F09.txt;tend;EconomicOperands;2
 F09.txt;that;FunctionWords;20
 F09.txt;they;FunctionWords;8
 F09.txt;this;FunctionWords;5
 F09.txt;with;FunctionWords;18
-F09.txt;2 a;Other;1
-F09.txt;3 a;Other;1
-F09.txt;4 a;Other;23
-F09.txt;8 a;Other;2
 F09.txt;9 a;Other;1
-F09.txt;4 i;Other;1
-F09.txt;5 b;Other;2
-F09.txt;5 i;Other;64
-F09.txt;9 b;Other;2
-F09.txt;d 1;Other;1
-F09.txt;e 1;Other;1
-F09.txt;102;LegalReferences;1
-F09.txt;103;LegalReferences;10
+F09.txt;102;LegalReferences;2
+F09.txt;103;LegalReferences;11
 F09.txt;104;LegalReferences;1
-F09.txt;105;LegalReferences;16
+F09.txt;105;LegalReferences;17
 F09.txt;106;LegalReferences;1
 F09.txt;107;LegalReferences;1
 F09.txt;108;LegalReferences;9
-F09.txt;109;LegalReferences;12
+F09.txt;109;LegalReferences;13
 F09.txt;110;LegalReferences;1
 F09.txt;113;LegalReferences;10
-F09.txt;115;LegalReferences;9
+F09.txt;115;LegalReferences;10
 F09.txt;119;LegalReferences;1
-F09.txt;211;LegalReferences;3
-F09.txt;217;LegalReferences;2
-F09.txt;act;LegalReferences;1
 F09.txt;all;LogicalConnectors;1
-F09.txt;and;LogicalConnectors;81
+F09.txt;and;LogicalConnectors;83
 F09.txt;any;LogicalConnectors;2
 F09.txt;are;FunctionWords;20
 F09.txt;bad;EconomicOperands;1
 F09.txt;but;LogicalConnectors;17
 F09.txt;can;FunctionWords;6
 F09.txt;due;Attributes;1
-F09.txt;end;Other;4
 F09.txt;for;FunctionWords;14
 F09.txt;may;FunctionWords;1
 F09.txt;met;FunctionWords;1
 F09.txt;net;EconomicOperands;1
-F09.txt;non;LogicalConnectors;52
+F09.txt;non;LogicalConnectors;48
 F09.txt;not;LogicalConnectors;23
 F09.txt;off;FunctionWords;1
 F09.txt;one;FunctionWords;1
-F09.txt;out;EconomicOperands;1
 F09.txt;pay;EconomicOperands;3
-F09.txt;pin;EconomicOperands;1
-F09.txt;pre;EconomicOperands;3
-F09.txt;seq;LegalReferences;2
+F09.txt;pre;EconomicOperands;2
 F09.txt;tax;EconomicOperands;1
 F09.txt;the;FunctionWords;92
-F09.txt;10;Attributes;1
-F09.txt;11;LegalReferences;54
 F09.txt;12;Attributes;1
-F09.txt;13;LegalReferences;1
-F09.txt;23;Attributes;1
-F09.txt;25;Attributes;4
-F09.txt;35;Attributes;65
-F09.txt;aa;LegalReferences;28
-F09.txt;an;FunctionWords;304
-F09.txt;as;LogicalConnectors;41
-F09.txt;at;FunctionWords;37
+F09.txt;17;LegalReferences;2
+F09.txt;an;FunctionWords;3
+F09.txt;as;LogicalConnectors;10
+F09.txt;at;FunctionWords;15
 F09.txt;be;FunctionWords;34
 F09.txt;by;FunctionWords;5
 F09.txt;do;FunctionWords;3
-F09.txt;ec;EconomicOperands;5
-F09.txt;ha;Other;8
-F09.txt;if;LogicalConnectors;338
-F09.txt;ii;LegalReferences;8
-F09.txt;in;FunctionWords;116
-F09.txt;is;FunctionWords;7
-F09.txt;it;EconomicOperands;4
-F09.txt;le;MathematicalOperators;23
-F09.txt;no;LogicalConnectors;43
-F09.txt;of;FunctionWords;77
-F09.txt;on;FunctionWords;37
-F09.txt;or;LogicalConnectors;36
-F09.txt;to;FunctionWords;28
-F09.txt;tr;EconomicOperands;5
-F09.txt;us;EconomicOperands;1
-F09.txt;1;Attributes;34
-F09.txt;2;Attributes;84
-F09.txt;3;Attributes;44
-F09.txt;4;Attributes;21
-F09.txt;5;Attributes;2
-F09.txt;6;Attributes;18
-F09.txt;7;Attributes;99
-F09.txt;8;Attributes;19
-F09.txt;9;Attributes;135
-F09.txt;a;FunctionWords;122
-F09.txt;b;LegalReferences;151
-F09.txt;c;LegalReferences;146
-F09.txt;d;LegalReferences;86
-F09.txt;e;LegalReferences;548
-F09.txt;f;LegalReferences;105
-F09.txt;h;LegalReferences;33
-F09.txt;i;FunctionWords;88
+F09.txt;if;LogicalConnectors;2
+F09.txt;in;FunctionWords;68
+F09.txt;is;FunctionWords;4
+F09.txt;it;EconomicOperands;1
+F09.txt;of;FunctionWords;76
+F09.txt;on;FunctionWords;34
+F09.txt;or;LogicalConnectors;34
+F09.txt;to;FunctionWords;27
+F09.txt;1;Attributes;16
+F09.txt;2;Attributes;21
+F09.txt;3;Attributes;17
+F09.txt;4;Attributes;35
+F09.txt;5;Attributes;75
+F09.txt;7;Attributes;65
+F09.txt;8;Attributes;2
+F09.txt;9;Attributes;99
+F09.txt;a;FunctionWords;61
+F09.txt;b;LegalReferences;36
+F09.txt;c;LegalReferences;77
+F09.txt;d;LegalReferences;26
+F09.txt;e;LegalReferences;95
+F09.txt;f;LegalReferences;28
+F09.txt;h;LegalReferences;10
+F09.txt;i;FunctionWords;30
 F09.txt;j;LegalReferences;1
-F09.txt;k;LegalReferences;3
-F09.txt;l;LegalReferences;57
-F09.txt;m;LegalReferences;128
-F09.txt;n;LegalReferences;422
-F09.txt;o;LegalReferences;36
-F09.txt;p;LegalReferences;66
-F09.txt;r;LegalReferences;486
-F09.txt;t;LegalReferences;26
-F09.txt;u;LegalReferences;27
-F09.txt;v;LegalReferences;292
-F09.txt;x;LegalReferences;328
-F09.txt;y;LegalReferences;5
-F09.txt;z;LegalReferences;2
+F09.txt;k;LegalReferences;1
+F09.txt;l;LegalReferences;3
+F09.txt;v;LegalReferences;291

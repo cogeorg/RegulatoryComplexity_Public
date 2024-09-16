@@ -10,7 +10,6 @@ F35.txt;identifier;EconomicOperands;1
 F35.txt;positions;EconomicOperands;2
 F35.txt;reporting;EconomicOperands;4
 F35.txt;statutory;EconomicOperands;1
-F35.txt;12 month;Attributes;2
 F35.txt;agencies;EconomicOperands;1
 F35.txt;carrying;EconomicOperands;3
 F35.txt;coverage;EconomicOperands;1
@@ -22,23 +21,19 @@ F35.txt;negative;MathematicalOperators;1
 F35.txt;positive;EconomicOperands;1
 F35.txt;relevant;Attributes;1
 F35.txt;specific;FunctionWords;3
-F35.txt;10 year;Attributes;2
-F35.txt;6 month;Attributes;2
 F35.txt;covered;EconomicOperands;6
 F35.txt;current;FunctionWords;1
 F35.txt;minimum;MathematicalOperators;1
 F35.txt;present;FunctionWords;3
 F35.txt;primary;EconomicOperands;1
-F35.txt;2 year;Attributes;2
-F35.txt;5 year;Attributes;2
-F35.txt;amount;EconomicOperands;7
+F35.txt;amount;EconomicOperands;6
 F35.txt;market;EconomicOperands;5
-F35.txt;129 c;Other;1
 F35.txt;asset;EconomicOperands;4
 F35.txt;class;EconomicOperands;1
 F35.txt;cover;EconomicOperands;7
 F35.txt;value;EconomicOperands;11
-F35.txt;bond;EconomicOperands;6
+F35.txt;years;EconomicOperands;6
+F35.txt;bond;EconomicOperands;5
 F35.txt;date;EconomicOperands;4
 F35.txt;open;EconomicOperands;1
 F35.txt;pool;EconomicOperands;7
@@ -47,6 +42,7 @@ F35.txt;with;FunctionWords;3
 F35.txt;100;Attributes;1
 F35.txt;110;LegalReferences;1
 F35.txt;120;LegalReferences;1
+F35.txt;129;LegalReferences;1
 F35.txt;140;LegalReferences;1
 F35.txt;150;Attributes;1
 F35.txt;180;Attributes;1
@@ -55,46 +51,19 @@ F35.txt;220;LegalReferences;1
 F35.txt;net;EconomicOperands;2
 F35.txt;per;FunctionWords;2
 F35.txt;the;FunctionWords;1
-F35.txt;10;Attributes;4
-F35.txt;12;Attributes;1
-F35.txt;13;LegalReferences;1
-F35.txt;16;LegalReferences;1
-F35.txt;17;LegalReferences;1
-F35.txt;19;LegalReferences;1
-F35.txt;20;Attributes;5
-F35.txt;23;Attributes;1
-F35.txt;24;LegalReferences;1
-F35.txt;25;Attributes;1
-F35.txt;30;Attributes;4
-F35.txt;40;LegalReferences;4
-F35.txt;50;Attributes;1
-F35.txt;60;Attributes;1
-F35.txt;90;Attributes;1
+F35.txt;10;Attributes;2
+F35.txt;12;Attributes;2
 F35.txt;as;LogicalConnectors;2
 F35.txt;if;LogicalConnectors;1
-F35.txt;in;FunctionWords;3
-F35.txt;is;FunctionWords;1
-F35.txt;no;LogicalConnectors;4
+F35.txt;no;LogicalConnectors;1
 F35.txt;of;FunctionWords;2
 F35.txt;on;FunctionWords;1
 F35.txt;to;FunctionWords;1
 F35.txt;1;Attributes;3
-F35.txt;2;Attributes;3
+F35.txt;2;Attributes;5
 F35.txt;3;Attributes;3
-F35.txt;7;Attributes;3
-F35.txt;8;Attributes;1
-F35.txt;9;Attributes;2
-F35.txt;a;FunctionWords;6
-F35.txt;b;LegalReferences;1
-F35.txt;c;LegalReferences;1
-F35.txt;e;LegalReferences;7
+F35.txt;5;Attributes;2
+F35.txt;6;Attributes;2
 F35.txt;f;LegalReferences;1
-F35.txt;i;FunctionWords;1
-F35.txt;l;LegalReferences;5
-F35.txt;m;LegalReferences;4
-F35.txt;n;LegalReferences;2
-F35.txt;r;LegalReferences;4
-F35.txt;t;LegalReferences;1
-F35.txt;x;LegalReferences;1
-F35.txt;y;LegalReferences;2
+F35.txt;l;LegalReferences;2
 F35.txt;z;LegalReferences;1

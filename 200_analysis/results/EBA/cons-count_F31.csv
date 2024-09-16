@@ -1,34 +1,27 @@
 F31.txt;in accordance with;LogicalConnectors;4
 F31.txt;off-balance sheet;EconomicOperands;5
-F31.txt;financial asset;EconomicOperands;10
-F31.txt;loan commitment;EconomicOperands;5
 F31.txt;balance sheet;EconomicOperands;1
-F31.txt;joint venture;EconomicOperands;8
 F31.txt;consolidation;EconomicOperands;3
-F31.txt;derecognition;EconomicOperands;5
-F31.txt;paragraph 11;LegalReferences;1
+F31.txt;derecognition;EconomicOperands;7
 F31.txt;consolidated;EconomicOperands;1
 F31.txt;counterparty;EconomicOperands;1
 F31.txt;institutions;EconomicOperands;4
 F31.txt;subsidiaries;EconomicOperands;15
 F31.txt;transactions;EconomicOperands;8
 F31.txt;credit risk;EconomicOperands;3
-F31.txt;paragraph 5;LegalReferences;1
 F31.txt;referred to;FunctionWords;1
 F31.txt;accumulated;EconomicOperands;6
 F31.txt;derivatives;EconomicOperands;2
-F31.txt;discontinue;EconomicOperands;2
 F31.txt;institution;EconomicOperands;10
 F31.txt;instruments;EconomicOperands;2
 F31.txt;investments;EconomicOperands;1
 F31.txt;liabilities;EconomicOperands;3
 F31.txt;outstanding;EconomicOperands;6
-F31.txt;recognition;EconomicOperands;4
+F31.txt;recognition;EconomicOperands;2
 F31.txt;significant;Attributes;9
 F31.txt;accounting;EconomicOperands;15
 F31.txt;classified;EconomicOperands;1
 F31.txt;commission;EconomicOperands;4
-F31.txt;commitment;EconomicOperands;6
 F31.txt;considered;EconomicOperands;1
 F31.txt;determined;RegulatoryOperators;2
 F31.txt;eliminated;FunctionWords;3
@@ -36,20 +29,19 @@ F31.txt;immaterial;EconomicOperands;1
 F31.txt;impairment;EconomicOperands;10
 F31.txt;management;EconomicOperands;9
 F31.txt;operations;EconomicOperands;2
-F31.txt;performing;EconomicOperands;20
+F31.txt;performing;EconomicOperands;11
 F31.txt;provisions;EconomicOperands;11
 F31.txt;prudential;EconomicOperands;3
 F31.txt;receivable;EconomicOperands;3
 F31.txt;references;EconomicOperands;14
 F31.txt;securities;EconomicOperands;4
-F31.txt;associate;EconomicOperands;12
 F31.txt;directive;EconomicOperands;15
-F31.txt;financial;EconomicOperands;8
+F31.txt;financial;EconomicOperands;18
 F31.txt;following;FunctionWords;1
 F31.txt;generated;EconomicOperands;5
-F31.txt;guarantee;EconomicOperands;7
+F31.txt;guarantee;EconomicOperands;1
 F31.txt;influence;EconomicOperands;9
-F31.txt;paragraph;LegalReferences;6
+F31.txt;paragraph;LegalReferences;2
 F31.txt;reporting;EconomicOperands;1
 F31.txt;statement;EconomicOperands;1
 F31.txt;based on;Other;6
@@ -57,10 +49,9 @@ F31.txt;advances;EconomicOperands;2
 F31.txt;balances;EconomicOperands;8
 F31.txt;deposits;EconomicOperands;2
 F31.txt;dividend;EconomicOperands;2
-F31.txt;entities;EconomicOperands;15
+F31.txt;entities;EconomicOperands;19
 F31.txt;excluded;EconomicOperands;1
 F31.txt;expenses;EconomicOperands;7
-F31.txt;exposure;EconomicOperands;17
 F31.txt;interest;EconomicOperands;4
 F31.txt;measured;EconomicOperands;2
 F31.txt;national;EconomicOperands;11
@@ -83,14 +74,11 @@ F31.txt;defined;EconomicOperands;3
 F31.txt;include;EconomicOperands;7
 F31.txt;maximum;MathematicalOperators;1
 F31.txt;payable;EconomicOperands;3
-F31.txt;portion;EconomicOperands;2
-F31.txt;qualify;EconomicOperands;1
 F31.txt;related;FunctionWords;22
 F31.txt;through;FunctionWords;2
 F31.txt;due to;LogicalConnectors;3
-F31.txt;part i;LegalReferences;16
 F31.txt;amount;EconomicOperands;5
-F31.txt;assets;EconomicOperands;1
+F31.txt;assets;EconomicOperands;11
 F31.txt;either;LogicalConnectors;1
 F31.txt;entity;EconomicOperands;1
 F31.txt;equity;EconomicOperands;2
@@ -108,7 +96,7 @@ F31.txt;being;FunctionWords;1
 F31.txt;fully;EconomicOperands;1
 F31.txt;given;FunctionWords;2
 F31.txt;group;EconomicOperands;15
-F31.txt;joint;EconomicOperands;13
+F31.txt;joint;EconomicOperands;21
 F31.txt;loans;EconomicOperands;2
 F31.txt;other;LogicalConnectors;28
 F31.txt;party;EconomicOperands;1
@@ -122,40 +110,28 @@ F31.txt;been;FunctionWords;3
 F31.txt;debt;EconomicOperands;4
 F31.txt;fair;EconomicOperands;5
 F31.txt;from;FunctionWords;6
-F31.txt;gain;EconomicOperands;9
 F31.txt;have;FunctionWords;3
 F31.txt;held;EconomicOperands;1
-F31.txt;item;Other;2
+F31.txt;item;Other;1
 F31.txt;line;EconomicOperands;1
-F31.txt;loan;EconomicOperands;1
-F31.txt;long;EconomicOperands;1
+F31.txt;loan;EconomicOperands;6
 F31.txt;loss;EconomicOperands;5
 F31.txt;only;LogicalConnectors;1
-F31.txt;part;FunctionWords;98
+F31.txt;part;FunctionWords;94
 F31.txt;sale;EconomicOperands;1
 F31.txt;same;FunctionWords;10
 F31.txt;than;FunctionWords;3
 F31.txt;that;FunctionWords;6
 F31.txt;this;FunctionWords;8
-F31.txt;wide;EconomicOperands;1
 F31.txt;with;FunctionWords;16
-F31.txt;1 a;Other;5
-F31.txt;2 a;Other;1
-F31.txt;3 a;Other;8
-F31.txt;5 a;Other;1
-F31.txt;6 a;Other;1
-F31.txt;9 a;Other;1
-F31.txt;4 i;Other;1
-F31.txt;5 i;Other;2
-F31.txt;d 1;Other;1
 F31.txt;103;LegalReferences;1
 F31.txt;105;LegalReferences;2
-F31.txt;106;LegalReferences;3
+F31.txt;106;LegalReferences;4
 F31.txt;113;LegalReferences;4
 F31.txt;115;LegalReferences;4
-F31.txt;211;LegalReferences;1
+F31.txt;119;LegalReferences;1
 F31.txt;all;LogicalConnectors;1
-F31.txt;and;LogicalConnectors;63
+F31.txt;and;LogicalConnectors;64
 F31.txt;any;LogicalConnectors;1
 F31.txt;are;FunctionWords;8
 F31.txt;bad;EconomicOperands;12
@@ -164,67 +140,38 @@ F31.txt;ecb;EconomicOperands;4
 F31.txt;fee;EconomicOperands;4
 F31.txt;for;FunctionWords;8
 F31.txt;key;EconomicOperands;9
-F31.txt;non;LogicalConnectors;24
+F31.txt;non;LogicalConnectors;15
 F31.txt;not;LogicalConnectors;7
-F31.txt;out;EconomicOperands;6
 F31.txt;sum;EconomicOperands;1
 F31.txt;tax;EconomicOperands;1
 F31.txt;the;FunctionWords;43
-F31.txt;10;Attributes;1
-F31.txt;11;LegalReferences;5
-F31.txt;13;LegalReferences;6
-F31.txt;17;LegalReferences;15
+F31.txt;11;LegalReferences;1
 F31.txt;19;LegalReferences;1
-F31.txt;23;Attributes;7
+F31.txt;23;Attributes;1
 F31.txt;24;LegalReferences;1
 F31.txt;27;LegalReferences;6
-F31.txt;28;LegalReferences;8
-F31.txt;29;LegalReferences;34
 F31.txt;31;Attributes;3
+F31.txt;50;Attributes;1
 F31.txt;51;LegalReferences;1
 F31.txt;53;LegalReferences;1
-F31.txt;aa;LegalReferences;11
-F31.txt;ab;Other;10
-F31.txt;an;FunctionWords;73
-F31.txt;as;LogicalConnectors;87
-F31.txt;at;FunctionWords;8
-F31.txt;be;FunctionWords;6
+F31.txt;as;LogicalConnectors;9
+F31.txt;at;FunctionWords;2
+F31.txt;be;FunctionWords;5
 F31.txt;by;FunctionWords;5
-F31.txt;if;LogicalConnectors;9
-F31.txt;ii;LegalReferences;1
-F31.txt;in;FunctionWords;17
-F31.txt;is;FunctionWords;3
-F31.txt;it;EconomicOperands;14
-F31.txt;le;MathematicalOperators;5
-F31.txt;no;LogicalConnectors;3
-F31.txt;of;FunctionWords;64
+F31.txt;in;FunctionWords;11
+F31.txt;is;FunctionWords;2
+F31.txt;of;FunctionWords;63
 F31.txt;on;FunctionWords;21
 F31.txt;or;LogicalConnectors;39
 F31.txt;to;FunctionWords;10
-F31.txt;tr;EconomicOperands;3
-F31.txt;1;Attributes;30
-F31.txt;2;Attributes;14
-F31.txt;3;Attributes;11
-F31.txt;5;Attributes;2
-F31.txt;6;Attributes;2
-F31.txt;7;Attributes;11
-F31.txt;8;Attributes;4
-F31.txt;9;Attributes;20
-F31.txt;a;FunctionWords;57
-F31.txt;b;LegalReferences;16
-F31.txt;c;LegalReferences;31
-F31.txt;d;LegalReferences;19
-F31.txt;e;LegalReferences;155
+F31.txt;2;Attributes;5
+F31.txt;5;Attributes;1
+F31.txt;a;FunctionWords;25
+F31.txt;b;LegalReferences;20
+F31.txt;c;LegalReferences;15
+F31.txt;d;LegalReferences;12
+F31.txt;e;LegalReferences;9
 F31.txt;f;LegalReferences;9
-F31.txt;i;FunctionWords;99
-F31.txt;l;LegalReferences;26
-F31.txt;m;LegalReferences;9
-F31.txt;n;LegalReferences;123
-F31.txt;o;LegalReferences;7
-F31.txt;p;LegalReferences;33
-F31.txt;r;LegalReferences;50
-F31.txt;t;LegalReferences;36
-F31.txt;u;LegalReferences;5
-F31.txt;v;LegalReferences;91
-F31.txt;x;LegalReferences;88
-F31.txt;y;LegalReferences;6
+F31.txt;i;FunctionWords;3
+F31.txt;l;LegalReferences;6
+F31.txt;v;LegalReferences;81

@@ -15,16 +15,9 @@ import re
 # ENSURE THAT THIS METHOD IS THE SAME AS IN 13_STANDARDIZE_MASTER.PY
 def clean(value):
     value = value.replace("\n", "")
-
-    value = value.replace("'", "")
-    value = value.replace(".", "")
-    value = value.replace(",", "")
-    value = value.replace(";", "")
-    value = value.replace(":", "")
-    value = value.replace('"', '')
-    value = value.replace("`", "")
-    value = value.replace("$", "")
-
+    value = value.replace("\t", " ")
+    
+    value = value.replace("- ", "")
     value = value.replace("(", "")
     value = value.replace(")", "")
 
@@ -67,22 +60,23 @@ def do_run(input_dir, dict_file_name, output_dir):
         in_text = ""
         out_text = ""
 
-        # with open(base_directory + input_file_name, encoding="utf-8", errors='replace') as infile:
         try:
             input_file = open(input_dir + "/" + input_file_name, encoding='utf-8', errors='replace')
             out_file = open(output_dir + "/" + "cons-count_" + input_file_name.rstrip(".txt") + ".csv", 'w')
             residual_file = open(output_dir + "/" + "residual_cons-count_" + input_file_name.rstrip(".txt") + ".txt", 'w')
 
-            print("  <<< NOW WORKING ON: " + input_dir + input_file_name)
+            print("  <<< WORKING ON: " + input_dir + input_file_name)
 
             for line in input_file.readlines():
                 in_text += clean(line.strip())
 
             for key in sorted(dict, key=len, reverse=True):
-                _count = in_text.count(key)
+                pattern = r'\b' + re.escape(key) + r'[\s.,:;!?\'"`]*\b'
+                matches = re.findall(pattern, in_text)
+                _count = len(matches)
                 if _count > 0:
                     out_text += input_file_name + ";" + key + ";" + dict[key] + ";" + str(_count) + "\n"
-                    in_text = in_text.replace(key, "")
+                    in_text = re.sub(pattern, "", in_text)
 
             if False:
                 print(in_text)

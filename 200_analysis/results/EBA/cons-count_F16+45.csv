@@ -1,63 +1,53 @@
 F16+45.txt;information technology;EconomicOperands;4
-F16+45.txt;financial instrument;EconomicOperands;11
+F16+45.txt;financial instrument;EconomicOperands;7
 F16+45.txt;accounting standard;EconomicOperands;1
 F16+45.txt;for the purpose of;LogicalConnectors;1
 F16+45.txt;to the extent that;LogicalConnectors;1
 F16+45.txt;in accordance with;LogicalConnectors;10
 F16+45.txt;in the context of;FunctionWords;1
-F16+45.txt;foreign exchange;EconomicOperands;9
-F16+45.txt;service provider;EconomicOperands;1
+F16+45.txt;foreign exchange;EconomicOperands;8
 F16+45.txt;associated with;FunctionWords;1
 F16+45.txt;attributable to;FunctionWords;3
 F16+45.txt;compatible with;EconomicOperands;1
-F16+45.txt;financial asset;EconomicOperands;78
 F16+45.txt;in relation to;LogicalConnectors;1
 F16+45.txt;administrative;EconomicOperands;10
-F16+45.txt;classification;EconomicOperands;8
 F16+45.txt;infrastructure;EconomicOperands;1
 F16+45.txt;the amount of;MathematicalOperators;1
 F16+45.txt;to the extent;LogicalConnectors;1
 F16+45.txt;interest rate;EconomicOperands;15
-F16+45.txt;joint venture;EconomicOperands;4
 F16+45.txt;regardless of;LogicalConnectors;1
-F16+45.txt;communication;EconomicOperands;4
+F16+45.txt;communication;EconomicOperands;3
 F16+45.txt;comprehensive;EconomicOperands;3
 F16+45.txt;contributions;EconomicOperands;1
 F16+45.txt;derecognition;EconomicOperands;12
-F16+45.txt;effectiveness;EconomicOperands;4
-F16+45.txt;central bank;EconomicOperands;7
-F16+45.txt;paragraph 31;LegalReferences;2
 F16+45.txt;compensation;EconomicOperands;1
 F16+45.txt;counterparty;EconomicOperands;3
 F16+45.txt;institutions;EconomicOperands;7
+F16+45.txt;nonfinancial;EconomicOperands;1
 F16+45.txt;professional;EconomicOperands;3
 F16+45.txt;requirements;EconomicOperands;1
 F16+45.txt;respectively;LogicalConnectors;1
+F16+45.txt;standardised;EconomicOperands;1
 F16+45.txt;subsidiaries;EconomicOperands;2
 F16+45.txt;surveillance;EconomicOperands;1
 F16+45.txt;credit risk;EconomicOperands;21
-F16+45.txt;paragraph 2;LegalReferences;1
-F16+45.txt;paragraph 6;LegalReferences;1
-F16+45.txt;paragraph 8;LegalReferences;1
 F16+45.txt;referred to;FunctionWords;1
 F16+45.txt;accumulated;EconomicOperands;3
 F16+45.txt;adjustments;EconomicOperands;1
 F16+45.txt;advertising;EconomicOperands;4
 F16+45.txt;application;EconomicOperands;1
 F16+45.txt;commodities;EconomicOperands;4
-F16+45.txt;corporation;EconomicOperands;11
 F16+45.txt;derivatives;EconomicOperands;38
 F16+45.txt;designation;EconomicOperands;7
-F16+45.txt;discontinue;EconomicOperands;1
 F16+45.txt;electricity;EconomicOperands;1
 F16+45.txt;exclusively;LogicalConnectors;1
 F16+45.txt;governments;EconomicOperands;6
 F16+45.txt;institution;EconomicOperands;6
-F16+45.txt;instruments;EconomicOperands;27
+F16+45.txt;instruments;EconomicOperands;31
 F16+45.txt;investments;EconomicOperands;6
 F16+45.txt;liabilities;EconomicOperands;71
 F16+45.txt;maintenance;EconomicOperands;3
-F16+45.txt;measurement;EconomicOperands;3
+F16+45.txt;measurement;EconomicOperands;2
 F16+45.txt;operational;EconomicOperands;1
 F16+45.txt;proceedings;EconomicOperands;1
 F16+45.txt;recognition;EconomicOperands;3
@@ -76,7 +66,7 @@ F16+45.txt;considered;EconomicOperands;2
 F16+45.txt;consulting;EconomicOperands;3
 F16+45.txt;derivative;EconomicOperands;1
 F16+45.txt;designated;RegulatoryOperators;28
-F16+45.txt;difference;EconomicOperands;2
+F16+45.txt;difference;EconomicOperands;1
 F16+45.txt;impairment;EconomicOperands;17
 F16+45.txt;instrument;EconomicOperands;22
 F16+45.txt;investment;EconomicOperands;12
@@ -94,15 +84,12 @@ F16+45.txt;resolution;EconomicOperands;1
 F16+45.txt;securities;EconomicOperands;27
 F16+45.txt;separately;EconomicOperands;1
 F16+45.txt;short-term;EconomicOperands;1
-F16+45.txt;specialist;EconomicOperands;1
 F16+45.txt;subsequent;FunctionWords;1
 F16+45.txt;underlying;EconomicOperands;1
 F16+45.txt;according;LogicalConnectors;1
 F16+45.txt;allowance;EconomicOperands;1
-F16+45.txt;associate;EconomicOperands;4
-F16+45.txt;breakdown;EconomicOperands;13
+F16+45.txt;breakdown;EconomicOperands;11
 F16+45.txt;commodity;EconomicOperands;1
-F16+45.txt;component;EconomicOperands;1
 F16+45.txt;contracts;EconomicOperands;1
 F16+45.txt;converted;EconomicOperands;1
 F16+45.txt;delivered;EconomicOperands;1
@@ -111,19 +98,22 @@ F16+45.txt;directive;EconomicOperands;5
 F16+45.txt;documents;EconomicOperands;1
 F16+45.txt;effective;Other;6
 F16+45.txt;equipment;EconomicOperands;4
+F16+45.txt;exchanges;EconomicOperands;1
 F16+45.txt;excluding;LogicalConnectors;2
-F16+45.txt;financial;EconomicOperands;42
+F16+45.txt;financial;EconomicOperands;123
 F16+45.txt;following;FunctionWords;3
 F16+45.txt;guarantee;EconomicOperands;1
-F16+45.txt;household;EconomicOperands;4
 F16+45.txt;including;LogicalConnectors;11
 F16+45.txt;liability;EconomicOperands;1
 F16+45.txt;marketing;EconomicOperands;5
 F16+45.txt;operating;EconomicOperands;19
-F16+45.txt;portfolio;EconomicOperands;14
+F16+45.txt;paragraph;LegalReferences;5
+F16+45.txt;portfolio;EconomicOperands;11
 F16+45.txt;positions;EconomicOperands;5
+F16+45.txt;providers;EconomicOperands;1
 F16+45.txt;provision;EconomicOperands;1
 F16+45.txt;purchased;EconomicOperands;2
+F16+45.txt;recognise;EconomicOperands;1
 F16+45.txt;remaining;EconomicOperands;1
 F16+45.txt;reporting;EconomicOperands;1
 F16+45.txt;statement;EconomicOperands;7
@@ -131,7 +121,6 @@ F16+45.txt;transport;EconomicOperands;2
 F16+45.txt;treatment;EconomicOperands;1
 F16+45.txt;valuation;EconomicOperands;1
 F16+45.txt;based on;Other;23
-F16+45.txt;addition;MathematicalOperators;4
 F16+45.txt;advances;EconomicOperands;16
 F16+45.txt;appendix;EconomicOperands;10
 F16+45.txt;balances;EconomicOperands;1
@@ -143,7 +132,7 @@ F16+45.txt;currency;EconomicOperands;1
 F16+45.txt;deposits;EconomicOperands;14
 F16+45.txt;economic;EconomicOperands;8
 F16+45.txt;exchange;EconomicOperands;2
-F16+45.txt;expenses;EconomicOperands;78
+F16+45.txt;expenses;EconomicOperands;77
 F16+45.txt;exposure;EconomicOperands;1
 F16+45.txt;external;EconomicOperands;1
 F16+45.txt;generate;EconomicOperands;1
@@ -163,23 +152,24 @@ F16+45.txt;property;EconomicOperands;14
 F16+45.txt;provided;LogicalConnectors;1
 F16+45.txt;purchase;EconomicOperands;3
 F16+45.txt;purposes;EconomicOperands;6
+F16+45.txt;realised;EconomicOperands;7
 F16+45.txt;relevant;Attributes;1
 F16+45.txt;reported;EconomicOperands;20
-F16+45.txt;reversal;EconomicOperands;8
+F16+45.txt;reversal;EconomicOperands;4
 F16+45.txt;security;EconomicOperands;1
 F16+45.txt;selected;EconomicOperands;7
 F16+45.txt;separate;EconomicOperands;1
 F16+45.txt;services;EconomicOperands;10
 F16+45.txt;software;EconomicOperands;1
 F16+45.txt;specific;FunctionWords;1
-F16+45.txt;standard;EconomicOperands;1
-F16+45.txt;tangible;EconomicOperands;9
+F16+45.txt;tangible;EconomicOperands;4
 F16+45.txt;that is;LogicalConnectors;3
 F16+45.txt;account;EconomicOperands;1
 F16+45.txt;amounts;EconomicOperands;1
 F16+45.txt;arising;EconomicOperands;1
 F16+45.txt;because;LogicalConnectors;2
 F16+45.txt;between;FunctionWords;2
+F16+45.txt;central;EconomicOperands;7
 F16+45.txt;changes;EconomicOperands;13
 F16+45.txt;control;EconomicOperands;1
 F16+45.txt;correct;EconomicOperands;1
@@ -187,39 +177,34 @@ F16+45.txt;covered;EconomicOperands;4
 F16+45.txt;current;FunctionWords;32
 F16+45.txt;deliver;EconomicOperands;1
 F16+45.txt;deposit;EconomicOperands;1
-F16+45.txt;element;EconomicOperands;1
 F16+45.txt;expense;EconomicOperands;4
 F16+45.txt;finance;EconomicOperands;1
-F16+45.txt;foreign;EconomicOperands;5
+F16+45.txt;foreign;EconomicOperands;6
 F16+45.txt;further;LogicalConnectors;1
 F16+45.txt;general;FunctionWords;6
 F16+45.txt;hedging;EconomicOperands;14
-F16+45.txt;holding;EconomicOperands;1
 F16+45.txt;improve;EconomicOperands;1
 F16+45.txt;include;EconomicOperands;18
 F16+45.txt;issuers;EconomicOperands;1
 F16+45.txt;leasing;EconomicOperands;5
 F16+45.txt;lending;EconomicOperands;3
-F16+45.txt;outcome;EconomicOperands;1
 F16+45.txt;payroll;EconomicOperands;1
-F16+45.txt;portion;EconomicOperands;1
-F16+45.txt;process;EconomicOperands;1
 F16+45.txt;qualify;EconomicOperands;1
 F16+45.txt;reflect;EconomicOperands;2
 F16+45.txt;related;FunctionWords;28
 F16+45.txt;respect;Other;1
+F16+45.txt;service;EconomicOperands;1
 F16+45.txt;systems;EconomicOperands;1
 F16+45.txt;through;FunctionWords;42
-F16+45.txt;trading;EconomicOperands;58
+F16+45.txt;trading;EconomicOperands;56
 F16+45.txt;utility;EconomicOperands;1
 F16+45.txt;various;FunctionWords;1
+F16+45.txt;as for;LogicalConnectors;1
 F16+45.txt;due to;LogicalConnectors;16
-F16+45.txt;part i;LegalReferences;8
-F16+45.txt;such a;LogicalConnectors;5
 F16+45.txt;advice;EconomicOperands;1
 F16+45.txt;agency;EconomicOperands;1
 F16+45.txt;amount;EconomicOperands;4
-F16+45.txt;assets;EconomicOperands;27
+F16+45.txt;assets;EconomicOperands;105
 F16+45.txt;cannot;RegulatoryOperators;1
 F16+45.txt;change;EconomicOperands;2
 F16+45.txt;chosen;EconomicOperands;1
@@ -228,13 +213,11 @@ F16+45.txt;credit;EconomicOperands;19
 F16+45.txt;demand;EconomicOperands;1
 F16+45.txt;direct;EconomicOperands;2
 F16+45.txt;duties;EconomicOperands;7
-F16+45.txt;enable;EconomicOperands;1
 F16+45.txt;equity;EconomicOperands;15
 F16+45.txt;estate;EconomicOperands;4
 F16+45.txt;events;EconomicOperands;2
 F16+45.txt;except;LogicalConnectors;2
 F16+45.txt;expert;EconomicOperands;1
-F16+45.txt;impair;EconomicOperands;6
 F16+45.txt;income;EconomicOperands;49
 F16+45.txt;intent;EconomicOperands;1
 F16+45.txt;issued;EconomicOperands;13
@@ -245,19 +228,14 @@ F16+45.txt;lessor;EconomicOperands;2
 F16+45.txt;losses;EconomicOperands;90
 F16+45.txt;manage;EconomicOperands;3
 F16+45.txt;market;EconomicOperands;2
-F16+45.txt;method;EconomicOperands;2
+F16+45.txt;method;EconomicOperands;1
 F16+45.txt;online;EconomicOperands;1
 F16+45.txt;option;EconomicOperands;3
 F16+45.txt;period;EconomicOperands;35
 F16+45.txt;profit;EconomicOperands;52
-F16+45.txt;proper;EconomicOperands;2
 F16+45.txt;purely;Other;1
 F16+45.txt;rental;EconomicOperands;1
-F16+45.txt;repair;EconomicOperands;1
 F16+45.txt;report;EconomicOperands;1
-F16+45.txt;result;EconomicOperands;2
-F16+45.txt;return;EconomicOperands;1
-F16+45.txt;scheme;EconomicOperands;1
 F16+45.txt;sector;EconomicOperands;3
 F16+45.txt;taking;EconomicOperands;1
 F16+45.txt;useful;EconomicOperands;1
@@ -266,19 +244,19 @@ F16+45.txt;after;LogicalConnectors;3
 F16+45.txt;among;FunctionWords;2
 F16+45.txt;apply;Other;2
 F16+45.txt;asset;EconomicOperands;2
+F16+45.txt;banks;EconomicOperands;7
 F16+45.txt;based;Other;1
 F16+45.txt;costs;EconomicOperands;4
-F16+45.txt;count;EconomicOperands;1
 F16+45.txt;funds;EconomicOperands;1
 F16+45.txt;group;EconomicOperands;1
-F16+45.txt;hedge;EconomicOperands;41
+F16+45.txt;hedge;EconomicOperands;18
 F16+45.txt;house;EconomicOperands;3
-F16+45.txt;large;EconomicOperands;1
+F16+45.txt;joint;EconomicOperands;4
 F16+45.txt;lease;EconomicOperands;3
 F16+45.txt;legal;EconomicOperands;1
 F16+45.txt;loans;EconomicOperands;16
 F16+45.txt;lower;EconomicOperands;1
-F16+45.txt;metal;EconomicOperands;2
+F16+45.txt;metal;EconomicOperands;1
 F16+45.txt;minus;MathematicalOperators;3
 F16+45.txt;model;EconomicOperands;3
 F16+45.txt;money;EconomicOperands;1
@@ -287,22 +265,21 @@ F16+45.txt;point;EconomicOperands;1
 F16+45.txt;price;EconomicOperands;2
 F16+45.txt;rules;EconomicOperands;1
 F16+45.txt;shall;RegulatoryOperators;69
-F16+45.txt;share;EconomicOperands;1
 F16+45.txt;short;EconomicOperands;4
 F16+45.txt;since;LogicalConnectors;1
 F16+45.txt;staff;EconomicOperands;4
-F16+45.txt;stage;EconomicOperands;1
 F16+45.txt;taken;Other;1
 F16+45.txt;taxes;EconomicOperands;9
 F16+45.txt;those;FunctionWords;6
-F16+45.txt;total;MathematicalOperators;2
+F16+45.txt;total;MathematicalOperators;1
 F16+45.txt;under;FunctionWords;11
 F16+45.txt;using;EconomicOperands;3
 F16+45.txt;value;EconomicOperands;71
 F16+45.txt;water;EconomicOperands;1
-F16+45.txt;where;LogicalConnectors;12
+F16+45.txt;where;LogicalConnectors;11
 F16+45.txt;which;FunctionWords;33
 F16+45.txt;would;FunctionWords;1
+F16+45.txt;10 a;Other;2
 F16+45.txt;also;LogicalConnectors;3
 F16+45.txt;bank;EconomicOperands;1
 F16+45.txt;been;FunctionWords;1
@@ -318,37 +295,27 @@ F16+45.txt;fees;EconomicOperands;2
 F16+45.txt;flow;EconomicOperands;3
 F16+45.txt;from;FunctionWords;26
 F16+45.txt;full;EconomicOperands;1
-F16+45.txt;gain;EconomicOperands;92
+F16+45.txt;gain;EconomicOperands;2
 F16+45.txt;gold;EconomicOperands;4
-F16+45.txt;good;EconomicOperands;3
 F16+45.txt;held;EconomicOperands;20
-F16+45.txt;hire;EconomicOperands;1
 F16+45.txt;into;FunctionWords;4
-F16+45.txt;item;Other;28
+F16+45.txt;item;Other;14
 F16+45.txt;just;FunctionWords;1
-F16+45.txt;keep;EconomicOperands;1
-F16+45.txt;late;EconomicOperands;6
 F16+45.txt;life;EconomicOperands;1
 F16+45.txt;line;EconomicOperands;1
 F16+45.txt;link;EconomicOperands;1
-F16+45.txt;long;EconomicOperands;1
 F16+45.txt;loss;EconomicOperands;54
 F16+45.txt;made;FunctionWords;2
 F16+45.txt;main;EconomicOperands;2
-F16+45.txt;mean;Other;6
-F16+45.txt;note;EconomicOperands;2
+F16+45.txt;mean;Other;5
 F16+45.txt;only;LogicalConnectors;3
 F16+45.txt;paid;EconomicOperands;1
-F16+45.txt;part;FunctionWords;287
-F16+45.txt;plan;EconomicOperands;4
-F16+45.txt;rate;EconomicOperands;1
-F16+45.txt;real;EconomicOperands;15
-F16+45.txt;rely;EconomicOperands;1
-F16+45.txt;rise;Other;2
+F16+45.txt;part;FunctionWords;295
+F16+45.txt;real;EconomicOperands;4
 F16+45.txt;risk;EconomicOperands;14
 F16+45.txt;sell;EconomicOperands;1
 F16+45.txt;spot;EconomicOperands;1
-F16+45.txt;such;FunctionWords;1
+F16+45.txt;such;FunctionWords;6
 F16+45.txt;than;FunctionWords;9
 F16+45.txt;that;FunctionWords;10
 F16+45.txt;them;FunctionWords;1
@@ -359,134 +326,74 @@ F16+45.txt;type;EconomicOperands;8
 F16+45.txt;upon;EconomicOperands;4
 F16+45.txt;used;EconomicOperands;6
 F16+45.txt;view;EconomicOperands;1
-F16+45.txt;viii;LegalReferences;4
 F16+45.txt;were;FunctionWords;1
-F16+45.txt;will;FunctionWords;2
 F16+45.txt;with;FunctionWords;19
-F16+45.txt;1 a;Other;3
-F16+45.txt;2 a;Other;2
-F16+45.txt;3 a;Other;17
-F16+45.txt;5 a;Other;4
-F16+45.txt;6 a;Other;5
-F16+45.txt;8 a;Other;1
-F16+45.txt;9 a;Other;12
-F16+45.txt;1 b;Other;4
-F16+45.txt;4 i;Other;3
-F16+45.txt;5 i;Other;1
-F16+45.txt;6 f;Other;1
-F16+45.txt;a 1;Other;3
-F16+45.txt;a 4;Other;2
-F16+45.txt;a 6;Other;4
-F16+45.txt;115;LegalReferences;2
 F16+45.txt;201;LegalReferences;1
 F16+45.txt;202;LegalReferences;1
 F16+45.txt;203;LegalReferences;1
-F16+45.txt;204;LegalReferences;3
+F16+45.txt;204;LegalReferences;1
+F16+45.txt;205;LegalReferences;1
 F16+45.txt;206;LegalReferences;1
-F16+45.txt;208;LegalReferences;46
-F16+45.txt;220;LegalReferences;1
+F16+45.txt;208;LegalReferences;1
+F16+45.txt;215;LegalReferences;1
 F16+45.txt;312;LegalReferences;1
 F16+45.txt;313;LegalReferences;1
 F16+45.txt;314;LegalReferences;1
 F16+45.txt;315;LegalReferences;1
-F16+45.txt;724;LegalReferences;18
-F16+45.txt;age;EconomicOperands;1
-F16+45.txt;all;LogicalConnectors;5
-F16+45.txt;and;LogicalConnectors;210
-F16+45.txt;are;FunctionWords;8
+F16+45.txt;all;LogicalConnectors;6
+F16+45.txt;and;LogicalConnectors;203
+F16+45.txt;are;FunctionWords;7
 F16+45.txt;bad;EconomicOperands;37
 F16+45.txt;but;LogicalConnectors;2
 F16+45.txt;ecb;EconomicOperands;17
 F16+45.txt;for;FunctionWords;44
 F16+45.txt;get;EconomicOperands;1
-F16+45.txt;iii;LegalReferences;4
-F16+45.txt;log;EconomicOperands;1
 F16+45.txt;low;EconomicOperands;1
 F16+45.txt;net;EconomicOperands;33
-F16+45.txt;non;LogicalConnectors;26
+F16+45.txt;non;LogicalConnectors;23
 F16+45.txt;not;LogicalConnectors;23
-F16+45.txt;our;FunctionWords;5
-F16+45.txt;out;EconomicOperands;20
+F16+45.txt;out;EconomicOperands;2
 F16+45.txt;own;FunctionWords;3
-F16+45.txt;pre;EconomicOperands;1
-F16+45.txt;siv;EconomicOperands;1
-F16+45.txt;sum;EconomicOperands;3
 F16+45.txt;the;FunctionWords;131
 F16+45.txt;use;EconomicOperands;5
-F16+45.txt;vii;LegalReferences;4
-F16+45.txt;10;Attributes;4
-F16+45.txt;12;Attributes;2
-F16+45.txt;13;LegalReferences;4
-F16+45.txt;15;Attributes;2
-F16+45.txt;16;LegalReferences;6
-F16+45.txt;18;LegalReferences;8
-F16+45.txt;19;LegalReferences;28
-F16+45.txt;20;Attributes;3
-F16+45.txt;24;LegalReferences;5
-F16+45.txt;25;Attributes;1
+F16+45.txt;14;LegalReferences;1
+F16+45.txt;15;Attributes;1
+F16+45.txt;16;LegalReferences;3
 F16+45.txt;27;LegalReferences;13
 F16+45.txt;29;LegalReferences;1
-F16+45.txt;31;Attributes;1
 F16+45.txt;36;LegalReferences;2
-F16+45.txt;41;LegalReferences;10
+F16+45.txt;41;LegalReferences;13
 F16+45.txt;43;LegalReferences;2
-F16+45.txt;44;LegalReferences;6
-F16+45.txt;45;Attributes;2
-F16+45.txt;aa;LegalReferences;50
-F16+45.txt;ab;Other;4
-F16+45.txt;an;FunctionWords;256
-F16+45.txt;as;LogicalConnectors;61
-F16+45.txt;at;FunctionWords;97
-F16+45.txt;be;FunctionWords;41
+F16+45.txt;45;Attributes;3
+F16+45.txt;49;LegalReferences;2
+F16+45.txt;an;FunctionWords;3
+F16+45.txt;as;LogicalConnectors;17
+F16+45.txt;at;FunctionWords;58
+F16+45.txt;be;FunctionWords;40
 F16+45.txt;by;FunctionWords;36
 F16+45.txt;do;FunctionWords;1
-F16+45.txt;ec;EconomicOperands;4
-F16+45.txt;go;FunctionWords;1
-F16+45.txt;ha;Other;1
-F16+45.txt;he;FunctionWords;3
-F16+45.txt;if;LogicalConnectors;97
-F16+45.txt;ii;LegalReferences;16
-F16+45.txt;in;FunctionWords;73
-F16+45.txt;is;FunctionWords;34
-F16+45.txt;it;EconomicOperands;19
-F16+45.txt;iv;LegalReferences;10
-F16+45.txt;ix;LegalReferences;4
-F16+45.txt;le;MathematicalOperators;26
-F16+45.txt;of;FunctionWords;159
-F16+45.txt;on;FunctionWords;106
-F16+45.txt;or;LogicalConnectors;158
-F16+45.txt;pe;EconomicOperands;1
-F16+45.txt;so;LogicalConnectors;1
+F16+45.txt;ii;LegalReferences;4
+F16+45.txt;in;FunctionWords;52
+F16+45.txt;is;FunctionWords;5
+F16+45.txt;it;EconomicOperands;13
+F16+45.txt;of;FunctionWords;156
+F16+45.txt;on;FunctionWords;90
+F16+45.txt;or;LogicalConnectors;139
 F16+45.txt;to;FunctionWords;26
-F16+45.txt;tr;EconomicOperands;2
-F16+45.txt;vi;EconomicOperands;16
-F16+45.txt;1;Attributes;10
-F16+45.txt;2;Attributes;55
-F16+45.txt;3;Attributes;26
-F16+45.txt;4;Attributes;15
-F16+45.txt;5;Attributes;5
-F16+45.txt;6;Attributes;18
-F16+45.txt;7;Attributes;27
-F16+45.txt;8;Attributes;19
-F16+45.txt;9;Attributes;33
-F16+45.txt;a;FunctionWords;132
-F16+45.txt;b;LegalReferences;89
-F16+45.txt;c;LegalReferences;91
-F16+45.txt;d;LegalReferences;79
-F16+45.txt;e;LegalReferences;429
-F16+45.txt;f;LegalReferences;16
-F16+45.txt;h;LegalReferences;2
-F16+45.txt;i;FunctionWords;141
-F16+45.txt;k;LegalReferences;11
-F16+45.txt;l;LegalReferences;57
-F16+45.txt;m;LegalReferences;61
-F16+45.txt;n;LegalReferences;376
-F16+45.txt;o;LegalReferences;51
-F16+45.txt;p;LegalReferences;82
-F16+45.txt;q;LegalReferences;1
-F16+45.txt;r;LegalReferences;175
-F16+45.txt;t;LegalReferences;70
-F16+45.txt;u;LegalReferences;14
-F16+45.txt;v;LegalReferences;294
-F16+45.txt;x;LegalReferences;291
-F16+45.txt;y;LegalReferences;20
+F16+45.txt;vi;EconomicOperands;2
+F16+45.txt;1;Attributes;7
+F16+45.txt;2;Attributes;59
+F16+45.txt;3;Attributes;2
+F16+45.txt;5;Attributes;4
+F16+45.txt;6;Attributes;8
+F16+45.txt;7;Attributes;18
+F16+45.txt;9;Attributes;8
+F16+45.txt;a;FunctionWords;50
+F16+45.txt;b;LegalReferences;21
+F16+45.txt;c;LegalReferences;12
+F16+45.txt;d;LegalReferences;17
+F16+45.txt;e;LegalReferences;13
+F16+45.txt;f;LegalReferences;12
+F16+45.txt;i;FunctionWords;2
+F16+45.txt;l;LegalReferences;16
+F16+45.txt;v;LegalReferences;268

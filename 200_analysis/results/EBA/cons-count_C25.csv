@@ -4,6 +4,7 @@ C25.txt;counterparties;EconomicOperands;6
 C25.txt;counterparty;EconomicOperands;2
 C25.txt;institutions;EconomicOperands;2
 C25.txt;requirements;EconomicOperands;4
+C25.txt;standardised;EconomicOperands;4
 C25.txt;transactions;EconomicOperands;2
 C25.txt;credit risk;EconomicOperands;2
 C25.txt;application;EconomicOperands;1
@@ -11,7 +12,6 @@ C25.txt;calculation;EconomicOperands;2
 C25.txt;contracting;EconomicOperands;1
 C25.txt;derivatives;EconomicOperands;8
 C25.txt;information;EconomicOperands;2
-C25.txt;instruction;EconomicOperands;4
 C25.txt;subject to;LogicalConnectors;2
 C25.txt;accounting;EconomicOperands;1
 C25.txt;adjustment;EconomicOperands;2
@@ -29,18 +29,16 @@ C25.txt;positions;EconomicOperands;1
 C25.txt;valuation;EconomicOperands;1
 C25.txt;based on;Other;4
 C25.txt;advanced;EconomicOperands;4
-C25.txt;decrease;MathematicalOperators;1
 C25.txt;directly;Attributes;1
 C25.txt;exposure;EconomicOperands;6
 C25.txt;included;EconomicOperands;1
 C25.txt;incurred;EconomicOperands;2
 C25.txt;internal;EconomicOperands;1
-C25.txt;notional;EconomicOperands;3
+C25.txt;notional;EconomicOperands;2
 C25.txt;obligors;EconomicOperands;1
 C25.txt;previous;LogicalConnectors;6
 C25.txt;required;RegulatoryOperators;2
 C25.txt;specific;FunctionWords;1
-C25.txt;standard;EconomicOperands;4
 C25.txt;in case;LogicalConnectors;1
 C25.txt;amounts;EconomicOperands;3
 C25.txt;article;EconomicOperands;16
@@ -59,11 +57,9 @@ C25.txt;market;EconomicOperands;2
 C25.txt;method;EconomicOperands;9
 C25.txt;models;EconomicOperands;1
 C25.txt;number;EconomicOperands;4
-C25.txt;served;EconomicOperands;1
 C25.txt;single;EconomicOperands;3
 C25.txt;solely;LogicalConnectors;2
 C25.txt;spread;EconomicOperands;3
-C25.txt;stress;EconomicOperands;1
 C25.txt;exist;EconomicOperands;1
 C25.txt;funds;EconomicOperands;5
 C25.txt;hedge;EconomicOperands;3
@@ -80,7 +76,6 @@ C25.txt;which;FunctionWords;6
 C25.txt;data;EconomicOperands;1
 C25.txt;days;Attributes;4
 C25.txt;from;FunctionWords;3
-C25.txt;item;Other;2
 C25.txt;link;EconomicOperands;4
 C25.txt;name;EconomicOperands;3
 C25.txt;only;LogicalConnectors;1
@@ -89,60 +84,32 @@ C25.txt;risk;EconomicOperands;15
 C25.txt;same;FunctionWords;2
 C25.txt;they;FunctionWords;2
 C25.txt;used;EconomicOperands;4
-C25.txt;2 c;Other;3
-C25.txt;3 c;Other;3
-C25.txt;4 c;Other;2
-C25.txt;5 c;Other;1
 C25.txt;all;LogicalConnectors;1
 C25.txt;and;LogicalConnectors;2
 C25.txt;are;FunctionWords;2
 C25.txt;day;EconomicOperands;2
-C25.txt;ead;EconomicOperands;2
+C25.txt;ead;EconomicOperands;1
 C25.txt;for;FunctionWords;8
 C25.txt;not;LogicalConnectors;2
 C25.txt;own;FunctionWords;5
-C25.txt;set;Other;3
+C25.txt;set;Other;2
 C25.txt;sum;EconomicOperands;1
 C25.txt;the;FunctionWords;12
-C25.txt;tip;EconomicOperands;4
-C25.txt;var;EconomicOperands;11
+C25.txt;var;EconomicOperands;5
 C25.txt;via;FunctionWords;1
-C25.txt;10;Attributes;4
-C25.txt;21;LegalReferences;1
-C25.txt;27;LegalReferences;3
-C25.txt;31;Attributes;1
-C25.txt;36;LegalReferences;1
-C25.txt;38;LegalReferences;10
-C25.txt;40;LegalReferences;1
-C25.txt;50;Attributes;1
-C25.txt;60;Attributes;5
-C25.txt;as;LogicalConnectors;7
-C25.txt;at;FunctionWords;4
+C25.txt;60;Attributes;4
+C25.txt;as;LogicalConnectors;4
 C25.txt;by;FunctionWords;3
-C25.txt;in;FunctionWords;4
-C25.txt;is;FunctionWords;6
+C25.txt;in;FunctionWords;3
+C25.txt;is;FunctionWords;2
 C25.txt;of;FunctionWords;30
-C25.txt;on;FunctionWords;4
 C25.txt;or;LogicalConnectors;1
 C25.txt;to;FunctionWords;10
-C25.txt;1;Attributes;9
-C25.txt;2;Attributes;7
-C25.txt;6;Attributes;6
-C25.txt;7;Attributes;1
-C25.txt;9;Attributes;2
-C25.txt;a;FunctionWords;26
-C25.txt;b;LegalReferences;4
-C25.txt;c;LegalReferences;52
-C25.txt;d;LegalReferences;14
-C25.txt;e;LegalReferences;17
-C25.txt;f;LegalReferences;6
-C25.txt;i;FunctionWords;10
-C25.txt;l;LegalReferences;11
-C25.txt;m;LegalReferences;18
-C25.txt;n;LegalReferences;6
-C25.txt;o;LegalReferences;14
-C25.txt;r;LegalReferences;38
-C25.txt;t;LegalReferences;16
-C25.txt;u;LegalReferences;8
-C25.txt;v;LegalReferences;19
+C25.txt;1;Attributes;4
+C25.txt;a;FunctionWords;3
+C25.txt;b;LegalReferences;2
+C25.txt;c;LegalReferences;3
+C25.txt;d;LegalReferences;2
+C25.txt;m;LegalReferences;2
+C25.txt;t;LegalReferences;2
 C25.txt;x;LegalReferences;4
